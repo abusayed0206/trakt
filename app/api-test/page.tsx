@@ -199,7 +199,7 @@ export default function ApiTestPage() {
               </div>
             )}
 
-            {response && !loading && (
+            {response !== null && !loading && (
               <div className="bg-gray-100 rounded p-4 max-h-96 overflow-auto">
                 <pre className="text-sm text-gray-800 whitespace-pre-wrap">
                   {typeof response === 'string'
