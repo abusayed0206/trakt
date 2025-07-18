@@ -3,6 +3,8 @@ import { readFileSync, existsSync } from 'fs';
 import { join } from 'path';
 import ImageIndexManager from '@/lib/imageIndex';
 
+export const runtime = 'edge';
+
 export async function GET(request: NextRequest) {
   try {
     const { searchParams } = new URL(request.url);

@@ -1,6 +1,8 @@
 import { NextResponse } from 'next/server';
 import ImageIndexManager from '@/lib/imageIndex';
 
+export const runtime = 'edge';
+
 export async function POST() {
   try {
     const imageManager = ImageIndexManager.getInstance();
