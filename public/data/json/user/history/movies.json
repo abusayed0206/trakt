@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T08:29:02.913631+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/history/movies.json",
+    "count": 10
+  },
+  "data": [
+    {
+      "id": 11016898510,
+      "watched_at": "2025-07-05T14:31:24.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "year": 2008,
+        "ids": {
+          "trakt": 176,
+          "slug": "indiana-jones-and-the-kingdom-of-the-crystal-skull-2008",
+          "imdb": "tt0367882",
+          "tmdb": 217
+        }
+      }
+    },
+    {
+      "id": 11016224053,
+      "watched_at": "2025-07-05T08:22:29.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 1989,
+        "ids": {
+          "trakt": 58,
+          "slug": "indiana-jones-and-the-last-crusade-1989",
+          "imdb": "tt0097576",
+          "tmdb": 89
+        }
+      }
+    },
+    {
+      "id": 11016012101,
+      "watched_at": "2025-07-05T06:04:47.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Indiana Jones and the Temple of Doom",
+        "year": 1984,
+        "ids": {
+          "trakt": 56,
+          "slug": "indiana-jones-and-the-temple-of-doom-1984",
+          "imdb": "tt0087469",
+          "tmdb": 87
+        }
+      }
+    },
+    {
+      "id": 10841549202,
+      "watched_at": "2025-05-08T09:08:30.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Hot Fuzz",
+        "year": 2007,
+        "ids": {
+          "trakt": 2724,
+          "slug": "hot-fuzz-2007",
+          "imdb": "tt0425112",
+          "tmdb": 4638
+        }
+      }
+    },
+    {
+      "id": 10832253678,
+      "watched_at": "2025-05-05T08:35:30.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Children of Men",
+        "year": 2006,
+        "ids": {
+          "trakt": 4965,
+          "slug": "children-of-men-2006",
+          "imdb": "tt0206634",
+          "tmdb": 9693
+        }
+      }
+    },
+    {
+      "id": 10819872089,
+      "watched_at": "2025-05-01T19:32:53.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Total Recall",
+        "year": 2012,
+        "ids": {
+          "trakt": 46685,
+          "slug": "total-recall-2012",
+          "imdb": "tt1386703",
+          "tmdb": 64635
+        }
+      }
+    },
+    {
+      "id": 10819690447,
+      "watched_at": "2025-05-01T18:09:07.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Run Lola Run",
+        "year": 1998,
+        "ids": {
+          "trakt": 73,
+          "slug": "run-lola-run-1998",
+          "imdb": "tt0130827",
+          "tmdb": 104
+        }
+      }
+    },
+    {
+      "id": 10816389691,
+      "watched_at": "2025-05-01T11:01:08.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Total Recall",
+        "year": 1990,
+        "ids": {
+          "trakt": 704,
+          "slug": "total-recall-1990",
+          "imdb": "tt0100802",
+          "tmdb": 861
+        }
+      }
+    },
+    {
+      "id": 10808721443,
+      "watched_at": "2025-04-29T16:56:10.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "The Game",
+        "year": 1997,
+        "ids": {
+          "trakt": 1789,
+          "slug": "the-game-1997",
+          "imdb": "tt0119174",
+          "tmdb": 2649
+        }
+      }
+    },
+    {
+      "id": 10808116424,
+      "watched_at": "2025-04-29T10:49:56.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Chaos",
+        "year": 2005,
+        "ids": {
+          "trakt": 3062,
+          "slug": "chaos-2005",
+          "imdb": "tt0402910",
+          "tmdb": 5289
+        }
+      }
+    }
+  ]
+}

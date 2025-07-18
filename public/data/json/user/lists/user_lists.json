@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T08:29:04.122431+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/lists/user_lists.json",
+    "count": 3
+  },
+  "data": [
+    {
+      "name": "Personal MDBList",
+      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/personal-mdblist\r\nUpdated at 2025-03-24 20:24:53",
+      "privacy": "public",
+      "share_link": "https://trakt.tv/lists/30436377",
+      "type": "personal",
+      "display_numbers": false,
+      "allow_comments": true,
+      "sort_by": "rank",
+      "sort_how": "asc",
+      "created_at": "2025-01-18T09:06:17.000Z",
+      "updated_at": "2025-03-26T06:43:15.000Z",
+      "item_count": 69,
+      "comment_count": 0,
+      "likes": 0,
+      "ids": {
+        "trakt": 30436377,
+        "slug": "personal-mdblist"
+      },
+      "user": {
+        "username": "lrs",
+        "private": false,
+        "deleted": false,
+        "name": "SAYED",
+        "vip": false,
+        "vip_ep": false,
+        "director": false,
+        "ids": {
+          "slug": "lrs"
+        }
+      }
+    },
+    {
+      "name": "Series Watchlist for 2025",
+      "description": "I planned to watch these shows in 2025. some of them are planned for 2024 and moved to 2025.",
+      "privacy": "public",
+      "share_link": "https://trakt.tv/lists/26841041",
+      "type": "personal",
+      "display_numbers": true,
+      "allow_comments": true,
+      "sort_by": "popularity",
+      "sort_how": "desc",
+      "created_at": "2024-01-18T16:02:04.000Z",
+      "updated_at": "2025-07-10T08:59:30.000Z",
+      "item_count": 51,
+      "comment_count": 0,
+      "likes": 0,
+      "ids": {
+        "trakt": 26841041,
+        "slug": "series-watchlist-for-2025"
+      },
+      "user": {
+        "username": "lrs",
+        "private": false,
+        "deleted": false,
+        "name": "SAYED",
+        "vip": false,
+        "vip_ep": false,
+        "director": false,
+        "ids": {
+          "slug": "lrs"
+        }
+      }
+    },
+    {
+      "name": "Anticipated Movies",
+      "description": "Just a list for anticipated movies and using it with radarr.",
+      "privacy": "public",
+      "share_link": "https://trakt.tv/lists/30670410",
+      "type": "personal",
+      "display_numbers": true,
+      "allow_comments": true,
+      "sort_by": "popularity",
+      "sort_how": "desc",
+      "created_at": "2025-02-15T16:47:16.000Z",
+      "updated_at": "2025-05-01T10:50:08.000Z",
+      "item_count": 17,
+      "comment_count": 0,
+      "likes": 0,
+      "ids": {
+        "trakt": 30670410,
+        "slug": "anticipated-movies"
+      },
+      "user": {
+        "username": "lrs",
+        "private": false,
+        "deleted": false,
+        "name": "SAYED",
+        "vip": false,
+        "vip_ep": false,
+        "director": false,
+        "ids": {
+          "slug": "lrs"
+        }
+      }
+    }
+  ]
+}

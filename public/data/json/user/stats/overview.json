@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T08:29:02.845215+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/stats/overview.json",
+    "count": 1
+  },
+  "data": {
+    "movies": {
+      "plays": 749,
+      "watched": 730,
+      "minutes": 93059,
+      "collected": 0,
+      "ratings": 10,
+      "comments": 0
+    },
+    "shows": {
+      "watched": 132,
+      "collected": 0,
+      "ratings": 0,
+      "comments": 0
+    },
+    "seasons": {
+      "ratings": 0,
+      "comments": 0
+    },
+    "episodes": {
+      "plays": 4512,
+      "watched": 3971,
+      "minutes": 215444,
+      "collected": 0,
+      "ratings": 1,
+      "comments": 0
+    },
+    "network": {
+      "friends": 1,
+      "followers": 8,
+      "following": 12
+    },
+    "ratings": {
+      "total": 11,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2,
+        "6": 0,
+        "7": 1,
+        "8": 2,
+        "9": 2,
+        "10": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T08:29:04.986936+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "genres/movies.json",
+    "count": 27
+  },
+  "data": [
+    {
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "name": "Animation",
+      "slug": "animation"
+    },
+    {
+      "name": "Anime",
+      "slug": "anime"
+    },
+    {
+      "name": "Comedy",
+      "slug": "comedy"
+    },
+    {
+      "name": "Crime",
+      "slug": "crime"
+    },
+    {
+      "name": "Documentary",
+      "slug": "documentary"
+    },
+    {
+      "name": "Donghua",
+      "slug": "donghua"
+    },
+    {
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "name": "Family",
+      "slug": "family"
+    },
+    {
+      "name": "Fantasy",
+      "slug": "fantasy"
+    },
+    {
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "name": "Holiday",
+      "slug": "holiday"
+    },
+    {
+      "name": "Horror",
+      "slug": "horror"
+    },
+    {
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "name": "Musical",
+      "slug": "musical"
+    },
+    {
+      "name": "Mystery",
+      "slug": "mystery"
+    },
+    {
+      "name": "None",
+      "slug": "none"
+    },
+    {
+      "name": "Romance",
+      "slug": "romance"
+    },
+    {
+      "name": "Science Fiction",
+      "slug": "science-fiction"
+    },
+    {
+      "name": "Short",
+      "slug": "short"
+    },
+    {
+      "name": "Sporting Event",
+      "slug": "sporting-event"
+    },
+    {
+      "name": "Superhero",
+      "slug": "superhero"
+    },
+    {
+      "name": "Suspense",
+      "slug": "suspense"
+    },
+    {
+      "name": "Thriller",
+      "slug": "thriller"
+    },
+    {
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "name": "Western",
+      "slug": "western"
+    }
+  ]
+}

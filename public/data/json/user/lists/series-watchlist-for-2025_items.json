@@ -1,0 +1,1031 @@
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T08:29:04.734552+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/lists/series-watchlist-for-2025_items.json",
+    "count": 51
+  },
+  "data": [
+    {
+      "rank": 28,
+      "id": 1153031309,
+      "listed_at": "2025-01-08T18:22:39.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Walking Dead",
+        "year": 2010,
+        "ids": {
+          "trakt": 1393,
+          "slug": "the-walking-dead",
+          "tvdb": 153021,
+          "imdb": "tt1520211",
+          "tmdb": 1402,
+          "tvrage": null
+        },
+        "aired_episodes": 177
+      }
+    },
+    {
+      "rank": 20,
+      "id": 1153031269,
+      "listed_at": "2025-01-08T18:19:06.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Friends",
+        "year": 1994,
+        "ids": {
+          "trakt": 1657,
+          "slug": "friends",
+          "tvdb": 79168,
+          "imdb": "tt0108778",
+          "tmdb": 1668,
+          "tvrage": null
+        },
+        "aired_episodes": 229
+      }
+    },
+    {
+      "rank": 41,
+      "id": 1153032156,
+      "listed_at": "2025-01-08T18:25:36.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Lost",
+        "year": 2004,
+        "ids": {
+          "trakt": 4583,
+          "slug": "lost-2004",
+          "tvdb": 73739,
+          "imdb": "tt0411008",
+          "tmdb": 4607,
+          "tvrage": null
+        },
+        "aired_episodes": 118
+      }
+    },
+    {
+      "rank": 44,
+      "id": 1153032159,
+      "listed_at": "2025-01-08T18:25:38.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Office",
+        "year": 2005,
+        "ids": {
+          "trakt": 2302,
+          "slug": "the-office",
+          "tvdb": 73244,
+          "imdb": "tt0386676",
+          "tmdb": 2316,
+          "tvrage": null
+        },
+        "aired_episodes": 186
+      }
+    },
+    {
+      "rank": 1,
+      "id": 1118270166,
+      "listed_at": "2024-11-11T17:12:57.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Brooklyn Nine-Nine",
+        "year": 2013,
+        "ids": {
+          "trakt": 48587,
+          "slug": "brooklyn-nine-nine",
+          "tvdb": 269586,
+          "imdb": "tt2467372",
+          "tmdb": 48891,
+          "tvrage": null
+        },
+        "aired_episodes": 152
+      }
+    },
+    {
+      "rank": 2,
+      "id": 1126580873,
+      "listed_at": "2024-11-24T14:36:46.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Suits",
+        "year": 2011,
+        "ids": {
+          "trakt": 37522,
+          "slug": "suits",
+          "tvdb": 247808,
+          "imdb": "tt1632701",
+          "tmdb": 37680,
+          "tvrage": null
+        },
+        "aired_episodes": 134
+      }
+    },
+    {
+      "rank": 38,
+      "id": 1153032013,
+      "listed_at": "2025-01-08T18:25:00.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        },
+        "aired_episodes": 73
+      }
+    },
+    {
+      "rank": 23,
+      "id": 1153031279,
+      "listed_at": "2025-01-08T18:20:42.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Witcher",
+        "year": 2019,
+        "ids": {
+          "trakt": 138163,
+          "slug": "the-witcher-2019",
+          "tvdb": 362696,
+          "imdb": "tt5180504",
+          "tmdb": 71912,
+          "tvrage": null
+        },
+        "aired_episodes": 24
+      }
+    },
+    {
+      "rank": 15,
+      "id": 1153031249,
+      "listed_at": "2025-01-08T18:17:10.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Marvel's Agents of S.H.I.E.L.D.",
+        "year": 2013,
+        "ids": {
+          "trakt": 1394,
+          "slug": "marvel-s-agents-of-s-h-i-e-l-d",
+          "tvdb": 263365,
+          "imdb": "tt2364582",
+          "tmdb": 1403,
+          "tvrage": null
+        },
+        "aired_episodes": 136
+      }
+    },
+    {
+      "rank": 33,
+      "id": 1153031516,
+      "listed_at": "2025-01-08T18:23:05.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Doctor Who",
+        "year": 2005,
+        "ids": {
+          "trakt": 56872,
+          "slug": "doctor-who-2005",
+          "tvdb": 78804,
+          "imdb": "tt0436992",
+          "tmdb": 57243,
+          "tvrage": null
+        },
+        "aired_episodes": 153
+      }
+    },
+    {
+      "rank": 31,
+      "id": 1153031436,
+      "listed_at": "2025-01-08T18:22:54.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Band of Brothers",
+        "year": 2001,
+        "ids": {
+          "trakt": 4589,
+          "slug": "band-of-brothers",
+          "tvdb": 74205,
+          "imdb": "tt0185906",
+          "tmdb": 4613,
+          "tvrage": null
+        },
+        "aired_episodes": 10
+      }
+    },
+    {
+      "rank": 24,
+      "id": 1153031282,
+      "listed_at": "2025-01-08T18:21:13.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Sopranos",
+        "year": 1999,
+        "ids": {
+          "trakt": 1389,
+          "slug": "the-sopranos",
+          "tvdb": 75299,
+          "imdb": "tt0141842",
+          "tmdb": 1398,
+          "tvrage": null
+        },
+        "aired_episodes": 86
+      }
+    },
+    {
+      "rank": 49,
+      "id": 1237230371,
+      "listed_at": "2025-05-26T15:50:16.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Fargo",
+        "year": 2014,
+        "ids": {
+          "trakt": 60203,
+          "slug": "fargo",
+          "tvdb": 269613,
+          "imdb": "tt2802850",
+          "tmdb": 60622,
+          "tvrage": null
+        },
+        "aired_episodes": 51
+      }
+    },
+    {
+      "rank": 16,
+      "id": 1153031251,
+      "listed_at": "2025-01-08T18:17:15.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Vampire Diaries",
+        "year": 2009,
+        "ids": {
+          "trakt": 18083,
+          "slug": "the-vampire-diaries",
+          "tvdb": 95491,
+          "imdb": "tt1405406",
+          "tmdb": 18165,
+          "tvrage": null
+        },
+        "aired_episodes": 171
+      }
+    },
+    {
+      "rank": 36,
+      "id": 1153031527,
+      "listed_at": "2025-01-08T18:23:08.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Grey's Anatomy",
+        "year": 2005,
+        "ids": {
+          "trakt": 1407,
+          "slug": "grey-s-anatomy",
+          "tvdb": 73762,
+          "imdb": "tt0413573",
+          "tmdb": 1416,
+          "tvrage": null
+        },
+        "aired_episodes": 447
+      }
+    },
+    {
+      "rank": 32,
+      "id": 1153031441,
+      "listed_at": "2025-01-08T18:22:58.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Battlestar Galactica",
+        "year": 2004,
+        "ids": {
+          "trakt": 1959,
+          "slug": "battlestar-galactica-2004",
+          "tvdb": 73545,
+          "imdb": "tt0407362",
+          "tmdb": 1972,
+          "tvrage": null
+        },
+        "aired_episodes": 73
+      }
+    },
+    {
+      "rank": 26,
+      "id": 1153031283,
+      "listed_at": "2025-01-08T18:21:14.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The X-Files",
+        "year": 1993,
+        "ids": {
+          "trakt": 4063,
+          "slug": "the-x-files",
+          "tvdb": 77398,
+          "imdb": "tt0106179",
+          "tmdb": 4087,
+          "tvrage": null
+        },
+        "aired_episodes": 218
+      }
+    },
+    {
+      "rank": 40,
+      "id": 1170422123,
+      "listed_at": "2025-02-07T11:01:15.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        },
+        "aired_episodes": 154
+      }
+    },
+    {
+      "rank": 4,
+      "id": 1127241238,
+      "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        },
+        "aired_episodes": 204
+      }
+    },
+    {
+      "rank": 21,
+      "id": 1153031271,
+      "listed_at": "2025-01-08T18:19:46.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Castle",
+        "year": 2009,
+        "ids": {
+          "trakt": 1410,
+          "slug": "castle",
+          "tvdb": 83462,
+          "imdb": "tt1219024",
+          "tmdb": 1419,
+          "tvrage": null
+        },
+        "aired_episodes": 173
+      }
+    },
+    {
+      "rank": 45,
+      "id": 1275439151,
+      "listed_at": "2025-07-10T08:59:30.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Succession",
+        "year": 2018,
+        "ids": {
+          "trakt": 125479,
+          "slug": "succession",
+          "tvdb": 338186,
+          "imdb": "tt7660850",
+          "tmdb": 76331,
+          "tvrage": null
+        },
+        "aired_episodes": 39
+      }
+    },
+    {
+      "rank": 3,
+      "id": 1127241236,
+      "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        },
+        "aired_episodes": 354
+      }
+    },
+    {
+      "rank": 19,
+      "id": 1153031261,
+      "listed_at": "2025-01-08T18:18:20.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Boardwalk Empire",
+        "year": 2010,
+        "ids": {
+          "trakt": 1610,
+          "slug": "boardwalk-empire",
+          "tvdb": 84947,
+          "imdb": "tt0979432",
+          "tmdb": 1621,
+          "tvrage": null
+        },
+        "aired_episodes": 56
+      }
+    },
+    {
+      "rank": 42,
+      "id": 1275428908,
+      "listed_at": "2025-07-10T08:39:37.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Americans",
+        "year": 2013,
+        "ids": {
+          "trakt": 46263,
+          "slug": "the-americans-2013",
+          "tvdb": 261690,
+          "imdb": "tt2149175",
+          "tmdb": 46533,
+          "tvrage": null
+        },
+        "aired_episodes": 75
+      }
+    },
+    {
+      "rank": 7,
+      "id": 1133528025,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        },
+        "aired_episodes": 30
+      }
+    },
+    {
+      "rank": 18,
+      "id": 1153031256,
+      "listed_at": "2025-01-08T18:17:47.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "NCIS",
+        "year": 2003,
+        "ids": {
+          "trakt": 4590,
+          "slug": "ncis",
+          "tvdb": 72108,
+          "imdb": "tt0364845",
+          "tmdb": 4614,
+          "tvrage": null
+        },
+        "aired_episodes": 487
+      }
+    },
+    {
+      "rank": 43,
+      "id": 1176247212,
+      "listed_at": "2025-02-21T07:31:25.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Legion",
+        "year": 2017,
+        "ids": {
+          "trakt": 113656,
+          "slug": "legion",
+          "tvdb": 320724,
+          "imdb": "tt5114356",
+          "tmdb": 67195,
+          "tvrage": null
+        },
+        "aired_episodes": 27
+      }
+    },
+    {
+      "rank": 46,
+      "id": 1179046309,
+      "listed_at": "2025-02-25T06:26:59.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Barry",
+        "year": 2018,
+        "ids": {
+          "trakt": 122709,
+          "slug": "barry",
+          "tvdb": 333072,
+          "imdb": "tt5348176",
+          "tmdb": 73107,
+          "tvrage": null
+        },
+        "aired_episodes": 32
+      }
+    },
+    {
+      "rank": 30,
+      "id": 1153031323,
+      "listed_at": "2025-01-08T18:22:51.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Last Kingdom",
+        "year": 2015,
+        "ids": {
+          "trakt": 100688,
+          "slug": "the-last-kingdom",
+          "tvdb": 298566,
+          "imdb": "tt4179452",
+          "tmdb": 63333,
+          "tvrage": null
+        },
+        "aired_episodes": 46
+      }
+    },
+    {
+      "rank": 25,
+      "id": 1153031292,
+      "listed_at": "2025-01-08T18:22:11.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "ONE PIECE",
+        "year": 2023,
+        "ids": {
+          "trakt": 184618,
+          "slug": "one-piece-2023",
+          "tvdb": 392276,
+          "imdb": "tt11737520",
+          "tmdb": 111110,
+          "tvrage": null
+        },
+        "aired_episodes": 8
+      }
+    },
+    {
+      "rank": 14,
+      "id": 1153031245,
+      "listed_at": "2025-01-08T18:16:56.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Halo",
+        "year": 2022,
+        "ids": {
+          "trakt": 150109,
+          "slug": "halo",
+          "tvdb": 366524,
+          "imdb": "tt2934286",
+          "tmdb": 52814,
+          "tvrage": null
+        },
+        "aired_episodes": 17
+      }
+    },
+    {
+      "rank": 17,
+      "id": 1153031255,
+      "listed_at": "2025-01-08T18:17:39.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Rookie",
+        "year": 2018,
+        "ids": {
+          "trakt": 134421,
+          "slug": "the-rookie-2018",
+          "tvdb": 350665,
+          "imdb": "tt7587890",
+          "tmdb": 79744,
+          "tvrage": null
+        },
+        "aired_episodes": 126
+      }
+    },
+    {
+      "rank": 8,
+      "id": 1133528026,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Scorpion",
+        "year": 2014,
+        "ids": {
+          "trakt": 60356,
+          "slug": "scorpion",
+          "tvdb": 281630,
+          "imdb": "tt3514324",
+          "tmdb": 60797,
+          "tvrage": null
+        },
+        "aired_episodes": 93
+      }
+    },
+    {
+      "rank": 47,
+      "id": 1153419635,
+      "listed_at": "2025-01-09T10:27:58.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Fall",
+        "year": 2013,
+        "ids": {
+          "trakt": 48703,
+          "slug": "the-fall",
+          "tvdb": 258107,
+          "imdb": "tt2294189",
+          "tmdb": 49010,
+          "tvrage": null
+        },
+        "aired_episodes": 17
+      }
+    },
+    {
+      "rank": 9,
+      "id": 1133528027,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Law & Order: Special Victims Unit",
+        "year": 1999,
+        "ids": {
+          "trakt": 2716,
+          "slug": "law-order-special-victims-unit",
+          "tvdb": 75692,
+          "imdb": "tt0203259",
+          "tmdb": 2734,
+          "tvrage": null
+        },
+        "aired_episodes": 573
+      }
+    },
+    {
+      "rank": 50,
+      "id": 1179046549,
+      "listed_at": "2025-02-25T06:27:33.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Black Bird",
+        "year": 2022,
+        "ids": {
+          "trakt": 180817,
+          "slug": "black-bird",
+          "tvdb": 401998,
+          "imdb": "tt4301160",
+          "tmdb": 155537,
+          "tvrage": null
+        },
+        "aired_episodes": 6
+      }
+    },
+    {
+      "rank": 10,
+      "id": 1133528028,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "CSI: Crime Scene Investigation",
+        "year": 2000,
+        "ids": {
+          "trakt": 1422,
+          "slug": "csi-crime-scene-investigation",
+          "tvdb": 72546,
+          "imdb": "tt0247082",
+          "tmdb": 1431,
+          "tvrage": null
+        },
+        "aired_episodes": 335
+      }
+    },
+    {
+      "rank": 22,
+      "id": 1153031275,
+      "listed_at": "2025-01-08T18:20:08.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Agatha All Along",
+        "year": 2024,
+        "ids": {
+          "trakt": 191186,
+          "slug": "agatha-all-along",
+          "tvdb": 412429,
+          "imdb": "tt15571732",
+          "tmdb": 138501,
+          "tvrage": null
+        },
+        "aired_episodes": 9
+      }
+    },
+    {
+      "rank": 29,
+      "id": 1153031321,
+      "listed_at": "2025-01-08T18:22:47.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Chicago P.D.",
+        "year": 2014,
+        "ids": {
+          "trakt": 58454,
+          "slug": "chicago-p-d",
+          "tvdb": 269641,
+          "imdb": "tt2805096",
+          "tmdb": 58841,
+          "tvrage": null
+        },
+        "aired_episodes": 243
+      }
+    },
+    {
+      "rank": 11,
+      "id": 1133528029,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Oz",
+        "year": 1997,
+        "ids": {
+          "trakt": 3300,
+          "slug": "oz",
+          "tvdb": 70682,
+          "imdb": "tt0118421",
+          "tmdb": 3322,
+          "tvrage": null
+        },
+        "aired_episodes": 56
+      }
+    },
+    {
+      "rank": 27,
+      "id": 1153031296,
+      "listed_at": "2025-01-08T18:22:20.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Dark Matter",
+        "year": 2024,
+        "ids": {
+          "trakt": 170597,
+          "slug": "dark-matter-2024",
+          "tvdb": 393159,
+          "imdb": "tt19231492",
+          "tmdb": 196322,
+          "tvrage": null
+        },
+        "aired_episodes": 9
+      }
+    },
+    {
+      "rank": 12,
+      "id": 1133528030,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Terminal List",
+        "year": 2022,
+        "ids": {
+          "trakt": 170081,
+          "slug": "the-terminal-list",
+          "tvdb": 399917,
+          "imdb": "tt11743610",
+          "tmdb": 120911,
+          "tvrage": null
+        },
+        "aired_episodes": 8
+      }
+    },
+    {
+      "rank": 48,
+      "id": 1273903687,
+      "listed_at": "2025-07-08T18:50:06.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Bridge",
+        "year": 2011,
+        "ids": {
+          "trakt": 44768,
+          "slug": "the-bridge",
+          "tvdb": 252019,
+          "imdb": "tt1733785",
+          "tmdb": 45016,
+          "tvrage": null
+        },
+        "aired_episodes": 38
+      }
+    },
+    {
+      "rank": 5,
+      "id": 1127241239,
+      "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Vikings: Valhalla",
+        "year": 2022,
+        "ids": {
+          "trakt": 155511,
+          "slug": "vikings-valhalla",
+          "tvdb": 372700,
+          "imdb": "tt11311302",
+          "tmdb": 116135,
+          "tvrage": null
+        },
+        "aired_episodes": 24
+      }
+    },
+    {
+      "rank": 35,
+      "id": 1273910724,
+      "listed_at": "2025-07-08T19:03:09.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Pitt",
+        "year": 2025,
+        "ids": {
+          "trakt": 232884,
+          "slug": "the-pitt",
+          "tvdb": 448176,
+          "imdb": "tt31938062",
+          "tmdb": 250307,
+          "tvrage": null
+        },
+        "aired_episodes": 15
+      }
+    },
+    {
+      "rank": 37,
+      "id": 1273919887,
+      "listed_at": "2025-07-08T19:13:08.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "ER",
+        "year": 1994,
+        "ids": {
+          "trakt": 4564,
+          "slug": "er",
+          "tvdb": 70761,
+          "imdb": "tt0108757",
+          "tmdb": 4588,
+          "tvrage": null
+        },
+        "aired_episodes": 331
+      }
+    },
+    {
+      "rank": 13,
+      "id": 1147927571,
+      "listed_at": "2024-12-31T02:39:56.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "9-1-1: Lone Star",
+        "year": 2020,
+        "ids": {
+          "trakt": 147906,
+          "slug": "9-1-1-lone-star",
+          "tvdb": 364080,
+          "imdb": "tt10323338",
+          "tmdb": 89393,
+          "tvrage": null
+        },
+        "aired_episodes": 72
+      }
+    },
+    {
+      "rank": 6,
+      "id": 1129591871,
+      "listed_at": "2024-11-28T07:51:50.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Tracker",
+        "year": 2024,
+        "ids": {
+          "trakt": 198575,
+          "slug": "tracker-2024",
+          "tvdb": 428433,
+          "imdb": "tt13875494",
+          "tmdb": 211288,
+          "tvrage": null
+        },
+        "aired_episodes": 33
+      }
+    },
+    {
+      "rank": 39,
+      "id": 1273920117,
+      "listed_at": "2025-07-08T19:13:28.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Code Black",
+        "year": 2015,
+        "ids": {
+          "trakt": 99072,
+          "slug": "code-black",
+          "tvdb": 295780,
+          "imdb": "tt4452630",
+          "tmdb": 63418,
+          "tvrage": null
+        },
+        "aired_episodes": 47
+      }
+    },
+    {
+      "rank": 34,
+      "id": 1153031519,
+      "listed_at": "2025-01-08T18:23:06.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Criminal Record",
+        "year": 2024,
+        "ids": {
+          "trakt": 196417,
+          "slug": "criminal-record",
+          "tvdb": 421495,
+          "imdb": "tt21088136",
+          "tmdb": 204490,
+          "tvrage": null
+        },
+        "aired_episodes": 8
+      }
+    },
+    {
+      "rank": 51,
+      "id": 1153420500,
+      "listed_at": "2025-01-09T10:31:55.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Fugitive",
+        "year": 1963,
+        "ids": {
+          "trakt": 10034,
+          "slug": "the-fugitive",
+          "tvdb": 75258,
+          "imdb": "tt0056757",
+          "tmdb": 10083,
+          "tvrage": null
+        },
+        "aired_episodes": 120
+      }
+    }
+  ]
+}
