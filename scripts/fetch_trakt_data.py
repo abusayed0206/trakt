@@ -65,7 +65,12 @@ class TraktUserDataClient:
         for directory in directories:
             (self.data_dir / directory).mkdir(parents=True, exist_ok=True)
         
+        # Create imgs directory for profile pictures
+        imgs_dir = Path('public/data/imgs')
+        imgs_dir.mkdir(parents=True, exist_ok=True)
+        
         logger.info(f"Created directory structure in {self.data_dir}")
+        logger.info(f"Created imgs directory in {imgs_dir}")
     
     def make_request(self, endpoint, params=None):
         """Make request to Trakt API with rate limiting"""
@@ -110,13 +115,63 @@ class TraktUserDataClient:
         
         logger.info(f"Saved {len(data) if isinstance(data, list) else 1} items to {full_path}")
     
+    def download_profile_picture(self, profile_data):
+        """Download and save user's profile picture"""
+        if not profile_data or 'images' not in profile_data:
+            logger.info("No profile image data found")
+            return
+        
+        images = profile_data.get('images', {})
+        avatar = images.get('avatar', {})
+        
+        # Try different sizes, prefer larger ones
+        image_url = None
+        for size in ['full', 'medium', 'thumb']:
+            if avatar.get(size):
+                image_url = avatar[size]
+                break
+        
+        if not image_url:
+            logger.info("No profile picture URL found")
+            return
+        
+        try:
+            logger.info(f"Downloading profile picture from: {image_url}")
+            response = requests.get(image_url, stream=True)
+            response.raise_for_status()
+            
+            # Get file extension from URL or content type
+            extension = 'jpg'  # default
+            if '.' in image_url:
+                url_ext = image_url.split('.')[-1].lower()
+                if url_ext in ['jpg', 'jpeg', 'png', 'webp', 'gif']:
+                    extension = url_ext
+            
+            # Save to imgs folder
+            imgs_dir = Path('public/data/imgs')
+            filename = f"dp.{extension}"
+            filepath = imgs_dir / filename
+            
+            with open(filepath, 'wb') as f:
+                for chunk in response.iter_content(chunk_size=8192):
+                    f.write(chunk)
+            
+            logger.info(f"Profile picture saved to {filepath}")
+            
+        except requests.exceptions.RequestException as e:
+            logger.error(f"Error downloading profile picture: {e}")
+        except Exception as e:
+            logger.error(f"Error saving profile picture: {e}")
+    
     def fetch_user_profile(self):
         """Fetch user profile (public data)"""
         logger.info(f"Fetching profile for user: {self.username}")
         
-        profile = self.make_request(f'/users/{self.username}')
+        profile = self.make_request(f'/users/{self.username}?extended=full')
         if profile:
             self.save_json(profile, 'user/profile/basic.json')
+            # Download profile picture if available
+            self.download_profile_picture(profile)
         
         # User stats (public)
         stats = self.make_request(f'/users/{self.username}/stats')
