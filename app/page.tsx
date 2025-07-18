@@ -14,6 +14,8 @@ export default function HomePage() {
     <div className="min-h-screen bg-gray-50">
       {/* Main Content */}
       <main className="max-w-6xl mx-auto px-4 py-8">
+        {/* Search Interface */}
+        <SearchInterface />
         {/* User Profile & Stats */}
         <UserProfileStats />
         <MovieHistory />
@@ -29,9 +31,6 @@ export default function HomePage() {
         {/* Watched Content Grids */}
         <WatchedMoviesGrid />
         <WatchedShowsGrid />
-
-        {/* Search Interface */}
-        <SearchInterface />
       </main>
 
       {/* Footer */}

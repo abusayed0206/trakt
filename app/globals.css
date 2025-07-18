@@ -19,8 +19,19 @@
   }
 }
 
+/* Performance optimizations */
+img {
+  content-visibility: auto;
+  contain-intrinsic-size: 300px 450px;
+}
+
+/* Critical path optimizations */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-display: swap;
+  text-rendering: optimizeSpeed;
+}
+
+/* Reduce layout shifts */
+.aspect-\[2\/3\] {
+  contain: layout style;
 }

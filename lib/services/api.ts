@@ -1,4 +1,4 @@
-import { ApiResponse, UserProfile, UserStats, HistoryItem, WatchedMovie, WatchedShow, WatchlistItem, UserList, ListItem, CommentItem, SearchResult } from '../types/api';
+import { ApiResponse, UserProfile, UserStats, HistoryItem, WatchedMovie, WatchedShow, WatchlistItem, UserList, ListItem, CommentItem, SearchResult } from '../types';
 
 const API_BASE = '/api/trakt';
 

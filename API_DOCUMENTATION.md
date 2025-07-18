@@ -1,38 +1,61 @@
-# Trakt API Documentation
+# API Documentation
 
-This API provides access to your personal Trakt data stored as JSON files. All endpoints return data in the same format as the original Trakt API responses, with added metadata about when the data was fetched.
+This document describes the REST API endpoints available in the Trakt Watch Dashboard. The API provides access to your personal Trakt data and optimized image serving capabilities.
 
-## Base URL
+## 🌐 Base URLs
 
-```
-/api/trakt
-```
+- **Trakt Data API**: `/api/trakt`
+- **Image API**: `/api/images`
 
-## Endpoints
+## 🔐 Authentication
 
-### 📊 General
+All endpoints serve pre-processed personal data and do not require authentication. The data is synchronized daily from Trakt.tv using your configured API credentials.
+
+---
+
+## 📊 Trakt Data API
+
+### Core Endpoints
 
 #### `GET /api/trakt`
 
-Get the main index with data structure overview.
+Get the main data structure overview and metadata.
 
 **Response:**
-
 ```json
 {
   "metadata": {
-    ### 🔍 Search & Utilities025-07-18T09:00:13.041000+00:00",
+    "last_updated": "2025-07-19T09:00:13.041000+00:00",
     "source": "trakt_api_user_data",
-    "username": "lrs",
+    "username": "your_username",
     "endpoint": "index.json",
     "count": 1
   },
   "data": {
-    "last_updated": "2025-07-18T09:00:13.040949+00:00",
+    "last_updated": "2025-07-19T09:00:13.040949+00:00",
     "data_type": "personal_user_data",
-    "username": "lrs",
+    "username": "your_username",
     "authentication": "api_key_only",
-    "data_structure": { ... }
+    "data_structure": {
+      "user": {
+        "profile": "Basic user profile information",
+        "stats": "Comprehensive viewing statistics",
+        "history": {
+          "movies": "Recent movie viewing history",
+          "shows": "Recent TV show viewing history"
+        },
+        "watchlist": {
+          "movies": "Movie watchlist",
+          "all": "Complete watchlist"
+        },
+        "watched": {
+          "movies": "All watched movies",
+          "shows": "All watched TV shows"
+        },
+        "lists": "Custom user lists",
+        "comments": "User comments and reviews"
+      }
+    }
   }
 }
 ```
@@ -42,12 +65,566 @@ Get the main index with data structure overview.
 Clear the in-memory cache to refresh data from JSON files.
 
 **Response:**
-
 ```json
 {
   "message": "Cache cleared successfully"
 }
 ```
+
+---
+
+### 👤 User Profile & Statistics
+
+#### `GET /api/trakt/user/profile`
+
+Get user profile information including bio, location, and social links.
+
+**Response:**
+```json
+{
+  "metadata": {
+    "last_updated": "2025-07-19T09:00:13.041000+00:00",
+    "source": "trakt_api_user_data",
+    "username": "your_username",
+    "endpoint": "user/profile/basic.json"
+  },
+  "data": {
+    "username": "your_username",
+    "private": false,
+    "name": "Your Name",
+    "bio": "Your bio",
+    "location": "Your Location",
+    "website": "https://your-website.com",
+    "joined_at": "2020-01-01T00:00:00.000Z",
+    "avatar": {
+      "full": "https://avatar-url.jpg"
+    },
+    "cover": {
+      "full": "https://cover-url.jpg"
+    }
+  }
+}
+```
+
+#### `GET /api/trakt/user/stats`
+
+Get comprehensive viewing statistics including totals and time spent.
+
+**Response:**
+```json
+{
+  "metadata": {
+    "last_updated": "2025-07-19T09:00:13.041000+00:00",
+    "source": "trakt_api_user_data",
+    "username": "your_username",
+    "endpoint": "user/stats/overview.json"
+  },
+  "data": {
+    "movies": {
+      "plays": 1234,
+      "watched": 987,
+      "minutes": 123456,
+      "collected": 456,
+      "ratings": 789,
+      "comments": 12
+    },
+    "shows": {
+      "watched": 234,
+      "collected": 123,
+      "ratings": 345,
+      "comments": 5
+    },
+    "seasons": {
+      "watched": 456,
+      "collected": 234,
+      "ratings": 123,
+      "comments": 2
+    },
+    "episodes": {
+      "plays": 5678,
+      "watched": 4567,
+      "minutes": 234567,
+      "collected": 1234,
+      "ratings": 2345,
+      "comments": 34
+    }
+  }
+}
+```
+
+---
+
+### 📈 History & Activity
+
+#### `GET /api/trakt/user/history`
+
+Get recent viewing history with optional filtering.
+
+**Query Parameters:**
+- `type` (optional): `movies` or `shows` - Filter by content type
+
+**Response:**
+```json
+{
+  "metadata": {
+    "last_updated": "2025-07-19T09:00:13.041000+00:00",
+    "source": "trakt_api_user_data",
+    "username": "your_username",
+    "endpoint": "user/history/movies.json",
+    "count": 50
+  },
+  "data": [
+    {
+      "id": 12345,
+      "watched_at": "2025-07-19T08:30:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Movie Title",
+        "year": 2023,
+        "ids": {
+          "trakt": 12345,
+          "slug": "movie-title-2023",
+          "imdb": "tt1234567",
+          "tmdb": 98765
+        }
+      }
+    }
+  ]
+}
+```
+
+---
+
+### 📚 Watchlist & Collections
+
+#### `GET /api/trakt/user/watchlist`
+
+Get user's watchlist with priority rankings.
+
+**Query Parameters:**
+- `type` (optional): `movies` or `all` - Filter by content type
+
+**Response:**
+```json
+{
+  "metadata": {
+    "last_updated": "2025-07-19T09:00:13.041000+00:00",
+    "source": "trakt_api_user_data",
+    "username": "your_username",
+    "endpoint": "user/watchlist/movies.json",
+    "count": 125
+  },
+  "data": [
+    {
+      "rank": 1,
+      "id": 12345,
+      "listed_at": "2025-07-19T08:30:00.000Z",
+      "type": "movie",
+      "notes": "Must watch this weekend",
+      "movie": {
+        "title": "Movie Title",
+        "year": 2023,
+        "ids": {
+          "trakt": 12345,
+          "slug": "movie-title-2023",
+          "imdb": "tt1234567",
+          "tmdb": 98765
+        }
+      }
+    }
+  ]
+}
+```
+
+#### `GET /api/trakt/user/watched`
+
+Get all watched content with play counts and timestamps.
+
+**Query Parameters:**
+- `type` (optional): `movies` or `shows` - Filter by content type
+
+**Response:**
+```json
+{
+  "metadata": {
+    "last_updated": "2025-07-19T09:00:13.041000+00:00",
+    "source": "trakt_api_user_data",
+    "username": "your_username",
+    "endpoint": "user/watched/movies.json",
+    "count": 987
+  },
+  "data": [
+    {
+      "plays": 2,
+      "last_watched_at": "2025-07-19T08:30:00.000Z",
+      "last_updated_at": "2025-07-19T08:30:00.000Z",
+      "movie": {
+        "title": "Movie Title",
+        "year": 2023,
+        "ids": {
+          "trakt": 12345,
+          "slug": "movie-title-2023",
+          "imdb": "tt1234567",
+          "tmdb": 98765
+        }
+      }
+    }
+  ]
+}
+```
+
+---
+
+### 📝 Lists & Comments
+
+#### `GET /api/trakt/user/lists`
+
+Get all user-created lists with metadata.
+
+**Response:**
+```json
+{
+  "metadata": {
+    "last_updated": "2025-07-19T09:00:13.041000+00:00",
+    "source": "trakt_api_user_data",
+    "username": "your_username",
+    "endpoint": "user/lists/user_lists.json",
+    "count": 5
+  },
+  "data": [
+    {
+      "name": "Best Movies 2023",
+      "description": "My favorite movies from 2023",
+      "privacy": "public",
+      "type": "personal",
+      "display_numbers": true,
+      "allow_comments": true,
+      "sort_by": "rank",
+      "sort_how": "asc",
+      "created_at": "2023-01-01T00:00:00.000Z",
+      "updated_at": "2025-07-19T08:30:00.000Z",
+      "item_count": 25,
+      "comment_count": 3,
+      "like_count": 15,
+      "ids": {
+        "trakt": 12345,
+        "slug": "best-movies-2023"
+      }
+    }
+  ]
+}
+```
+
+#### `GET /api/trakt/user/lists/[id]`
+
+Get items in a specific list.
+
+**Path Parameters:**
+- `id`: List slug or Trakt ID
+
+**Response:**
+```json
+{
+  "metadata": {
+    "last_updated": "2025-07-19T09:00:13.041000+00:00",
+    "source": "trakt_api_user_data",
+    "username": "your_username",
+    "endpoint": "user/lists/best-movies-2023_items.json",
+    "count": 25
+  },
+  "data": [
+    {
+      "rank": 1,
+      "id": 12345,
+      "listed_at": "2023-06-15T10:30:00.000Z",
+      "type": "movie",
+      "notes": "Absolutely brilliant cinematography",
+      "movie": {
+        "title": "Movie Title",
+        "year": 2023,
+        "ids": {
+          "trakt": 12345,
+          "slug": "movie-title-2023",
+          "imdb": "tt1234567",
+          "tmdb": 98765
+        }
+      }
+    }
+  ]
+}
+```
+
+#### `GET /api/trakt/user/comments`
+
+Get all user comments and reviews.
+
+**Response:**
+```json
+{
+  "metadata": {
+    "last_updated": "2025-07-19T09:00:13.041000+00:00",
+    "source": "trakt_api_user_data",
+    "username": "your_username",
+    "endpoint": "user/comments/all.json",
+    "count": 45
+  },
+  "data": [
+    {
+      "id": 12345,
+      "parent_id": 0,
+      "created_at": "2025-07-19T08:30:00.000Z",
+      "updated_at": "2025-07-19T08:30:00.000Z",
+      "comment": "This movie was absolutely fantastic! The cinematography was breathtaking.",
+      "spoiler": false,
+      "review": true,
+      "replies": 2,
+      "likes": 15,
+      "user_rating": 9,
+      "movie": {
+        "title": "Movie Title",
+        "year": 2023,
+        "ids": {
+          "trakt": 12345,
+          "slug": "movie-title-2023",
+          "imdb": "tt1234567",
+          "tmdb": 98765
+        }
+      }
+    }
+  ]
+}
+```
+
+---
+
+### 🔍 Search
+
+#### `GET /api/trakt/search`
+
+Search through your watched content, watchlist, and custom lists.
+
+**Query Parameters:**
+- `q` (required): Search query string
+- `type` (optional): `movies`, `shows`, or `all` (default: `all`)
+
+**Response:**
+```json
+{
+  "query": "inception",
+  "type": "all",
+  "results": {
+    "movies": [
+      {
+        "type": "movie",
+        "source": "watched",
+        "movie": {
+          "title": "Inception",
+          "year": 2010,
+          "ids": {
+            "trakt": 1234,
+            "slug": "inception-2010",
+            "imdb": "tt1375666",
+            "tmdb": 27205
+          }
+        },
+        "plays": 3,
+        "last_watched_at": "2024-12-15T20:30:00.000Z"
+      }
+    ],
+    "shows": [
+      {
+        "type": "show",
+        "source": "watchlist",
+        "show": {
+          "title": "Inception: The Series",
+          "year": 2023,
+          "ids": {
+            "trakt": 5678,
+            "slug": "inception-series-2023",
+            "imdb": "tt9876543",
+            "tmdb": 54321
+          }
+        },
+        "listed_at": "2024-01-15T10:00:00.000Z"
+      }
+    ]
+  },
+  "total_results": 2
+}
+```
+
+---
+
+## 🖼️ Image API
+
+The Image API provides optimized image serving with thumbnail previews, lazy loading, and CDN integration through wsrv.nl.
+
+### Endpoints
+
+#### `GET /api/images`
+
+Get optimized images with automatic WebP conversion and quality optimization.
+
+**Query Parameters:**
+- `type` (conditional): `movies` or `shows` - Required for full images
+- `category` (required): `posters` or `backdrops`
+- `tmdb_id` (required): TMDB ID of the content
+- `season` (optional): Season number for show season posters
+
+**Examples:**
+
+**Full Movie Poster:**
+```
+GET /api/images?type=movies&category=posters&tmdb_id=27205
+```
+
+**TV Show Season Poster:**
+```
+GET /api/images?type=shows&category=posters&tmdb_id=1399&season=1
+```
+
+**Thumbnail (omit type parameter):**
+```
+GET /api/images?category=posters&tmdb_id=27205
+```
+
+**Response:**
+- **Success**: `302 Found` redirect to optimized wsrv.nl URL
+- **Not Found**: `404` with error message
+- **Invalid Parameters**: `400` with validation error
+
+**Redirect URLs:**
+
+**Full Images:**
+```
+https://wsrv.nl/?url=https%3A%2F%2Fcfcdn.sayed.app%2Fwatch%2Fmovies%2Fposters%2F27205_poster.jpg&w=400&output=webp&q=85&maxage=7d
+```
+
+**Thumbnails:**
+```
+https://wsrv.nl/?url=https%3A%2F%2Fcfcdn.sayed.app%2Fwatch%2Fthumbnails%2Fthumb_27205_poster.jpg&w=150&output=webp&q=60&maxage=7d
+```
+
+#### `POST /api/images/reload-cache`
+
+Reload the image index cache to pick up new images.
+
+**Response:**
+```json
+{
+  "message": "Image cache reloaded successfully",
+  "stats": {
+    "movie_posters": 821,
+    "show_posters": 176,
+    "thumbnails": 1978
+  }
+}
+```
+
+---
+
+## 🎛️ Image Optimization Features
+
+### Thumbnail Strategy
+- **Immediate Loading**: Small thumbnails (150px width) load instantly
+- **Quality**: 60% JPEG quality for fast loading
+- **Format**: Automatic WebP conversion for modern browsers
+
+### Full Image Strategy
+- **Lazy Loading**: Full images (400px width) load when entering viewport
+- **Quality**: 85% quality for optimal balance
+- **Caching**: 7-day browser cache with CDN optimization
+
+### URL Parameters
+- `w`: Width in pixels
+- `output`: Format (webp, jpg, png)
+- `q`: Quality (1-100)
+- `maxage`: Cache duration (e.g., 7d, 24h)
+
+---
+
+## 📊 Response Format
+
+All API responses follow a consistent structure:
+
+### Success Response
+```json
+{
+  "metadata": {
+    "last_updated": "ISO 8601 timestamp",
+    "source": "data source identifier",
+    "username": "trakt username",
+    "endpoint": "source file path",
+    "count": "number of items (if applicable)"
+  },
+  "data": "actual response data"
+}
+```
+
+### Error Response
+```json
+{
+  "error": "Human-readable error message"
+}
+```
+
+---
+
+## 🚀 Performance Features
+
+### Caching Strategy
+- **Image Index**: Pre-loaded at server startup with 24-hour auto-refresh
+- **JSON Data**: In-memory caching with manual cache clearing capability
+- **CDN**: 7-day browser cache for optimized images
+
+### Optimization
+- **Smart Loading**: Thumbnails first, full images on viewport entry
+- **WebP Conversion**: Automatic format optimization
+- **Quality Tuning**: Balanced quality vs. file size
+- **Lazy Loading**: Reduces initial page load time
+
+### Rate Limiting
+- No rate limiting on API endpoints (serving pre-processed data)
+- Image CDN handles rate limiting and optimization
+
+---
+
+## 🔧 Integration Examples
+
+### Using the Image API in Components
+```typescript
+// Thumbnail URL
+const thumbnailUrl = `/api/images?category=posters&tmdb_id=${tmdbId}`;
+
+// Full image URL
+const fullImageUrl = `/api/images?type=movies&category=posters&tmdb_id=${tmdbId}`;
+
+// Season poster URL
+const seasonUrl = `/api/images?type=shows&category=posters&tmdb_id=${tmdbId}&season=1`;
+```
+
+### Search Integration
+```typescript
+const searchResults = await fetch(`/api/trakt/search?q=${query}&type=movies`);
+const data = await searchResults.json();
+```
+
+### Data Fetching
+```typescript
+const profile = await fetch('/api/trakt/user/profile');
+const watchlist = await fetch('/api/trakt/user/watchlist?type=movies');
+const history = await fetch('/api/trakt/user/history');
+```
+
+---
+
+## 📈 Data Freshness
+
+- **Update Frequency**: Data is synchronized daily from Trakt.tv
+- **Cache Duration**: Image index auto-refreshes every 24 hours
+- **Manual Refresh**: Use `POST /api/trakt` to clear cache manually
+- **Image Updates**: New images detected automatically on next cache refresh
 
 ### 👤 User Profile
 
@@ -331,6 +908,127 @@ Get items from a specific list by slug ID.
 - `/api/trakt/user/lists/anticipated-movies` - Items in Anticipated Movies list
 
 
+### 🖼️ Images
+
+#### `GET /api/images`
+
+**🚀 NEW: CDN-Powered Image Serving with In-Memory Caching**
+
+This endpoint now serves images directly from Cloudflare CDN with blazing fast performance using in-memory indexing for instant lookups.
+
+**Required Query Parameters:**
+
+- `type`: `movies` or `shows` (not required for thumbnails)
+- `category`: `posters` or `backdrops` 
+- `tmdb_id`: TMDB ID of the movie/show
+
+**Optional Query Parameters:**
+
+- `season`: Season number (only for show posters)
+
+**Supported Endpoints:**
+
+**Movie & Show Images (redirects to CDN):**
+- `/api/images?type=movies&category=posters&tmdb_id=XXX` - Movie poster from CDN
+- `/api/images?type=movies&category=backdrops&tmdb_id=XXX` - Movie backdrop from CDN
+- `/api/images?type=shows&category=posters&tmdb_id=XXX` - Show poster from CDN  
+- `/api/images?type=shows&category=backdrops&tmdb_id=XXX` - Show backdrop from CDN
+- `/api/images?type=shows&category=posters&tmdb_id=XXX&season=X` - Season X poster from CDN
+
+**Thumbnails (redirects to CDN):**
+- `/api/images?category=posters&tmdb_id=XXX` - Thumbnail poster from CDN
+- `/api/images?category=backdrops&tmdb_id=XXX` - Thumbnail backdrop from CDN
+
+**Response:**
+
+✅ **HTTP 302 Redirect** to CDN URL:
+```
+Location: https://cfcdn.sayed.app/watch/movies/posters/27205_poster.jpg
+```
+
+**CDN URLs:** All images are served from `https://cfcdn.sayed.app/watch/` with the same folder structure:
+- `https://cfcdn.sayed.app/watch/movies/posters/27205_poster.jpg`
+- `https://cfcdn.sayed.app/watch/shows/backdrops/1399_backdrop.jpg`
+- `https://cfcdn.sayed.app/watch/shows/posters/1399/1/season_1_poster.jpg`
+- `https://cfcdn.sayed.app/watch/thumbnails/thumb_27205_poster.jpg`
+
+**Performance Features:**
+
+- ✅ **In-Memory Index**: All image lookups happen in memory (no filesystem reads per request)
+- ✅ **CDN-Powered**: Images served from Cloudflare CDN for global performance
+- ✅ **HTTP Redirects**: Browser/client automatically follows to CDN URL
+- ✅ **Blazing Fast**: Sub-millisecond image resolution + CDN edge caching
+- ✅ **Global Distribution**: Images served from nearest edge location
+- ✅ **Future-Proof**: Scalable CDN architecture with automatic caching
+
+**Usage with Next.js Image:**
+
+```jsx
+import Image from 'next/image';
+
+// Movie poster - redirects to CDN
+<Image 
+  src="/api/images?type=movies&category=posters&tmdb_id=27205"
+  alt="Inception poster"
+  width={300}
+  height={450}
+  priority
+/>
+
+// Thumbnail - ultra-fast CDN loading
+<Image 
+  src="/api/images?category=posters&tmdb_id=27205"
+  alt="Inception thumbnail"
+  width={150}
+  height={225}
+  quality={85}
+/>
+
+// Season poster
+<Image 
+  src="/api/images?type=shows&category=posters&tmdb_id=1399&season=1"
+  alt="Game of Thrones Season 1"
+  width={300} 
+  height={450}
+  quality={90}
+/>
+
+// Direct CDN URLs (for advanced use cases)
+<Image 
+  src="https://cfcdn.sayed.app/watch/movies/posters/27205_poster.jpg"
+  alt="Direct CDN access"
+  width={300}
+  height={450}
+/>
+```
+
+#### `POST /api/images/reload-cache`
+
+Reload the in-memory image index without restarting the server.
+
+**Usage:**
+
+```bash
+curl -X POST /api/images/reload-cache
+```
+
+**Response:**
+
+```json
+{
+  "success": true,
+  "message": "Image index reloaded successfully",
+  "stats": {
+    "moviePosters": 150,
+    "movieBackdrops": 75,
+    "showPosters": 89,
+    "showBackdrops": 45,
+    "seasonPosters": 12,
+    "thumbnailPosters": 200,
+    "thumbnailBackdrops": 100
+  }
+}
+```
 
 
 ### �🔍 Search & Utilities
@@ -415,4 +1113,4 @@ curl -X POST /api/trakt
 - All timestamps are in ISO 8601 format
 - Data is automatically fetched and updated daily via GitHub Actions
 - The API serves data from local JSON files, so it's fast and doesn't hit external APIs
-- Images are served through Cloudflare CDN at `https://cfcdn.sayed.app/watch/` for optimal global performance
+- Images are served directly through the optimized `/api/images` endpoint with in-memory caching

@@ -2,12 +2,12 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { FaListUl, FaImdb, FaEye, FaEyeSlash, FaList, FaChevronDown } from 'react-icons/fa';
+import { FaImdb, FaList, FaChevronDown } from 'react-icons/fa';
 import { SiTrakt, SiLetterboxd, SiThemoviedatabase } from 'react-icons/si';
-import { UserList, ListItem } from '@/lib/types/api';
+import { UserList, ListItem } from '@/lib/types';
 import { fetchUserLists, fetchListItems } from '@/lib/services/api';
-import { getMoviePosterUrl, getShowPosterUrl, getLetterboxdUrl, getTraktUrl, getImdbUrl, getTmdbUrl, formatDate } from '@/lib/utils/media';
-import OptimizedImage from '@/components/OptimizedImage';
+import { getLetterboxdUrl, getTraktUrl, getImdbUrl, getTmdbUrl, formatDate } from '@/lib/utils/media';
+import LazyImage from './LazyImage';
 
 export default function CustomLists() {
   const [lists, setLists] = useState<UserList[]>([]);
@@ -86,7 +86,7 @@ export default function CustomLists() {
             <div className="flex items-start justify-between mb-3">
               <h3 className="font-semibold text-gray-800 text-lg">{list.name}</h3>
               <Link
-                href={list.share_link}
+                href={list.share_link || '#'}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-red-500 hover:text-red-600 transition-colors"
@@ -156,67 +156,62 @@ export default function CustomLists() {
                     <div className="absolute top-2 left-2 bg-indigo-500 text-white text-xs font-bold px-2 py-1 rounded z-10">
                       #{item.rank}
                     </div>
-                    <OptimizedImage
-                      src={item.type === 'movie' 
-                        ? getMoviePosterUrl(item.movie!.ids.tmdb) 
-                        : getShowPosterUrl(item.show!.ids.tmdb)
-                      }
+                    <LazyImage
+                      tmdbId={(item.type === 'movie' ? item.movie!.ids.tmdb : item.show!.ids.tmdb).toString()}
+                      type={item.type === 'movie' ? 'movies' : 'shows'}
+                      category="posters"
                       alt={item.type === 'movie' ? item.movie!.title : item.show!.title}
-                      className="absolute inset-0 w-full h-full object-cover transition-transform group-hover:scale-105"
+                      className="w-full h-full"
                     />
-                    
-                    {/* Overlay with external links */}
-                    <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-end p-3">
-                      <div className="flex gap-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300 w-full justify-center">
-                        {item.type === 'movie' && (
-                          <Link
-                            href={getLetterboxdUrl(item.movie!.ids.imdb)}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="bg-orange-500 hover:bg-orange-600 text-white p-2 rounded-full transition-colors"
-                            title="View on Letterboxd"
-                          >
-                            <SiLetterboxd className="w-4 h-4" />
-                          </Link>
-                        )}
-                        <Link
-                          href={getTraktUrl(
-                            item.type === 'movie' ? item.movie!.ids.trakt : item.show!.ids.trakt, 
-                            item.type === 'movie' ? 'movie' : 'show'
-                          )}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="bg-red-500 hover:bg-red-600 text-white p-2 rounded-full transition-colors"
-                          title="View on Trakt"
-                        >
-                          <SiTrakt className="w-4 h-4" />
-                        </Link>
-                        <Link
-                          href={getImdbUrl(item.type === 'movie' ? item.movie!.ids.imdb : item.show!.ids.imdb)}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="bg-yellow-500 hover:bg-yellow-600 text-white p-2 rounded-full transition-colors"
-                          title="View on IMDB"
-                        >
-                          <FaImdb className="w-4 h-4" />
-                        </Link>
-                        <Link
-                          href={getTmdbUrl(
-                            item.type === 'movie' ? item.movie!.ids.tmdb : item.show!.ids.tmdb, 
-                            item.type === 'movie' ? 'movie' : 'tv'
-                          )}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-full transition-colors"
-                          title="View on TMDB"
-                        >
-                          <SiThemoviedatabase className="w-4 h-4" />
-                        </Link>
-                      </div>
-                    </div>
                   </div>
                   
-                  <div>
+                  {/* External links below poster */}
+                  <div className="flex gap-2 mb-2 justify-center">
+                    {item.type === 'movie' && (
+                      <Link
+                        href={getLetterboxdUrl(item.movie!.ids.imdb)}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="bg-orange-500 hover:bg-orange-600 text-white p-2 rounded-full transition-colors"
+                        title="View on Letterboxd"
+                      >
+                        <SiLetterboxd className="w-4 h-4" />
+                      </Link>
+                    )}
+                    <Link
+                      href={getTraktUrl(
+                        item.type === 'movie' ? item.movie!.ids.trakt : item.show!.ids.trakt, 
+                        item.type === 'movie' ? 'movie' : 'show'
+                      )}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-red-500 hover:bg-red-600 text-white p-2 rounded-full transition-colors"
+                      title="View on Trakt"
+                    >
+                      <SiTrakt className="w-4 h-4" />
+                    </Link>
+                    <Link
+                      href={getImdbUrl(item.type === 'movie' ? item.movie!.ids.imdb : item.show!.ids.imdb)}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-yellow-500 hover:bg-yellow-600 text-white p-2 rounded-full transition-colors"
+                      title="View on IMDB"
+                    >
+                      <FaImdb className="w-4 h-4" />
+                    </Link>
+                    <Link
+                      href={getTmdbUrl(
+                        item.type === 'movie' ? item.movie!.ids.tmdb : item.show!.ids.tmdb,
+                        item.type === 'movie' ? 'movie' : 'tv'
+                      )}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-full transition-colors"
+                      title="View on TMDB"
+                    >
+                      <SiThemoviedatabase className="w-4 h-4" />
+                    </Link>
+                  </div>                  <div>
                     <h4 className="font-semibold text-gray-800 text-sm leading-tight mb-1 line-clamp-2">
                       {item.type === 'movie' ? item.movie!.title : item.show!.title}
                     </h4>

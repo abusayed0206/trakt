@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 
 import { useEffect, useState } from "react";
@@ -9,9 +10,7 @@ import {
   FaCalendarAlt,
   FaMapMarkerAlt,
 } from "react-icons/fa";
-import OptimizedImage from "@/components/OptimizedImage";
-import { getProfilePictureUrl } from "@/lib/utils/media";
-import { UserProfile, UserStats } from "@/lib/types/api";
+import { UserProfile, UserStats } from "@/lib/types";
 import { fetchUserProfile, fetchUserStats } from "@/lib/services/api";
 import { formatWatchTime } from "@/lib/utils/media";
 
@@ -77,10 +76,12 @@ export default function UserProfileStats() {
       {/* Profile Header */}
       <div className="flex flex-col md:flex-row items-start gap-6 mb-8">
         <div className="relative">
-          <OptimizedImage
-            src="https://cfcdn.sayed.app/watch/dp.jpg"
+          <img
+            src="https://wsrv.nl/?url=https://cfcdn.sayed.app/watch/dp.jpg&w=300&output=webp&q=85&maxage=31d"
             alt="Sayed's Profile Picture"
             className="w-24 h-24 rounded-full border-4 border-gray-100 object-cover"
+            loading="lazy"
+            decoding="async"
           />
         </div>
         <div className="flex-1">

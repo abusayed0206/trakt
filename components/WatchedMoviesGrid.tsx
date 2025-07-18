@@ -4,10 +4,10 @@ import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { FaFilm, FaImdb, FaEye, FaEyeSlash, FaPlay, FaClock } from 'react-icons/fa';
 import { SiTrakt, SiLetterboxd, SiThemoviedatabase } from 'react-icons/si';
-import { WatchedMovie } from '@/lib/types/api';
+import { WatchedMovie } from '@/lib/types';
 import { fetchWatchedMovies } from '@/lib/services/api';
-import { getMoviePosterUrl, getLetterboxdUrl, getTraktUrl, getImdbUrl, getTmdbUrl, formatDate, formatWatchTime, formatRelativeTime } from '@/lib/utils/media';
-import OptimizedImage from '@/components/OptimizedImage';
+import { getLetterboxdUrl, getTraktUrl, getImdbUrl, getTmdbUrl, formatRelativeTime } from '@/lib/utils/media';
+import LazyImage from './LazyImage';
 
 export default function WatchedMoviesGrid() {
   const [watchedMovies, setWatchedMovies] = useState<WatchedMovie[]>([]);
@@ -82,54 +82,53 @@ export default function WatchedMoviesGrid() {
                   {item.plays}
                 </div>
               )}
-              <OptimizedImage
-                src={getMoviePosterUrl(item.movie.ids.tmdb)}
+              <LazyImage
+                tmdbId={item.movie.ids.tmdb.toString()}
+                type="movies"
+                category="posters"
                 alt={item.movie.title}
-                
-                className="absolute inset-0 w-full h-full object-cover transition-transform group-hover:scale-105"
+                className="w-full h-full"
               />
-              
-              {/* Overlay with external links */}
-              <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-70 transition-all duration-300 flex items-end p-3">
-                <div className="flex gap-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300 w-full justify-center">
-                  <Link
-                    href={getLetterboxdUrl(item.movie.ids.imdb)}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="bg-orange-500 hover:bg-orange-600 text-white p-2 rounded-full transition-colors"
-                    title="View on Letterboxd"
-                  >
-                    <SiLetterboxd className="w-4 h-4" />
-                  </Link>
-                  <Link
-                    href={getTraktUrl(item.movie.ids.trakt, 'movie')}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="bg-red-500 hover:bg-red-600 text-white p-2 rounded-full transition-colors"
-                    title="View on Trakt"
-                  >
-                    <SiTrakt className="w-4 h-4" />
-                  </Link>
-                  <Link
-                    href={getImdbUrl(item.movie.ids.imdb)}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="bg-yellow-500 hover:bg-yellow-600 text-white p-2 rounded-full transition-colors"
-                    title="View on IMDB"
-                  >
-                    <FaImdb className="w-4 h-4" />
-                  </Link>
-                  <Link
-                    href={getTmdbUrl(item.movie.ids.tmdb, 'movie')}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-full transition-colors"
-                    title="View on TMDB"
-                  >
-                    <SiThemoviedatabase className="w-4 h-4" />
-                  </Link>
-                </div>
-              </div>
+            </div>
+            
+            {/* External links below poster */}
+            <div className="flex gap-2 mb-2 justify-center">
+              <Link
+                href={getLetterboxdUrl(item.movie.ids.imdb)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-orange-500 hover:bg-orange-600 text-white p-2 rounded-full transition-colors"
+                title="View on Letterboxd"
+              >
+                <SiLetterboxd className="w-4 h-4" />
+              </Link>
+              <Link
+                href={getTraktUrl(item.movie.ids.trakt, 'movie')}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-red-500 hover:bg-red-600 text-white p-2 rounded-full transition-colors"
+                title="View on Trakt"
+              >
+                <SiTrakt className="w-4 h-4" />
+              </Link>
+              <Link
+                href={getImdbUrl(item.movie.ids.imdb)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-yellow-500 hover:bg-yellow-600 text-white p-2 rounded-full transition-colors"
+                title="View on IMDB"
+              >
+                <FaImdb className="w-4 h-4" />
+              </Link>
+              <Link
+                href={getTmdbUrl(item.movie.ids.tmdb, 'movie')}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-full transition-colors"
+                title="View on TMDB"
+              >
+                <SiThemoviedatabase className="w-4 h-4" />
+              </Link>
             </div>
             
             <div>

@@ -1,4 +1,4 @@
-import { MediaIndex } from '@/lib/types/api';
+import { MediaIndex } from '@/lib/types';
 
 let mediaIndex: MediaIndex | null = null;
 

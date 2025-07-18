@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { FaComment, FaHeart, FaReply, FaFilm, FaTv } from 'react-icons/fa';
 import { SiTrakt } from 'react-icons/si';
-import { CommentItem } from '@/lib/types/api';
+import { CommentItem } from '@/lib/types';
 import { fetchUserComments } from '@/lib/services/api';
 import { getTraktUrl, formatRelativeTime } from '@/lib/utils/media';
 

@@ -1,38 +1,23 @@
-const CDN_BASE_URL = 'https://cfcdn.sayed.app/watch/';
-
-// wsrv.nl image optimization service
-const WSRV_BASE = 'https://wsrv.nl';
-
-export const getMoviePosterUrl = (tmdbId: number | string, width?: number): string => {
-  const originalUrl = `${CDN_BASE_URL}movies/posters/${tmdbId}_poster.jpg`;
-  const w = width || 300;
-  return `${WSRV_BASE}/?url=${encodeURIComponent(originalUrl)}&w=${w}&output=webp&q=85&maxage=7d`;
+export const getMoviePosterUrl = (tmdbId: number | string): string => {
+  // Use local image API
+  return `/api/images?type=movies&category=posters&tmdb_id=${tmdbId}`;
 };
 
-export const getShowPosterUrl = (tmdbId: number | string, width?: number): string => {
-  const originalUrl = `${CDN_BASE_URL}shows/posters/${tmdbId}_poster.jpg`;
-  const w = width || 300;
-  return `${WSRV_BASE}/?url=${encodeURIComponent(originalUrl)}&w=${w}&output=webp&q=85&maxage=7d`;
+export const getShowPosterUrl = (tmdbId: number | string): string => {
+  // Use local image API
+  return `/api/images?type=shows&category=posters&tmdb_id=${tmdbId}`;
 };
 
-export const getShowSeasonPosterUrl = (tmdbId: number | string, season: number, width?: number): string => {
-  const originalUrl = `${CDN_BASE_URL}shows/posters/${tmdbId}/${season}/season_${season}_poster.jpg`;
-  const w = width || 300;
-  return `${WSRV_BASE}/?url=${encodeURIComponent(originalUrl)}&w=${w}&output=webp&q=85&maxage=7d`;
+export const getShowSeasonPosterUrl = (tmdbId: number | string, season: number): string => {
+  // Use local image API for season posters
+  return `/api/images?type=shows&category=posters&tmdb_id=${tmdbId}&season=${season}`;
 };
 
-export const getThumbnailUrl = (tmdbId: number | string, width?: number): string => {
-  const originalUrl = `${CDN_BASE_URL}thumbnails/thumb_${tmdbId}_poster.jpg`;
-  const w = width || 150;
-  return `${WSRV_BASE}/?url=${encodeURIComponent(originalUrl)}&w=${w}&output=webp&q=60&maxage=7d`;
+export const getThumbnailUrl = (tmdbId: number | string): string => {
+  // Use local image API for thumbnails
+  return `/api/images?category=posters&tmdb_id=${tmdbId}`;
 };
 
-// For profile picture (local file)
-export const getProfilePictureUrl = (width?: number): string => {
-  const originalUrl = `${window.location.origin}/data/imgs/dp.jpg`;
-  const w = width || 100;
-  return `${WSRV_BASE}/?url=${encodeURIComponent(originalUrl)}&w=${w}&maxage=1y&output=webp&q=85`;
-};
 
 export const getLetterboxdUrl = (imdbId: string): string => {
   return `https://letterboxd.com/imdb/${imdbId}`;

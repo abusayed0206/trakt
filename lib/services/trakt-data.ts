@@ -12,7 +12,7 @@ import type {
   TraktUserLists,
   TraktWatchedMovie,
   TraktWatchedShow,
-} from '@/lib/types/trakt';
+} from '@/lib/types';
 
 // Additional types for search results
 export interface SearchResult {
@@ -119,8 +119,8 @@ export class TraktDataService {
   }
 
   // Get index data
-  public getIndex(): TraktResponse | null {
-    return this.loadJsonFile<TraktResponse>('index.json');
+  public getIndex(): TraktResponse<unknown> | null {
+    return this.loadJsonFile<TraktResponse<unknown>>('index.json');
   }
 
   // User Profile
@@ -204,18 +204,16 @@ export class TraktDataService {
   }
 
   // Get specific list items by slug
-  public getListItems(slug: string): TraktResponse | null {
-    return this.loadJsonFile<TraktResponse>(`user/lists/${slug}_items.json`);
+  public getListItems(slug: string): TraktResponse<unknown> | null {
+    return this.loadJsonFile<TraktResponse<unknown>>(`user/lists/${slug}_items.json`);
   }
 
   // Get all available list items
-  public getAllListItems(): { [slug: string]: TraktResponse | null } {
+  public getAllListItems(): { [slug: string]: TraktResponse<unknown> | null } {
     const lists = this.getUserLists();
     if (!lists?.data) return {};
-
-    const listItems: { [slug: string]: TraktResponse | null } = {};
     
-    lists.data.forEach(list => {
+    const listItems: { [slug: string]: TraktResponse<unknown> | null } = {};    lists.data.forEach(list => {
       const slug = list.ids.slug;
       listItems[slug] = this.getListItems(slug);
     });
