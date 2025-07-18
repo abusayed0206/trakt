@@ -1,0 +1,651 @@
+Evrything fines.  Now, I need to make the homepage.  On homepage, I will show every data from the API. You will make compoents for each data type/API data i want to show in the homepage.
+Website color: soft, not too bright, 
+stack: Tailwind,nextjs
+small devices: 2 column for showing movies/tv shows in grid.
+additional info: I need you to link Leterboxd, Trakt, IMDB, TMDB dynamically. every entries has: Trakt,IMDB,TMDB. for letterboxd use this structure: https://letterboxd.com/imdb/[IMDBID e.g. ttXXXXX]
+use React icons for icons. 
+for using images: all images are saved in /public/data/imgs/
+Movies: /public/data/imgs/movies/
+SHows: /public/data/imgs/shows/
+Thumdnails: /public/data/imgs/thumdnails
+/media_index.json
+
+
+Always use nextjs Image tag and show thumbnails while loading the main images. 
+Alwasy ,check for eslint type safety. 
+
+
+
+I will give you an idea about how i want the homepage with components and details. you will improvis any idea and make the website more beautiful. you can get all api response in /public/data/json folder as the api is powered by these json files. 
+
+Using tailiwnd , make some beautiful stat component
+
+1. My profile picture(/public/data/imgs/dp.jpg) and stats include: total movies, movies watch time, tv shows, total numbver of episodes, watchtime etc from:
+
+
+
+User Profile
+GET /api/trakt/user/profile
+
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T10:50:38.834019+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/profile/basic.json",
+    "count": 1
+  },
+  "data": {
+    "username": "lrs",
+    "private": false,
+    "deleted": false,
+    "name": "SAYED",
+    "vip": false,
+    "vip_ep": false,
+    "director": false,
+    "ids": {
+      "slug": "lrs"
+    },
+    "joined_at": "2023-09-17T16:45:25.000Z",
+    "location": "Chittagong",
+    "about": "I live in Movies & TV Series!",
+
+ /api/trakt/user/stats
+
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T09:00:08.509071+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/stats/overview.json",
+    "count": 1
+  },
+  "data": {
+    "movies": {
+      "plays": 749,
+      "watched": 730,
+      "minutes": 93059,
+      "collected": 0,
+      "ratings": 10,
+      "comments": 0
+    },
+    "shows": {
+      "watched": 132,
+      "collected": 0,
+      "ratings": 0,
+      "comments": 0
+    },
+    "seasons": {
+      "ratings": 0,
+      "comments": 0
+    },
+    "episodes": {
+      "plays": 4512,
+      "watched": 3971,
+      "minutes": 215444,
+      "collected": 0,
+      "ratings": 1,
+      "comments": 0
+    },
+    "network": {
+      "friends": 1,
+      "followers": 8,
+      "following": 12
+    },
+    "ratings": {
+      "total": 11,
+      "distribution": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 2,
+        "6": 0,
+        "7": 1,
+        "8": 2,
+        "9": 2,
+        "10": 2
+      }
+
+
+
+2. Last watched Movies History: Show last watched movies(there are 10 entries,its fixed),poster avaiable at /public/data/movies/poster/[id]_poster.jpg 
+
+/api/trakt/user/history?type=movies
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T10:50:39.241510+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/history/movies.json",
+    "count": 10
+  },
+  "data": [
+    {
+      "id": 11016898510,
+      "watched_at": "2025-07-05T14:31:24.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "year": 2008,
+        "ids": {
+          "trakt": 176,
+          "slug": "indiana-jones-and-the-kingdom-of-the-crystal-skull-2008",
+          "imdb": "tt0367882",
+          "tmdb": 217
+        }
+      }
+    },
+    {
+      "id": 11016224053,
+      "watched_at": "2025-07-05T08:22:29.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 1989,
+        "ids": {
+          "trakt": 58,
+          "slug": "indiana-jones-and-the-last-crusade-1989",
+          "imdb": "tt0097576",
+          "tmdb": 89
+        }
+      }
+    },
+
+3. Last watched Shows: You need to show episode tilte,number ,season from here. and for poster, show season poster of that episode avaiable at: /public/data/imgs/shows/poster/[id]/[season]/season_[season]_poster.jpg: /api/trakt/user/history?type=shows
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T09:00:08.907642+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/history/shows.json",
+    "count": 10
+  },
+  "data": [
+    {
+      "id": 11056319177,
+      "watched_at": "2025-07-17T09:35:19.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 3,
+        "title": "Chapter 29",
+        "ids": {
+          "trakt": 998946,
+          "tvdb": 5043397,
+          "imdb": "tt3892088",
+          "tmdb": 1021726,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+
+
+4. Then show, Movies watchlist. You should show only 10 entires and a button 'Show more' to show remaining movies. API: /api/trakt/user/watchlist?type=movies
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T09:00:09.898375+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/watchlist/movies.json",
+    "count": 12
+  },
+  "data": [
+    {
+      "rank": 1,
+      "id": 1163472220,
+      "listed_at": "2025-01-28T14:24:49.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Selena Gomez: My Mind & Me",
+        "year": 2022,
+        "ids": {
+          "trakt": 821861,
+          "slug": "selena-gomez-my-mind-me-2022",
+          "imdb": "tt21819250",
+          "tmdb": 1022256
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "id": 1278771354,
+      "listed_at": "2025-07-15T15:09:18.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Ong Bak",
+        "year": 2003,
+        "ids": {
+          "trakt": 4614,
+          "slug": "ong-bak-2003",
+          "imdb": "tt0368909",
+          "tmdb": 9316
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "id": 1202044564,
+      "listed_at": "2025-03-25T18:35:34.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Zindagi Na Milegi Dobara",
+        "year": 2011,
+        "ids": {
+          "trakt": 43899,
+          "slug": "zindagi-na-milegi-dobara-2011",
+          "imdb": "tt1562872",
+          "tmdb": 61202
+        }
+      }
+    },
+
+5. Then show my Custom List. Custom list will be Card style with details from the list: name description share_link(It will show trakt icons with)
+/api/trakt/user/lists,
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T10:50:41.669503+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/lists/user_lists.json",
+    "count": 3
+  },
+  "data": [
+    {
+      "name": "Personal MDBList",
+      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/personal-mdblist\r\nUpdated at 2025-03-24 20:24:53",
+      "privacy": "public",
+      "share_link": "https://trakt.tv/lists/30436377",
+      "type": "personal",
+      "display_numbers": false,
+      "allow_comments": true,
+      "sort_by": "rank",
+      "sort_how": "asc",
+      "created_at": "2025-01-18T09:06:17.000Z",
+      "updated_at": "2025-03-26T06:43:15.000Z",
+      "item_count": 69,
+      "comment_count": 0,
+      "likes": 0,
+      "ids": {
+        "trakt": 30436377,
+        "slug": "personal-mdblist"
+      },
+      "user": {
+        "username": "lrs",
+        "private": false,
+        "deleted": false,
+        "name": "SAYED",
+        "vip": false,
+        "vip_ep": false,
+        "director": false,
+        "ids": {
+          "slug": "lrs"
+        }
+      }
+    },
+
+Then, 
+ANd a dropdown with the lists name(by default, 1st entries will be shown),
+/api/trakt/user/lists/series-watchlist-for-2025
+ {
+  "metadata": {
+    "fetched_at": "2025-07-18T10:50:42.337015+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/lists/series-watchlist-for-2025_items.json",
+    "count": 51
+  },
+  "data": [
+    {
+      "rank": 28,
+      "id": 1153031309,
+      "listed_at": "2025-01-08T18:22:39.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Walking Dead",
+        "year": 2010,
+        "ids": {
+          "trakt": 1393,
+          "slug": "the-walking-dead",
+          "tvdb": 153021,
+          "imdb": "tt1520211",
+          "tmdb": 1402,
+          "tvrage": null
+        },
+        "aired_episodes": 177
+      }
+    },
+    {
+      "rank": 20,
+      "id": 1153031269,
+      "listed_at": "2025-01-08T18:19:06.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Friends",
+        "year": 1994,
+        "ids": {
+          "trakt": 1657,
+          "slug": "friends",
+          "tvdb": 79168,
+          "imdb": "tt0108778",
+          "tmdb": 1668,
+          "tvrage": null
+        },
+        "aired_episodes": 229
+      }
+    },
+
+
+6. Then show my comments: /api/trakt/user/comments
+
+Show my recent comments horizontally with beautiful styles. 
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T10:50:42.646014+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/comments/all.json",
+    "count": 7
+  },
+  "data": [
+    {
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 1,
+        "title": "Chapter 14",
+        "ids": {
+          "trakt": 76048,
+          "tvdb": 4549213,
+          "imdb": "tt2811510",
+          "tmdb": 65184,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      },
+      "comment": {
+        "id": 835319,
+        "comment": "what the heck! didn't expect that!",
+        "spoiler": false,
+        "review": false,
+        "parent_id": 0,
+        "created_at": "2025-07-13T11:08:20.000Z",
+        "updated_at": "2025-07-13T11:08:20.000Z",
+        "replies": 0,
+        "likes": 0,
+        "user_rating": null,
+        "language": "en",
+        "user_stats": {
+          "rating": null,
+          "play_count": 1,
+          "completed_count": 1
+        },
+        "user": {
+          "username": "lrs",
+          "private": false,
+          "deleted": false,
+          "name": "SAYED",
+          "vip": false,
+          "vip_ep": false,
+          "director": false,
+          "ids": {
+            "slug": "lrs"
+          }
+        }
+      }
+    },
+
+7. Watched movies as grid and movies stat is also shown here like total numbe rof movies, watchtime. 
+Also, only 10 will be shown here. then a button to see more. 
+
+
+/api/trakt/user/watched?type=movies
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T10:50:40.288016+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/watched/movies.json",
+    "count": 730
+  },
+  "data": [
+    {
+      "plays": 3,
+      "last_watched_at": "2024-10-13T06:56:21.000Z",
+      "last_updated_at": "2024-10-13T06:56:44.000Z",
+      "movie": {
+        "title": "Shutter Island",
+        "year": 2010,
+        "ids": {
+          "trakt": 6422,
+          "slug": "shutter-island-2010",
+          "imdb": "tt1130884",
+          "tmdb": 11324
+        }
+      }
+    },
+    {
+      "plays": 3,
+      "last_watched_at": "2024-07-03T05:17:47.000Z",
+      "last_updated_at": "2024-07-03T05:17:47.000Z",
+      "movie": {
+        "title": "The Batman",
+        "year": 2022,
+        "ids": {
+          "trakt": 259852,
+          "slug": "the-batman-2022",
+          "imdb": "tt1877830",
+          "tmdb": 414906
+        }
+      }
+    },
+
+
+8. same for show. fyi, stats & show poster here.
+
+ Shows
+GET /api/trakt/user/watched?type=shows
+
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T09:00:09.647309+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/watched/shows.json",
+    "count": 132
+  },
+  "data": [
+    {
+      "plays": 28,
+      "last_watched_at": "2025-07-17T09:35:19.000Z",
+      "last_updated_at": "2025-07-17T09:35:19.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-07-10T08:11:40.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-07-10T08:55:03.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-07-10T16:46:26.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-07-10T17:29:12.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-07-10T18:17:50.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-07-10T19:05:47.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-07-10T19:59:27.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2025-07-11T08:22:14.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2025-07-11T10:11:54.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2025-07-11T10:53:03.000Z"
+            },
+            {
+              "number": 11,
+              "plays": 1,
+              "last_watched_at": "2025-07-11T13:13:57.000Z"
+            },
+            {
+              "number": 12,
+              "plays": 1,
+              "last_watched_at": "2025-07-13T05:10:32.000Z"
+            },
+            {
+              "number": 13,
+              "plays": 1,
+              "last_watched_at": "2025-07-13T06:56:36.000Z"
+            }
+          ]
+        },
+        {
+
+
+
+9. Then, add search interface with dropdown doe 'Movies/series' with these api. by default it should be Movies. 
+
+Search Movies
+GET /api/trakt/search?q=inception&type=movies
+
+{
+  "query": "inception",
+  "type": "movies",
+  "results": {
+    "movies": [
+      {
+        "movie": {
+          "title": "Inception",
+          "year": 2010,
+          "ids": {
+            "trakt": 16662,
+            "slug": "inception-2010",
+            "imdb": "tt1375666",
+            "tmdb": 27205
+          }
+        },
+        "plays": 1,
+        "last_watched_at": "2023-10-14T10:32:57.000Z",
+        "source": "watched"
+      }
+    ]
+  }
+}
+
+
+Search Shows
+GET /api/trakt/search?q=breaking&type=shows
+
+{
+  "query": "breaking",
+  "type": "shows",
+  "results": {
+    "shows": [
+      {
+        "show": {
+          "title": "Breaking Bad",
+          "year": 2008,
+          "ids": {
+            "trakt": 1388,
+            "slug": "breaking-bad",
+            "tvdb": 81189,
+            "imdb": "tt0903747",
+            "tmdb": 1396,
+            "tvrage": null
+          }
+        },
+        "plays": 62,
+        "last_watched_at": "2024-11-29T10:33:17.000Z",
+        "source": "watched"
+      }
+    ]
+  }
+}
+
+
+10. Then include, documentation page(/docs), api test(api-test) page and github link(https://github.com/abusayed0206/watch/)  as footer links. 
+
+
+For any types of grid poster. small device: 2 column, mediam:3 colum, large: 4 column, xl: 5 column. The thumbnail should be shown before loading the whole picture and use nextjs Image tag. The site wont have any dark/light mode support and everything should be components-ed.do not use any bright color. soft, minimalistic color. 
+
+for imgs you may also chechk this json: public/data/media_index.json.
+
+Base URL: https://cfcdn.sayed.app/watch/
+
+example poster url: https://cfcdn.sayed.app/watch/movies/posters/22_poster.jpg
+You need to use the media_index.json to understand the link structure of the images. then, map them dynamically. I am hosting the site on vercel. 
