@@ -52,6 +52,7 @@ jobs:
         env:
           TRAKT_API_KEY: ${{ secrets.TRAKT_API_KEY }}
           TRAKT_USERNAME: ${{ secrets.TRAKT_USERNAME }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
 
       - name: Commit Trakt data changes
         run: |
