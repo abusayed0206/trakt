@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-18T09:00:08.330500+00:00",
+    "fetched_at": "2025-07-18T10:18:04.170181+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/profile/basic.json",
@@ -16,6 +16,16 @@
     "director": false,
     "ids": {
       "slug": "lrs"
+    },
+    "joined_at": "2023-09-17T16:45:25.000Z",
+    "location": "Chittagong",
+    "about": "I live in Movies & TV Series!",
+    "gender": "male",
+    "age": 25,
+    "images": {
+      "avatar": {
+        "full": "https://walter-r2.trakt.tv/images/users/013/040/967/avatars/large/ac76b072d3.jpg"
+      }
     }
   }
 }
