@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { TraktDataService } from '@/lib/services/trakt-data';
 
+export const runtime = 'edge';
+
 const dataService = TraktDataService.getInstance();
 
 export async function GET(request: NextRequest) {
