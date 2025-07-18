@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "fetched_at": "2025-07-18T08:29:05.144692+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "index.json",
+    "count": 1
+  },
+  "data": {
+    "last_updated": "2025-07-18T08:29:05.144619+00:00",
+    "data_type": "personal_user_data",
+    "username": "lrs",
+    "authentication": "api_key_only",
+    "data_structure": {
+      "user": {
+        "profile": [
+          "basic.json"
+        ],
+        "stats": [
+          "overview.json"
+        ],
+        "history": [
+          "movies.json",
+          "shows.json"
+        ],
+        "watched": [
+          "movies.json",
+          "shows.json"
+        ],
+        "watchlist": [
+          "all.json",
+          "movies.json",
+          "shows.json"
+        ],
+        "lists": [
+          "user_lists.json",
+          "[list_slug]_items.json"
+        ],
+        "comments": [
+          "all.json"
+        ]
+      },
+      "genres": [
+        "movies.json",
+        "shows.json"
+      ],
+      "networks": [
+        "all.json"
+      ]
+    }
+  }
+}
