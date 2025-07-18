@@ -57,9 +57,7 @@ class TraktUserDataClient:
             'user/watched',
             'user/watchlist',
             'user/lists',
-            'user/comments',
-            'genres',
-            'networks'
+            'user/comments'
         ]
         
         for directory in directories:
@@ -249,21 +247,6 @@ class TraktUserDataClient:
         """Fetch basic metadata needed for media downloads"""
         logger.info("Fetching basic metadata...")
         
-        # Movie genres
-        movie_genres = self.make_request('/genres/movies')
-        if movie_genres:
-            self.save_json(movie_genres, 'genres/movies.json')
-        
-        # Show genres
-        show_genres = self.make_request('/genres/shows')
-        if show_genres:
-            self.save_json(show_genres, 'genres/shows.json')
-        
-        # Networks
-        networks = self.make_request('/networks')
-        if networks:
-            self.save_json(networks, 'networks/all.json')
-    
     def fetch_all_user_data(self):
         """Fetch all available user data from Trakt API"""
         logger.info(f"Starting personal Trakt data fetch for user: {self.username}")
@@ -295,9 +278,7 @@ class TraktUserDataClient:
                         'watchlist': ['all.json', 'movies.json', 'shows.json'],
                         'lists': ['user_lists.json', '[list_slug]_items.json'],
                         'comments': ['all.json']
-                    },
-                    'genres': ['movies.json', 'shows.json'],
-                    'networks': ['all.json']
+                    }
                 }
             }
             
