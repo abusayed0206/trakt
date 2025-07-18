@@ -335,9 +335,9 @@ Get items from a specific list by slug ID.
 
 #### `GET /api/images`
 
-**🚀 NEW: Direct Image Serving with In-Memory Caching**
+**🚀 NEW: CDN-Powered Image Serving with In-Memory Caching**
 
-This endpoint now serves image **bytes** directly in a single request using in-memory indexing for blazing fast performance.
+This endpoint now serves images directly from Cloudflare CDN with blazing fast performance using in-memory indexing for instant lookups.
 
 **Required Query Parameters:**
 
@@ -351,40 +351,45 @@ This endpoint now serves image **bytes** directly in a single request using in-m
 
 **Supported Endpoints:**
 
-**Movie & Show Images (serves image bytes directly):**
-- `/api/images?type=movies&category=posters&tmdb_id=XXX` - Movie poster bytes
-- `/api/images?type=movies&category=backdrops&tmdb_id=XXX` - Movie backdrop bytes
-- `/api/images?type=shows&category=posters&tmdb_id=XXX` - Show poster bytes  
-- `/api/images?type=shows&category=backdrops&tmdb_id=XXX` - Show backdrop bytes
-- `/api/images?type=shows&category=posters&tmdb_id=XXX&season=X` - Season X poster bytes
+**Movie & Show Images (redirects to CDN):**
+- `/api/images?type=movies&category=posters&tmdb_id=XXX` - Movie poster from CDN
+- `/api/images?type=movies&category=backdrops&tmdb_id=XXX` - Movie backdrop from CDN
+- `/api/images?type=shows&category=posters&tmdb_id=XXX` - Show poster from CDN  
+- `/api/images?type=shows&category=backdrops&tmdb_id=XXX` - Show backdrop from CDN
+- `/api/images?type=shows&category=posters&tmdb_id=XXX&season=X` - Season X poster from CDN
 
-**Thumbnails (serves image bytes directly):**
-- `/api/images?category=posters&tmdb_id=XXX` - Thumbnail poster bytes
-- `/api/images?category=backdrops&tmdb_id=XXX` - Thumbnail backdrop bytes
+**Thumbnails (redirects to CDN):**
+- `/api/images?category=posters&tmdb_id=XXX` - Thumbnail poster from CDN
+- `/api/images?category=backdrops&tmdb_id=XXX` - Thumbnail backdrop from CDN
 
 **Response:**
 
-✅ **Image bytes** with optimized headers:
-```http
-Content-Type: image/jpeg
-Cache-Control: public, max-age=31536000, immutable
-ETag: "path/to/image.jpg"
+✅ **HTTP 302 Redirect** to CDN URL:
 ```
+Location: https://cfcdn.sayed.app/watch/movies/posters/27205_poster.jpg
+```
+
+**CDN URLs:** All images are served from `https://cfcdn.sayed.app/watch/` with the same folder structure:
+- `https://cfcdn.sayed.app/watch/movies/posters/27205_poster.jpg`
+- `https://cfcdn.sayed.app/watch/shows/backdrops/1399_backdrop.jpg`
+- `https://cfcdn.sayed.app/watch/shows/posters/1399/1/season_1_poster.jpg`
+- `https://cfcdn.sayed.app/watch/thumbnails/thumb_27205_poster.jpg`
 
 **Performance Features:**
 
 - ✅ **In-Memory Index**: All image lookups happen in memory (no filesystem reads per request)
-- ✅ **Single Request**: One API call = image bytes (no extra lookup needed)
-- ✅ **Blazing Fast**: Sub-millisecond image resolution
-- ✅ **1-Year Caching**: Optimal browser and CDN caching
-- ✅ **Future-Proof**: Ready for S3/R2/CDN migration with zero frontend changes
+- ✅ **CDN-Powered**: Images served from Cloudflare CDN for global performance
+- ✅ **HTTP Redirects**: Browser/client automatically follows to CDN URL
+- ✅ **Blazing Fast**: Sub-millisecond image resolution + CDN edge caching
+- ✅ **Global Distribution**: Images served from nearest edge location
+- ✅ **Future-Proof**: Scalable CDN architecture with automatic caching
 
 **Usage with Next.js Image:**
 
 ```jsx
 import Image from 'next/image';
 
-// Movie poster - served directly as bytes
+// Movie poster - redirects to CDN
 <Image 
   src="/api/images?type=movies&category=posters&tmdb_id=27205"
   alt="Inception poster"
@@ -393,7 +398,7 @@ import Image from 'next/image';
   priority
 />
 
-// Thumbnail - ultra-fast loading
+// Thumbnail - ultra-fast CDN loading
 <Image 
   src="/api/images?category=posters&tmdb_id=27205"
   alt="Inception thumbnail"
@@ -409,6 +414,14 @@ import Image from 'next/image';
   width={300} 
   height={450}
   quality={90}
+/>
+
+// Direct CDN URLs (for advanced use cases)
+<Image 
+  src="https://cfcdn.sayed.app/watch/movies/posters/27205_poster.jpg"
+  alt="Direct CDN access"
+  width={300}
+  height={450}
 />
 ```
 
@@ -523,4 +536,4 @@ curl -X POST /api/trakt
 - All timestamps are in ISO 8601 format
 - Data is automatically fetched and updated daily via GitHub Actions
 - The API serves data from local JSON files, so it's fast and doesn't hit external APIs
-- Images are served directly through the optimized `/api/images` endpoint with in-memory caching
+- Images are served through Cloudflare CDN at `https://cfcdn.sayed.app/watch/` for optimal global performance
