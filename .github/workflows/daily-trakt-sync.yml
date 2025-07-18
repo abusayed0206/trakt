@@ -48,8 +48,7 @@ jobs:
 
       - name: Fetch Trakt data
         run: |
-          cd scripts
-          python manage_data.py fetch
+          python scripts/manage_data.py fetch
         env:
           TRAKT_API_KEY: ${{ secrets.TRAKT_API_KEY }}
           TRAKT_USERNAME: ${{ secrets.TRAKT_USERNAME }}
@@ -68,16 +67,27 @@ jobs:
 
       - name: Download media files
         run: |
-          cd scripts
-          python download_media.py
+          python scripts/download_media.py
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: Debug - Check downloaded files
+        run: |
+          echo "=== Checking if files were downloaded ==="
+          ls -la public/data/imgs/ || echo "imgs directory doesn't exist"
+          find public/data/imgs -name "*.jpg" -type f | head -10 || echo "No jpg files found"
+          echo "=== Git status before adding ==="
+          git status --porcelain
+          echo "=== Files that would be added ==="
+          git add --dry-run public/data/imgs/ || echo "Nothing to add"
 
       - name: Commit media files changes
         run: |
           git add public/data/imgs/
           if git diff --staged --quiet; then
             echo "No new media files to commit"
+            echo "=== Git status after staging ==="
+            git status --porcelain
           else
             git commit -m "🖼️ Update media files - $(date -u '+%Y-%m-%d %H:%M UTC')"
             echo "media_files_updated=true" >> $GITHUB_ENV

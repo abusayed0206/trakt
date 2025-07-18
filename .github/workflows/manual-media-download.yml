@@ -50,8 +50,7 @@ jobs:
 
       - name: Download media files
         run: |
-          cd scripts
-          python download_media.py
+          python scripts/download_media.py
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
 
