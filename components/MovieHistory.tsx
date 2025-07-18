@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { FaImdb, FaFilm } from 'react-icons/fa';
 import { SiTrakt, SiLetterboxd, SiThemoviedatabase } from 'react-icons/si';
-import { HistoryItem } from '@/lib/types/api';
+import { HistoryItem } from '@/lib/types';
 import { fetchMovieHistory } from '@/lib/services/api';
 import { getTraktUrl, getImdbUrl, getTmdbUrl, formatRelativeTime, getLetterboxdUrl } from '@/lib/utils/media';
 import LazyImage from './LazyImage';
