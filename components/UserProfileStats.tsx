@@ -11,7 +11,11 @@ import {
   FaPlay,
 } from "react-icons/fa";
 import { UserProfile, UserStats, WatchingData } from "@/lib/types";
-import { fetchUserProfile, fetchUserStats, fetchWatchingData } from "@/lib/services/api";
+import {
+  fetchUserProfile,
+  fetchUserStats,
+  fetchWatchingData,
+} from "@/lib/services/api";
 import { formatWatchTime } from "@/lib/utils/media";
 import { Icons } from "@/lib/utils/icons";
 
@@ -105,15 +109,15 @@ export default function UserProfileStats() {
     const progressPercentage = content.progress?.percentage || 0;
 
     return (
-      <div 
+      <div
         className="relative overflow-hidden rounded-xl mb-8 shadow-lg"
         style={{
-          backgroundImage: content.images.backdrop 
+          backgroundImage: content.images.backdrop
             ? `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${content.images.backdrop})`
-            : 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
-          minHeight: '200px',
+            : "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+          minHeight: "200px",
         }}
       >
         <div className="relative z-10 p-6 text-white">
@@ -123,18 +127,16 @@ export default function UserProfileStats() {
               Now Watching
             </span>
           </div>
-          
+
           <div className="space-y-2">
             <h2 className="text-2xl md:text-3xl font-bold leading-tight">
               {content.title}
             </h2>
             {content.subtitle && (
-              <p className="text-lg text-gray-200">
-                {content.subtitle}
-              </p>
+              <p className="text-lg text-gray-200">{content.subtitle}</p>
             )}
             <p className="text-sm text-gray-300">
-              {content.year} • {content.type === 'movie' ? 'Movie' : 'TV Show'}
+              {content.year} • {content.type === "movie" ? "Movie" : "TV Show"}
             </p>
           </div>
 
@@ -142,60 +144,88 @@ export default function UserProfileStats() {
             <div className="mt-6">
               <div className="flex justify-between items-center mb-2">
                 <span className="text-sm text-gray-300">Progress</span>
-                <span className="text-sm text-gray-300">{progressPercentage}%</span>
+                <span className="text-sm text-gray-300">
+                  {progressPercentage}%
+                </span>
               </div>
               <div className="w-full bg-gray-700 rounded-full h-2">
-                <div 
+                <div
                   className="bg-green-400 h-2 rounded-full transition-all duration-300"
                   style={{ width: `${Math.min(progressPercentage, 100)}%` }}
                 />
               </div>
               <div className="flex justify-between items-center mt-1 text-xs text-gray-400">
                 <span>
-                  Started: {new Date(content.progress.started_at).toLocaleTimeString([], { 
-                    hour: '2-digit', 
-                    minute: '2-digit' 
-                  })}
+                  Started:{" "}
+                  {new Date(content.progress.started_at).toLocaleTimeString(
+                    [],
+                    {
+                      hour: "2-digit",
+                      minute: "2-digit",
+                    }
+                  )}
                 </span>
                 <span>
-                  Ends: {new Date(content.progress.expires_at).toLocaleTimeString([], { 
-                    hour: '2-digit', 
-                    minute: '2-digit' 
-                  })}
+                  Ends:{" "}
+                  {new Date(content.progress.expires_at).toLocaleTimeString(
+                    [],
+                    {
+                      hour: "2-digit",
+                      minute: "2-digit",
+                    }
+                  )}
                 </span>
               </div>
             </div>
           )}
 
-          <div className="flex gap-4 mt-4 text-xs text-gray-400">
-            <a 
-              href={`https://trakt.tv/${content.type === 'movie' ? 'movies' : 'shows'}/${content.ids.trakt}`}
+          <div className="flex gap-4 justify-center mt-4 text-xs text-gray-400">
+            {content.type === "movie" && (
+              <a
+                href={`https://letterboxd.com/${profile.username}/film/${content.ids.imdb}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-white transition-colors"
+              >
+                <Icons.Letterboxd className="inline w-5 h-5 mr-1" />
+                LB
+              </a>
+            )}
+
+            <a
+              href={`https://trakt.tv/${
+                content.type === "movie" ? "movies" : "shows"
+              }/${content.ids.trakt}`}
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"
             >
-              <Icons.Trakt className="inline w-4 h-4 mr-1" />
+              <Icons.Trakt className="inline w-5 h-5 mr-1" />
               Trakt
             </a>
-            <a 
+            <a
               href={`https://www.imdb.com/title/${content.ids.imdb}`}
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"
             >
-              IMDb
+              <Icons.Imdb className="inline w-4 h-4 mr-1" />
+              IMDB
             </a>
-            <a 
-              href={`https://www.themoviedb.org/${content.type === 'movie' ? 'movie' : 'tv'}/${content.ids.tmdb}`}
+            <a
+              href={`https://www.themoviedb.org/${
+                content.type === "movie" ? "movie" : "tv"
+              }/${content.ids.tmdb}`}
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"
             >
+              <Icons.Tmdb className="inline w-4 h-4 mr-1" />
               TMDB
             </a>
           </div>
         </div>
-        
+
         {/* Overlay gradient for better text readability */}
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-black/30" />
       </div>
@@ -315,13 +345,17 @@ export default function UserProfileStats() {
         </div>
       </div>
 
-      {/* Additional Stats */}
+      {/* Additional Stats 
+
+    [I intensionally commented this code. As I dont want to show this stats in the profile page.]
+
+
       <div className="grid grid-cols-3 gap-6 mt-8 pt-8 border-t border-gray-200">
         <div className="text-center bg-gray-50 rounded-xl p-6 border border-gray-100 hover:shadow-md transition-shadow">
           <p className="text-sm text-gray-600 mb-2 font-medium uppercase tracking-wide">
             Total Plays
           </p>
-          <p className="text-3xl font-bold text-gray-800">
+          <p className="md:text-sm text-2xl font-bold text-gray-800">
             {(stats.movies.plays + stats.episodes.plays).toLocaleString()}
           </p>
         </div>
@@ -337,11 +371,12 @@ export default function UserProfileStats() {
           <p className="text-sm text-gray-600 mb-2 font-medium uppercase tracking-wide">
             Following
           </p>
-          <p className="text-3xl font-bold text-gray-800">
+          <p className="text-xl font-bold text-gray-800">
             {stats.network.following.toLocaleString()}
           </p>
         </div>
       </div>
+      */}
     </div>
   );
 }
