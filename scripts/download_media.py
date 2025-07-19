@@ -15,7 +15,6 @@ from dotenv import load_dotenv
 from pathlib import Path
 import logging
 from urllib.parse import urlparse
-from PIL import Image
 import hashlib
 
 # Load environment variables
@@ -63,8 +62,7 @@ class MediaDownloader:
             'movies/posters',
             'movies/backdrops',
             'shows/posters', 
-            'shows/backdrops',
-            'thumbnails'
+            'shows/backdrops'
         ]
         
         for directory in directories:
@@ -97,8 +95,8 @@ class MediaDownloader:
             logger.error(f"Error fetching TMDB {endpoint}: {e}")
             return None
     
-    def download_image(self, image_url, filepath, create_thumbnail=True):
-        """Download image from URL and optionally create thumbnail"""
+    def download_image(self, image_url, filepath):
+        """Download image from URL"""
         try:
             # Check if file already exists
             if filepath.exists():
@@ -119,33 +117,11 @@ class MediaDownloader:
             
             logger.info(f"Downloaded: {filepath}")
             
-            # Create thumbnail
-            if create_thumbnail:
-                self.create_thumbnail(filepath)
-            
             return True
             
         except Exception as e:
             logger.error(f"Error downloading {image_url}: {e}")
             return False
-    
-    def create_thumbnail(self, image_path, size=(150, 225)):
-        """Create thumbnail for image"""
-        try:
-            thumbnail_dir = self.images_dir / 'thumbnails'
-            thumbnail_path = thumbnail_dir / f"thumb_{image_path.name}"
-            
-            if thumbnail_path.exists():
-                return
-            
-            with Image.open(image_path) as img:
-                img.thumbnail(size, Image.Resampling.LANCZOS)
-                img.save(thumbnail_path, optimize=True, quality=85)
-            
-            logger.debug(f"Created thumbnail: {thumbnail_path}")
-            
-        except Exception as e:
-            logger.error(f"Error creating thumbnail for {image_path}: {e}")
     
     def get_movie_images(self, tmdb_id):
         """Get movie images from TMDB"""
@@ -383,8 +359,7 @@ class MediaDownloader:
                 'posters': [],
                 'backdrops': [],
                 'season_posters': {}
-            },
-            'thumbnails': []
+            }
         }
         
         # Index movie images
@@ -423,12 +398,6 @@ class MediaDownloader:
             # Show backdrops
             for backdrop in (shows_dir / 'backdrops').glob('*.jpg'):
                 media_index['shows']['backdrops'].append(backdrop.name)
-        
-        # Index thumbnails
-        thumbnails_dir = self.images_dir / 'thumbnails'
-        if thumbnails_dir.exists():
-            for thumb in thumbnails_dir.glob('*.jpg'):
-                media_index['thumbnails'].append(thumb.name)
         
         # Save index
         # Ensure the directory exists for media_index.json
