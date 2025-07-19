@@ -238,7 +238,7 @@ export default function UserProfileStats() {
       <div className="flex flex-col items-center gap-6 mb-10">
         <div className="relative">
           <img
-            src="https://wsrv.nl/?url=https://cfcdn.sayed.app/watch/dp.jpg&w=300&output=webp&q=85&maxage=31d"
+            src="https://wsrv.nl/?url=https://cfcdn.sayed.app/watch/dp.jpg&w=104&output=webp&q=85&maxage=14d"
             alt="Sayed's Profile Picture"
             className="w-28 h-28 rounded-full border-4 border-gray-200 object-cover shadow-lg"
             loading="eager"

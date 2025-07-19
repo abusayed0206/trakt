@@ -143,7 +143,7 @@ async function fetchTMDBImages(tmdbId: number, type: 'movie' | 'tv'): Promise<st
       .map(backdrop => {
         const tmdbUrl = `https://image.tmdb.org/t/p/w1280${backdrop.file_path}`;
         // Add wsrv proxy with 24 day cache (24 * 24 * 3600 = 2,073,600 seconds)
-        return `https://wsrv.nl/?url=${encodeURIComponent(tmdbUrl)}&maxage=2073600`;
+        return `https://wsrv.nl/?url=${encodeURIComponent(tmdbUrl)}&maxage=14d`;
       });
 
     return backdrops;

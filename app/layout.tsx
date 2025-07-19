@@ -55,9 +55,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="preconnect" href="https://wsrv.nl" />
+        <link rel="preconnect" href="https://wsrv.nl" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="https://cfcdn.sayed.app" />
       </head>
+
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
