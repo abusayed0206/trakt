@@ -26,7 +26,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 class MediaDownloader:
-    def __init__(self):
+    def __init__(self, cdn_repo_path=None):
         self.tmdb_api_key = os.getenv('TMDB_API_KEY')
         
         if not self.tmdb_api_key:
@@ -43,7 +43,15 @@ class MediaDownloader:
         
         # Create output directories
         self.data_dir = Path('public/data/json')
-        self.images_dir = Path('public/data/imgs')
+        
+        # Use CDN repo path if provided, otherwise fallback to local
+        if cdn_repo_path:
+            self.images_dir = Path(cdn_repo_path) / 'watch'
+            self.media_index_path = Path('public/data/media_index.json').resolve()  # Save index to main repo
+        else:
+            self.images_dir = Path('public/data/imgs')
+            self.media_index_path = self.images_dir / 'media_index.json'  # Save index to images dir
+        
         self.create_directory_structure()
         
         # Rate limiting
@@ -423,19 +431,29 @@ class MediaDownloader:
                 media_index['thumbnails'].append(thumb.name)
         
         # Save index
-        index_path = self.images_dir / 'media_index.json'
-        with open(index_path, 'w', encoding='utf-8') as f:
+        # Ensure the directory exists for media_index.json
+        self.media_index_path.parent.mkdir(parents=True, exist_ok=True)
+        
+        with open(self.media_index_path, 'w', encoding='utf-8') as f:
             json.dump(media_index, f, indent=2)
         
-        logger.info(f"Created media index: {index_path}")
+        logger.info(f"Created media index: {self.media_index_path}")
         logger.info(f"Indexed {len(media_index['movies']['posters'])} movie posters, "
                    f"{len(media_index['shows']['posters'])} show posters, "
                    f"{len(media_index['shows']['season_posters'])} shows with season posters")
 
 def main():
     """Main function"""
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Download media files for Trakt data')
+    parser.add_argument('--cdn-repo-path', 
+                       help='Path to the CDN repository where images will be stored')
+    
+    args = parser.parse_args()
+    
     try:
-        downloader = MediaDownloader()
+        downloader = MediaDownloader(cdn_repo_path=args.cdn_repo_path)
         downloader.download_all_media()
         
     except Exception as e:
