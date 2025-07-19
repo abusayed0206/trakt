@@ -21,44 +21,33 @@ A modern, high-performance Next.js application that provides a beautiful dashboa
 - **Data Source**: Trakt.tv API with daily data synchronization
 - **Hosting**: Optimized for Cloudflare Pages deployment
 
-## 📁 Project Structure
-
-```
-├── app/
-│   ├── api/                    # API routes
-│   │   ├── trakt/             # Trakt data endpoints
-│   │   └── images/            # Optimized image serving
-│   ├── components/            # React components
-│   └── globals.css           # Global styles
-├── lib/
-│   ├── services/             # Data services and API logic
-│   ├── types/               # TypeScript type definitions
-│   └── utils/               # Utility functions
-├── public/
-│   └── data/                # Pre-processed JSON data
-└── scripts/                 # Data fetching and processing scripts
-```
+````
 
 ## 🛠️ Setup & Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/abusayed0206/watch
    cd watch
-   ```
+````
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Set up environment variables**
+
    ```bash
    cp .env.example .env.local
    ```
+
    Add your Trakt.tv API credentials and configuration.
 
 4. **Fetch initial data**
+
    ```bash
    cd scripts
    python fetch_trakt_data.py
@@ -107,6 +96,7 @@ Advanced image loading system for optimal performance:
 The application provides a comprehensive REST API:
 
 ### Trakt Data API
+
 - `GET /api/trakt` - Main index and overview
 - `GET /api/trakt/user/profile` - User profile information
 - `GET /api/trakt/user/history` - Watch history
@@ -114,6 +104,7 @@ The application provides a comprehensive REST API:
 - `GET /api/trakt/search?q=query` - Search functionality
 
 ### Image API
+
 - `GET /api/images?type=movies&category=posters&tmdb_id=123` - Full images
 
 ## 📱 Components
@@ -130,6 +121,7 @@ The application provides a comprehensive REST API:
 Optimized for Cloudflare Pages:
 
 1. **Build the application**
+
    ```bash
    npm run build
    ```
@@ -147,11 +139,11 @@ TRAKT_CLIENT_ID=your_client_id
 TMDB_API_KEY=your_client_secret
 
 
-# Image CDN Configuration  
+# Image CDN Configuration
 CDN_BASE_URL=https://your-cdn.com
 WSRV_BASE_URL=https://wsrv.nl
 
-
+```
 
 ## 📈 Performance Features
 
@@ -179,3 +171,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [wsrv.nl](https://wsrv.nl) for image optimization services
 - [Next.js](https://nextjs.org) for the amazing framework
 - [Tailwind CSS](https://tailwindcss.com) for the utility-first CSS framework
+- [TMDB](https://themoviedb.org) for movie/show metadata
+
+## Notes
+
+This projects code is heavily written by Claude Sonnet 4. ALso, the documentation is not up to date. Please refer to the code for the latest features and updates.
