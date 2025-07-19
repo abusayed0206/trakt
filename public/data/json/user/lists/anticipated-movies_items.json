@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-19T06:22:12.519529+00:00",
+    "fetched_at": "2025-07-19T07:23:08.985942+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
-    "count": 17
+    "count": 18
   },
   "data": [
     {
@@ -23,6 +23,23 @@
           "imdb": "tt2085059",
           "tmdb": 42009,
           "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 18,
+      "id": 1281569799,
+      "listed_at": "2025-07-19T07:17:57.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Thunderbolts*",
+        "year": 2025,
+        "ids": {
+          "trakt": 792299,
+          "slug": "thunderbolts-2025",
+          "imdb": "tt20969586",
+          "tmdb": 986056
         }
       }
     },
