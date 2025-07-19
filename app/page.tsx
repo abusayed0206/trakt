@@ -17,6 +17,9 @@ export default function HomePage() {
         {/* User Profile & Stats */}
         <UserProfileStats />
         {/* Search Interface */}
+
+        {/* Comments */}
+        <UserComments />
         <SearchInterface />
         <MovieHistory />
         <ShowHistory />
@@ -24,9 +27,6 @@ export default function HomePage() {
         {/* Watchlist & Lists */}
         <MovieWatchlist />
         <CustomLists />
-
-        {/* Comments */}
-        <UserComments />
 
         {/* Watched Content Grids */}
         <WatchedMoviesGrid />

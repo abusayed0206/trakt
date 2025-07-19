@@ -20,6 +20,7 @@
    - **Base**: `/api/trakt` - Index data and cache control
    - **Profile**: `/api/trakt/user/profile` - User information
    - **Stats**: `/api/trakt/user/stats` - Viewing statistics
+   - **Watching**: `/api/watching` - **NEW! Real-time scrobble data with TMDB images**
    - **History**: `/api/trakt/user/history` - Watch history (movies/shows/all)
    - **Watched**: `/api/trakt/user/watched` - Watched content with play counts
    - **Watchlist**: `/api/trakt/user/watchlist` - Watchlist items
@@ -59,6 +60,11 @@
 - **Type filtering**: Filter by movies, shows, or all content
 - **Source tracking**: Know if content is in watchlist, watched, or history
 
+### 📺 **Real-time Features** ⭐ **NEW**
+- **Live scrobble data**: Real-time "now watching" information from Trakt
+- **TMDB integration**: High-quality backdrop images automatically fetched
+- **Progress tracking**: Watch progress with time remaining calculations
+- **Responsive UI**: Dynamic banner display when actively watching content
 
 ### 🛡️ **Reliability**
 - **Error handling**: Comprehensive error responses with proper HTTP status codes
@@ -84,7 +90,8 @@
 ├── GET     /user/comments       # User comments
 ├── GET     /user/lists          # User lists
 ├── GET     /search              # Search (?q=query&type=movies|shows|all)
-└── GET     /summary             # Stats summary
+|── GET     /summary             # Stats summary
+└── GET     /watching            # 📺 NEW! Real-time scrobble data with TMDB images
 ```
 
 ## 🎯 **Example Usage**

@@ -44,7 +44,7 @@ export async function GET(request: NextRequest) {
     const cdnUrl = `${CDN_BASE_URL}${result.basePath}/${filename}`;
     
     // Build wsrv.nl URL with optimizations
-    const wsrvUrl = `${WSRV_BASE}/?url=${encodeURIComponent(cdnUrl)}&w=400&output=webp&q=85&maxage=7d`;
+    const wsrvUrl = `${WSRV_BASE}/?url=${encodeURIComponent(cdnUrl)}&w=400&output=webp&q=90&maxage=31d`;
     
     // Redirect to wsrv.nl
     return NextResponse.redirect(wsrvUrl, 302);

@@ -2,11 +2,11 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { FaImdb, FaTv } from 'react-icons/fa';
-import { SiTrakt, SiThemoviedatabase } from 'react-icons/si';
+import { FaTv } from 'react-icons/fa';
 import { HistoryItem } from '@/lib/types';
 import { fetchShowHistory } from '@/lib/services/api';
 import { getTraktUrl, getImdbUrl, getTmdbUrl, formatRelativeTime } from '@/lib/utils/media';
+import { Icons } from '@/lib/utils/icons';
 import LazyImage from './LazyImage';
 
 export default function ShowHistory() {
@@ -71,33 +71,33 @@ export default function ShowHistory() {
             </div>
             
             {/* External links below poster */}
-            <div className="flex gap-2 mb-2 justify-center">
+            <div className="flex gap-4 mb-2 justify-center">
               <Link
                 href={getTraktUrl(item.show!.ids.trakt, 'show')}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-gray-800 text-white p-2 rounded-xl"
+                className="rounded-lg"
                 title="View on Trakt"
               >
-                <SiTrakt className="w-6 h-6" />
+                <Icons.Trakt className="w-6 h-6" />
               </Link>
               <Link
                 href={getImdbUrl(item.show!.ids.imdb)}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-white text-gray-800 p-2 rounded-xl border border-gray-300"
+                className="rounded-lg"
                 title="View on IMDB"
               >
-                <FaImdb className="w-6 h-6" />
+                <Icons.Imdb className="w-6 h-6" />
               </Link>
               <Link
                 href={getTmdbUrl(item.show!.ids.tmdb, 'tv')}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-gray-800 text-white p-2 rounded-xl"
+                className="rounded-lg"
                 title="View on TMDB"
               >
-                <SiThemoviedatabase className="w-6 h-6" />
+                <Icons.Tmdb className="w-6 h-6" />
               </Link>
             </div>
             

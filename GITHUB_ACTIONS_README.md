@@ -28,7 +28,7 @@ Go to your main repository → Settings → Secrets and variables → Actions
 | `TRAKT_API_KEY` | Your Trakt API Client ID | `abc123def456...` |
 | `TRAKT_USERNAME` | Your Trakt username | `yourusername` |
 | `TMDB_API_KEY` | Your TMDB API key | `xyz789uvw...` |
-| `CDN_REPO_TOKEN` | Personal Access Token for CDN repo | `ghp_xxxxxxxxxxxx` |
+| ` PAT_TOKEN` | Personal Access Token for CDN repo | `ghp_xxxxxxxxxxxx` |
 
 #### CDN Repository Secrets
 Go to your CDN repository → Settings → Secrets and variables → Actions
@@ -46,7 +46,7 @@ For the main repository to access your CDN repository, you need a Personal Acces
 3. Select scopes:
    - `repo` (Full control of private repositories)
    - `workflow` (Update GitHub Action workflows)
-4. Copy the token and add it as `CDN_REPO_TOKEN` secret in your main repository
+4. Copy the token and add it as ` PAT_TOKEN` secret in your main repository
 
 ### 4. Update Repository Names in Workflows
 
@@ -59,7 +59,7 @@ In your main repository, update the workflow files to use your repository names:
   uses: actions/checkout@v4
   with:
     repository: your-username/cdn  # Change this to your CDN repo
-    token: ${{ secrets.CDN_REPO_TOKEN }}
+    token: ${{ secrets. PAT_TOKEN }}
     path: cdn-repo
 ```
 
@@ -70,7 +70,7 @@ In your main repository, update the workflow files to use your repository names:
   uses: actions/checkout@v4
   with:
     repository: your-username/cdn  # Change this to your CDN repo
-    token: ${{ secrets.CDN_REPO_TOKEN }}
+    token: ${{ secrets. PAT_TOKEN }}
     path: cdn-repo
 ```
 
@@ -208,11 +208,11 @@ You can manually trigger workflows:
 
 1. **"Repository not found" error**:
    - Verify CDN repository name in workflow files
-   - Check that `CDN_REPO_TOKEN` has correct permissions
+   - Check that ` PAT_TOKEN` has correct permissions
 
 2. **"Permission denied" error**:
    - Ensure Personal Access Token has `repo` and `workflow` scopes
-   - Verify token is added as `CDN_REPO_TOKEN` secret
+   - Verify token is added as ` PAT_TOKEN` secret
 
 3. **Media files not loading**:
    - Check that CDN URL is correctly configured

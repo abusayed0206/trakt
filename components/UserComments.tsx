@@ -3,10 +3,10 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { FaComment, FaHeart, FaReply } from 'react-icons/fa';
-import { SiTrakt } from 'react-icons/si';
 import { CommentItem } from '@/lib/types';
 import { fetchUserComments } from '@/lib/services/api';
 import { getTraktUrl, formatRelativeTime } from '@/lib/utils/media';
+import { Icons } from '@/lib/utils/icons';
 
 export default function UserComments() {
   const [comments, setComments] = useState<CommentItem[]>([]);
@@ -79,7 +79,7 @@ export default function UserComments() {
         {comments.slice(0, displayCount).map((item) => (
           <div key={item.comment.id} className="bg-gray-50 rounded-xl p-4 hover:bg-gray-100 transition-colors border border-gray-100 hover:shadow-md">
             <div className="flex items-center gap-3 mb-3">
-              <SiTrakt className="text-gray-700 flex-shrink-0 w-5 h-5" />
+              <Icons.Trakt className="text-gray-700 flex-shrink-0 w-5 h-5" />
               <div className="flex-1 min-w-0">
                 <Link
                   href={getTraktUrl(

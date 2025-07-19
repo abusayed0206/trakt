@@ -2,11 +2,11 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { FaBookmark, FaImdb } from 'react-icons/fa';
-import { SiTrakt, SiLetterboxd, SiThemoviedatabase } from 'react-icons/si';
+import { FaBookmark } from 'react-icons/fa';
 import { WatchlistItem } from '@/lib/types';
 import { fetchMovieWatchlist } from '@/lib/services/api';
 import { getLetterboxdUrl, getTraktUrl, getImdbUrl, getTmdbUrl, formatDate } from '@/lib/utils/media';
+import { Icons } from '@/lib/utils/icons';
 import LazyImage from './LazyImage';
 
 export default function MovieWatchlist() {
@@ -78,42 +78,42 @@ export default function MovieWatchlist() {
             </div>
             
             {/* External links below poster */}
-            <div className="flex gap-2 mb-2 justify-center">
+            <div className="flex gap-4 mb-2 justify-center">
               <Link
                 href={getLetterboxdUrl(item.movie!.ids.imdb)}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-gray-800 text-white p-2 rounded-xl"
+                className="rounded-lg"
                 title="View on Letterboxd"
               >
-                <SiLetterboxd className="w-6 h-6" />
+                <Icons.Letterboxd className="w-6 h-6" />
               </Link>
               <Link
                 href={getTraktUrl(item.movie!.ids.trakt, 'movie')}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-gray-800 text-white p-2 rounded-xl"
+                className="rounded-lg"
                 title="View on Trakt"
               >
-                <SiTrakt className="w-6 h-6" />
+                <Icons.Trakt className="w-6 h-6" />
               </Link>
               <Link
                 href={getImdbUrl(item.movie!.ids.imdb)}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-white text-gray-800 p-2 rounded-xl border border-gray-300"
+                className="rounded-lg"
                 title="View on IMDB"
               >
-                <FaImdb className="w-6 h-6" />
+                <Icons.Imdb className="w-6 h-6" />
               </Link>
               <Link
                 href={getTmdbUrl(item.movie!.ids.tmdb, 'movie')}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-gray-800 text-white p-2 rounded-xl"
+                className="rounded-lg"
                 title="View on TMDB"
               >
-                <SiThemoviedatabase className="w-6 h-6" />
+                <Icons.Tmdb className="w-6 h-6" />
               </Link>
             </div>
             

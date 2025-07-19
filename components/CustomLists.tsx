@@ -2,11 +2,11 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { FaImdb, FaList, FaChevronDown } from 'react-icons/fa';
-import { SiTrakt, SiLetterboxd, SiThemoviedatabase } from 'react-icons/si';
+import { FaList, FaChevronDown } from 'react-icons/fa';
 import { UserList, ListItem } from '@/lib/types';
 import { fetchUserLists, fetchListItems } from '@/lib/services/api';
 import { getLetterboxdUrl, getTraktUrl, getImdbUrl, getTmdbUrl, formatDate } from '@/lib/utils/media';
+import { Icons } from '@/lib/utils/icons';
 import LazyImage from './LazyImage';
 
 export default function CustomLists() {
@@ -94,7 +94,7 @@ export default function CustomLists() {
                 className="text-gray-700 hover:text-gray-800 transition-colors bg-gray-100 p-2 rounded-lg hover:bg-gray-200"
                 title="View on Trakt"
               >
-                <SiTrakt className="w-4 h-4" />
+                <Icons.Trakt className="w-4 h-4" />
               </Link>
             </div>
             <p className="text-gray-600 text-sm mb-3 line-clamp-3">{list.description}</p>
@@ -169,16 +169,16 @@ export default function CustomLists() {
                     </div>
                     
                     {/* External links below poster */}
-                    <div className="flex gap-2 mb-2 justify-center">
+                    <div className="flex gap-4 mb-2 justify-center">
                       {item.type === 'movie' && (
                         <Link
                           href={getLetterboxdUrl(item.movie!.ids.imdb)}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="bg-gray-800 text-white p-2 rounded-xl"
+                          className="rounded-lg"
                           title="View on Letterboxd"
                         >
-                          <SiLetterboxd className="w-6 h-6" />
+                          <Icons.Letterboxd className="w-6 h-6" />
                         </Link>
                       )}
                       <Link
@@ -188,19 +188,19 @@ export default function CustomLists() {
                         )}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="bg-gray-800 text-white p-2 rounded-xl"
+                        className="rounded-lg"
                         title="View on Trakt"
                       >
-                        <SiTrakt className="w-6 h-6" />
+                        <Icons.Trakt className="w-6 h-6" />
                       </Link>
                       <Link
                         href={getImdbUrl(item.type === 'movie' ? item.movie!.ids.imdb : item.show!.ids.imdb)}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="bg-white text-gray-800 p-2 rounded-xl border border-gray-300"
+                        className="rounded-lg"
                         title="View on IMDB"
                       >
-                        <FaImdb className="w-6 h-6" />
+                        <Icons.Imdb className="w-6 h-6" />
                       </Link>
                       <Link
                         href={getTmdbUrl(
@@ -209,10 +209,10 @@ export default function CustomLists() {
                         )}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="bg-gray-800 text-white p-2 rounded-xl"
+                        className="rounded-lg"
                         title="View on TMDB"
                       >
-                        <SiThemoviedatabase className="w-6 h-6" />
+                        <Icons.Tmdb className="w-6 h-6" />
                       </Link>
                     </div>
                     

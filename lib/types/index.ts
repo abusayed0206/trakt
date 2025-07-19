@@ -287,3 +287,33 @@ export type TraktUserLists = ApiResponse<UserList[]>;
 
 // For backwards compatibility
 export type MovieWatchHistoryItem = HistoryItem;
+
+// Watching/Scrobble Types
+export interface WatchingProgress {
+  started_at: string;
+  expires_at: string;
+  percentage?: number;
+}
+
+export interface WatchingContent {
+  type: 'movie' | 'episode';
+  title: string;
+  subtitle?: string;
+  year: number;
+  progress?: WatchingProgress;
+  images: {
+    backdrop?: string;
+    backdrop_medium?: string;
+    backdrop_small?: string;
+  };
+  ids: {
+    trakt: number;
+    tmdb: number;
+    imdb: string;
+  };
+}
+
+export interface WatchingData {
+  isWatching: boolean;
+  content?: WatchingContent;
+}

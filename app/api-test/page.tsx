@@ -14,6 +14,9 @@ const API_ENDPOINTS: ApiEndpoint[] = [
   { name: 'User Profile', url: '/api/trakt/user/profile', description: 'User profile information', method: 'GET' },
   { name: 'User Stats', url: '/api/trakt/user/stats', description: 'User statistics overview', method: 'GET' },
   
+  // Currently Watching
+  { name: 'Now Watching', url: '/api/watching', description: 'Currently watching (scrobble) data with TMDB images', method: 'GET' },
+  
   // History endpoints
   { name: 'All History', url: '/api/trakt/user/history', description: 'Complete watch history', method: 'GET' },
   { name: 'Movie History', url: '/api/trakt/user/history?type=movies', description: 'Movie watch history only', method: 'GET' },

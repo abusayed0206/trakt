@@ -75,7 +75,64 @@ Clear the in-memory cache to refresh data from JSON files.
 
 ---
 
-### 👤 User Profile & Statistics
+### � Currently Watching
+
+#### `GET /api/watching`
+
+Get real-time scrobble data showing what the user is currently watching, with enhanced metadata from TMDB.
+
+**Features:**
+- Real-time scrobble detection from Trakt API
+- TMDB backdrop images in multiple resolutions
+- Progress calculation and time remaining
+- Works for both movies and TV episodes
+
+**Response when watching:**
+
+```json
+{
+  "isWatching": true,
+  "content": {
+    "type": "episode",
+    "title": "House of Cards",
+    "subtitle": "S3E10 - Chapter 36", 
+    "year": 2013,
+    "progress": {
+      "started_at": "2025-07-19T13:00:12.000Z",
+      "expires_at": "2025-07-19T13:57:12.000Z",
+      "percentage": 45
+    },
+    "images": {
+      "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+      "backdrop_medium": "https://image.tmdb.org/t/p/w1280/backdrop2.jpg", 
+      "backdrop_small": "https://image.tmdb.org/t/p/w1280/backdrop3.jpg"
+    },
+    "ids": {
+      "trakt": 1416,
+      "tmdb": 1425,
+      "imdb": "tt1856010"
+    }
+  }
+}
+```
+
+**Response when not watching:**
+
+```json
+{
+  "isWatching": false
+}
+```
+
+**Notes:**
+- Requires `TRAKT_API_KEY` and `TMDB_API_KEY` environment variables
+- Progress percentage is calculated based on start/end times
+- Images are sourced from TMDB's highest quality backdrops
+- Works with both movies (`type: "movie"`) and episodes (`type: "episode"`)
+
+---
+
+### �👤 User Profile & Statistics
 
 #### `GET /api/trakt/user/profile`
 

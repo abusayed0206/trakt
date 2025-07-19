@@ -1,4 +1,4 @@
-import { ApiResponse, UserProfile, UserStats, HistoryItem, WatchedMovie, WatchedShow, WatchlistItem, UserList, ListItem, CommentItem, SearchResult } from '../types';
+import { ApiResponse, UserProfile, UserStats, HistoryItem, WatchedMovie, WatchedShow, WatchlistItem, UserList, ListItem, CommentItem, SearchResult, WatchingData } from '../types';
 
 const API_BASE = '/api/trakt';
 
@@ -75,5 +75,11 @@ export async function fetchUserComments(): Promise<CommentItem[]> {
 export async function searchContent(query: string, type: 'movies' | 'shows' | 'all' = 'all'): Promise<SearchResult> {
   const response = await fetch(`${API_BASE}/search?q=${encodeURIComponent(query)}&type=${type}`);
   if (!response.ok) throw new Error('Failed to search content');
+  return response.json();
+}
+
+export async function fetchWatchingData(): Promise<WatchingData> {
+  const response = await fetch('/api/watching');
+  if (!response.ok) throw new Error('Failed to fetch watching data');
   return response.json();
 }

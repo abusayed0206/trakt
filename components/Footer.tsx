@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { FaGithub, FaBook, FaCode } from 'react-icons/fa';
-import { SiTrakt, SiThemoviedatabase } from 'react-icons/si';
+import { Icons } from '@/lib/utils/icons';
 
 export default function Footer() {
   return (
@@ -54,7 +54,7 @@ export default function Footer() {
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-600 hover:text-gray-800 transition-colors"
               >
-                <SiTrakt className="w-5 h-5" />
+                <Icons.Trakt className="w-5 h-5" />
                 <span className="text-sm font-medium">Trakt</span>
               </Link>
               <Link
@@ -63,7 +63,7 @@ export default function Footer() {
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-600 hover:text-gray-800 transition-colors"
               >
-                <SiThemoviedatabase className="w-5 h-5" />
+                <Icons.Tmdb className="w-5 h-5" />
                 <span className="text-sm font-medium">TMDB</span>
               </Link>
             </div>
