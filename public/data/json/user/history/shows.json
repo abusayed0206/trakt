@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-18T12:09:02.345226+00:00",
+    "fetched_at": "2025-07-19T06:22:10.619288+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11060417604,
+      "watched_at": "2025-07-18T21:31:32.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 5,
+        "title": "Chapter 31",
+        "ids": {
+          "trakt": 998948,
+          "tvdb": 5043399,
+          "imdb": "tt3897442",
+          "tmdb": 1021728,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11060175013,
+      "watched_at": "2025-07-18T20:17:51.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 4,
+        "title": "Chapter 30",
+        "ids": {
+          "trakt": 998947,
+          "tvdb": 5043398,
+          "imdb": "tt3892094",
+          "tmdb": 1021727,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11056319177,
       "watched_at": "2025-07-17T09:35:19.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 4741195,
           "imdb": "tt3186026",
           "tmdb": 972039,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11048441327,
-      "watched_at": "2025-07-14T16:48:57.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 8,
-        "title": "Chapter 21",
-        "ids": {
-          "trakt": 76055,
-          "tvdb": 4741194,
-          "imdb": "tt3147690",
-          "tmdb": 972122,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11048267448,
-      "watched_at": "2025-07-14T15:16:13.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 7,
-        "title": "Chapter 20",
-        "ids": {
-          "trakt": 76054,
-          "tvdb": 4741193,
-          "imdb": "tt3147682",
-          "tmdb": 972038,
           "tvrage": null
         }
       },
