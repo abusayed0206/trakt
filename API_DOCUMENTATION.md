@@ -22,6 +22,7 @@ All endpoints serve pre-processed personal data and do not require authenticatio
 Get the main data structure overview and metadata.
 
 **Response:**
+
 ```json
 {
   "metadata": {
@@ -65,6 +66,7 @@ Get the main data structure overview and metadata.
 Clear the in-memory cache to refresh data from JSON files.
 
 **Response:**
+
 ```json
 {
   "message": "Cache cleared successfully"
@@ -80,6 +82,7 @@ Clear the in-memory cache to refresh data from JSON files.
 Get user profile information including bio, location, and social links.
 
 **Response:**
+
 ```json
 {
   "metadata": {
@@ -111,6 +114,7 @@ Get user profile information including bio, location, and social links.
 Get comprehensive viewing statistics including totals and time spent.
 
 **Response:**
+
 ```json
 {
   "metadata": {
@@ -161,9 +165,11 @@ Get comprehensive viewing statistics including totals and time spent.
 Get recent viewing history with optional filtering.
 
 **Query Parameters:**
+
 - `type` (optional): `movies` or `shows` - Filter by content type
 
 **Response:**
+
 ```json
 {
   "metadata": {
@@ -203,9 +209,11 @@ Get recent viewing history with optional filtering.
 Get user's watchlist with priority rankings.
 
 **Query Parameters:**
+
 - `type` (optional): `movies` or `all` - Filter by content type
 
 **Response:**
+
 ```json
 {
   "metadata": {
@@ -242,9 +250,11 @@ Get user's watchlist with priority rankings.
 Get all watched content with play counts and timestamps.
 
 **Query Parameters:**
+
 - `type` (optional): `movies` or `shows` - Filter by content type
 
 **Response:**
+
 ```json
 {
   "metadata": {
@@ -283,6 +293,7 @@ Get all watched content with play counts and timestamps.
 Get all user-created lists with metadata.
 
 **Response:**
+
 ```json
 {
   "metadata": {
@@ -321,9 +332,11 @@ Get all user-created lists with metadata.
 Get items in a specific list.
 
 **Path Parameters:**
+
 - `id`: List slug or Trakt ID
 
 **Response:**
+
 ```json
 {
   "metadata": {
@@ -360,6 +373,7 @@ Get items in a specific list.
 Get all user comments and reviews.
 
 **Response:**
+
 ```json
 {
   "metadata": {
@@ -405,10 +419,12 @@ Get all user comments and reviews.
 Search through your watched content, watchlist, and custom lists.
 
 **Query Parameters:**
+
 - `q` (required): Search query string
 - `type` (optional): `movies`, `shows`, or `all` (default: `all`)
 
 **Response:**
+
 ```json
 {
   "query": "inception",
@@ -467,6 +483,7 @@ The Image API provides optimized image serving with lazy loading and CDN integra
 Get optimized images with automatic WebP conversion and quality optimization.
 
 **Query Parameters:**
+
 - `type` (conditional): `movies` or `shows` - Required for full images
 - `category` (required): `posters` or `backdrops`
 - `tmdb_id` (required): TMDB ID of the content
@@ -475,21 +492,19 @@ Get optimized images with automatic WebP conversion and quality optimization.
 **Examples:**
 
 **Full Movie Poster:**
+
 ```
 GET /api/images?type=movies&category=posters&tmdb_id=27205
 ```
 
 **TV Show Season Poster:**
+
 ```
 GET /api/images?type=shows&category=posters&tmdb_id=1399&season=1
 ```
 
-**Thumbnail (omit type parameter):**
-```
-GET /api/images?category=posters&tmdb_id=27205
-```
-
 **Response:**
+
 - **Success**: `302 Found` redirect to optimized wsrv.nl URL
 - **Not Found**: `404` with error message
 - **Invalid Parameters**: `400` with validation error
@@ -497,13 +512,9 @@ GET /api/images?category=posters&tmdb_id=27205
 **Redirect URLs:**
 
 **Full Images:**
+
 ```
 https://wsrv.nl/?url=https%3A%2F%2Fcfcdn.sayed.app%2Fwatch%2Fmovies%2Fposters%2F27205_poster.jpg&w=400&output=webp&q=85&maxage=7d
-```
-
-**Thumbnails:**
-```
-https://wsrv.nl/?url=https%3A%2F%2Fcfcdn.sayed.app%2Fwatch%2Fthumbnails%2Fthumb_27205_poster.jpg&w=150&output=webp&q=60&maxage=7d
 ```
 
 #### `POST /api/images/reload-cache`
@@ -511,13 +522,13 @@ https://wsrv.nl/?url=https%3A%2F%2Fcfcdn.sayed.app%2Fwatch%2Fthumbnails%2Fthumb_
 Reload the image index cache to pick up new images.
 
 **Response:**
+
 ```json
 {
   "message": "Image cache reloaded successfully",
   "stats": {
     "movie_posters": 821,
-    "show_posters": 176,
-    "thumbnails": 1978
+    "show_posters": 176
   }
 }
 ```
@@ -526,17 +537,14 @@ Reload the image index cache to pick up new images.
 
 ## 🎛️ Image Optimization Features
 
-### Thumbnail Strategy
-- **Immediate Loading**: Small thumbnails (150px width) load instantly
-- **Quality**: 60% JPEG quality for fast loading
-- **Format**: Automatic WebP conversion for modern browsers
-
 ### Full Image Strategy
+
 - **Lazy Loading**: Full images (400px width) load when entering viewport
 - **Quality**: 85% quality for optimal balance
 - **Caching**: 7-day browser cache with CDN optimization
 
 ### URL Parameters
+
 - `w`: Width in pixels
 - `output`: Format (webp, jpg, png)
 - `q`: Quality (1-100)
@@ -549,6 +557,7 @@ Reload the image index cache to pick up new images.
 All API responses follow a consistent structure:
 
 ### Success Response
+
 ```json
 {
   "metadata": {
@@ -563,6 +572,7 @@ All API responses follow a consistent structure:
 ```
 
 ### Error Response
+
 ```json
 {
   "error": "Human-readable error message"
@@ -574,17 +584,20 @@ All API responses follow a consistent structure:
 ## 🚀 Performance Features
 
 ### Caching Strategy
+
 - **Image Index**: Pre-loaded at server startup with 24-hour auto-refresh
 - **JSON Data**: In-memory caching with manual cache clearing capability
 - **CDN**: 7-day browser cache for optimized images
 
 ### Optimization
-- **Smart Loading**: Thumbnails first, full images on viewport entry
+
+- **Smart Loading**: Full images on viewport entry
 - **WebP Conversion**: Automatic format optimization
 - **Quality Tuning**: Balanced quality vs. file size
 - **Lazy Loading**: Reduces initial page load time
 
 ### Rate Limiting
+
 - No rate limiting on API endpoints (serving pre-processed data)
 - Image CDN handles rate limiting and optimization
 
@@ -593,10 +606,8 @@ All API responses follow a consistent structure:
 ## 🔧 Integration Examples
 
 ### Using the Image API in Components
-```typescript
-// Thumbnail URL
-const thumbnailUrl = `/api/images?category=posters&tmdb_id=${tmdbId}`;
 
+```typescript
 // Full image URL
 const fullImageUrl = `/api/images?type=movies&category=posters&tmdb_id=${tmdbId}`;
 
@@ -605,16 +616,18 @@ const seasonUrl = `/api/images?type=shows&category=posters&tmdb_id=${tmdbId}&sea
 ```
 
 ### Search Integration
+
 ```typescript
 const searchResults = await fetch(`/api/trakt/search?q=${query}&type=movies`);
 const data = await searchResults.json();
 ```
 
 ### Data Fetching
+
 ```typescript
-const profile = await fetch('/api/trakt/user/profile');
-const watchlist = await fetch('/api/trakt/user/watchlist?type=movies');
-const history = await fetch('/api/trakt/user/history');
+const profile = await fetch("/api/trakt/user/profile");
+const watchlist = await fetch("/api/trakt/user/watchlist?type=movies");
+const history = await fetch("/api/trakt/user/history");
 ```
 
 ---
@@ -907,7 +920,6 @@ Get items from a specific list by slug ID.
 - `/api/trakt/user/lists/series-watchlist-for-2025` - Items in Series Watchlist for 2025
 - `/api/trakt/user/lists/anticipated-movies` - Items in Anticipated Movies list
 
-
 ### 🖼️ Images
 
 #### `GET /api/images`
@@ -918,8 +930,8 @@ This endpoint now serves images directly from Cloudflare CDN with blazing fast p
 
 **Required Query Parameters:**
 
-- `type`: `movies` or `shows` (not required for thumbnails)
-- `category`: `posters` or `backdrops` 
+- `type`: `movies` or `shows`
+- `category`: `posters` or `backdrops`
 - `tmdb_id`: TMDB ID of the movie/show
 
 **Optional Query Parameters:**
@@ -929,28 +941,26 @@ This endpoint now serves images directly from Cloudflare CDN with blazing fast p
 **Supported Endpoints:**
 
 **Movie & Show Images (redirects to CDN):**
+
 - `/api/images?type=movies&category=posters&tmdb_id=XXX` - Movie poster from CDN
 - `/api/images?type=movies&category=backdrops&tmdb_id=XXX` - Movie backdrop from CDN
-- `/api/images?type=shows&category=posters&tmdb_id=XXX` - Show poster from CDN  
+- `/api/images?type=shows&category=posters&tmdb_id=XXX` - Show poster from CDN
 - `/api/images?type=shows&category=backdrops&tmdb_id=XXX` - Show backdrop from CDN
 - `/api/images?type=shows&category=posters&tmdb_id=XXX&season=X` - Season X poster from CDN
-
-**Thumbnails (redirects to CDN):**
-- `/api/images?category=posters&tmdb_id=XXX` - Thumbnail poster from CDN
-- `/api/images?category=backdrops&tmdb_id=XXX` - Thumbnail backdrop from CDN
 
 **Response:**
 
 ✅ **HTTP 302 Redirect** to CDN URL:
+
 ```
 Location: https://cfcdn.sayed.app/watch/movies/posters/27205_poster.jpg
 ```
 
 **CDN URLs:** All images are served from `https://cfcdn.sayed.app/watch/` with the same folder structure:
+
 - `https://cfcdn.sayed.app/watch/movies/posters/27205_poster.jpg`
 - `https://cfcdn.sayed.app/watch/shows/backdrops/1399_backdrop.jpg`
 - `https://cfcdn.sayed.app/watch/shows/posters/1399/1/season_1_poster.jpg`
-- `https://cfcdn.sayed.app/watch/thumbnails/thumb_27205_poster.jpg`
 
 **Performance Features:**
 
@@ -967,7 +977,7 @@ Location: https://cfcdn.sayed.app/watch/movies/posters/27205_poster.jpg
 import Image from 'next/image';
 
 // Movie poster - redirects to CDN
-<Image 
+<Image
   src="/api/images?type=movies&category=posters&tmdb_id=27205"
   alt="Inception poster"
   width={300}
@@ -975,26 +985,18 @@ import Image from 'next/image';
   priority
 />
 
-// Thumbnail - ultra-fast CDN loading
-<Image 
-  src="/api/images?category=posters&tmdb_id=27205"
-  alt="Inception thumbnail"
-  width={150}
-  height={225}
-  quality={85}
-/>
 
 // Season poster
-<Image 
+<Image
   src="/api/images?type=shows&category=posters&tmdb_id=1399&season=1"
   alt="Game of Thrones Season 1"
-  width={300} 
+  width={300}
   height={450}
   quality={90}
 />
 
 // Direct CDN URLs (for advanced use cases)
-<Image 
+<Image
   src="https://cfcdn.sayed.app/watch/movies/posters/27205_poster.jpg"
   alt="Direct CDN access"
   width={300}
@@ -1023,13 +1025,10 @@ curl -X POST /api/images/reload-cache
     "movieBackdrops": 75,
     "showPosters": 89,
     "showBackdrops": 45,
-    "seasonPosters": 12,
-    "thumbnailPosters": 200,
-    "thumbnailBackdrops": 100
+    "seasonPosters": 12
   }
 }
 ```
-
 
 ### �🔍 Search & Utilities
 

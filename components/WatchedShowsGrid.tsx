@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { FaTv, FaImdb, FaEye, FaEyeSlash, FaPlay, FaClock } from 'react-icons/fa';
+import { FaTv, FaImdb } from 'react-icons/fa';
 import { SiTrakt, SiThemoviedatabase } from 'react-icons/si';
 import { WatchedShow } from '@/lib/types';
 import { fetchWatchedShows } from '@/lib/services/api';
@@ -12,7 +12,7 @@ import LazyImage from './LazyImage';
 export default function WatchedShowsGrid() {
   const [watchedShows, setWatchedShows] = useState<WatchedShow[]>([]);
   const [loading, setLoading] = useState(true);
-  const [showAll, setShowAll] = useState(false);
+  const [displayCount, setDisplayCount] = useState(10);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -32,8 +32,8 @@ export default function WatchedShowsGrid() {
   if (loading) {
     return (
       <div className="bg-white rounded-xl shadow-md p-6 mb-8">
-        <div className="flex items-center gap-3 mb-6">
-          <FaTv className="text-purple-500 text-xl" />
+        <div className="flex items-center justify-center gap-3 mb-6">
+          <FaTv className="text-gray-800 text-xl" />
           <h2 className="text-2xl font-bold text-gray-800">Watched Shows</h2>
         </div>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
@@ -49,27 +49,16 @@ export default function WatchedShowsGrid() {
     );
   }
 
-  const displayedShows = showAll ? watchedShows : watchedShows.slice(0, 10);
+  const displayedShows = watchedShows.slice(0, displayCount);
 
   return (
     <div className="bg-white rounded-xl shadow-md p-6 mb-8">
-      <div className="flex items-center justify-between mb-6">
-        <div className="flex items-center gap-3">
-          <FaTv className="text-purple-500 text-xl" />
-          <h2 className="text-2xl font-bold text-gray-800">Watched Shows</h2>
-          <span className="bg-purple-100 text-purple-800 text-sm font-medium px-2.5 py-0.5 rounded-full">
-            {watchedShows.length} shows
-          </span>
-        </div>
-        {watchedShows.length > 10 && (
-          <button
-            onClick={() => setShowAll(!showAll)}
-            className="flex items-center gap-2 bg-gray-100 hover:bg-gray-200 text-gray-700 px-4 py-2 rounded-lg transition-colors"
-          >
-            {showAll ? <FaEyeSlash className="w-4 h-4" /> : <FaEye className="w-4 h-4" />}
-            {showAll ? 'Show Less' : 'Show More'}
-          </button>
-        )}
+      <div className="flex items-center justify-center gap-3 mb-6">
+        <FaTv className="text-gray-800 text-xl" />
+        <h2 className="text-2xl font-bold text-gray-800">Watched Shows</h2>
+        <span className="bg-gray-100 text-gray-800 text-sm font-medium px-2.5 py-0.5 rounded-full">
+          {watchedShows.length} shows
+        </span>
       </div>
 
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
@@ -79,8 +68,8 @@ export default function WatchedShowsGrid() {
           return (
             <div key={item.show.ids.trakt} className="group">
               <div className="relative overflow-hidden rounded-lg mb-3 aspect-[2/3] bg-gray-100">
-                <div className="absolute top-2 left-2 bg-purple-500 text-white text-xs font-bold px-2 py-1 rounded z-10 flex items-center gap-1">
-                  <FaPlay className="w-2 h-2" />
+                <div className="absolute top-2 left-2 bg-gray-800 text-white text-xs font-bold px-2 py-1 rounded z-10 flex items-center gap-1">
+                  <span className="w-2 h-2 bg-white rounded-full"></span>
                   {totalEpisodes}
                 </div>
                 <LazyImage
@@ -98,38 +87,36 @@ export default function WatchedShowsGrid() {
                   href={getTraktUrl(item.show.ids.trakt, 'show')}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-red-500 hover:bg-red-600 text-white p-2 rounded-full transition-colors"
+                  className="bg-gray-800 text-white p-2 rounded-xl"
                   title="View on Trakt"
                 >
-                  <SiTrakt className="w-4 h-4" />
+                  <SiTrakt className="w-6 h-6" />
                 </Link>
                 <Link
                   href={getImdbUrl(item.show.ids.imdb)}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-yellow-500 hover:bg-yellow-600 text-white p-2 rounded-full transition-colors"
+                  className="bg-white text-gray-800 p-2 rounded-xl border border-gray-300"
                   title="View on IMDB"
                 >
-                  <FaImdb className="w-4 h-4" />
+                  <FaImdb className="w-6 h-6" />
                 </Link>
                 <Link
                   href={getTmdbUrl(item.show.ids.tmdb, 'tv')}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-full transition-colors"
+                  className="bg-gray-800 text-white p-2 rounded-xl"
                   title="View on TMDB"
                 >
-                  <SiThemoviedatabase className="w-4 h-4" />
+                  <SiThemoviedatabase className="w-6 h-6" />
                 </Link>
               </div>
               
-              <div>
+              <div className="text-center">
                 <h3 className="font-semibold text-gray-800 text-sm leading-tight mb-1 line-clamp-2">
-                  {item.show.title}
+                  {item.show.title} ({item.show.year})
                 </h3>
-                <p className="text-gray-500 text-xs mb-1">{item.show.year}</p>
-                <p className="text-gray-600 text-xs mb-1 flex items-center gap-1">
-                  <FaClock className="w-3 h-3" />
+                <p className="text-gray-500 text-xs mb-1">
                   Last watched {formatRelativeTime(item.last_watched_at)}
                 </p>
                 <p className="text-gray-600 text-xs mb-1">
@@ -142,6 +129,28 @@ export default function WatchedShowsGrid() {
             </div>
           );
         })}
+      </div>
+      
+      {/* Load More and Collapse Buttons */}
+      <div className="flex justify-center items-center gap-4 mt-8">
+        {watchedShows.length > displayCount && (
+          <button
+            onClick={() => setDisplayCount(prev => prev + 10)}
+            className="bg-gray-800 hover:bg-gray-900 text-white px-8 py-3 rounded-lg transition-colors flex items-center gap-2 shadow-sm hover:shadow-md"
+          >
+            Load More ({watchedShows.length - displayCount} remaining)
+          </button>
+        )}
+        
+        {/* Collapse Button - Show when more than 10 items are displayed */}
+        {displayCount > 10 && (
+          <button
+            onClick={() => setDisplayCount(prev => prev - 10)}
+            className="bg-white hover:bg-gray-50 border border-gray-300 hover:border-gray-400 text-gray-700 px-8 py-3 rounded-lg transition-colors flex items-center gap-2 shadow-sm hover:shadow-md"
+          >
+            Collapse
+          </button>
+        )}
       </div>
     </div>
   );

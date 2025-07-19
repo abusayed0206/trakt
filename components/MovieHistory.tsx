@@ -31,8 +31,8 @@ export default function MovieHistory() {
   if (loading) {
     return (
       <div className="bg-white rounded-xl shadow-md p-6 mb-8">
-        <div className="flex items-center gap-3 mb-6">
-          <FaFilm className="text-blue-500 text-xl" />
+        <div className="flex items-center justify-center gap-3 mb-6">
+          <FaFilm className="text-gray-800 text-xl" />
           <h2 className="text-2xl font-bold text-gray-800">Recently Watched Movies</h2>
         </div>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
@@ -40,7 +40,7 @@ export default function MovieHistory() {
             <div key={i} className="animate-pulse">
               <div className="bg-gray-200 aspect-[2/3] rounded-lg mb-3"></div>
               <div className="h-4 bg-gray-200 rounded w-full mb-2"></div>
-              <div className="h-3 bg-gray-200 rounded w-2/3"></div>
+              <div className="h-3 bg-gray-200 rounded w-2/3 mx-auto"></div>
             </div>
           ))}
         </div>
@@ -50,8 +50,8 @@ export default function MovieHistory() {
 
   return (
     <div className="bg-white rounded-xl shadow-md p-6 mb-8">
-      <div className="flex items-center gap-3 mb-6">
-        <FaFilm className="text-blue-500 text-xl" />
+      <div className="flex items-center justify-center gap-3 mb-6">
+        <FaFilm className="text-gray-800 text-xl" />
         <h2 className="text-2xl font-bold text-gray-800">Recently Watched Movies</h2>
       </div>
       
@@ -74,47 +74,46 @@ export default function MovieHistory() {
                 href={getLetterboxdUrl(item.movie!.ids.imdb)}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-orange-500 hover:bg-orange-600 text-white p-2 rounded-full transition-colors"
+                className="bg-gray-800 text-white p-2 rounded-xl"
                 title="View on Letterboxd"
               >
-                <SiLetterboxd className="w-4 h-4" />
+                <SiLetterboxd className="w-6 h-6" />
               </Link>
               <Link
                 href={getTraktUrl(item.movie!.ids.trakt, 'movie')}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-red-500 hover:bg-red-600 text-white p-2 rounded-full transition-colors"
+                className="bg-gray-800 text-white p-2 rounded-xl"
                 title="View on Trakt"
               >
-                <SiTrakt className="w-4 h-4" />
+                <SiTrakt className="w-6 h-6" />
               </Link>
               <Link
                 href={getImdbUrl(item.movie!.ids.imdb)}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-yellow-500 hover:bg-yellow-600 text-white p-2 rounded-full transition-colors"
+                className="bg-white text-gray-800 p-2 rounded-xl border border-gray-300"
                 title="View on IMDB"
               >
-                <FaImdb className="w-4 h-4" />
+                <FaImdb className="w-6 h-6" />
               </Link>
               <Link
                 href={getTmdbUrl(item.movie!.ids.tmdb, 'movie')}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-full transition-colors"
+                className="bg-gray-800 text-white p-2 rounded-xl"
                 title="View on TMDB"
               >
-                <SiThemoviedatabase className="w-4 h-4" />
+                <SiThemoviedatabase className="w-6 h-6" />
               </Link>
             </div>
             
-            <div>
+            <div className="text-center">
               <h3 className="font-semibold text-gray-800 text-sm leading-tight mb-1 line-clamp-2">
-                {item.movie!.title}
+                {item.movie!.title} ({item.movie!.year})
               </h3>
-              <p className="text-gray-500 text-xs mb-1">{item.movie!.year}</p>
-              <p className="text-gray-400 text-xs">
-                {formatRelativeTime(item.watched_at)}
+              <p className="text-gray-500 text-xs">
+                Last watched {formatRelativeTime(item.watched_at)}
               </p>
             </div>
           </div>
