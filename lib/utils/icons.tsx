@@ -11,7 +11,7 @@ interface IconProps {
 
 // Custom logo components using local files
 export const LogoIcons = {
-  Imdb: ({ className = "w-6 h-6 rounded-lg", alt = "IMDB" }: IconProps) => (
+  Imdb: ({ className = "w-6 h-6 rounded-lg", alt = "" }: IconProps) => (
     <Image
       src="/logos/imdb.png"
       alt={alt}
@@ -21,7 +21,7 @@ export const LogoIcons = {
     />
   ),
   
-  Letterboxd: ({ className = "w-6 h-6 rounded-lg", alt = "Letterboxd" }: IconProps) => (
+  Letterboxd: ({ className = "w-6 h-6 rounded-lg", alt = "" }: IconProps) => (
     <Image
       src="/logos/lb.svg"
       alt={alt}
@@ -31,7 +31,7 @@ export const LogoIcons = {
     />
   ),
   
-  Tmdb: ({ className = "w-6 h-6 rounded-lg", alt = "TMDB" }: IconProps) => (
+  Tmdb: ({ className = "w-6 h-6 rounded-lg", alt = "" }: IconProps) => (
     <Image
       src="/logos/tmdb.svg"
       alt={alt}
@@ -41,7 +41,7 @@ export const LogoIcons = {
     />
   ),
   
-  Trakt: ({ className = "w-6 h-6 rounded-lg", alt = "Trakt" }: IconProps) => (
+  Trakt: ({ className = "w-6 h-6 rounded-lg", alt = "" }: IconProps) => (
     <Image
       src="/logos/trakt.svg"
       alt={alt}

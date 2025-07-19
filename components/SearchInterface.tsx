@@ -80,7 +80,11 @@ export default function SearchInterface() {
           {/* Controls Row - Dropdown and Button */}
           <div className="flex flex-col sm:flex-row gap-4 items-center justify-center">
             <div className="relative w-full sm:w-auto">
+              <label htmlFor="search-type" className="sr-only">
+                Search Type
+              </label>
               <select
+                id="search-type"
                 value={searchType}
                 onChange={(e) =>
                   setSearchType(e.target.value as "movies" | "shows" | "all")
