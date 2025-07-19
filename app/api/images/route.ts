@@ -12,11 +12,6 @@ export async function GET(request: NextRequest) {
     const tmdbId = searchParams.get('tmdb_id');
     const season = searchParams.get('season');
 
-    // Handle thumbnail requests
-    if (category && tmdbId && !type) {
-      return handleThumbnailRequest(category, tmdbId);
-    }
-
     if (!type || !category || !tmdbId) {
       return NextResponse.json({ 
         error: 'Missing required parameters: type, category, and tmdb_id are required' 
@@ -61,31 +56,4 @@ export async function GET(request: NextRequest) {
       { status: 500 }
     );
   }
-}
-
-async function handleThumbnailRequest(category: string, tmdbId: string) {
-  if (category !== 'posters' && category !== 'backdrops') {
-    return NextResponse.json({ 
-      error: 'Invalid category. Must be "posters" or "backdrops"' 
-    }, { status: 400 });
-  }
-
-  const imageManager = ImageIndexManager.getInstance();
-  const result = imageManager.findThumbnails(category as 'posters' | 'backdrops', tmdbId);
-
-  if (result.files.length === 0) {
-    return NextResponse.json({ 
-      error: 'No thumbnail found for the specified parameters' 
-    }, { status: 404 });
-  }
-
-  // Build CDN URL for thumbnail
-  const filename = result.files[0];
-  const cdnUrl = `${CDN_BASE_URL}${result.basePath}/${filename}`;
-  
-  // Build wsrv.nl URL with thumbnail optimizations
-  const wsrvUrl = `${WSRV_BASE}/?url=${encodeURIComponent(cdnUrl)}&w=150&output=webp&q=60&maxage=7d`;
-  
-  // Redirect to wsrv.nl
-  return NextResponse.redirect(wsrvUrl, 302);
 }

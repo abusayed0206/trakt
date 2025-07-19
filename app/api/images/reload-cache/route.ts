@@ -14,9 +14,7 @@ export async function POST() {
         movieBackdrops: Object.keys(newIndex.movies.backdrops).length,
         showPosters: Object.keys(newIndex.shows.posters).length,
         showBackdrops: Object.keys(newIndex.shows.backdrops).length,
-        seasonPosters: Object.keys(newIndex.shows.season_posters).length,
-        thumbnailPosters: Object.keys(newIndex.thumbnails.posters || {}).length,
-        thumbnailBackdrops: Object.keys(newIndex.thumbnails.backdrops || {}).length
+        seasonPosters: Object.keys(newIndex.shows.season_posters).length
       }
     });
   } catch (error) {

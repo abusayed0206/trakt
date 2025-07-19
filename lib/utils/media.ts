@@ -13,12 +13,6 @@ export const getShowSeasonPosterUrl = (tmdbId: number | string, season: number):
   return `/api/images?type=shows&category=posters&tmdb_id=${tmdbId}&season=${season}`;
 };
 
-export const getThumbnailUrl = (tmdbId: number | string): string => {
-  // Use local image API for thumbnails
-  return `/api/images?category=posters&tmdb_id=${tmdbId}`;
-};
-
-
 export const getLetterboxdUrl = (imdbId: string): string => {
   return `https://letterboxd.com/imdb/${imdbId}`;
 };

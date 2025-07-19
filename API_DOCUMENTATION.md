@@ -458,7 +458,7 @@ Search through your watched content, watchlist, and custom lists.
 
 ## 🖼️ Image API
 
-The Image API provides optimized image serving with thumbnail previews, lazy loading, and CDN integration through wsrv.nl.
+The Image API provides optimized image serving with lazy loading and CDN integration through wsrv.nl.
 
 ### Endpoints
 

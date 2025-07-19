@@ -1,7 +1,4 @@
-// Consolidated Types for Watch App
-// This file contains all types used across the application
-
-// Base ID Types
+// Trakt API Types
 export interface TraktIds {
   trakt: number;
   slug: string;
@@ -11,7 +8,6 @@ export interface TraktIds {
   tvrage?: number | null;
 }
 
-// Core Entity Types
 export interface Movie {
   title: string;
   year: number;
@@ -25,11 +21,6 @@ export interface Show {
   aired_episodes?: number;
 }
 
-export interface Season {
-  number: number;
-  ids?: TraktIds;
-}
-
 export interface Episode {
   season: number;
   number: number;
@@ -37,30 +28,20 @@ export interface Episode {
   ids: TraktIds;
 }
 
-// User Types
 export interface UserProfile {
   username: string;
   private: boolean;
-  deleted?: boolean;
+  deleted: boolean;
   name: string;
-  vip?: boolean;
-  vip_ep?: boolean;
-  director?: boolean;
-  description?: string;
-  age?: number;
-  gender?: string;
-  biography?: string;
-  location?: string;
-  website?: string;
-  about?: string;
-  joined_at: string;
-  avatar?: {
-    full: string;
-  };
-  cover_image?: string;
+  vip: boolean;
+  vip_ep: boolean;
+  director: boolean;
   ids: {
     slug: string;
   };
+  joined_at: string;
+  location?: string;
+  about?: string;
 }
 
 export interface UserStats {
@@ -75,10 +56,6 @@ export interface UserStats {
   shows: {
     watched: number;
     collected: number;
-    ratings: number;
-    comments: number;
-  };
-  seasons?: {
     ratings: number;
     comments: number;
   };
@@ -103,33 +80,21 @@ export interface UserStats {
   };
 }
 
-// History Types
 export interface HistoryItem {
   id: number;
   watched_at: string;
   action: string;
-  type: 'movie' | 'episode' | string;
+  type: string;
   movie?: Movie;
   show?: Show;
-  season?: Season;
   episode?: Episode;
 }
 
-// Watched Types
 export interface WatchedMovie {
   plays: number;
   last_watched_at: string;
   last_updated_at: string;
   movie: Movie;
-}
-
-export interface WatchedShowSeason {
-  number: number;
-  episodes: {
-    number: number;
-    plays: number;
-    last_watched_at: string;
-  }[];
 }
 
 export interface WatchedShow {
@@ -138,27 +103,32 @@ export interface WatchedShow {
   last_updated_at: string;
   reset_at?: string | null;
   show: Show;
-  seasons: WatchedShowSeason[];
+  seasons: Array<{
+    number: number;
+    episodes: Array<{
+      number: number;
+      plays: number;
+      last_watched_at: string;
+    }>;
+  }>;
 }
 
-// Watchlist Types
 export interface WatchlistItem {
   rank: number;
   id: number;
   listed_at: string;
   notes?: string | null;
-  type: 'movie' | 'show' | string;
+  type: string;
   movie?: Movie;
   show?: Show;
 }
 
-// List Types
 export interface UserList {
   name: string;
   description: string;
-  privacy: 'private' | 'public' | 'friends' | string;
-  share_link?: string;
-  type?: string;
+  privacy: string;
+  share_link: string;
+  type: string;
   display_numbers: boolean;
   allow_comments: boolean;
   sort_by: string;
@@ -167,8 +137,7 @@ export interface UserList {
   updated_at: string;
   item_count: number;
   comment_count: number;
-  likes?: number;
-  like_count?: number;
+  likes: number;
   ids: {
     trakt: number;
     slug: string;
@@ -181,25 +150,24 @@ export interface ListItem {
   id: number;
   listed_at: string;
   notes?: string | null;
-  type: 'movie' | 'show' | string;
+  type: string;
   movie?: Movie;
   show?: Show;
 }
 
-// Comment Types
 export interface Comment {
   id: number;
   comment: string;
   spoiler: boolean;
   review: boolean;
-  parent_id?: number;
+  parent_id: number;
   created_at: string;
   updated_at: string;
   replies: number;
   likes: number;
   user_rating?: number | null;
-  language?: string;
-  user_stats?: {
+  language: string;
+  user_stats: {
     rating?: number | null;
     play_count: number;
     completed_count: number;
@@ -215,7 +183,6 @@ export interface CommentItem {
   comment: Comment;
 }
 
-// Search Types
 export interface SearchResult {
   query: string;
   type: string;
@@ -235,21 +202,18 @@ export interface SearchResult {
   };
 }
 
-// API Response Types
-export interface ApiMetadata {
-  fetched_at: string;
-  source: string;
-  username: string;
-  endpoint: string;
-  count: number;
-}
-
 export interface ApiResponse<T> {
-  metadata: ApiMetadata;
+  metadata: {
+    fetched_at: string;
+    source: string;
+    username: string;
+    endpoint: string;
+    count: number;
+  };
   data: T;
 }
 
-// Media Index Types
+// Image utilities
 export interface MediaIndex {
   last_updated: string;
   movies: {
@@ -259,31 +223,3 @@ export interface MediaIndex {
     posters: string[];
   };
 }
-
-// Type Aliases for Compatibility
-export type TraktUser = UserProfile;
-export type TraktUserStats = ApiResponse<UserStats>;
-export type TraktUserProfile = ApiResponse<UserProfile>;
-export type TraktMovie = Movie;
-export type TraktShow = Show;
-export type TraktEpisode = Episode;
-export type TraktSeason = Season;
-export type TraktHistoryItem = HistoryItem;
-export type TraktWatchedMovie = WatchedMovie;
-export type TraktWatchedShow = WatchedShow;
-export type TraktWatchlistItem = WatchlistItem;
-export type TraktComment = Comment;
-export type TraktList = UserList;
-export type TraktMetadata = ApiMetadata;
-export type TraktResponse<T> = ApiResponse<T>;
-
-// Specific Response Types
-export type TraktUserHistory = ApiResponse<HistoryItem[]>;
-export type TraktUserWatchedMovies = ApiResponse<WatchedMovie[]>;
-export type TraktUserWatchedShows = ApiResponse<WatchedShow[]>;
-export type TraktUserWatchlist = ApiResponse<WatchlistItem[]>;
-export type TraktUserComments = ApiResponse<Comment[]>;
-export type TraktUserLists = ApiResponse<UserList[]>;
-
-// For backwards compatibility
-export type MovieWatchHistoryItem = HistoryItem;

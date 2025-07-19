@@ -1,11 +1,11 @@
 # Trakt Watch Dashboard
 
-A modern, high-performance Next.js application that provides a beautiful dashboard for your Trakt.tv watch history, watchlists, and personal statistics. Features optimized image loading with thumbnail previews, lazy loading, and a responsive design.
+A modern, high-performance Next.js application that provides a beautiful dashboard for your Trakt.tv watch history, watchlists, and personal statistics. Features optimized image loading with lazy loading and a responsive design.
 
 ## ✨ Features
 
 - **📊 Comprehensive Dashboard**: View your movie/show history, watchlists, and detailed statistics
-- **🖼️ Optimized Images**: Smart lazy loading with thumbnail previews and wsrv.nl optimization
+- **🖼️ Optimized Images**: Smart lazy loading with wsrv.nl optimization
 - **🔍 Advanced Search**: Search through your watched content with real-time filtering
 - **📱 Responsive Design**: Perfect experience on desktop, tablet, and mobile
 - **⚡ High Performance**: Pre-loaded image index and optimized API responses
@@ -98,7 +98,6 @@ public/data/
 
 Advanced image loading system for optimal performance:
 
-- **Thumbnail Previews**: Instant loading with small thumbnails
 - **Lazy Loading**: Full images load when entering viewport
 - **CDN Integration**: wsrv.nl for WebP conversion and optimization
 - **Smart Caching**: 7-day browser cache with quality optimization
@@ -116,11 +115,10 @@ The application provides a comprehensive REST API:
 
 ### Image API
 - `GET /api/images?type=movies&category=posters&tmdb_id=123` - Full images
-- `GET /api/images?category=posters&tmdb_id=123` - Thumbnails
 
 ## 📱 Components
 
-- **LazyImage**: Advanced image component with thumbnail previews
+- **LazyImage**: Advanced image component with lazy loading
 - **MovieHistory/ShowHistory**: Recent viewing activity
 - **MovieWatchlist**: Prioritized watchlist with rankings
 - **SearchInterface**: Real-time content search

@@ -30,10 +30,6 @@ MAX_IMAGES_PER_ITEM = {
     "stills": 1
 }
 
-# Thumbnail Configuration
-THUMBNAIL_SIZE = (150, 225)
-THUMBNAIL_QUALITY = 85
-
 # Directory Structure
 DATA_STRUCTURE = {
     "json": {
@@ -52,8 +48,7 @@ DATA_STRUCTURE = {
         "movies": ["posters", "backdrops"],
         "shows": ["posters", "backdrops"],
         "episodes": ["stills"],
-        "people": ["profiles"],
-        "thumbnails": []
+        "people": ["profiles"]
     }
 }
 
