@@ -1,12 +1,132 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-19T07:23:05.925697+00:00",
+    "fetched_at": "2025-07-20T05:50:09.077729+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11062867864,
+      "watched_at": "2025-07-19T14:49:02.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 10,
+        "title": "Chapter 36",
+        "ids": {
+          "trakt": 998959,
+          "tvdb": 5043404,
+          "imdb": "tt4128566",
+          "tmdb": 1021733,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11062560414,
+      "watched_at": "2025-07-19T12:49:46.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 9,
+        "title": "Chapter 35",
+        "ids": {
+          "trakt": 998954,
+          "tvdb": 5043403,
+          "imdb": "tt4035250",
+          "tmdb": 1021732,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11062337659,
+      "watched_at": "2025-07-19T10:25:06.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 8,
+        "title": "Chapter 34",
+        "ids": {
+          "trakt": 998952,
+          "tvdb": 5043402,
+          "imdb": "tt4083028",
+          "tmdb": 1021731,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11062262919,
+      "watched_at": "2025-07-19T09:43:13.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 7,
+        "title": "Chapter 33",
+        "ids": {
+          "trakt": 998950,
+          "tvdb": 5043401,
+          "imdb": "tt3918768",
+          "tmdb": 1021730,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11061964198,
       "watched_at": "2025-07-19T07:02:45.000Z",
@@ -171,126 +291,6 @@
           "tvdb": 5043395,
           "imdb": "tt3513862",
           "tmdb": 1021724,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11049000954,
-      "watched_at": "2025-07-14T21:01:59.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 13,
-        "title": "Chapter 26",
-        "ids": {
-          "trakt": 76060,
-          "tvdb": 4741199,
-          "imdb": "tt3326208",
-          "tmdb": 972041,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11048869233,
-      "watched_at": "2025-07-14T20:03:05.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 12,
-        "title": "Chapter 25",
-        "ids": {
-          "trakt": 76059,
-          "tvdb": 4741198,
-          "imdb": "tt3326204",
-          "tmdb": 972126,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11048751244,
-      "watched_at": "2025-07-14T19:18:56.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 11,
-        "title": "Chapter 24",
-        "ids": {
-          "trakt": 76058,
-          "tvdb": 4741197,
-          "imdb": "tt3297502",
-          "tmdb": 972040,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11048608822,
-      "watched_at": "2025-07-14T18:16:54.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 10,
-        "title": "Chapter 23",
-        "ids": {
-          "trakt": 76057,
-          "tvdb": 4741196,
-          "imdb": "tt3221270",
-          "tmdb": 972125,
           "tvrage": null
         }
       },
