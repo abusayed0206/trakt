@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-21T05:52:12.236599+00:00",
+    "fetched_at": "2025-07-21T12:28:56.041931+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
-    "count": 51
+    "count": 54
   },
   "data": [
     {
@@ -236,7 +236,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": 1237230371,
       "listed_at": "2025-05-26T15:50:16.000Z",
       "notes": null,
@@ -464,6 +464,25 @@
       }
     },
     {
+      "rank": 53,
+      "id": 1283744103,
+      "listed_at": "2025-07-21T12:16:06.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Black Sails",
+        "year": 2014,
+        "ids": {
+          "trakt": 47374,
+          "slug": "black-sails",
+          "tvdb": 262407,
+          "imdb": "tt2375692",
+          "tmdb": 47665,
+          "tvrage": null
+        }
+      }
+    },
+    {
       "rank": 7,
       "id": 1133528025,
       "listed_at": "2024-12-04T17:14:17.000Z",
@@ -554,6 +573,25 @@
           "tvdb": 298566,
           "imdb": "tt4179452",
           "tmdb": 63333,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 48,
+      "id": 1283744090,
+      "listed_at": "2025-07-21T12:16:01.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Killing",
+        "year": 2011,
+        "ids": {
+          "trakt": 34268,
+          "slug": "the-killing-2011",
+          "tvdb": 210171,
+          "imdb": "tt1637727",
+          "tmdb": 34415,
           "tvrage": null
         }
       }
@@ -673,7 +711,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 51,
       "id": 1179046549,
       "listed_at": "2025-02-25T06:27:33.000Z",
       "notes": null,
@@ -806,7 +844,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": 1273903687,
       "listed_at": "2025-07-08T18:50:06.000Z",
       "notes": null,
@@ -877,6 +915,25 @@
           "tvdb": 70761,
           "imdb": "tt0108757",
           "tmdb": 4588,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 54,
+      "id": 1283748591,
+      "listed_at": "2025-07-21T12:19:19.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Chicago Med",
+        "year": 2015,
+        "ids": {
+          "trakt": 98934,
+          "slug": "chicago-med",
+          "tvdb": 295640,
+          "imdb": "tt4655480",
+          "tmdb": 62650,
           "tvrage": null
         }
       }
@@ -958,7 +1015,7 @@
       }
     },
     {
-      "rank": 51,
+      "rank": 52,
       "id": 1153420500,
       "listed_at": "2025-01-09T10:31:55.000Z",
       "notes": null,
