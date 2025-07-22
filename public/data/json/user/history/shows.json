@@ -1,12 +1,162 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-21T12:28:53.724493+00:00",
+    "fetched_at": "2025-07-22T05:50:32.264963+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11069594776,
+      "watched_at": "2025-07-21T18:02:42.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 6,
+        "title": "Flight Risk",
+        "ids": {
+          "trakt": 74967,
+          "tvdb": 4395957,
+          "imdb": "tt2473822",
+          "tmdb": 64290,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11069505177,
+      "watched_at": "2025-07-21T17:19:07.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 5,
+        "title": "Lesser Evils",
+        "ids": {
+          "trakt": 74966,
+          "tvdb": 4395956,
+          "imdb": "tt2459398",
+          "tmdb": 64289,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11069412720,
+      "watched_at": "2025-07-21T16:34:44.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 4,
+        "title": "The Rat Race",
+        "ids": {
+          "trakt": 74965,
+          "tvdb": 4392166,
+          "imdb": "tt2360490",
+          "tmdb": 64288,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11069326612,
+      "watched_at": "2025-07-21T15:51:18.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 3,
+        "title": "Child Predator",
+        "ids": {
+          "trakt": 74964,
+          "tvdb": 4374762,
+          "imdb": "tt2348774",
+          "tmdb": 64309,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11068980132,
+      "watched_at": "2025-07-21T12:30:58.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 2,
+        "title": "While You Were Sleeping",
+        "ids": {
+          "trakt": 74963,
+          "tvdb": 4374761,
+          "imdb": "tt2331654",
+          "tmdb": 64287,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11068915268,
       "watched_at": "2025-07-21T11:48:12.000Z",
@@ -141,156 +291,6 @@
           "tvdb": 5043406,
           "imdb": "tt4128572",
           "tmdb": 1021734,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11062867864,
-      "watched_at": "2025-07-19T14:49:02.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 10,
-        "title": "Chapter 36",
-        "ids": {
-          "trakt": 998959,
-          "tvdb": 5043404,
-          "imdb": "tt4128566",
-          "tmdb": 1021733,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11062560414,
-      "watched_at": "2025-07-19T12:49:46.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 9,
-        "title": "Chapter 35",
-        "ids": {
-          "trakt": 998954,
-          "tvdb": 5043403,
-          "imdb": "tt4035250",
-          "tmdb": 1021732,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11062337659,
-      "watched_at": "2025-07-19T10:25:06.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 8,
-        "title": "Chapter 34",
-        "ids": {
-          "trakt": 998952,
-          "tvdb": 5043402,
-          "imdb": "tt4083028",
-          "tmdb": 1021731,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11062262919,
-      "watched_at": "2025-07-19T09:43:13.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 7,
-        "title": "Chapter 33",
-        "ids": {
-          "trakt": 998950,
-          "tvdb": 5043401,
-          "imdb": "tt3918768",
-          "tmdb": 1021730,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11061964198,
-      "watched_at": "2025-07-19T07:02:45.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 6,
-        "title": "Chapter 32",
-        "ids": {
-          "trakt": 998949,
-          "tvdb": 5043400,
-          "imdb": "tt3897454",
-          "tmdb": 1021729,
           "tvrage": null
         }
       },
