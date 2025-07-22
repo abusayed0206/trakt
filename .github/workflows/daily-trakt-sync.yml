@@ -121,6 +121,7 @@ jobs:
       - name: Push changes to main repo
         run: |
           if [[ "${{ env.trakt_data_updated }}" == "true" ]] || [[ "${{ env.media_index_updated }}" == "true" ]]; then
+            git pull origin main --rebase
             git push origin main
             echo "Main repo changes pushed successfully"
           else
@@ -131,6 +132,7 @@ jobs:
         run: |
           if [[ "${{ env.cdn_files_updated }}" == "true" ]]; then
             cd cdn-repo
+            git pull origin main --rebase
             git push origin main
             echo "CDN repo changes pushed successfully"
             cd ..
