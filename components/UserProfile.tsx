@@ -87,7 +87,7 @@ export default function UserProfile() {
                     src="https://wsrv.nl/?url=https://cfcdn.sayed.app/watch/dp.jpg&w=140&output=webp&q=85&maxage=14d"
                     alt="Sayed's Profile Picture"
                     className="w-20 h-20 md:w-24 md:h-24 rounded-full border-4 border-gray-200 object-cover shadow-xl"
-                    loading="lazy"
+                    loading="eager"
                     decoding="async"
                   />
                   <a
@@ -140,7 +140,8 @@ export default function UserProfile() {
                       </div>
                       <div className="text-sm md:text-base">
                         <div className="font-semibold text-gray-800">
-                          {watchingData.content.title} ({watchingData.content.year})
+                          {watchingData.content.title} (
+                          {watchingData.content.year})
                         </div>
                         {watchingData.content.subtitle && (
                           <div className="text-gray-600 text-sm">
