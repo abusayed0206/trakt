@@ -5,6 +5,8 @@ on:
     # Run daily at 05:34 AM UTC
     - cron: '34 5 * * *'
   workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [ main ]
 
 jobs:
   sync-trakt-data:
