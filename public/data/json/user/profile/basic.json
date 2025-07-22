@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-22T05:50:31.893175+00:00",
+    "fetched_at": "2025-07-22T09:30:10.158350+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/profile/basic.json",
@@ -10,7 +10,7 @@
     "username": "lrs",
     "private": false,
     "deleted": false,
-    "name": "SAYED",
+    "name": "SAYED | সাঈদ",
     "vip": false,
     "vip_ep": false,
     "director": false,
@@ -18,13 +18,13 @@
       "slug": "lrs"
     },
     "joined_at": "2023-09-17T16:45:25.000Z",
-    "location": "Chittagong",
-    "about": "I live in Movies & TV Series!",
+    "location": "Bangladesh । বাংলাদেশ",
+    "about": "Movies and shows are my escape from life.",
     "gender": "male",
-    "age": 25,
+    "age": null,
     "images": {
       "avatar": {
-        "full": "https://walter-r2.trakt.tv/images/users/013/040/967/avatars/large/ac76b072d3.jpg"
+        "full": "https://walter-r2.trakt.tv/images/users/013/040/967/avatars/large/21e36e057f.webp"
       }
     }
   }

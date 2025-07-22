@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-22T05:50:32.264963+00:00",
+    "fetched_at": "2025-07-22T09:30:11.465513+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11071729393,
+      "watched_at": "2025-07-22T09:17:32.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 8,
+        "title": "The Long Fuse",
+        "ids": {
+          "trakt": 74969,
+          "tvdb": 4431718,
+          "imdb": "tt2494318",
+          "tmdb": 64293,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11071652734,
+      "watched_at": "2025-07-22T08:25:17.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 7,
+        "title": "One Way to Get Off",
+        "ids": {
+          "trakt": 74968,
+          "tvdb": 4420554,
+          "imdb": "tt2481598",
+          "tmdb": 64291,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11069594776,
       "watched_at": "2025-07-21T18:02:42.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 5043417,
           "imdb": "tt4221826",
           "tmdb": 1021736,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11065632819,
-      "watched_at": "2025-07-20T10:31:38.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 12,
-        "title": "Chapter 38",
-        "ids": {
-          "trakt": 998961,
-          "tvdb": 5043412,
-          "imdb": "tt4128574",
-          "tmdb": 1021735,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11065365381,
-      "watched_at": "2025-07-20T08:05:51.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 11,
-        "title": "Chapter 37",
-        "ids": {
-          "trakt": 998960,
-          "tvdb": 5043406,
-          "imdb": "tt4128572",
-          "tmdb": 1021734,
           "tvrage": null
         }
       },
