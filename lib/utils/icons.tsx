@@ -1,6 +1,6 @@
-import Image from 'next/image';
-import { FaImdb, FaFilm } from 'react-icons/fa';
-import { SiTrakt, SiLetterboxd, SiThemoviedatabase } from 'react-icons/si';
+import Image from "next/image";
+import { FaImdb, FaFilm } from "react-icons/fa";
+import { SiTrakt, SiLetterboxd, SiThemoviedatabase } from "react-icons/si";
 
 // Icon component props
 interface IconProps {
@@ -20,7 +20,7 @@ export const LogoIcons = {
       className={className}
     />
   ),
-  
+
   Letterboxd: ({ className = "w-6 h-6 rounded-lg", alt = "" }: IconProps) => (
     <Image
       src="/logos/lb.svg"
@@ -30,7 +30,7 @@ export const LogoIcons = {
       className={className}
     />
   ),
-  
+
   Tmdb: ({ className = "w-6 h-6 rounded-lg", alt = "" }: IconProps) => (
     <Image
       src="/logos/tmdb.svg"
@@ -40,10 +40,20 @@ export const LogoIcons = {
       className={className}
     />
   ),
-  
+
   Trakt: ({ className = "w-6 h-6 rounded-lg", alt = "" }: IconProps) => (
     <Image
       src="/logos/trakt.svg"
+      alt={alt}
+      width={24}
+      height={24}
+      className={className}
+    />
+  ),
+
+  TraktT: ({ className = "w-6 h-6 rounded-lg", alt = "" }: IconProps) => (
+    <Image
+      src="/logos/t.svg"
       alt={alt}
       width={24}
       height={24}
@@ -90,12 +100,7 @@ export const IconLink: React.FC<IconLinkProps> = ({
     : {};
 
   return (
-    <a
-      href={href}
-      title={title}
-      className={className}
-      {...linkProps}
-    >
+    <a href={href} title={title} className={className} {...linkProps}>
       <Icon className={iconClassName} />
     </a>
   );

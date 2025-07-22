@@ -24,6 +24,7 @@ export const viewport = {
 };
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://trakt.sayed.app"),
   title: "Sayed's Trakt Tracker",
   description:
     "Personal movie and TV show tracking dashboard with Trakt.tv integration",
