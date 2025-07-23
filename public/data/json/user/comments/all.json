@@ -1,12 +1,55 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-22T09:30:15.497467+00:00",
+    "fetched_at": "2025-07-23T05:53:22.486450+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/comments/all.json",
-    "count": 7
+    "count": 8
   },
   "data": [
+    {
+      "type": "movie",
+      "movie": {
+        "title": "The Amateur",
+        "year": 2025,
+        "ids": {
+          "trakt": 874192,
+          "slug": "the-amateur-2025",
+          "imdb": "tt0899043",
+          "tmdb": 1087891
+        }
+      },
+      "comment": {
+        "id": 839205,
+        "comment": "Just Rami Malek things with actions.",
+        "spoiler": false,
+        "review": false,
+        "parent_id": 0,
+        "created_at": "2025-07-22T16:51:49.000Z",
+        "updated_at": "2025-07-22T16:51:49.000Z",
+        "replies": 0,
+        "likes": 0,
+        "user_rating": null,
+        "language": "en",
+        "user_stats": {
+          "rating": null,
+          "play_count": 1,
+          "completed_count": 1
+        },
+        "user": {
+          "username": "lrs",
+          "private": false,
+          "deleted": false,
+          "name": "SAYED | সাঈদ",
+          "vip": true,
+          "vip_ep": false,
+          "director": false,
+          "ids": {
+            "slug": "lrs"
+          }
+        }
+      }
+    },
     {
       "type": "episode",
       "episode": {
@@ -54,8 +97,8 @@
           "username": "lrs",
           "private": false,
           "deleted": false,
-          "name": "SAYED",
-          "vip": false,
+          "name": "SAYED | সাঈদ",
+          "vip": true,
           "vip_ep": false,
           "director": false,
           "ids": {
@@ -97,8 +140,8 @@
           "username": "lrs",
           "private": false,
           "deleted": false,
-          "name": "SAYED",
-          "vip": false,
+          "name": "SAYED | সাঈদ",
+          "vip": true,
           "vip_ep": false,
           "director": false,
           "ids": {
@@ -140,8 +183,8 @@
           "username": "lrs",
           "private": false,
           "deleted": false,
-          "name": "SAYED",
-          "vip": false,
+          "name": "SAYED | সাঈদ",
+          "vip": true,
           "vip_ep": false,
           "director": false,
           "ids": {
@@ -185,8 +228,8 @@
           "username": "lrs",
           "private": false,
           "deleted": false,
-          "name": "SAYED",
-          "vip": false,
+          "name": "SAYED | সাঈদ",
+          "vip": true,
           "vip_ep": false,
           "director": false,
           "ids": {
@@ -242,8 +285,8 @@
           "username": "lrs",
           "private": false,
           "deleted": false,
-          "name": "SAYED",
-          "vip": false,
+          "name": "SAYED | সাঈদ",
+          "vip": true,
           "vip_ep": false,
           "director": false,
           "ids": {
@@ -299,8 +342,8 @@
           "username": "lrs",
           "private": false,
           "deleted": false,
-          "name": "SAYED",
-          "vip": false,
+          "name": "SAYED | সাঈদ",
+          "vip": true,
           "vip_ep": false,
           "director": false,
           "ids": {
@@ -342,8 +385,8 @@
           "username": "lrs",
           "private": false,
           "deleted": false,
-          "name": "SAYED",
-          "vip": false,
+          "name": "SAYED | সাঈদ",
+          "vip": true,
           "vip_ep": false,
           "director": false,
           "ids": {

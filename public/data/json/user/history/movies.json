@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-22T09:30:11.321789+00:00",
+    "fetched_at": "2025-07-23T05:53:20.843761+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11072734101,
+      "watched_at": "2025-07-22T18:13:06.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Ballerina",
+        "year": 2025,
+        "ids": {
+          "trakt": 392717,
+          "slug": "ballerina-2025",
+          "imdb": "tt7181546",
+          "tmdb": 541671
+        }
+      }
+    },
+    {
+      "id": 11072380102,
+      "watched_at": "2025-07-22T15:09:10.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "The Amateur",
+        "year": 2025,
+        "ids": {
+          "trakt": 874192,
+          "slug": "the-amateur-2025",
+          "imdb": "tt0899043",
+          "tmdb": 1087891
+        }
+      }
+    },
     {
       "id": 11016898510,
       "watched_at": "2025-07-05T14:31:24.000Z",
@@ -132,38 +164,6 @@
           "slug": "total-recall-1990",
           "imdb": "tt0100802",
           "tmdb": 861
-        }
-      }
-    },
-    {
-      "id": 10808721443,
-      "watched_at": "2025-04-29T16:56:10.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "The Game",
-        "year": 1997,
-        "ids": {
-          "trakt": 1789,
-          "slug": "the-game-1997",
-          "imdb": "tt0119174",
-          "tmdb": 2649
-        }
-      }
-    },
-    {
-      "id": 10808116424,
-      "watched_at": "2025-04-29T10:49:56.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Chaos",
-        "year": 2005,
-        "ids": {
-          "trakt": 3062,
-          "slug": "chaos-2005",
-          "imdb": "tt0402910",
-          "tmdb": 5289
         }
       }
     }

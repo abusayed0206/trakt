@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-22T09:30:13.680102+00:00",
+    "fetched_at": "2025-07-23T05:53:21.683365+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/shows.json",
@@ -8,7 +8,7 @@
   },
   "data": [
     {
-      "rank": 14,
+      "rank": 13,
       "id": 1283700059,
       "listed_at": "2025-07-21T11:43:35.000Z",
       "notes": null,

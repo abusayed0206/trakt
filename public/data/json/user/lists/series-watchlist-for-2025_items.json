@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-22T09:30:14.814932+00:00",
+    "fetched_at": "2025-07-23T05:53:22.215466+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
-    "count": 54
+    "count": 56
   },
   "data": [
     {
@@ -23,7 +23,28 @@
           "imdb": "tt1520211",
           "tmdb": 1402,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 177
+      }
+    },
+    {
+      "rank": 56,
+      "id": 1285066985,
+      "listed_at": "2025-07-22T20:10:01.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Big Bang Theory",
+        "year": 2007,
+        "ids": {
+          "trakt": 1409,
+          "slug": "the-big-bang-theory",
+          "tvdb": 80379,
+          "imdb": "tt0898266",
+          "tmdb": 1418,
+          "tvrage": null
+        },
+        "aired_episodes": 279
       }
     },
     {
@@ -42,7 +63,8 @@
           "imdb": "tt0108778",
           "tmdb": 1668,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 229
       }
     },
     {
@@ -61,7 +83,8 @@
           "imdb": "tt0411008",
           "tmdb": 4607,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 118
       }
     },
     {
@@ -80,7 +103,8 @@
           "imdb": "tt0386676",
           "tmdb": 2316,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 186
       }
     },
     {
@@ -99,7 +123,8 @@
           "imdb": "tt2467372",
           "tmdb": 48891,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 152
       }
     },
     {
@@ -118,7 +143,8 @@
           "imdb": "tt1632701",
           "tmdb": 37680,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 134
       }
     },
     {
@@ -137,7 +163,8 @@
           "imdb": "tt1856010",
           "tmdb": 1425,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 73
       }
     },
     {
@@ -156,7 +183,8 @@
           "imdb": "tt5180504",
           "tmdb": 71912,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 24
       }
     },
     {
@@ -175,7 +203,8 @@
           "imdb": "tt2364582",
           "tmdb": 1403,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 136
       }
     },
     {
@@ -194,7 +223,8 @@
           "imdb": "tt0436992",
           "tmdb": 57243,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 153
       }
     },
     {
@@ -213,7 +243,8 @@
           "imdb": "tt0185906",
           "tmdb": 4613,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 10
       }
     },
     {
@@ -232,7 +263,8 @@
           "imdb": "tt0141842",
           "tmdb": 1398,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 86
       }
     },
     {
@@ -251,7 +283,8 @@
           "imdb": "tt2802850",
           "tmdb": 60622,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 51
       }
     },
     {
@@ -270,7 +303,8 @@
           "imdb": "tt1405406",
           "tmdb": 18165,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 171
       }
     },
     {
@@ -289,7 +323,8 @@
           "imdb": "tt0413573",
           "tmdb": 1416,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 447
       }
     },
     {
@@ -308,7 +343,8 @@
           "imdb": "tt0407362",
           "tmdb": 1972,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 73
       }
     },
     {
@@ -327,7 +363,8 @@
           "imdb": "tt0106179",
           "tmdb": 4087,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 218
       }
     },
     {
@@ -346,7 +383,8 @@
           "imdb": "tt2191671",
           "tmdb": 1415,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 154
       }
     },
     {
@@ -365,7 +403,8 @@
           "imdb": "tt0285331",
           "tmdb": 1973,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 204
       }
     },
     {
@@ -384,7 +423,8 @@
           "imdb": "tt1219024",
           "tmdb": 1419,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 173
       }
     },
     {
@@ -403,7 +443,8 @@
           "imdb": "tt7660850",
           "tmdb": 76331,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 39
       }
     },
     {
@@ -422,7 +463,8 @@
           "imdb": "tt0452046",
           "tmdb": 4057,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 354
       }
     },
     {
@@ -441,7 +483,8 @@
           "imdb": "tt0979432",
           "tmdb": 1621,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 56
       }
     },
     {
@@ -460,7 +503,8 @@
           "imdb": "tt2149175",
           "tmdb": 46533,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 75
       }
     },
     {
@@ -479,7 +523,8 @@
           "imdb": "tt2375692",
           "tmdb": 47665,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 38
       }
     },
     {
@@ -498,7 +543,8 @@
           "imdb": "tt5057054",
           "tmdb": 73375,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 30
       }
     },
     {
@@ -517,7 +563,8 @@
           "imdb": "tt0364845",
           "tmdb": 4614,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 487
       }
     },
     {
@@ -536,7 +583,8 @@
           "imdb": "tt5114356",
           "tmdb": 67195,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 27
       }
     },
     {
@@ -555,7 +603,8 @@
           "imdb": "tt5348176",
           "tmdb": 73107,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 32
       }
     },
     {
@@ -574,7 +623,8 @@
           "imdb": "tt4179452",
           "tmdb": 63333,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 46
       }
     },
     {
@@ -593,7 +643,8 @@
           "imdb": "tt1637727",
           "tmdb": 34415,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 44
       }
     },
     {
@@ -612,7 +663,8 @@
           "imdb": "tt11737520",
           "tmdb": 111110,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 8
       }
     },
     {
@@ -631,7 +683,8 @@
           "imdb": "tt2934286",
           "tmdb": 52814,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 17
       }
     },
     {
@@ -650,7 +703,8 @@
           "imdb": "tt7587890",
           "tmdb": 79744,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 126
       }
     },
     {
@@ -669,7 +723,8 @@
           "imdb": "tt3514324",
           "tmdb": 60797,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 93
       }
     },
     {
@@ -688,7 +743,8 @@
           "imdb": "tt2294189",
           "tmdb": 49010,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 17
       }
     },
     {
@@ -707,7 +763,8 @@
           "imdb": "tt0203259",
           "tmdb": 2734,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 573
       }
     },
     {
@@ -726,7 +783,8 @@
           "imdb": "tt4301160",
           "tmdb": 155537,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 6
       }
     },
     {
@@ -745,7 +803,8 @@
           "imdb": "tt0247082",
           "tmdb": 1431,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 335
       }
     },
     {
@@ -764,7 +823,8 @@
           "imdb": "tt15571732",
           "tmdb": 138501,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 9
       }
     },
     {
@@ -783,7 +843,8 @@
           "imdb": "tt2805096",
           "tmdb": 58841,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 243
       }
     },
     {
@@ -802,7 +863,8 @@
           "imdb": "tt0118421",
           "tmdb": 3322,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 56
       }
     },
     {
@@ -821,7 +883,8 @@
           "imdb": "tt11743610",
           "tmdb": 120911,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 8
       }
     },
     {
@@ -840,7 +903,8 @@
           "imdb": "tt19231492",
           "tmdb": 196322,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 9
       }
     },
     {
@@ -859,7 +923,8 @@
           "imdb": "tt1733785",
           "tmdb": 45016,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 38
       }
     },
     {
@@ -878,7 +943,8 @@
           "imdb": "tt11311302",
           "tmdb": 116135,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 24
       }
     },
     {
@@ -897,7 +963,8 @@
           "imdb": "tt31938062",
           "tmdb": 250307,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 15
       }
     },
     {
@@ -916,7 +983,8 @@
           "imdb": "tt0108757",
           "tmdb": 4588,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 331
       }
     },
     {
@@ -935,7 +1003,28 @@
           "imdb": "tt4655480",
           "tmdb": 62650,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 198
+      }
+    },
+    {
+      "rank": 55,
+      "id": 1285066962,
+      "listed_at": "2025-07-22T20:09:52.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "MobLand",
+        "year": 2025,
+        "ids": {
+          "trakt": 228595,
+          "slug": "mobland",
+          "tvdb": 446831,
+          "imdb": "tt31510819",
+          "tmdb": 247718,
+          "tvrage": null
+        },
+        "aired_episodes": 10
       }
     },
     {
@@ -954,7 +1043,8 @@
           "imdb": "tt10323338",
           "tmdb": 89393,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 72
       }
     },
     {
@@ -973,7 +1063,8 @@
           "imdb": "tt13875494",
           "tmdb": 211288,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 33
       }
     },
     {
@@ -992,7 +1083,8 @@
           "imdb": "tt4452630",
           "tmdb": 63418,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 47
       }
     },
     {
@@ -1011,7 +1103,8 @@
           "imdb": "tt21088136",
           "tmdb": 204490,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 8
       }
     },
     {
@@ -1030,7 +1123,8 @@
           "imdb": "tt0056757",
           "tmdb": 10083,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 120
       }
     }
   ]
