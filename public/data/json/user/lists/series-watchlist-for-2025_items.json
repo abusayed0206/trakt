@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-23T05:53:22.215466+00:00",
+    "fetched_at": "2025-07-24T05:51:00.679307+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
-    "count": 56
+    "count": 77
   },
   "data": [
     {
@@ -105,6 +105,26 @@
           "tvrage": null
         },
         "aired_episodes": 186
+      }
+    },
+    {
+      "rank": 57,
+      "id": 1286148826,
+      "listed_at": "2025-07-23T20:56:07.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        },
+        "aired_episodes": 170
       }
     },
     {
@@ -608,6 +628,26 @@
       }
     },
     {
+      "rank": 76,
+      "id": 1286151857,
+      "listed_at": "2025-07-23T21:01:09.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Revolution",
+        "year": 2012,
+        "ids": {
+          "trakt": 1401,
+          "slug": "revolution",
+          "tvdb": 258823,
+          "imdb": "tt2070791",
+          "tmdb": 1410,
+          "tvrage": null
+        },
+        "aired_episodes": 42
+      }
+    },
+    {
       "rank": 30,
       "id": 1153031323,
       "listed_at": "2025-01-08T18:22:51.000Z",
@@ -665,6 +705,46 @@
           "tvrage": null
         },
         "aired_episodes": 8
+      }
+    },
+    {
+      "rank": 71,
+      "id": 1286151520,
+      "listed_at": "2025-07-23T21:00:34.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Last Ship",
+        "year": 2014,
+        "ids": {
+          "trakt": 60360,
+          "slug": "the-last-ship",
+          "tvdb": 269533,
+          "imdb": "tt2402207",
+          "tmdb": 60802,
+          "tvrage": null
+        },
+        "aired_episodes": 56
+      }
+    },
+    {
+      "rank": 61,
+      "id": 1286150874,
+      "listed_at": "2025-07-23T20:59:39.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Burn Notice",
+        "year": 2007,
+        "ids": {
+          "trakt": 2900,
+          "slug": "burn-notice",
+          "tvdb": 80270,
+          "imdb": "tt0810788",
+          "tmdb": 2919,
+          "tvrage": null
+        },
+        "aired_episodes": 111
       }
     },
     {
@@ -788,6 +868,46 @@
       }
     },
     {
+      "rank": 63,
+      "id": 1286150899,
+      "listed_at": "2025-07-23T20:59:49.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Defiance",
+        "year": 2013,
+        "ids": {
+          "trakt": 51377,
+          "slug": "defiance",
+          "tvdb": 255326,
+          "imdb": "tt2189221",
+          "tmdb": 51704,
+          "tvrage": null
+        },
+        "aired_episodes": 38
+      }
+    },
+    {
+      "rank": 72,
+      "id": 1286151594,
+      "listed_at": "2025-07-23T21:00:44.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Leverage",
+        "year": 2008,
+        "ids": {
+          "trakt": 7438,
+          "slug": "leverage",
+          "tvdb": 82339,
+          "imdb": "tt1103987",
+          "tmdb": 7482,
+          "tvrage": null
+        },
+        "aired_episodes": 77
+      }
+    },
+    {
       "rank": 10,
       "id": 1133528028,
       "listed_at": "2024-12-04T17:14:17.000Z",
@@ -828,6 +948,26 @@
       }
     },
     {
+      "rank": 74,
+      "id": 1286151728,
+      "listed_at": "2025-07-23T21:00:58.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Quantico",
+        "year": 2015,
+        "ids": {
+          "trakt": 98885,
+          "slug": "quantico",
+          "tvdb": 295515,
+          "imdb": "tt4428122",
+          "tmdb": 62816,
+          "tvrage": null
+        },
+        "aired_episodes": 57
+      }
+    },
+    {
       "rank": 29,
       "id": 1153031321,
       "listed_at": "2025-01-08T18:22:47.000Z",
@@ -845,6 +985,46 @@
           "tvrage": null
         },
         "aired_episodes": 243
+      }
+    },
+    {
+      "rank": 66,
+      "id": 1286151361,
+      "listed_at": "2025-07-23T21:00:15.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Into the Badlands",
+        "year": 2015,
+        "ids": {
+          "trakt": 82217,
+          "slug": "into-the-badlands",
+          "tvdb": 289079,
+          "imdb": "tt3865236",
+          "tmdb": 47450,
+          "tvrage": null
+        },
+        "aired_episodes": 32
+      }
+    },
+    {
+      "rank": 73,
+      "id": 1286151708,
+      "listed_at": "2025-07-23T21:00:54.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "NCIS: Los Angeles",
+        "year": 2009,
+        "ids": {
+          "trakt": 17532,
+          "slug": "ncis-los-angeles",
+          "tvdb": 95441,
+          "imdb": "tt1378167",
+          "tmdb": 17610,
+          "tvrage": null
+        },
+        "aired_episodes": 323
       }
     },
     {
@@ -908,6 +1088,26 @@
       }
     },
     {
+      "rank": 64,
+      "id": 1286151019,
+      "listed_at": "2025-07-23T20:59:54.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "FlashForward",
+        "year": 2009,
+        "ids": {
+          "trakt": 19003,
+          "slug": "flashforward",
+          "tvdb": 84024,
+          "imdb": "tt1441135",
+          "tmdb": 19092,
+          "tvrage": null
+        },
+        "aired_episodes": 22
+      }
+    },
+    {
       "rank": 49,
       "id": 1273903687,
       "listed_at": "2025-07-08T18:50:06.000Z",
@@ -948,6 +1148,26 @@
       }
     },
     {
+      "rank": 70,
+      "id": 1286151517,
+      "listed_at": "2025-07-23T21:00:31.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Lethal Weapon",
+        "year": 2016,
+        "ids": {
+          "trakt": 107717,
+          "slug": "lethal-weapon",
+          "tvdb": 311790,
+          "imdb": "tt5164196",
+          "tmdb": 67116,
+          "tvrage": null
+        },
+        "aired_episodes": 55
+      }
+    },
+    {
       "rank": 35,
       "id": 1273910724,
       "listed_at": "2025-07-08T19:03:09.000Z",
@@ -965,6 +1185,46 @@
           "tvrage": null
         },
         "aired_episodes": 15
+      }
+    },
+    {
+      "rank": 77,
+      "id": 1286152000,
+      "listed_at": "2025-07-23T21:01:19.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Strike Back",
+        "year": 2010,
+        "ids": {
+          "trakt": 32433,
+          "slug": "strike-back",
+          "tvdb": 148581,
+          "imdb": "tt1492179",
+          "tmdb": 32573,
+          "tvrage": null
+        },
+        "aired_episodes": 76
+      }
+    },
+    {
+      "rank": 60,
+      "id": 1286150872,
+      "listed_at": "2025-07-23T20:59:36.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Bloodline",
+        "year": 2015,
+        "ids": {
+          "trakt": 81282,
+          "slug": "bloodline",
+          "tvdb": 287314,
+          "imdb": "tt3520702",
+          "tmdb": 61986,
+          "tvrage": null
+        },
+        "aired_episodes": 33
       }
     },
     {
@@ -1005,6 +1265,26 @@
           "tvrage": null
         },
         "aired_episodes": 198
+      }
+    },
+    {
+      "rank": 69,
+      "id": 1286151465,
+      "listed_at": "2025-07-23T21:00:26.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Last Resort",
+        "year": 2012,
+        "ids": {
+          "trakt": 44404,
+          "slug": "last-resort",
+          "tvdb": 255413,
+          "imdb": "tt2172103",
+          "tmdb": 44652,
+          "tvrage": null
+        },
+        "aired_episodes": 13
       }
     },
     {
@@ -1068,6 +1348,26 @@
       }
     },
     {
+      "rank": 58,
+      "id": 1286150796,
+      "listed_at": "2025-07-23T20:59:21.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "24: Legacy",
+        "year": 2017,
+        "ids": {
+          "trakt": 107716,
+          "slug": "24-legacy",
+          "tvdb": 311787,
+          "imdb": "tt5345490",
+          "tmdb": 66789,
+          "tvrage": null
+        },
+        "aired_episodes": 12
+      }
+    },
+    {
       "rank": 39,
       "id": 1273920117,
       "listed_at": "2025-07-08T19:13:28.000Z",
@@ -1108,6 +1408,106 @@
       }
     },
     {
+      "rank": 59,
+      "id": 1286150812,
+      "listed_at": "2025-07-23T20:59:26.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Berlin Station",
+        "year": 2016,
+        "ids": {
+          "trakt": 110196,
+          "slug": "berlin-station",
+          "tvdb": 314995,
+          "imdb": "tt5191110",
+          "tmdb": 66282,
+          "tvrage": null
+        },
+        "aired_episodes": 29
+      }
+    },
+    {
+      "rank": 62,
+      "id": 1286150898,
+      "listed_at": "2025-07-23T20:59:45.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Criminal Minds: Beyond Borders",
+        "year": 2016,
+        "ids": {
+          "trakt": 99664,
+          "slug": "criminal-minds-beyond-borders",
+          "tvdb": 296654,
+          "imdb": "tt4364202",
+          "tmdb": 64481,
+          "tvrage": null
+        },
+        "aired_episodes": 26
+      }
+    },
+    {
+      "rank": 65,
+      "id": 1286151153,
+      "listed_at": "2025-07-23T21:00:08.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Hap and Leonard",
+        "year": 2016,
+        "ids": {
+          "trakt": 104614,
+          "slug": "hap-and-leonard",
+          "tvdb": 305687,
+          "imdb": "tt3729898",
+          "tmdb": 64835,
+          "tvrage": null
+        },
+        "aired_episodes": 18
+      }
+    },
+    {
+      "rank": 68,
+      "id": 1286151412,
+      "listed_at": "2025-07-23T21:00:22.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "La Femme Nikita",
+        "year": 1997,
+        "ids": {
+          "trakt": 166,
+          "slug": "la-femme-nikita",
+          "tvdb": 78527,
+          "imdb": "tt0118379",
+          "tmdb": 167,
+          "tvrage": null
+        },
+        "aired_episodes": 96
+      }
+    },
+    {
+      "rank": 75,
+      "id": 1286151743,
+      "listed_at": "2025-07-23T21:01:04.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Relic Hunter",
+        "year": 1999,
+        "ids": {
+          "trakt": 2836,
+          "slug": "relic-hunter",
+          "tvdb": 73810,
+          "imdb": "tt0207919",
+          "tmdb": 2855,
+          "tvrage": null
+        },
+        "aired_episodes": 66
+      }
+    },
+    {
       "rank": 52,
       "id": 1153420500,
       "listed_at": "2025-01-09T10:31:55.000Z",
@@ -1125,6 +1525,26 @@
           "tvrage": null
         },
         "aired_episodes": 120
+      }
+    },
+    {
+      "rank": 67,
+      "id": 1286151372,
+      "listed_at": "2025-07-23T21:00:18.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Jack Hunter",
+        "year": 2008,
+        "ids": {
+          "trakt": 40243,
+          "slug": "jack-hunter",
+          "tvdb": 118221,
+          "imdb": "tt1069207",
+          "tmdb": 227424,
+          "tvrage": null
+        },
+        "aired_episodes": 3
       }
     }
   ]

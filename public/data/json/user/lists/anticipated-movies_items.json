@@ -1,83 +1,12 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-23T05:53:22.316592+00:00",
+    "fetched_at": "2025-07-24T05:51:00.779583+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
-    "count": 19
+    "count": 15
   },
   "data": [
-    {
-      "rank": 17,
-      "id": 1217704518,
-      "listed_at": "2025-05-01T10:50:08.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "Black Mirror",
-        "year": 2011,
-        "ids": {
-          "trakt": 41793,
-          "slug": "black-mirror",
-          "tvdb": 253463,
-          "imdb": "tt2085059",
-          "tmdb": 42009,
-          "tvrage": null
-        },
-        "aired_episodes": 32
-      }
-    },
-    {
-      "rank": 18,
-      "id": 1281569799,
-      "listed_at": "2025-07-19T07:17:57.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Thunderbolts*",
-        "year": 2025,
-        "ids": {
-          "trakt": 792299,
-          "slug": "thunderbolts-2025",
-          "imdb": "tt20969586",
-          "tmdb": 986056
-        }
-      }
-    },
-    {
-      "rank": 15,
-      "id": 1215612532,
-      "listed_at": "2025-04-26T16:28:30.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "The Accountant²",
-        "year": 2025,
-        "ids": {
-          "trakt": 696075,
-          "slug": "the-accountant-2025",
-          "imdb": "tt7068946",
-          "tmdb": 870028
-        }
-      }
-    },
-    {
-      "rank": 11,
-      "id": 1174076460,
-      "listed_at": "2025-02-16T04:15:29.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "The Amateur",
-        "year": 2025,
-        "ids": {
-          "trakt": 874192,
-          "slug": "the-amateur-2025",
-          "imdb": "tt0899043",
-          "tmdb": 1087891
-        }
-      }
-    },
     {
       "rank": 9,
       "id": 1174076327,
@@ -128,8 +57,7 @@
           "imdb": "tt13623126",
           "tmdb": 114471,
           "tvrage": null
-        },
-        "aired_episodes": 6
+        }
       }
     },
     {
@@ -218,7 +146,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 15,
       "id": 1285064667,
       "listed_at": "2025-07-22T20:05:17.000Z",
       "notes": null,
@@ -252,7 +180,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "id": 1210621808,
       "listed_at": "2025-04-14T10:15:39.000Z",
       "notes": null,
@@ -286,7 +214,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": 1205938473,
       "listed_at": "2025-04-03T16:21:59.000Z",
       "notes": null,
@@ -303,7 +231,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "id": 1174076529,
       "listed_at": "2025-02-16T04:15:44.000Z",
       "notes": null,
@@ -320,7 +248,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": 1176832893,
       "listed_at": "2025-02-22T14:20:36.000Z",
       "notes": null,

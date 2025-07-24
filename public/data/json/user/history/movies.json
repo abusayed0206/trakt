@@ -1,12 +1,76 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-23T05:53:20.843761+00:00",
+    "fetched_at": "2025-07-24T05:50:58.106532+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11075864560,
+      "watched_at": "2025-07-23T20:40:42.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "The Accountant²",
+        "year": 2025,
+        "ids": {
+          "trakt": 696075,
+          "slug": "the-accountant-2025",
+          "imdb": "tt7068946",
+          "tmdb": 870028
+        }
+      }
+    },
+    {
+      "id": 11075207047,
+      "watched_at": "2025-07-23T15:30:42.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Selena Gomez: My Mind & Me",
+        "year": 2022,
+        "ids": {
+          "trakt": 821861,
+          "slug": "selena-gomez-my-mind-me-2022",
+          "imdb": "tt21819250",
+          "tmdb": 1022256
+        }
+      }
+    },
+    {
+      "id": 11074788166,
+      "watched_at": "2025-07-23T11:40:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Thunderbolts*",
+        "year": 2025,
+        "ids": {
+          "trakt": 792299,
+          "slug": "thunderbolts-2025",
+          "imdb": "tt20969586",
+          "tmdb": 986056
+        }
+      }
+    },
+    {
+      "id": 11074453829,
+      "watched_at": "2025-07-23T07:28:26.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Final Destination 2",
+        "year": 2003,
+        "ids": {
+          "trakt": 4650,
+          "slug": "final-destination-2-2003",
+          "imdb": "tt0309593",
+          "tmdb": 9358
+        }
+      }
+    },
     {
       "id": 11072734101,
       "watched_at": "2025-07-22T18:13:06.000Z",
@@ -100,70 +164,6 @@
           "slug": "hot-fuzz-2007",
           "imdb": "tt0425112",
           "tmdb": 4638
-        }
-      }
-    },
-    {
-      "id": 10832253678,
-      "watched_at": "2025-05-05T08:35:30.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Children of Men",
-        "year": 2006,
-        "ids": {
-          "trakt": 4965,
-          "slug": "children-of-men-2006",
-          "imdb": "tt0206634",
-          "tmdb": 9693
-        }
-      }
-    },
-    {
-      "id": 10819872089,
-      "watched_at": "2025-05-01T19:32:53.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Total Recall",
-        "year": 2012,
-        "ids": {
-          "trakt": 46685,
-          "slug": "total-recall-2012",
-          "imdb": "tt1386703",
-          "tmdb": 64635
-        }
-      }
-    },
-    {
-      "id": 10819690447,
-      "watched_at": "2025-05-01T18:09:07.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Run Lola Run",
-        "year": 1998,
-        "ids": {
-          "trakt": 73,
-          "slug": "run-lola-run-1998",
-          "imdb": "tt0130827",
-          "tmdb": 104
-        }
-      }
-    },
-    {
-      "id": 10816389691,
-      "watched_at": "2025-05-01T11:01:08.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Total Recall",
-        "year": 1990,
-        "ids": {
-          "trakt": 704,
-          "slug": "total-recall-1990",
-          "imdb": "tt0100802",
-          "tmdb": 861
         }
       }
     }

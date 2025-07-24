@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-23T05:53:21.214386+00:00",
+    "fetched_at": "2025-07-24T05:50:59.107035+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 732
+    "count": 737
   },
   "data": [
     {
@@ -2424,6 +2424,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2025-07-23T07:28:26.000Z",
+      "last_updated_at": "2025-07-23T07:28:26.000Z",
+      "movie": {
+        "title": "Final Destination 2",
+        "year": 2003,
+        "ids": {
+          "trakt": 4650,
+          "slug": "final-destination-2-2003",
+          "imdb": "tt0309593",
+          "tmdb": 9358
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2024-06-05T09:05:44.000Z",
       "last_updated_at": "2024-06-05T09:05:44.000Z",
       "movie": {
@@ -2434,6 +2449,21 @@
           "slug": "man-on-fire-2004",
           "imdb": "tt0328107",
           "tmdb": 9509
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2020-07-10T06:43:00.000Z",
+      "last_updated_at": "2025-07-23T06:44:09.000Z",
+      "movie": {
+        "title": "Final Destination",
+        "year": 2000,
+        "ids": {
+          "trakt": 4810,
+          "slug": "final-destination-2000",
+          "imdb": "tt0195714",
+          "tmdb": 9532
         }
       }
     },
@@ -9999,6 +10029,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2025-07-23T20:40:42.000Z",
+      "last_updated_at": "2025-07-23T20:40:42.000Z",
+      "movie": {
+        "title": "The Accountant²",
+        "year": 2025,
+        "ids": {
+          "trakt": 696075,
+          "slug": "the-accountant-2025",
+          "imdb": "tt7068946",
+          "tmdb": 870028
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2023-12-01T13:10:17.000Z",
       "last_updated_at": "2023-12-01T13:10:17.000Z",
       "movie": {
@@ -10404,6 +10449,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2025-07-23T11:40:00.000Z",
+      "last_updated_at": "2025-07-23T11:40:00.000Z",
+      "movie": {
+        "title": "Thunderbolts*",
+        "year": 2025,
+        "ids": {
+          "trakt": 792299,
+          "slug": "thunderbolts-2025",
+          "imdb": "tt20969586",
+          "tmdb": 986056
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2023-05-26T16:00:00.000Z",
       "last_updated_at": "2024-08-10T14:08:50.000Z",
       "movie": {
@@ -10519,6 +10579,21 @@
           "slug": "shabash-feluda-gangtokey-gondogol-2023",
           "imdb": "tt27587947",
           "tmdb": 1019345
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-07-23T15:30:42.000Z",
+      "last_updated_at": "2025-07-23T15:30:43.000Z",
+      "movie": {
+        "title": "Selena Gomez: My Mind & Me",
+        "year": 2022,
+        "ids": {
+          "trakt": 821861,
+          "slug": "selena-gomez-my-mind-me-2022",
+          "imdb": "tt21819250",
+          "tmdb": 1022256
         }
       }
     },
@@ -10974,8 +11049,8 @@
     },
     {
       "plays": 1,
-      "last_watched_at": "2025-02-21T09:14:33.000Z",
-      "last_updated_at": "2025-02-21T09:14:33.000Z",
+      "last_watched_at": "2025-03-09T20:02:00.000Z",
+      "last_updated_at": "2025-07-23T20:03:12.000Z",
       "movie": {
         "title": "Shohorer Bou",
         "year": 2005,
