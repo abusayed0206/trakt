@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-24T05:50:58.106532+00:00",
+    "fetched_at": "2025-07-25T05:53:00.047390+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11078491870,
+      "watched_at": "2025-07-24T19:55:41.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "The King's Man",
+        "year": 2021,
+        "ids": {
+          "trakt": 324048,
+          "slug": "the-king-s-man-2021",
+          "imdb": "tt6856242",
+          "tmdb": 476669
+        }
+      }
+    },
+    {
+      "id": 11077529938,
+      "watched_at": "2025-07-24T12:14:25.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Mickey 17",
+        "year": 2025,
+        "ids": {
+          "trakt": 540151,
+          "slug": "mickey-17-2025",
+          "imdb": "tt12299608",
+          "tmdb": 696506
+        }
+      }
+    },
     {
       "id": 11075864560,
       "watched_at": "2025-07-23T20:40:42.000Z",
@@ -132,38 +164,6 @@
           "slug": "indiana-jones-and-the-last-crusade-1989",
           "imdb": "tt0097576",
           "tmdb": 89
-        }
-      }
-    },
-    {
-      "id": 11016012101,
-      "watched_at": "2025-07-05T06:04:47.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Indiana Jones and the Temple of Doom",
-        "year": 1984,
-        "ids": {
-          "trakt": 56,
-          "slug": "indiana-jones-and-the-temple-of-doom-1984",
-          "imdb": "tt0087469",
-          "tmdb": 87
-        }
-      }
-    },
-    {
-      "id": 10841549202,
-      "watched_at": "2025-05-08T09:08:30.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Hot Fuzz",
-        "year": 2007,
-        "ids": {
-          "trakt": 2724,
-          "slug": "hot-fuzz-2007",
-          "imdb": "tt0425112",
-          "tmdb": 4638
         }
       }
     }

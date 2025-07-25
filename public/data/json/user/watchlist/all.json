@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-24T05:50:59.475511+00:00",
+    "fetched_at": "2025-07-25T05:53:01.930469+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
-    "count": 28
+    "count": 26
   },
   "data": [
     {
@@ -210,7 +210,8 @@
           "imdb": "tt33043892",
           "tmdb": 259909,
           "tvrage": null
-        }
+        },
+        "aired_episodes": 3
       }
     },
     {
@@ -351,23 +352,6 @@
     },
     {
       "rank": 21,
-      "id": 1285064337,
-      "listed_at": "2025-07-22T20:04:41.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Mickey 17",
-        "year": 2025,
-        "ids": {
-          "trakt": 540151,
-          "slug": "mickey-17-2025",
-          "imdb": "tt12299608",
-          "tmdb": 696506
-        }
-      }
-    },
-    {
-      "rank": 22,
       "id": 1285064977,
       "listed_at": "2025-07-22T20:05:47.000Z",
       "notes": null,
@@ -384,7 +368,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": 1285065122,
       "listed_at": "2025-07-22T20:06:09.000Z",
       "notes": null,
@@ -401,24 +385,7 @@
       }
     },
     {
-      "rank": 24,
-      "id": 1286060702,
-      "listed_at": "2025-07-23T19:03:49.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "The King's Man",
-        "year": 2021,
-        "ids": {
-          "trakt": 324048,
-          "slug": "the-king-s-man-2021",
-          "imdb": "tt6856242",
-          "tmdb": 476669
-        }
-      }
-    },
-    {
-      "rank": 25,
+      "rank": 23,
       "id": 1285065712,
       "listed_at": "2025-07-22T20:07:01.000Z",
       "notes": null,
@@ -435,7 +402,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 24,
       "id": 1286154725,
       "listed_at": "2025-07-23T21:05:30.000Z",
       "notes": null,
@@ -452,7 +419,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 25,
       "id": 1285065747,
       "listed_at": "2025-07-22T20:07:18.000Z",
       "notes": null,
@@ -469,7 +436,7 @@
       }
     },
     {
-      "rank": 28,
+      "rank": 26,
       "id": 1285066279,
       "listed_at": "2025-07-22T20:08:22.000Z",
       "notes": null,
