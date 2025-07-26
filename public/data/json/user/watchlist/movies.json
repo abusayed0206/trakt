@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-25T05:53:02.049051+00:00",
+    "fetched_at": "2025-07-26T05:48:45.610931+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/movies.json",
-    "count": 25
+    "count": 23
   },
   "data": [
     {
@@ -298,23 +298,6 @@
     },
     {
       "rank": 19,
-      "id": 1285064120,
-      "listed_at": "2025-07-22T20:04:16.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "The Old Guard 2",
-        "year": 2025,
-        "ids": {
-          "trakt": 675992,
-          "slug": "the-old-guard-2-2025",
-          "imdb": "tt14961624",
-          "tmdb": 846422
-        }
-      }
-    },
-    {
-      "rank": 20,
       "id": 1285064215,
       "listed_at": "2025-07-22T20:04:33.000Z",
       "notes": null,
@@ -331,7 +314,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": 1285064977,
       "listed_at": "2025-07-22T20:05:47.000Z",
       "notes": null,
@@ -348,7 +331,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": 1285065122,
       "listed_at": "2025-07-22T20:06:09.000Z",
       "notes": null,
@@ -365,7 +348,7 @@
       }
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": 1285065712,
       "listed_at": "2025-07-22T20:07:01.000Z",
       "notes": null,
@@ -382,24 +365,7 @@
       }
     },
     {
-      "rank": 24,
-      "id": 1286154725,
-      "listed_at": "2025-07-23T21:05:30.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Paddington 2",
-        "year": 2017,
-        "ids": {
-          "trakt": 266173,
-          "slug": "paddington-2-2017",
-          "imdb": "tt4468740",
-          "tmdb": 346648
-        }
-      }
-    },
-    {
-      "rank": 25,
+      "rank": 23,
       "id": 1285065747,
       "listed_at": "2025-07-22T20:07:18.000Z",
       "notes": null,
@@ -416,7 +382,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 24,
       "id": 1285066279,
       "listed_at": "2025-07-22T20:08:22.000Z",
       "notes": null,

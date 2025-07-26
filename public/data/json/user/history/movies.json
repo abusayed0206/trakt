@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-25T05:53:00.047390+00:00",
+    "fetched_at": "2025-07-26T05:48:44.493722+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11080859919,
+      "watched_at": "2025-07-25T15:37:07.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "The Old Guard 2",
+        "year": 2025,
+        "ids": {
+          "trakt": 675992,
+          "slug": "the-old-guard-2-2025",
+          "imdb": "tt14961624",
+          "tmdb": 846422
+        }
+      }
+    },
+    {
+      "id": 11079996744,
+      "watched_at": "2025-07-25T06:10:33.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Paddington 2",
+        "year": 2017,
+        "ids": {
+          "trakt": 266173,
+          "slug": "paddington-2-2017",
+          "imdb": "tt4468740",
+          "tmdb": 346648
+        }
+      }
+    },
     {
       "id": 11078491870,
       "watched_at": "2025-07-24T19:55:41.000Z",
@@ -132,38 +164,6 @@
           "slug": "the-amateur-2025",
           "imdb": "tt0899043",
           "tmdb": 1087891
-        }
-      }
-    },
-    {
-      "id": 11016898510,
-      "watched_at": "2025-07-05T14:31:24.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Indiana Jones and the Kingdom of the Crystal Skull",
-        "year": 2008,
-        "ids": {
-          "trakt": 176,
-          "slug": "indiana-jones-and-the-kingdom-of-the-crystal-skull-2008",
-          "imdb": "tt0367882",
-          "tmdb": 217
-        }
-      }
-    },
-    {
-      "id": 11016224053,
-      "watched_at": "2025-07-05T08:22:29.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Indiana Jones and the Last Crusade",
-        "year": 1989,
-        "ids": {
-          "trakt": 58,
-          "slug": "indiana-jones-and-the-last-crusade-1989",
-          "imdb": "tt0097576",
-          "tmdb": 89
         }
       }
     }

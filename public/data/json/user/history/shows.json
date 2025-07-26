@@ -1,12 +1,102 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-25T05:53:00.245157+00:00",
+    "fetched_at": "2025-07-26T05:48:44.579059+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11081237953,
+      "watched_at": "2025-07-25T18:54:51.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 10,
+        "title": "The Leviathan",
+        "ids": {
+          "trakt": 74971,
+          "tvdb": 4440753,
+          "imdb": "tt2517610",
+          "tmdb": 64294,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11081160816,
+      "watched_at": "2025-07-25T18:14:39.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 9,
+        "title": "You Do It to Yourself",
+        "ids": {
+          "trakt": 74970,
+          "tvdb": 4437086,
+          "imdb": "tt2517608",
+          "tmdb": 64292,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11081165661,
+      "watched_at": "2025-07-25T18:12:26.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 9,
+        "title": "You Do It to Yourself",
+        "ids": {
+          "trakt": 74970,
+          "tvdb": 4437086,
+          "imdb": "tt2517608",
+          "tmdb": 64292,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11071729393,
       "watched_at": "2025-07-22T09:17:32.000Z",
@@ -213,96 +303,6 @@
           "tvdb": 255316,
           "imdb": "tt2191671",
           "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11068915268,
-      "watched_at": "2025-07-21T11:48:12.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 1,
-        "title": "Pilot",
-        "ids": {
-          "trakt": 74962,
-          "tvdb": 4316121,
-          "imdb": "tt2312764",
-          "tmdb": 64286,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11068886817,
-      "watched_at": "2025-07-21T11:31:50.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 6,
-        "title": "Chapter 19",
-        "ids": {
-          "trakt": 76053,
-          "tvdb": 4741192,
-          "imdb": "tt3221232",
-          "tmdb": 972037,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11065649050,
-      "watched_at": "2025-07-20T10:43:06.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 13,
-        "title": "Chapter 39",
-        "ids": {
-          "trakt": 998962,
-          "tvdb": 5043417,
-          "imdb": "tt4221826",
-          "tmdb": 1021736,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
           "tvrage": null
         }
       }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-25T05:53:01.055248+00:00",
+    "fetched_at": "2025-07-26T05:48:44.886869+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 739
+    "count": 741
   },
   "data": [
     {
@@ -7314,6 +7314,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2025-07-25T06:10:33.000Z",
+      "last_updated_at": "2025-07-25T06:10:33.000Z",
+      "movie": {
+        "title": "Paddington 2",
+        "year": 2017,
+        "ids": {
+          "trakt": 266173,
+          "slug": "paddington-2-2017",
+          "imdb": "tt4468740",
+          "tmdb": 346648
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2024-08-21T01:42:42.000Z",
       "last_updated_at": "2024-08-21T01:42:46.000Z",
       "movie": {
@@ -9934,6 +9949,21 @@
           "slug": "hatched-2021",
           "imdb": "tt11217094",
           "tmdb": 844775
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-07-25T15:37:07.000Z",
+      "last_updated_at": "2025-07-25T15:37:07.000Z",
+      "movie": {
+        "title": "The Old Guard 2",
+        "year": 2025,
+        "ids": {
+          "trakt": 675992,
+          "slug": "the-old-guard-2-2025",
+          "imdb": "tt14961624",
+          "tmdb": 846422
         }
       }
     },
