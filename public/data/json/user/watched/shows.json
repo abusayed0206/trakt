@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-26T05:48:45.409559+00:00",
+    "fetched_at": "2025-07-27T05:50:23.433434+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,84 +8,9 @@
   },
   "data": [
     {
-      "plays": 11,
-      "last_watched_at": "2025-07-25T18:54:51.000Z",
-      "last_updated_at": "2025-07-25T18:54:51.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T11:48:12.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T12:30:58.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T15:51:18.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T16:34:44.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T17:19:07.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T18:02:42.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2025-07-22T08:25:17.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2025-07-22T09:17:32.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 2,
-              "last_watched_at": "2025-07-25T18:14:39.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2025-07-25T18:54:51.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 39,
-      "last_watched_at": "2025-07-21T11:31:50.000Z",
-      "last_updated_at": "2025-07-21T11:31:50.000Z",
+      "plays": 41,
+      "last_watched_at": "2025-07-26T18:36:27.000Z",
+      "last_updated_at": "2025-07-26T18:36:28.000Z",
       "reset_at": null,
       "show": {
         "title": "House of Cards",
@@ -307,6 +232,96 @@
               "number": 13,
               "plays": 1,
               "last_watched_at": "2025-07-20T10:43:06.000Z"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-07-26T17:18:32.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-07-26T18:36:27.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plays": 11,
+      "last_watched_at": "2025-07-25T18:54:51.000Z",
+      "last_updated_at": "2025-07-25T18:54:51.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T11:48:12.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T12:30:58.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T15:51:18.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T16:34:44.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T17:19:07.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T18:02:42.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-07-22T08:25:17.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2025-07-22T09:17:32.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 2,
+              "last_watched_at": "2025-07-25T18:14:39.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2025-07-25T18:54:51.000Z"
             }
           ]
         }
