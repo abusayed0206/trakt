@@ -1,12 +1,222 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-27T05:50:22.425800+00:00",
+    "fetched_at": "2025-07-28T05:53:35.264508+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11086190230,
+      "watched_at": "2025-07-27T13:54:09.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 9,
+        "title": "Chapter 48",
+        "ids": {
+          "trakt": 2077861,
+          "tvdb": 5440812,
+          "imdb": "tt5083704",
+          "tmdb": 1148725,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11086057285,
+      "watched_at": "2025-07-27T12:44:17.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 8,
+        "title": "Chapter 47",
+        "ids": {
+          "trakt": 2077860,
+          "tvdb": 5440809,
+          "imdb": "tt5095720",
+          "tmdb": 1148726,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11085713284,
+      "watched_at": "2025-07-27T09:54:51.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 7,
+        "title": "Chapter 46",
+        "ids": {
+          "trakt": 2077859,
+          "tvdb": 5440808,
+          "imdb": "tt5025272",
+          "tmdb": 1148724,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11085579894,
+      "watched_at": "2025-07-27T08:19:06.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 6,
+        "title": "Chapter 45",
+        "ids": {
+          "trakt": 2077858,
+          "tvdb": 5440807,
+          "imdb": "tt4949028",
+          "tmdb": 1148722,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11085516995,
+      "watched_at": "2025-07-27T07:40:44.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 5,
+        "title": "Chapter 44",
+        "ids": {
+          "trakt": 2077857,
+          "tvdb": 5440806,
+          "imdb": "tt4949018",
+          "tmdb": 1148723,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11085443982,
+      "watched_at": "2025-07-27T06:45:46.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 4,
+        "title": "Chapter 43",
+        "ids": {
+          "trakt": 2077856,
+          "tvdb": 5440804,
+          "imdb": "tt4817670",
+          "tmdb": 1148721,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11085407459,
+      "watched_at": "2025-07-27T06:12:59.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 3,
+        "title": "Chapter 42",
+        "ids": {
+          "trakt": 2077855,
+          "tvdb": 5440802,
+          "imdb": "tt4817664",
+          "tmdb": 1148720,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11083950970,
       "watched_at": "2025-07-26T18:36:27.000Z",
@@ -81,216 +291,6 @@
           "tvdb": 4440753,
           "imdb": "tt2517610",
           "tmdb": 64294,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11081160816,
-      "watched_at": "2025-07-25T18:14:39.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 9,
-        "title": "You Do It to Yourself",
-        "ids": {
-          "trakt": 74970,
-          "tvdb": 4437086,
-          "imdb": "tt2517608",
-          "tmdb": 64292,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11081165661,
-      "watched_at": "2025-07-25T18:12:26.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 9,
-        "title": "You Do It to Yourself",
-        "ids": {
-          "trakt": 74970,
-          "tvdb": 4437086,
-          "imdb": "tt2517608",
-          "tmdb": 64292,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11071729393,
-      "watched_at": "2025-07-22T09:17:32.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 8,
-        "title": "The Long Fuse",
-        "ids": {
-          "trakt": 74969,
-          "tvdb": 4431718,
-          "imdb": "tt2494318",
-          "tmdb": 64293,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11071652734,
-      "watched_at": "2025-07-22T08:25:17.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 7,
-        "title": "One Way to Get Off",
-        "ids": {
-          "trakt": 74968,
-          "tvdb": 4420554,
-          "imdb": "tt2481598",
-          "tmdb": 64291,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11069594776,
-      "watched_at": "2025-07-21T18:02:42.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 6,
-        "title": "Flight Risk",
-        "ids": {
-          "trakt": 74967,
-          "tvdb": 4395957,
-          "imdb": "tt2473822",
-          "tmdb": 64290,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11069505177,
-      "watched_at": "2025-07-21T17:19:07.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 5,
-        "title": "Lesser Evils",
-        "ids": {
-          "trakt": 74966,
-          "tvdb": 4395956,
-          "imdb": "tt2459398",
-          "tmdb": 64289,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11069412720,
-      "watched_at": "2025-07-21T16:34:44.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 4,
-        "title": "The Rat Race",
-        "ids": {
-          "trakt": 74965,
-          "tvdb": 4392166,
-          "imdb": "tt2360490",
-          "tmdb": 64288,
           "tvrage": null
         }
       },

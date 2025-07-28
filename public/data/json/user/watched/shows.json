@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-27T05:50:23.433434+00:00",
+    "fetched_at": "2025-07-28T05:53:36.382226+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,9 @@
   },
   "data": [
     {
-      "plays": 41,
-      "last_watched_at": "2025-07-26T18:36:27.000Z",
-      "last_updated_at": "2025-07-26T18:36:28.000Z",
+      "plays": 48,
+      "last_watched_at": "2025-07-27T13:54:09.000Z",
+      "last_updated_at": "2025-07-27T13:54:09.000Z",
       "reset_at": null,
       "show": {
         "title": "House of Cards",
@@ -247,6 +247,41 @@
               "number": 2,
               "plays": 1,
               "last_watched_at": "2025-07-26T18:36:27.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-07-27T06:12:59.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-07-27T06:45:46.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-07-27T07:40:44.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-07-27T08:19:06.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-07-27T09:54:51.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2025-07-27T12:44:17.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2025-07-27T13:54:09.000Z"
             }
           ]
         }
