@@ -1,12 +1,132 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-30T05:54:53.643089+00:00",
+    "fetched_at": "2025-07-31T05:52:19.450066+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11097513598,
+      "watched_at": "2025-07-30T20:17:34.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 14,
+        "title": "The Deductionist",
+        "ids": {
+          "trakt": 74975,
+          "tvdb": 4474281,
+          "imdb": "tt2624870",
+          "tmdb": 64298,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11097432230,
+      "watched_at": "2025-07-30T19:37:31.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 13,
+        "title": "The Red Team",
+        "ids": {
+          "trakt": 74974,
+          "tvdb": 4474323,
+          "imdb": "tt2624868",
+          "tmdb": 64299,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11097084085,
+      "watched_at": "2025-07-30T16:19:20.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 12,
+        "title": "M.",
+        "ids": {
+          "trakt": 74973,
+          "tvdb": 4458811,
+          "imdb": "tt2579692",
+          "tmdb": 64296,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11096771118,
+      "watched_at": "2025-07-30T13:31:34.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 11,
+        "title": "Dirty Laundry",
+        "ids": {
+          "trakt": 74972,
+          "tvdb": 4453047,
+          "imdb": "tt2570712",
+          "tmdb": 64295,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11093907082,
       "watched_at": "2025-07-29T17:44:39.000Z",
@@ -171,126 +291,6 @@
           "tvdb": 5440809,
           "imdb": "tt5095720",
           "tmdb": 1148726,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11085713284,
-      "watched_at": "2025-07-27T09:54:51.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 7,
-        "title": "Chapter 46",
-        "ids": {
-          "trakt": 2077859,
-          "tvdb": 5440808,
-          "imdb": "tt5025272",
-          "tmdb": 1148724,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11085579894,
-      "watched_at": "2025-07-27T08:19:06.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 6,
-        "title": "Chapter 45",
-        "ids": {
-          "trakt": 2077858,
-          "tvdb": 5440807,
-          "imdb": "tt4949028",
-          "tmdb": 1148722,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11085516995,
-      "watched_at": "2025-07-27T07:40:44.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 5,
-        "title": "Chapter 44",
-        "ids": {
-          "trakt": 2077857,
-          "tvdb": 5440806,
-          "imdb": "tt4949018",
-          "tmdb": 1148723,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11085443982,
-      "watched_at": "2025-07-27T06:45:46.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 4,
-        "title": "Chapter 43",
-        "ids": {
-          "trakt": 2077856,
-          "tvdb": 5440804,
-          "imdb": "tt4817670",
-          "tmdb": 1148721,
           "tvrage": null
         }
       },
