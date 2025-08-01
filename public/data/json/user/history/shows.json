@@ -1,12 +1,102 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-31T05:52:19.450066+00:00",
+    "fetched_at": "2025-08-01T05:55:51.002860+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11100522596,
+      "watched_at": "2025-07-31T15:41:48.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 17,
+        "title": "Possibility Two",
+        "ids": {
+          "trakt": 74978,
+          "tvdb": 4493315,
+          "imdb": "tt2697934",
+          "tmdb": 64300,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11100217916,
+      "watched_at": "2025-07-31T13:01:15.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 16,
+        "title": "Details",
+        "ids": {
+          "trakt": 74977,
+          "tvdb": 4489699,
+          "imdb": "tt2660926",
+          "tmdb": 64301,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11099413788,
+      "watched_at": "2025-07-31T06:30:14.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 15,
+        "title": "A Giant Gun, Filled with Drugs",
+        "ids": {
+          "trakt": 74976,
+          "tvdb": 4475119,
+          "imdb": "tt2624872",
+          "tmdb": 64297,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11097513598,
       "watched_at": "2025-07-30T20:17:34.000Z",
@@ -201,96 +291,6 @@
           "tvdb": 5440814,
           "imdb": "tt5095732",
           "tmdb": 1148731,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11093400235,
-      "watched_at": "2025-07-29T14:28:15.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 10,
-        "title": "Chapter 49",
-        "ids": {
-          "trakt": 2077862,
-          "tvdb": 5440813,
-          "imdb": "tt5095730",
-          "tmdb": 1148727,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11086190230,
-      "watched_at": "2025-07-27T13:54:09.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 9,
-        "title": "Chapter 48",
-        "ids": {
-          "trakt": 2077861,
-          "tvdb": 5440812,
-          "imdb": "tt5083704",
-          "tmdb": 1148725,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11086057285,
-      "watched_at": "2025-07-27T12:44:17.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 8,
-        "title": "Chapter 47",
-        "ids": {
-          "trakt": 2077860,
-          "tvdb": 5440809,
-          "imdb": "tt5095720",
-          "tmdb": 1148726,
           "tvrage": null
         }
       },

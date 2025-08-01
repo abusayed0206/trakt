@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-07-31T05:52:19.927141+00:00",
+    "fetched_at": "2025-08-01T05:55:51.291919+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 741
+    "count": 742
   },
   "data": [
     {
@@ -4069,6 +4069,21 @@
           "slug": "looper-2012",
           "imdb": "tt1276104",
           "tmdb": 59967
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2019-07-03T15:52:00.000Z",
+      "last_updated_at": "2025-07-31T15:52:12.000Z",
+      "movie": {
+        "title": "Hansel & Gretel: Witch Hunters",
+        "year": 2013,
+        "ids": {
+          "trakt": 43151,
+          "slug": "hansel-gretel-witch-hunters-2013",
+          "imdb": "tt1428538",
+          "tmdb": 60304
         }
       }
     },
