@@ -1,12 +1,102 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-01T05:55:51.002860+00:00",
+    "fetched_at": "2025-08-02T05:50:56.723950+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11105126415,
+      "watched_at": "2025-08-01T20:03:57.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 20,
+        "title": "Dead Man's Switch",
+        "ids": {
+          "trakt": 74981,
+          "tvdb": 4525390,
+          "imdb": "tt2778808",
+          "tmdb": 64308,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11105027920,
+      "watched_at": "2025-08-01T19:21:22.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 19,
+        "title": "Snow Angels",
+        "ids": {
+          "trakt": 74980,
+          "tvdb": 4507522,
+          "imdb": "tt2733692",
+          "tmdb": 64303,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11104882258,
+      "watched_at": "2025-08-01T18:20:06.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 18,
+        "title": "Déjà Vu All Over Again",
+        "ids": {
+          "trakt": 74979,
+          "tvdb": 4507521,
+          "imdb": "tt2729080",
+          "tmdb": 64302,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11100522596,
       "watched_at": "2025-07-31T15:41:48.000Z",
@@ -213,96 +303,6 @@
           "tvdb": 255316,
           "imdb": "tt2191671",
           "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11093907082,
-      "watched_at": "2025-07-29T17:44:39.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 13,
-        "title": "Chapter 52",
-        "ids": {
-          "trakt": 2077867,
-          "tvdb": 5440817,
-          "imdb": "tt5095748",
-          "tmdb": 1148730,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11093822468,
-      "watched_at": "2025-07-29T16:59:52.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 12,
-        "title": "Chapter 51",
-        "ids": {
-          "trakt": 2077866,
-          "tvdb": 5440815,
-          "imdb": "tt5095742",
-          "tmdb": 1148729,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11093732971,
-      "watched_at": "2025-07-29T16:25:05.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 11,
-        "title": "Chapter 50",
-        "ids": {
-          "trakt": 2077863,
-          "tvdb": 5440814,
-          "imdb": "tt5095732",
-          "tmdb": 1148731,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
           "tvrage": null
         }
       }
