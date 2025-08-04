@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-03T05:51:58.401332+00:00",
+    "fetched_at": "2025-08-04T06:00:36.244268+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -214,23 +214,6 @@
       }
     },
     {
-      "rank": 13,
-      "id": 1205938473,
-      "listed_at": "2025-04-03T16:21:59.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Run All Night 2",
-        "year": null,
-        "ids": {
-          "trakt": 947892,
-          "slug": "run-all-night-2",
-          "imdb": "tt29032187",
-          "tmdb": 1175590
-        }
-      }
-    },
-    {
       "rank": 11,
       "id": 1174076529,
       "listed_at": "2025-02-16T04:15:44.000Z",
@@ -244,6 +227,23 @@
           "slug": "nobody-2-2025",
           "imdb": "tt28996126",
           "tmdb": 1007734
+        }
+      }
+    },
+    {
+      "rank": 13,
+      "id": 1205938473,
+      "listed_at": "2025-04-03T16:21:59.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Run All Night 2",
+        "year": null,
+        "ids": {
+          "trakt": 947892,
+          "slug": "run-all-night-2",
+          "imdb": "tt29032187",
+          "tmdb": 1175590
         }
       }
     },

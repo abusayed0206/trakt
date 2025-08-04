@@ -1,12 +1,69 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-03T05:51:58.538154+00:00",
+    "fetched_at": "2025-08-04T06:00:36.342146+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/comments/all.json",
-    "count": 9
+    "count": 10
   },
   "data": [
+    {
+      "type": "episode",
+      "episode": {
+        "season": 6,
+        "number": 8,
+        "title": "Chapter 73",
+        "ids": {
+          "trakt": 2859960,
+          "tvdb": 6564871,
+          "imdb": "tt7576210",
+          "tmdb": 1605355,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      },
+      "comment": {
+        "id": 844194,
+        "comment": "Where did the pendrive go, the one on the dog collars that Tom attached before being shot in the head?",
+        "spoiler": true,
+        "review": false,
+        "parent_id": 0,
+        "created_at": "2025-08-03T12:16:27.000Z",
+        "updated_at": "2025-08-03T12:16:27.000Z",
+        "replies": 0,
+        "likes": 0,
+        "user_rating": null,
+        "language": "en",
+        "user_stats": {
+          "rating": null,
+          "play_count": 1,
+          "completed_count": 1
+        },
+        "user": {
+          "username": "lrs",
+          "private": false,
+          "deleted": false,
+          "name": "SAYED | সাঈদ",
+          "vip": true,
+          "vip_ep": false,
+          "director": false,
+          "ids": {
+            "slug": "lrs"
+          }
+        }
+      }
+    },
     {
       "type": "movie",
       "movie": {

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-03T05:51:55.667411+00:00",
+    "fetched_at": "2025-08-04T06:00:34.494106+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
@@ -8,19 +8,79 @@
   },
   "data": [
     {
-      "id": 11108299075,
-      "watched_at": "2025-08-02T19:01:09.000Z",
+      "id": 11110248358,
+      "watched_at": "2025-08-03T12:13:47.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 5,
+        "season": 6,
+        "number": 8,
+        "title": "Chapter 73",
+        "ids": {
+          "trakt": 2859960,
+          "tvdb": 6564871,
+          "imdb": "tt7576210",
+          "tmdb": 1605355,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11110216847,
+      "watched_at": "2025-08-03T11:59:31.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 6,
+        "number": 7,
+        "title": "Chapter 72",
+        "ids": {
+          "trakt": 2859959,
+          "tvdb": 6564870,
+          "imdb": "tt7576206",
+          "tmdb": 1605354,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11110194812,
+      "watched_at": "2025-08-03T11:46:18.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 6,
         "number": 6,
-        "title": "Chapter 58",
+        "title": "Chapter 71",
         "ids": {
-          "trakt": 2442748,
-          "tvdb": 5937316,
-          "imdb": "tt6411836",
-          "tmdb": 1320567,
+          "trakt": 2859958,
+          "tvdb": 6564869,
+          "imdb": "tt7576200",
+          "tmdb": 1605353,
           "tvrage": null
         }
       },
@@ -38,19 +98,19 @@
       }
     },
     {
-      "id": 11108245013,
-      "watched_at": "2025-08-02T18:35:01.000Z",
+      "id": 11110160621,
+      "watched_at": "2025-08-03T11:30:14.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 5,
+        "season": 6,
         "number": 5,
-        "title": "Chapter 57",
+        "title": "Chapter 70",
         "ids": {
-          "trakt": 2442746,
-          "tvdb": 5937315,
-          "imdb": "tt6110792",
-          "tmdb": 1320566,
+          "trakt": 2859950,
+          "tvdb": 6564867,
+          "imdb": "tt7576198",
+          "tmdb": 1570472,
           "tvrage": null
         }
       },
@@ -68,19 +128,19 @@
       }
     },
     {
-      "id": 11108096457,
-      "watched_at": "2025-08-02T17:57:31.000Z",
+      "id": 11110116738,
+      "watched_at": "2025-08-03T10:58:17.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 5,
+        "season": 6,
         "number": 4,
-        "title": "Chapter 56",
+        "title": "Chapter 69",
         "ids": {
-          "trakt": 2442734,
-          "tvdb": 5937314,
-          "imdb": "tt6059620",
-          "tmdb": 1320565,
+          "trakt": 2859938,
+          "tvdb": 6564866,
+          "imdb": "tt7576196",
+          "tmdb": 1570471,
           "tvrage": null
         }
       },
@@ -98,19 +158,19 @@
       }
     },
     {
-      "id": 11107976246,
-      "watched_at": "2025-08-02T17:03:19.000Z",
+      "id": 11110067329,
+      "watched_at": "2025-08-03T10:27:48.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 5,
+        "season": 6,
         "number": 3,
-        "title": "Chapter 55",
+        "title": "Chapter 68",
         "ids": {
-          "trakt": 2442729,
-          "tvdb": 5937313,
-          "imdb": "tt6010608",
-          "tmdb": 1320564,
+          "trakt": 2859936,
+          "tvdb": 6564865,
+          "imdb": "tt7576194",
+          "tmdb": 1570470,
           "tvrage": null
         }
       },
@@ -128,19 +188,79 @@
       }
     },
     {
-      "id": 11107640044,
-      "watched_at": "2025-08-02T14:34:56.000Z",
+      "id": 11110010220,
+      "watched_at": "2025-08-03T09:56:53.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 6,
+        "number": 2,
+        "title": "Chapter 67",
+        "ids": {
+          "trakt": 2859934,
+          "tvdb": 6564863,
+          "imdb": "tt7576192",
+          "tmdb": 1570469,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11109935355,
+      "watched_at": "2025-08-03T09:21:31.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 6,
+        "number": 1,
+        "title": "Chapter 66",
+        "ids": {
+          "trakt": 2766714,
+          "tvdb": 6553109,
+          "imdb": "tt7538918",
+          "tmdb": 1542492,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "House of Cards",
+        "year": 2013,
+        "ids": {
+          "trakt": 1416,
+          "slug": "house-of-cards",
+          "tvdb": 262980,
+          "imdb": "tt1856010",
+          "tmdb": 1425,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11109899453,
+      "watched_at": "2025-08-03T09:03:37.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
         "season": 5,
-        "number": 2,
-        "title": "Chapter 54",
+        "number": 13,
+        "title": "Chapter 65",
         "ids": {
-          "trakt": 2442726,
-          "tvdb": 5937312,
-          "imdb": "tt5965956",
-          "tmdb": 1320563,
+          "trakt": 2442757,
+          "tvdb": 5937323,
+          "imdb": "tt6411862",
+          "tmdb": 1320574,
           "tvrage": null
         }
       },
@@ -158,19 +278,19 @@
       }
     },
     {
-      "id": 11107487308,
-      "watched_at": "2025-08-02T13:52:22.000Z",
+      "id": 11109877153,
+      "watched_at": "2025-08-03T08:47:57.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
         "season": 5,
-        "number": 1,
-        "title": "Chapter 53",
+        "number": 12,
+        "title": "Chapter 64",
         "ids": {
-          "trakt": 2138111,
-          "tvdb": 5936411,
-          "imdb": "tt5419058",
-          "tmdb": 1258921,
+          "trakt": 2442756,
+          "tvdb": 5937322,
+          "imdb": "tt6411858",
+          "tmdb": 1320573,
           "tvrage": null
         }
       },
@@ -183,126 +303,6 @@
           "tvdb": 262980,
           "imdb": "tt1856010",
           "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11107406006,
-      "watched_at": "2025-08-02T12:59:12.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 3,
-        "title": "We Are Everyone",
-        "ids": {
-          "trakt": 74988,
-          "tvdb": 4629997,
-          "imdb": "tt3093706",
-          "tmdb": 64315,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11106851263,
-      "watched_at": "2025-08-02T08:50:51.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 2,
-        "title": "Solve for X",
-        "ids": {
-          "trakt": 74987,
-          "tvdb": 4611210,
-          "imdb": "tt3125780",
-          "tmdb": 64311,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11106780113,
-      "watched_at": "2025-08-02T08:05:16.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 1,
-        "title": "Step Nine",
-        "ids": {
-          "trakt": 74986,
-          "tvdb": 4594868,
-          "imdb": "tt2801436",
-          "tmdb": 64310,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11105126415,
-      "watched_at": "2025-08-01T20:03:57.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 20,
-        "title": "Dead Man's Switch",
-        "ids": {
-          "trakt": 74981,
-          "tvdb": 4525390,
-          "imdb": "tt2778808",
-          "tmdb": 64308,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
           "tvrage": null
         }
       }
