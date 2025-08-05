@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-04T06:00:34.494106+00:00",
+    "fetched_at": "2025-08-05T05:54:48.561075+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11114695360,
+      "watched_at": "2025-08-04T18:10:57.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 5,
+        "title": "Ancient History",
+        "ids": {
+          "trakt": 74990,
+          "tvdb": 4643849,
+          "imdb": "tt3255194",
+          "tmdb": 971764,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11114102012,
+      "watched_at": "2025-08-04T14:38:34.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 4,
+        "title": "Poison Pen",
+        "ids": {
+          "trakt": 74989,
+          "tvdb": 4629998,
+          "imdb": "tt3182700",
+          "tmdb": 971763,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11110248358,
       "watched_at": "2025-08-03T12:13:47.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 6553109,
           "imdb": "tt7538918",
           "tmdb": 1542492,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11109899453,
-      "watched_at": "2025-08-03T09:03:37.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 13,
-        "title": "Chapter 65",
-        "ids": {
-          "trakt": 2442757,
-          "tvdb": 5937323,
-          "imdb": "tt6411862",
-          "tmdb": 1320574,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11109877153,
-      "watched_at": "2025-08-03T08:47:57.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 12,
-        "title": "Chapter 64",
-        "ids": {
-          "trakt": 2442756,
-          "tvdb": 5937322,
-          "imdb": "tt6411858",
-          "tmdb": 1320573,
           "tvrage": null
         }
       },
