@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-07T05:53:49.988270+00:00",
+    "fetched_at": "2025-08-07T08:25:38.763444+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/user_lists.json",
-    "count": 2
+    "count": 3
   },
   "data": [
     {
@@ -57,6 +57,38 @@
       "ids": {
         "trakt": 30670410,
         "slug": "anticipated-movies"
+      },
+      "user": {
+        "username": "lrs",
+        "private": false,
+        "deleted": false,
+        "name": "SAYED | সাঈদ",
+        "vip": true,
+        "vip_ep": false,
+        "director": false,
+        "ids": {
+          "slug": "lrs"
+        }
+      }
+    },
+    {
+      "name": "Action Movies Archive",
+      "description": "",
+      "privacy": "public",
+      "share_link": "https://trakt.tv/lists/31950590",
+      "type": "personal",
+      "display_numbers": false,
+      "allow_comments": false,
+      "sort_by": "imdb_rating",
+      "sort_how": "desc",
+      "created_at": "2025-07-23T20:10:08.000Z",
+      "updated_at": "2025-08-07T08:22:05.000Z",
+      "item_count": 1833,
+      "comment_count": 0,
+      "likes": 0,
+      "ids": {
+        "trakt": 31950590,
+        "slug": "action-movies-archive"
       },
       "user": {
         "username": "lrs",
