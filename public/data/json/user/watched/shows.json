@@ -1,12 +1,92 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-08T05:54:03.633389+00:00",
+    "fetched_at": "2025-08-09T05:45:48.340294+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
     "count": 134
   },
   "data": [
+    {
+      "plays": 10,
+      "last_watched_at": "2025-08-08T17:04:35.000Z",
+      "last_updated_at": "2025-08-08T17:04:35.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Wednesday",
+        "year": 2022,
+        "ids": {
+          "trakt": 173996,
+          "slug": "wednesday",
+          "tvdb": 397060,
+          "imdb": "tt13443470",
+          "tmdb": 119051,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2022-08-17T08:10:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2022-08-17T08:10:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2022-08-17T08:10:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2022-08-17T08:10:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2022-08-17T08:10:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2022-08-17T08:10:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2022-08-17T08:10:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2022-08-17T08:10:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-08-08T17:04:33.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-08-08T17:04:35.000Z"
+            }
+          ]
+        }
+      ]
+    },
     {
       "plays": 1,
       "last_watched_at": "2025-08-07T08:22:51.000Z",
@@ -24297,71 +24377,6 @@
               "number": 1,
               "plays": 1,
               "last_watched_at": "2023-06-01T04:42:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 8,
-      "last_watched_at": "2022-08-17T08:10:00.000Z",
-      "last_updated_at": "2022-08-17T08:10:00.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Wednesday",
-        "year": 2022,
-        "ids": {
-          "trakt": 173996,
-          "slug": "wednesday",
-          "tvdb": 397060,
-          "imdb": "tt13443470",
-          "tmdb": 119051,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2022-08-17T08:10:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2022-08-17T08:10:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2022-08-17T08:10:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2022-08-17T08:10:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2022-08-17T08:10:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2022-08-17T08:10:00.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2022-08-17T08:10:00.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2022-08-17T08:10:00.000Z"
             }
           ]
         }
