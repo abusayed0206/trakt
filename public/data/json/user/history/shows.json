@@ -1,12 +1,252 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-09T05:45:47.945586+00:00",
+    "fetched_at": "2025-08-10T05:48:25.438618+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11129095276,
+      "watched_at": "2025-08-09T06:40:10.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 4,
+        "title": "If These Woes Could Talk",
+        "ids": {
+          "trakt": 13033550,
+          "tvdb": 10927587,
+          "imdb": "tt33100413",
+          "tmdb": 6165595,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Wednesday",
+        "year": 2022,
+        "ids": {
+          "trakt": 173996,
+          "slug": "wednesday",
+          "tvdb": 397060,
+          "imdb": "tt13443470",
+          "tmdb": 119051,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11129095144,
+      "watched_at": "2025-08-09T06:40:02.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 3,
+        "title": "Call of the Woe",
+        "ids": {
+          "trakt": 13033545,
+          "tvdb": 11267772,
+          "imdb": "tt33100412",
+          "tmdb": 6165594,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Wednesday",
+        "year": 2022,
+        "ids": {
+          "trakt": 173996,
+          "slug": "wednesday",
+          "tvdb": 397060,
+          "imdb": "tt13443470",
+          "tmdb": 119051,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11129095124,
+      "watched_at": "2025-08-09T06:40:01.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 4,
+        "title": "If These Woes Could Talk",
+        "ids": {
+          "trakt": 13033550,
+          "tvdb": 10927587,
+          "imdb": "tt33100413",
+          "tmdb": 6165595,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Wednesday",
+        "year": 2022,
+        "ids": {
+          "trakt": 173996,
+          "slug": "wednesday",
+          "tvdb": 397060,
+          "imdb": "tt13443470",
+          "tmdb": 119051,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11129094753,
+      "watched_at": "2025-08-09T06:39:42.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 5,
+        "title": "Murder Horny",
+        "ids": {
+          "trakt": 12853595,
+          "tvdb": 11148584,
+          "imdb": "tt36351470",
+          "tmdb": 6201595,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Dexter: Resurrection",
+        "year": 2025,
+        "ids": {
+          "trakt": 249647,
+          "slug": "dexter-resurrection",
+          "tvdb": 452595,
+          "imdb": "tt33043892",
+          "tmdb": 259909,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11129094597,
+      "watched_at": "2025-08-09T06:39:39.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 4,
+        "title": "Call Me Red",
+        "ids": {
+          "trakt": 12853594,
+          "tvdb": 11088744,
+          "imdb": "tt36351467",
+          "tmdb": 6201594,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Dexter: Resurrection",
+        "year": 2025,
+        "ids": {
+          "trakt": 249647,
+          "slug": "dexter-resurrection",
+          "tvdb": 452595,
+          "imdb": "tt33043892",
+          "tmdb": 259909,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11129094586,
+      "watched_at": "2025-08-09T06:39:38.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 3,
+        "title": "Backseat Driver",
+        "ids": {
+          "trakt": 12853593,
+          "tvdb": 11088743,
+          "imdb": "tt36351465",
+          "tmdb": 6192927,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Dexter: Resurrection",
+        "year": 2025,
+        "ids": {
+          "trakt": 249647,
+          "slug": "dexter-resurrection",
+          "tvdb": 452595,
+          "imdb": "tt33043892",
+          "tmdb": 259909,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11129094583,
+      "watched_at": "2025-08-09T06:39:37.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 2,
+        "title": "Camera Shy",
+        "ids": {
+          "trakt": 12853592,
+          "tvdb": 11088742,
+          "imdb": "tt36351463",
+          "tmdb": 6192926,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Dexter: Resurrection",
+        "year": 2025,
+        "ids": {
+          "trakt": 249647,
+          "slug": "dexter-resurrection",
+          "tvdb": 452595,
+          "imdb": "tt33043892",
+          "tmdb": 259909,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11129094584,
+      "watched_at": "2025-08-09T06:39:36.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 1,
+        "title": "A Beating Heart...",
+        "ids": {
+          "trakt": 12142723,
+          "tvdb": 10607376,
+          "imdb": "tt34718924",
+          "tmdb": 5498853,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Dexter: Resurrection",
+        "year": 2025,
+        "ids": {
+          "trakt": 249647,
+          "slug": "dexter-resurrection",
+          "tvdb": 452595,
+          "imdb": "tt33043892",
+          "tmdb": 259909,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11127127268,
       "watched_at": "2025-08-08T17:04:35.000Z",
@@ -63,246 +303,6 @@
           "tvdb": 397060,
           "imdb": "tt13443470",
           "tmdb": 119051,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11123121746,
-      "watched_at": "2025-08-07T08:22:51.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 1,
-        "title": "The Sopranos",
-        "ids": {
-          "trakt": 73544,
-          "tvdb": 167539,
-          "imdb": "tt0705282",
-          "tmdb": 62970,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "The Sopranos",
-        "year": 1999,
-        "ids": {
-          "trakt": 1389,
-          "slug": "the-sopranos",
-          "tvdb": 75299,
-          "imdb": "tt0141842",
-          "tmdb": 1398,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11114695360,
-      "watched_at": "2025-08-04T18:10:57.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 5,
-        "title": "Ancient History",
-        "ids": {
-          "trakt": 74990,
-          "tvdb": 4643849,
-          "imdb": "tt3255194",
-          "tmdb": 971764,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11114102012,
-      "watched_at": "2025-08-04T14:38:34.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 4,
-        "title": "Poison Pen",
-        "ids": {
-          "trakt": 74989,
-          "tvdb": 4629998,
-          "imdb": "tt3182700",
-          "tmdb": 971763,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11110248358,
-      "watched_at": "2025-08-03T12:13:47.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 6,
-        "number": 8,
-        "title": "Chapter 73",
-        "ids": {
-          "trakt": 2859960,
-          "tvdb": 6564871,
-          "imdb": "tt7576210",
-          "tmdb": 1605355,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11110216847,
-      "watched_at": "2025-08-03T11:59:31.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 6,
-        "number": 7,
-        "title": "Chapter 72",
-        "ids": {
-          "trakt": 2859959,
-          "tvdb": 6564870,
-          "imdb": "tt7576206",
-          "tmdb": 1605354,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11110194812,
-      "watched_at": "2025-08-03T11:46:18.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 6,
-        "number": 6,
-        "title": "Chapter 71",
-        "ids": {
-          "trakt": 2859958,
-          "tvdb": 6564869,
-          "imdb": "tt7576200",
-          "tmdb": 1605353,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11110160621,
-      "watched_at": "2025-08-03T11:30:14.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 6,
-        "number": 5,
-        "title": "Chapter 70",
-        "ids": {
-          "trakt": 2859950,
-          "tvdb": 6564867,
-          "imdb": "tt7576198",
-          "tmdb": 1570472,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11110116738,
-      "watched_at": "2025-08-03T10:58:17.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 6,
-        "number": 4,
-        "title": "Chapter 69",
-        "ids": {
-          "trakt": 2859938,
-          "tvdb": 6564866,
-          "imdb": "tt7576196",
-          "tmdb": 1570471,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "House of Cards",
-        "year": 2013,
-        "ids": {
-          "trakt": 1416,
-          "slug": "house-of-cards",
-          "tvdb": 262980,
-          "imdb": "tt1856010",
-          "tmdb": 1425,
           "tvrage": null
         }
       }
