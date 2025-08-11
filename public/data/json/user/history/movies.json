@@ -1,12 +1,60 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-10T05:48:25.359751+00:00",
+    "fetched_at": "2025-08-11T05:52:35.232601+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11134105072,
+      "watched_at": "2025-08-10T19:47:55.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "I Saw the Devil",
+        "year": 2010,
+        "ids": {
+          "trakt": 34728,
+          "slug": "i-saw-the-devil-2010",
+          "imdb": "tt1588170",
+          "tmdb": 49797
+        }
+      }
+    },
+    {
+      "id": 11132603837,
+      "watched_at": "2025-08-10T11:15:19.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "G.I. Joe: Retaliation",
+        "year": 2013,
+        "ids": {
+          "trakt": 53296,
+          "slug": "g-i-joe-retaliation-2013",
+          "imdb": "tt1583421",
+          "tmdb": 72559
+        }
+      }
+    },
+    {
+      "id": 11132603465,
+      "watched_at": "2025-08-10T11:15:09.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "G.I. Joe: The Rise of Cobra",
+        "year": 2009,
+        "ids": {
+          "trakt": 9010,
+          "slug": "g-i-joe-the-rise-of-cobra-2009",
+          "imdb": "tt1046173",
+          "tmdb": 14869
+        }
+      }
+    },
     {
       "id": 11080859919,
       "watched_at": "2025-07-25T15:37:07.000Z",
@@ -116,54 +164,6 @@
           "slug": "thunderbolts-2025",
           "imdb": "tt20969586",
           "tmdb": 986056
-        }
-      }
-    },
-    {
-      "id": 11074453829,
-      "watched_at": "2025-07-23T07:28:26.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Final Destination 2",
-        "year": 2003,
-        "ids": {
-          "trakt": 4650,
-          "slug": "final-destination-2-2003",
-          "imdb": "tt0309593",
-          "tmdb": 9358
-        }
-      }
-    },
-    {
-      "id": 11072734101,
-      "watched_at": "2025-07-22T18:13:06.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Ballerina",
-        "year": 2025,
-        "ids": {
-          "trakt": 392717,
-          "slug": "ballerina-2025",
-          "imdb": "tt7181546",
-          "tmdb": 541671
-        }
-      }
-    },
-    {
-      "id": 11072380102,
-      "watched_at": "2025-07-22T15:09:10.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "The Amateur",
-        "year": 2025,
-        "ids": {
-          "trakt": 874192,
-          "slug": "the-amateur-2025",
-          "imdb": "tt0899043",
-          "tmdb": 1087891
         }
       }
     }
