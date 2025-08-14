@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-13T05:46:59.392500+00:00",
+    "fetched_at": "2025-08-14T05:46:32.011693+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 745
+    "count": 748
   },
   "data": [
     {
@@ -9294,6 +9294,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2025-08-13T06:45:34.000Z",
+      "last_updated_at": "2025-08-13T06:45:35.000Z",
+      "movie": {
+        "title": "HIT: The First Case",
+        "year": 2020,
+        "ids": {
+          "trakt": 517606,
+          "slug": "hit-the-first-case-2020",
+          "imdb": "tt11490170",
+          "tmdb": 678391
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2023-12-09T08:04:58.000Z",
       "last_updated_at": "2023-12-09T08:04:58.000Z",
       "movie": {
@@ -9904,6 +9919,21 @@
           "slug": "rahasya-romancha-series-3-2020",
           "imdb": null,
           "tmdb": 807916
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-08-13T06:45:50.000Z",
+      "last_updated_at": "2025-08-13T06:45:51.000Z",
+      "movie": {
+        "title": "HIT: The 2nd Case",
+        "year": 2022,
+        "ids": {
+          "trakt": 645596,
+          "slug": "hit-the-2nd-case-2022",
+          "imdb": "tt14279982",
+          "tmdb": 811945
         }
       }
     },
@@ -10759,6 +10789,21 @@
           "slug": "freddy-2022",
           "imdb": "tt15145764",
           "tmdb": 1041054
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-08-13T19:03:47.000Z",
+      "last_updated_at": "2025-08-13T19:03:48.000Z",
+      "movie": {
+        "title": "HIT: The Third Case",
+        "year": 2025,
+        "ids": {
+          "trakt": 856114,
+          "slug": "hit-the-third-case-2025",
+          "imdb": "tt23804696",
+          "tmdb": 1060046
         }
       }
     },

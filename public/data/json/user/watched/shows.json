@@ -1,12 +1,67 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-13T05:46:59.735994+00:00",
+    "fetched_at": "2025-08-14T05:46:32.790638+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
     "count": 135
   },
   "data": [
+    {
+      "plays": 6,
+      "last_watched_at": "2025-08-13T06:46:13.000Z",
+      "last_updated_at": "2025-08-13T06:46:14.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Dexter: Resurrection",
+        "year": 2025,
+        "ids": {
+          "trakt": 249647,
+          "slug": "dexter-resurrection",
+          "tvdb": 452595,
+          "imdb": "tt33043892",
+          "tmdb": 259909,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-08-09T06:39:36.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-08-09T06:39:37.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-08-09T06:39:38.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-08-09T06:39:39.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-08-09T06:39:42.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-08-13T06:46:13.000Z"
+            }
+          ]
+        }
+      ]
+    },
     {
       "plays": 13,
       "last_watched_at": "2025-08-09T06:40:10.000Z",
@@ -92,56 +147,6 @@
               "number": 4,
               "plays": 2,
               "last_watched_at": "2025-08-09T06:40:10.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 5,
-      "last_watched_at": "2025-08-09T06:39:42.000Z",
-      "last_updated_at": "2025-08-09T06:39:41.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Dexter: Resurrection",
-        "year": 2025,
-        "ids": {
-          "trakt": 249647,
-          "slug": "dexter-resurrection",
-          "tvdb": 452595,
-          "imdb": "tt33043892",
-          "tmdb": 259909,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2025-08-09T06:39:36.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2025-08-09T06:39:37.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2025-08-09T06:39:38.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2025-08-09T06:39:39.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2025-08-09T06:39:42.000Z"
             }
           ]
         }

@@ -1,12 +1,60 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-13T05:46:58.975157+00:00",
+    "fetched_at": "2025-08-14T05:46:31.151324+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11160535250,
+      "watched_at": "2025-08-13T19:03:47.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "HIT: The Third Case",
+        "year": 2025,
+        "ids": {
+          "trakt": 856114,
+          "slug": "hit-the-third-case-2025",
+          "imdb": "tt23804696",
+          "tmdb": 1060046
+        }
+      }
+    },
+    {
+      "id": 11155296427,
+      "watched_at": "2025-08-13T06:45:50.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "HIT: The 2nd Case",
+        "year": 2022,
+        "ids": {
+          "trakt": 645596,
+          "slug": "hit-the-2nd-case-2022",
+          "imdb": "tt14279982",
+          "tmdb": 811945
+        }
+      }
+    },
+    {
+      "id": 11155295855,
+      "watched_at": "2025-08-13T06:45:34.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "HIT: The First Case",
+        "year": 2020,
+        "ids": {
+          "trakt": 517606,
+          "slug": "hit-the-first-case-2020",
+          "imdb": "tt11490170",
+          "tmdb": 678391
+        }
+      }
+    },
     {
       "id": 11134105072,
       "watched_at": "2025-08-10T19:47:55.000Z",
@@ -116,54 +164,6 @@
           "slug": "mickey-17-2025",
           "imdb": "tt12299608",
           "tmdb": 696506
-        }
-      }
-    },
-    {
-      "id": 11075864560,
-      "watched_at": "2025-07-23T20:40:42.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "The Accountant²",
-        "year": 2025,
-        "ids": {
-          "trakt": 696075,
-          "slug": "the-accountant-2025",
-          "imdb": "tt7068946",
-          "tmdb": 870028
-        }
-      }
-    },
-    {
-      "id": 11075207047,
-      "watched_at": "2025-07-23T15:30:42.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Selena Gomez: My Mind & Me",
-        "year": 2022,
-        "ids": {
-          "trakt": 821861,
-          "slug": "selena-gomez-my-mind-me-2022",
-          "imdb": "tt21819250",
-          "tmdb": 1022256
-        }
-      }
-    },
-    {
-      "id": 11074788166,
-      "watched_at": "2025-07-23T11:40:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Thunderbolts*",
-        "year": 2025,
-        "ids": {
-          "trakt": 792299,
-          "slug": "thunderbolts-2025",
-          "imdb": "tt20969586",
-          "tmdb": 986056
         }
       }
     }

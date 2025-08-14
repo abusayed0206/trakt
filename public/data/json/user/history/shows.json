@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-13T05:46:59.110403+00:00",
+    "fetched_at": "2025-08-14T05:46:31.277233+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11155297240,
+      "watched_at": "2025-08-13T06:46:13.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 6,
+        "title": "Cats & Mouse",
+        "ids": {
+          "trakt": 12853596,
+          "tvdb": 11148610,
+          "imdb": "tt36351472",
+          "tmdb": 6201596,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Dexter: Resurrection",
+        "year": 2025,
+        "ids": {
+          "trakt": 249647,
+          "slug": "dexter-resurrection",
+          "tvdb": 452595,
+          "imdb": "tt33043892",
+          "tmdb": 259909,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11129095276,
       "watched_at": "2025-08-09T06:40:10.000Z",
@@ -261,36 +291,6 @@
           "tvdb": 10927589,
           "imdb": "tt33100407",
           "tmdb": 6165592,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Wednesday",
-        "year": 2022,
-        "ids": {
-          "trakt": 173996,
-          "slug": "wednesday",
-          "tvdb": 397060,
-          "imdb": "tt13443470",
-          "tmdb": 119051,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11127127194,
-      "watched_at": "2025-08-08T17:04:33.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 1,
-        "title": "Here We Woe Again",
-        "ids": {
-          "trakt": 13033535,
-          "tvdb": 10486526,
-          "imdb": "tt25754350",
-          "tmdb": 6165591,
           "tvrage": null
         }
       },
