@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-14T05:46:31.151324+00:00",
+    "fetched_at": "2025-08-15T05:46:28.210695+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11163477690,
+      "watched_at": "2025-08-14T20:43:18.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "The Villainess",
+        "year": 2017,
+        "ids": {
+          "trakt": 283487,
+          "slug": "the-villainess-2017",
+          "imdb": "tt6777338",
+          "tmdb": 437109
+        }
+      }
+    },
+    {
+      "id": 11162289958,
+      "watched_at": "2025-08-14T10:40:22.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "The Killer",
+        "year": 2023,
+        "ids": {
+          "trakt": 635402,
+          "slug": "the-killer-2023",
+          "imdb": "tt1136617",
+          "tmdb": 800158
+        }
+      }
+    },
     {
       "id": 11160535250,
       "watched_at": "2025-08-13T19:03:47.000Z",
@@ -132,38 +164,6 @@
           "slug": "paddington-2-2017",
           "imdb": "tt4468740",
           "tmdb": 346648
-        }
-      }
-    },
-    {
-      "id": 11078491870,
-      "watched_at": "2025-07-24T19:55:41.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "The King's Man",
-        "year": 2021,
-        "ids": {
-          "trakt": 324048,
-          "slug": "the-king-s-man-2021",
-          "imdb": "tt6856242",
-          "tmdb": 476669
-        }
-      }
-    },
-    {
-      "id": 11077529938,
-      "watched_at": "2025-07-24T12:14:25.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Mickey 17",
-        "year": 2025,
-        "ids": {
-          "trakt": 540151,
-          "slug": "mickey-17-2025",
-          "imdb": "tt12299608",
-          "tmdb": 696506
         }
       }
     }

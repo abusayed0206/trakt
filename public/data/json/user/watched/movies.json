@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-14T05:46:32.011693+00:00",
+    "fetched_at": "2025-08-15T05:46:28.942183+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 748
+    "count": 751
   },
   "data": [
     {
@@ -2314,6 +2314,21 @@
           "slug": "aeon-flux-2005",
           "imdb": "tt0402022",
           "tmdb": 8202
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2023-08-02T16:07:00.000Z",
+      "last_updated_at": "2025-08-14T16:08:02.000Z",
+      "movie": {
+        "title": "Four Brothers",
+        "year": 2005,
+        "ids": {
+          "trakt": 4115,
+          "slug": "four-brothers-2005",
+          "imdb": "tt0430105",
+          "tmdb": 8292
         }
       }
     },
@@ -7449,6 +7464,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2025-08-14T20:43:18.000Z",
+      "last_updated_at": "2025-08-14T20:43:19.000Z",
+      "movie": {
+        "title": "The Villainess",
+        "year": 2017,
+        "ids": {
+          "trakt": 283487,
+          "slug": "the-villainess-2017",
+          "imdb": "tt6777338",
+          "tmdb": 437109
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2024-06-29T10:39:39.000Z",
       "last_updated_at": "2024-06-29T10:39:39.000Z",
       "movie": {
@@ -9889,6 +9919,21 @@
           "slug": "dobaaraa-2022",
           "imdb": "tt14042066",
           "tmdb": 796207
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-08-14T10:40:22.000Z",
+      "last_updated_at": "2025-08-14T10:40:24.000Z",
+      "movie": {
+        "title": "The Killer",
+        "year": 2023,
+        "ids": {
+          "trakt": 635402,
+          "slug": "the-killer-2023",
+          "imdb": "tt1136617",
+          "tmdb": 800158
         }
       }
     },
