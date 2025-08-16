@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-15T05:46:28.210695+00:00",
+    "fetched_at": "2025-08-16T05:44:36.915283+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11166077020,
+      "watched_at": "2025-08-15T13:57:23.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Bullet to the Head",
+        "year": 2012,
+        "ids": {
+          "trakt": 51263,
+          "slug": "bullet-to-the-head-2012",
+          "imdb": "tt1308729",
+          "tmdb": 70074
+        }
+      }
+    },
     {
       "id": 11163477690,
       "watched_at": "2025-08-14T20:43:18.000Z",
@@ -148,22 +164,6 @@
           "slug": "the-old-guard-2-2025",
           "imdb": "tt14961624",
           "tmdb": 846422
-        }
-      }
-    },
-    {
-      "id": 11079996744,
-      "watched_at": "2025-07-25T06:10:33.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Paddington 2",
-        "year": 2017,
-        "ids": {
-          "trakt": 266173,
-          "slug": "paddington-2-2017",
-          "imdb": "tt4468740",
-          "tmdb": 346648
         }
       }
     }

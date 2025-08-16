@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-15T05:46:30.639635+00:00",
+    "fetched_at": "2025-08-16T05:44:38.819705+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -711,25 +711,6 @@
       }
     },
     {
-      "rank": 71,
-      "id": 1286151520,
-      "listed_at": "2025-07-23T21:00:34.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "The Last Ship",
-        "year": 2014,
-        "ids": {
-          "trakt": 60360,
-          "slug": "the-last-ship",
-          "tvdb": 269533,
-          "imdb": "tt2402207",
-          "tmdb": 60802,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 17,
       "id": 1153031255,
       "listed_at": "2025-01-08T18:17:39.000Z",
@@ -744,6 +725,25 @@
           "tvdb": 350665,
           "imdb": "tt7587890",
           "tmdb": 79744,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 71,
+      "id": 1286151520,
+      "listed_at": "2025-07-23T21:00:34.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Last Ship",
+        "year": 2014,
+        "ids": {
+          "trakt": 60360,
+          "slug": "the-last-ship",
+          "tvdb": 269533,
+          "imdb": "tt2402207",
+          "tmdb": 60802,
           "tvrage": null
         }
       }
@@ -1091,6 +1091,25 @@
       }
     },
     {
+      "rank": 55,
+      "id": 1285066962,
+      "listed_at": "2025-07-22T20:09:52.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "MobLand",
+        "year": 2025,
+        "ids": {
+          "trakt": 228595,
+          "slug": "mobland",
+          "tvdb": 446831,
+          "imdb": "tt31510819",
+          "tmdb": 247718,
+          "tvrage": null
+        }
+      }
+    },
+    {
       "rank": 49,
       "id": 1273903687,
       "listed_at": "2025-07-08T18:50:06.000Z",
@@ -1105,25 +1124,6 @@
           "tvdb": 252019,
           "imdb": "tt1733785",
           "tmdb": 45016,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "rank": 5,
-      "id": 1127241239,
-      "listed_at": "2024-11-25T08:46:20.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "Vikings: Valhalla",
-        "year": 2022,
-        "ids": {
-          "trakt": 155511,
-          "slug": "vikings-valhalla",
-          "tvdb": 372700,
-          "imdb": "tt11311302",
-          "tmdb": 116135,
           "tvrage": null
         }
       }
@@ -1148,6 +1148,25 @@
       }
     },
     {
+      "rank": 5,
+      "id": 1127241239,
+      "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Vikings: Valhalla",
+        "year": 2022,
+        "ids": {
+          "trakt": 155511,
+          "slug": "vikings-valhalla",
+          "tvdb": 372700,
+          "imdb": "tt11311302",
+          "tmdb": 116135,
+          "tvrage": null
+        }
+      }
+    },
+    {
       "rank": 70,
       "id": 1286151517,
       "listed_at": "2025-07-23T21:00:31.000Z",
@@ -1162,25 +1181,6 @@
           "tvdb": 311790,
           "imdb": "tt5164196",
           "tmdb": 67116,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "rank": 55,
-      "id": 1285066962,
-      "listed_at": "2025-07-22T20:09:52.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "MobLand",
-        "year": 2025,
-        "ids": {
-          "trakt": 228595,
-          "slug": "mobland",
-          "tvdb": 446831,
-          "imdb": "tt31510819",
-          "tmdb": 247718,
           "tvrage": null
         }
       }
