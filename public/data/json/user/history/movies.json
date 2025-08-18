@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-17T05:45:39.937471+00:00",
+    "fetched_at": "2025-08-18T05:49:14.719106+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11173136295,
+      "watched_at": "2025-08-17T19:14:15.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "War",
+        "year": 2007,
+        "ids": {
+          "trakt": 5623,
+          "slug": "war-2007",
+          "imdb": "tt0499556",
+          "tmdb": 10431
+        }
+      }
+    },
+    {
+      "id": 11171914256,
+      "watched_at": "2025-08-17T09:55:14.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Superman",
+        "year": 2025,
+        "ids": {
+          "trakt": 853702,
+          "slug": "superman-2025",
+          "imdb": "tt5950044",
+          "tmdb": 1061474
+        }
+      }
+    },
     {
       "id": 11166077020,
       "watched_at": "2025-08-15T13:57:23.000Z",
@@ -132,38 +164,6 @@
           "slug": "g-i-joe-retaliation-2013",
           "imdb": "tt1583421",
           "tmdb": 72559
-        }
-      }
-    },
-    {
-      "id": 11132603465,
-      "watched_at": "2025-08-10T11:15:09.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "G.I. Joe: The Rise of Cobra",
-        "year": 2009,
-        "ids": {
-          "trakt": 9010,
-          "slug": "g-i-joe-the-rise-of-cobra-2009",
-          "imdb": "tt1046173",
-          "tmdb": 14869
-        }
-      }
-    },
-    {
-      "id": 11080859919,
-      "watched_at": "2025-07-25T15:37:07.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "The Old Guard 2",
-        "year": 2025,
-        "ids": {
-          "trakt": 675992,
-          "slug": "the-old-guard-2-2025",
-          "imdb": "tt14961624",
-          "tmdb": 846422
         }
       }
     }

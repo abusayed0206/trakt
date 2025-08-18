@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-17T05:45:41.658234+00:00",
+    "fetched_at": "2025-08-18T05:49:15.873236+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
-    "count": 27
+    "count": 26
   },
   "data": [
     {
@@ -383,23 +383,6 @@
     },
     {
       "rank": 23,
-      "id": 1290228198,
-      "listed_at": "2025-07-28T13:19:42.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "War",
-        "year": 2007,
-        "ids": {
-          "trakt": 5623,
-          "slug": "war-2007",
-          "imdb": "tt0499556",
-          "tmdb": 10431
-        }
-      }
-    },
-    {
-      "rank": 24,
       "id": 1285065712,
       "listed_at": "2025-07-22T20:07:01.000Z",
       "notes": null,
@@ -416,7 +399,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": 1290228459,
       "listed_at": "2025-07-28T13:20:08.000Z",
       "notes": null,
@@ -433,7 +416,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": 1285065747,
       "listed_at": "2025-07-22T20:07:18.000Z",
       "notes": null,
@@ -450,7 +433,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": 1285066279,
       "listed_at": "2025-07-22T20:08:22.000Z",
       "notes": null,

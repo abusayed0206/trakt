@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-17T05:45:40.636785+00:00",
+    "fetched_at": "2025-08-18T05:49:15.362019+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 752
+    "count": 753
   },
   "data": [
     {
@@ -79,6 +79,21 @@
           "slug": "how-to-train-your-dragon-2010",
           "imdb": "tt0892769",
           "tmdb": 10191
+        }
+      }
+    },
+    {
+      "plays": 2,
+      "last_watched_at": "2025-08-17T19:14:15.000Z",
+      "last_updated_at": "2025-08-17T19:14:15.000Z",
+      "movie": {
+        "title": "War",
+        "year": 2007,
+        "ids": {
+          "trakt": 5623,
+          "slug": "war-2007",
+          "imdb": "tt0499556",
+          "tmdb": 10431
         }
       }
     },
@@ -2674,21 +2689,6 @@
           "slug": "yes-man-2008",
           "imdb": "tt1068680",
           "tmdb": 10201
-        }
-      }
-    },
-    {
-      "plays": 1,
-      "last_watched_at": "2024-07-03T07:17:44.000Z",
-      "last_updated_at": "2024-07-03T07:17:45.000Z",
-      "movie": {
-        "title": "War",
-        "year": 2007,
-        "ids": {
-          "trakt": 5623,
-          "slug": "war-2007",
-          "imdb": "tt0499556",
-          "tmdb": 10431
         }
       }
     },
@@ -10849,6 +10849,21 @@
           "slug": "freddy-2022",
           "imdb": "tt15145764",
           "tmdb": 1041054
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-08-17T09:55:14.000Z",
+      "last_updated_at": "2025-08-17T09:55:14.000Z",
+      "movie": {
+        "title": "Superman",
+        "year": 2025,
+        "ids": {
+          "trakt": 853702,
+          "slug": "superman-2025",
+          "imdb": "tt5950044",
+          "tmdb": 1061474
         }
       }
     },

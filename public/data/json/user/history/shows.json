@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-17T05:45:40.188042+00:00",
+    "fetched_at": "2025-08-18T05:49:14.903981+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11171737195,
+      "watched_at": "2025-08-17T08:27:05.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 7,
+        "title": "Course Correction",
+        "ids": {
+          "trakt": 12853597,
+          "tvdb": 11167528,
+          "imdb": "tt36351476",
+          "tmdb": 6201597,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Dexter: Resurrection",
+        "year": 2025,
+        "ids": {
+          "trakt": 249647,
+          "slug": "dexter-resurrection",
+          "tvdb": 452595,
+          "imdb": "tt33043892",
+          "tmdb": 259909,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11155297240,
       "watched_at": "2025-08-13T06:46:13.000Z",
@@ -273,36 +303,6 @@
           "tvdb": 452595,
           "imdb": "tt33043892",
           "tmdb": 259909,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11127127268,
-      "watched_at": "2025-08-08T17:04:35.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 2,
-        "title": "The Devil You Woe",
-        "ids": {
-          "trakt": 13033540,
-          "tvdb": 10927589,
-          "imdb": "tt33100407",
-          "tmdb": 6165592,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Wednesday",
-        "year": 2022,
-        "ids": {
-          "trakt": 173996,
-          "slug": "wednesday",
-          "tvdb": 397060,
-          "imdb": "tt13443470",
-          "tmdb": 119051,
           "tvrage": null
         }
       }
