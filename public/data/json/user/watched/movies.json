@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-18T05:49:15.362019+00:00",
+    "fetched_at": "2025-08-19T05:44:16.444449+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 753
+    "count": 754
   },
   "data": [
     {
@@ -8614,6 +8614,21 @@
           "slug": "mission-impossible-dead-reckoning-part-one-2023",
           "imdb": "tt9603212",
           "tmdb": 575264
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-08-18T19:52:48.000Z",
+      "last_updated_at": "2025-08-18T19:52:48.000Z",
+      "movie": {
+        "title": "Mission: Impossible - The Final Reckoning",
+        "year": 2025,
+        "ids": {
+          "trakt": 426078,
+          "slug": "mission-impossible-the-final-reckoning-2025",
+          "imdb": "tt9603208",
+          "tmdb": 575265
         }
       }
     },

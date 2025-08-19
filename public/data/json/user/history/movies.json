@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-18T05:49:14.719106+00:00",
+    "fetched_at": "2025-08-19T05:44:16.028850+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11176215982,
+      "watched_at": "2025-08-18T19:52:48.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Mission: Impossible - The Final Reckoning",
+        "year": 2025,
+        "ids": {
+          "trakt": 426078,
+          "slug": "mission-impossible-the-final-reckoning-2025",
+          "imdb": "tt9603208",
+          "tmdb": 575265
+        }
+      }
+    },
     {
       "id": 11173136295,
       "watched_at": "2025-08-17T19:14:15.000Z",
@@ -148,22 +164,6 @@
           "slug": "i-saw-the-devil-2010",
           "imdb": "tt1588170",
           "tmdb": 49797
-        }
-      }
-    },
-    {
-      "id": 11132603837,
-      "watched_at": "2025-08-10T11:15:19.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "G.I. Joe: Retaliation",
-        "year": 2013,
-        "ids": {
-          "trakt": 53296,
-          "slug": "g-i-joe-retaliation-2013",
-          "imdb": "tt1583421",
-          "tmdb": 72559
         }
       }
     }
