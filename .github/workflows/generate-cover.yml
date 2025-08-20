@@ -23,12 +23,12 @@ jobs:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Cache Python dependencies
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('scripts/requirements.txt') }}
@@ -128,13 +128,15 @@ jobs:
           fi
 
       - name: Upload cover files as artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
+        id: artifact-upload
         with:
           name: cover-files
           path: |
             public/cover.json
             public/cover.jpg
           retention-days: 30
+          compression-level: 6  # Default compression for good balance of speed and size
 
       - name: Summary
         run: |
@@ -156,6 +158,15 @@ jobs:
             shows_count=$(jq '.shows | length' public/cover.json 2>/dev/null || echo "unknown")
             echo "- **Movies in Cover**: $movies_count" >> $GITHUB_STEP_SUMMARY
             echo "- **Shows in Cover**: $shows_count" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          # Add artifact information from v4 outputs
+          if [ -n "${{ steps.artifact-upload.outputs.artifact-id }}" ]; then
+            echo "- **Artifact ID**: ${{ steps.artifact-upload.outputs.artifact-id }}" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          if [ -n "${{ steps.artifact-upload.outputs.artifact-url }}" ]; then
+            echo "- **Artifact URL**: ${{ steps.artifact-upload.outputs.artifact-url }}" >> $GITHUB_STEP_SUMMARY
           fi
 
       - name: Cleanup on failure
