@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-20T15:29:50.564381+00:00",
+    "fetched_at": "2025-08-21T05:44:42.096941+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -15604,10 +15604,10 @@
       "type": "movie",
       "movie": {
         "title": "The Last Redemption",
-        "year": 2024,
+        "year": 2025,
         "ids": {
           "trakt": 997432,
-          "slug": "the-last-redemption-2024",
+          "slug": "the-last-redemption-2025",
           "imdb": "tt31797432",
           "tmdb": 1233243
         }

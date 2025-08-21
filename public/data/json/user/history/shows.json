@@ -1,12 +1,102 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-20T15:29:46.001060+00:00",
+    "fetched_at": "2025-08-21T05:44:38.996954+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11182675645,
+      "watched_at": "2025-08-20T18:52:33.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 16,
+        "title": "The One Percent Solution",
+        "ids": {
+          "trakt": 75001,
+          "tvdb": 4775671,
+          "imdb": "tt3505070",
+          "tmdb": 972121,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11182365777,
+      "watched_at": "2025-08-20T16:54:39.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 15,
+        "title": "Corpse de Ballet",
+        "ids": {
+          "trakt": 75000,
+          "tvdb": 4775670,
+          "imdb": "tt3479240",
+          "tmdb": 971598,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11182205858,
+      "watched_at": "2025-08-20T15:29:54.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 14,
+        "title": "Dead Clade Walking",
+        "ids": {
+          "trakt": 74999,
+          "tvdb": 4765195,
+          "imdb": "tt3459420",
+          "tmdb": 971349,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11182009596,
       "watched_at": "2025-08-20T13:54:46.000Z",
@@ -201,96 +291,6 @@
           "tvdb": 4656240,
           "imdb": "tt3182732",
           "tmdb": 971766,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11178090240,
-      "watched_at": "2025-08-19T10:32:51.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 22,
-        "title": "Risk Management",
-        "ids": {
-          "trakt": 74983,
-          "tvdb": 4525392,
-          "imdb": "tt2778816",
-          "tmdb": 64307,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11178090179,
-      "watched_at": "2025-08-19T10:32:45.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 21,
-        "title": "A Landmark Story",
-        "ids": {
-          "trakt": 74982,
-          "tvdb": 4525391,
-          "imdb": "tt2778806",
-          "tmdb": 64304,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11178090163,
-      "watched_at": "2025-08-19T10:32:43.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 23,
-        "title": "The Woman (1)",
-        "ids": {
-          "trakt": 74984,
-          "tvdb": 4525393,
-          "imdb": "tt2767596",
-          "tmdb": 64306,
           "tvrage": null
         }
       },
