@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-21T05:44:39.555345+00:00",
+    "fetched_at": "2025-08-22T05:43:45.993512+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,9 @@
   },
   "data": [
     {
-      "plays": 40,
-      "last_watched_at": "2025-08-20T18:52:33.000Z",
-      "last_updated_at": "2025-08-20T18:52:33.000Z",
+      "plays": 42,
+      "last_watched_at": "2025-08-21T13:31:56.000Z",
+      "last_updated_at": "2025-08-21T13:31:56.000Z",
       "reset_at": null,
       "show": {
         "title": "Elementary",
@@ -227,6 +227,16 @@
               "number": 16,
               "plays": 1,
               "last_watched_at": "2025-08-20T18:52:33.000Z"
+            },
+            {
+              "number": 17,
+              "plays": 1,
+              "last_watched_at": "2025-08-21T10:59:07.000Z"
+            },
+            {
+              "number": 18,
+              "plays": 1,
+              "last_watched_at": "2025-08-21T13:31:56.000Z"
             }
           ]
         }

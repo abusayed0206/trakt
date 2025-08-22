@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-21T05:44:38.996954+00:00",
+    "fetched_at": "2025-08-22T05:43:45.600611+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11185246339,
+      "watched_at": "2025-08-21T13:31:56.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 18,
+        "title": "The Hound of the Cancer Cells",
+        "ids": {
+          "trakt": 75003,
+          "tvdb": 4800420,
+          "imdb": "tt3505076",
+          "tmdb": 972977,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11184830847,
+      "watched_at": "2025-08-21T10:59:07.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 17,
+        "title": "Ears to You",
+        "ids": {
+          "trakt": 75002,
+          "tvdb": 4798548,
+          "imdb": "tt3505072",
+          "tmdb": 972379,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11182675645,
       "watched_at": "2025-08-20T18:52:33.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 4704701,
           "imdb": "tt3317624",
           "tmdb": 966289,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11181301354,
-      "watched_at": "2025-08-20T09:05:05.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 8,
-        "title": "Blood is Thicker",
-        "ids": {
-          "trakt": 74993,
-          "tvdb": 4695299,
-          "imdb": "tt3295662",
-          "tmdb": 966287,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11181292390,
-      "watched_at": "2025-08-20T08:41:35.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 7,
-        "title": "The Marchioness",
-        "ids": {
-          "trakt": 74992,
-          "tvdb": 4656240,
-          "imdb": "tt3182732",
-          "tmdb": 971766,
           "tvrage": null
         }
       },
