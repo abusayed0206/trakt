@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-22T05:43:48.244990+00:00",
+    "fetched_at": "2025-08-23T05:42:32.376441+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -26399,10 +26399,10 @@
       "type": "movie",
       "movie": {
         "title": "Super Icyclone",
-        "year": 2024,
+        "year": 2025,
         "ids": {
           "trakt": 1011694,
-          "slug": "super-icyclone-2024",
+          "slug": "super-icyclone-2025",
           "imdb": "tt28257192",
           "tmdb": 1208826
         }
