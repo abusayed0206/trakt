@@ -63,6 +63,16 @@
   ],
   "shows": [
     {
+      "tmdb_id": 1973,
+      "title": "24",
+      "season": 1,
+      "available_seasons": [
+        1
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/1/season_1_poster.jpg",
+      "last_watched_at": "2025-08-23T19:01:40.000Z"
+    },
+    {
       "tmdb_id": 1415,
       "title": "Elementary",
       "season": 2,
@@ -107,7 +117,7 @@
     {
       "tmdb_id": 1425,
       "title": "House of Cards",
-      "season": 3,
+      "season": 2,
       "available_seasons": [
         1,
         2,
@@ -116,7 +126,7 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/2/season_2_poster.jpg",
       "last_watched_at": "2025-08-03T12:13:47.000Z"
     },
     {
@@ -158,16 +168,6 @@
       ],
       "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/64840/1/season_1_poster.jpg",
       "last_watched_at": "2025-07-07T15:43:45.000Z"
-    },
-    {
-      "tmdb_id": 63247,
-      "title": "Westworld",
-      "season": 1,
-      "available_seasons": [
-        1
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/63247/1/season_1_poster.jpg",
-      "last_watched_at": "2025-07-04T09:26:02.000Z"
     }
   ]
 }
