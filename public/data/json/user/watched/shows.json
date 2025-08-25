@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-24T05:43:34.759918+00:00",
+    "fetched_at": "2025-08-25T05:45:55.464623+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,9 @@
   },
   "data": [
     {
-      "plays": 4,
-      "last_watched_at": "2025-08-23T19:01:40.000Z",
-      "last_updated_at": "2025-08-23T19:01:40.000Z",
+      "plays": 5,
+      "last_watched_at": "2025-08-24T19:56:25.000Z",
+      "last_updated_at": "2025-08-24T19:56:26.000Z",
       "reset_at": null,
       "show": {
         "title": "24",
@@ -47,6 +47,11 @@
               "number": 4,
               "plays": 1,
               "last_watched_at": "2025-08-23T19:01:40.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-08-24T19:56:25.000Z"
             }
           ]
         }

@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-24T05:43:33.804932+00:00",
+    "fetched_at": "2025-08-25T05:45:54.247561+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11195931785,
+      "watched_at": "2025-08-24T19:56:25.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 5,
+        "title": "4:00 A.M.-5:00 A.M.",
+        "ids": {
+          "trakt": 146251,
+          "tvdb": 189259,
+          "imdb": "tt0502173",
+          "tmdb": 134398,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11192343203,
       "watched_at": "2025-08-23T19:01:40.000Z",
@@ -261,36 +291,6 @@
           "tvdb": 4765195,
           "imdb": "tt3459420",
           "tmdb": 971349,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11182009596,
-      "watched_at": "2025-08-20T13:54:46.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 13,
-        "title": "All in the Family",
-        "ids": {
-          "trakt": 74998,
-          "tvdb": 4750409,
-          "imdb": "tt3415320",
-          "tmdb": 970482,
           "tvrage": null
         }
       },

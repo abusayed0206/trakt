@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-24T05:43:34.964668+00:00",
+    "fetched_at": "2025-08-25T05:45:55.821163+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/movies.json",
-    "count": 27
+    "count": 28
   },
   "data": [
     {
@@ -417,6 +417,23 @@
     },
     {
       "rank": 25,
+      "id": 1306408850,
+      "listed_at": "2025-08-24T11:38:46.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Foxter and Max",
+        "year": 2019,
+        "ids": {
+          "trakt": 455087,
+          "slug": "foxter-and-max-2019",
+          "imdb": "tt8269856",
+          "tmdb": 611014
+        }
+      }
+    },
+    {
+      "rank": 26,
       "id": 1290228459,
       "listed_at": "2025-07-28T13:20:08.000Z",
       "notes": null,
@@ -433,7 +450,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": 1285065747,
       "listed_at": "2025-07-22T20:07:18.000Z",
       "notes": null,
@@ -450,7 +467,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": 1285066279,
       "listed_at": "2025-07-22T20:08:22.000Z",
       "notes": null,
