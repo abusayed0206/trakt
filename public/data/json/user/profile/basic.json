@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "fetched_at": "2025-08-28T05:43:31.659829+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/profile/basic.json",
+    "count": 1
+  },
+  "data": {
+    "username": "lrs",
+    "private": false,
+    "deleted": false,
+    "name": "SAYED | সাঈদ",
+    "vip": false,
+    "vip_ep": false,
+    "director": false,
+    "ids": {
+      "slug": "lrs"
+    },
+    "joined_at": "2023-09-17T16:45:25.000Z",
+    "location": "Bangladesh । বাংলাদেশ",
+    "about": "Movies and shows are my escape from life.",
+    "gender": "male",
+    "age": null,
+    "images": {
+      "avatar": {
+        "full": "https://walter-r2.trakt.tv/images/users/013/040/967/avatars/large/21e36e057f.webp"
+      }
+    }
+  }
+}

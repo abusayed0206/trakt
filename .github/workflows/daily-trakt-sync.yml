@@ -1,0 +1,162 @@
+name: Daily Trakt Data Sync
+
+on:
+  schedule:
+    # Run daily at 05:34 AM UTC
+    - cron: '34 5 * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [ main ]
+
+jobs:
+  sync-trakt-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Checkout CDN repository
+        uses: actions/checkout@v4
+        with:
+          repository: abusayed0206/cdn
+          path: cdn-repo
+          token: ${{ secrets.PAT_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Cache Python dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('scripts/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Create environment file
+        run: |
+          echo "TRAKT_API_KEY=${{ secrets.TRAKT_API_KEY }}" > .env.local
+          echo "TRAKT_USERNAME=${{ secrets.TRAKT_USERNAME }}" >> .env.local
+          echo "TMDB_API_KEY=${{ secrets.TMDB_API_KEY }}" >> .env.local
+
+      - name: Ensure data directories exist
+        run: |
+          mkdir -p public/data/json
+          mkdir -p cdn-repo/watch
+
+      - name: Fetch Trakt data
+        run: |
+          python scripts/manage_data.py fetch
+        env:
+          TRAKT_API_KEY: ${{ secrets.TRAKT_API_KEY }}
+          TRAKT_USERNAME: ${{ secrets.TRAKT_USERNAME }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: Commit Trakt data changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/data/json/
+          if git diff --staged --quiet; then
+            echo "No changes to commit for Trakt data"
+          else
+            git commit -m "🎬 Update Trakt data - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo "trakt_data_updated=true" >> $GITHUB_ENV
+          fi
+
+      - name: Download media files
+        run: |
+          python scripts/download_media.py --cdn-repo-path cdn-repo
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: Debug - Check downloaded files
+        run: |
+          echo "=== Checking if files were downloaded ==="
+          ls -la cdn-repo/watch/ || echo "CDN watch directory doesn't exist"
+          find cdn-repo/watch -name "*.jpg" -type f | head -10 || echo "No jpg files found in CDN"
+          echo "=== Checking media_index.json ==="
+          ls -la public/data/media_index.json || echo "media_index.json not found"
+          echo "=== Git status for main repo ==="
+          git status --porcelain
+          echo "=== Git status for CDN repo ==="
+          cd cdn-repo && git status --porcelain && cd ..
+
+      - name: Commit media_index.json to main repo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/data/media_index.json
+          if git diff --staged --quiet; then
+            echo "No changes to media_index.json"
+          else
+            git commit -m "📊 Update media index - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo "media_index_updated=true" >> $GITHUB_ENV
+          fi
+
+      - name: Commit media files to CDN repo
+        run: |
+          cd cdn-repo
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add watch/
+          if git diff --staged --quiet; then
+            echo "No new media files to commit to CDN"
+          else
+            git commit -m "🖼️ Update watch media files - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo "cdn_files_updated=true" >> $GITHUB_ENV
+          fi
+          cd ..
+
+      - name: Push changes to main repo
+        run: |
+          if [[ "${{ env.trakt_data_updated }}" == "true" ]] || [[ "${{ env.media_index_updated }}" == "true" ]]; then
+            git pull origin main --rebase
+            git push origin main
+            echo "Main repo changes pushed successfully"
+          else
+            echo "No changes to push to main repo"
+          fi
+
+      - name: Push changes to CDN repo
+        run: |
+          if [[ "${{ env.cdn_files_updated }}" == "true" ]]; then
+            cd cdn-repo
+            git pull origin main --rebase
+            git push origin main
+            echo "CDN repo changes pushed successfully"
+            cd ..
+          else
+            echo "No changes to push to CDN repo"
+          fi
+
+      - name: Summary
+        run: |
+          echo "## 📊 Sync Summary" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Trakt Data Updated**: ${{ env.trakt_data_updated || 'false' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Media Index Updated**: ${{ env.media_index_updated || 'false' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **CDN Files Updated**: ${{ env.cdn_files_updated || 'false' }}" >> $GITHUB_STEP_SUMMARY
+          
+          # Count files
+          json_files=$(find public/data/json -name "*.json" | wc -l)
+          image_files=$(find cdn-repo/watch -name "*.jpg" | wc -l)
+          
+          echo "- **Total JSON Files**: $json_files" >> $GITHUB_STEP_SUMMARY
+          echo "- **Total Image Files in CDN**: $image_files" >> $GITHUB_STEP_SUMMARY
+
+      - name: Clean up environment file
+        if: always()
+        run: rm -f .env.local

@@ -1,0 +1,109 @@
+name: Manual Media Download
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_download:
+        description: 'Force re-download all media files'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  download-media:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Checkout CDN repository
+        uses: actions/checkout@v4
+        with:
+          repository: abusayed0206/cdn
+          path: cdn-repo
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Create environment file
+        run: |
+          echo "TRAKT_API_KEY=${{ secrets.TRAKT_API_KEY }}" > .env.local
+          echo "TRAKT_USERNAME=${{ secrets.TRAKT_USERNAME }}" >> .env.local
+          echo "TMDB_API_KEY=${{ secrets.TMDB_API_KEY }}" >> .env.local
+
+      - name: Ensure data directories exist
+        run: |
+          mkdir -p public/data/json
+          mkdir -p cdn-repo/watch
+
+      - name: Clear existing media files (if force download)
+        if: ${{ github.event.inputs.force_download == 'true' }}
+        run: |
+          echo "Force download enabled - clearing existing media files"
+          rm -rf cdn-repo/watch/*
+          mkdir -p cdn-repo/watch
+
+      - name: Download media files
+        run: |
+          python scripts/download_media.py --cdn-repo-path cdn-repo
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: Commit and push changes
+        run: |
+          # Commit media_index.json to main repo
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/data/media_index.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes to media_index.json"
+          else
+            git commit -m "📊 Manual media index update - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push origin main
+            echo "Media index updated and pushed to main repo"
+          fi
+          
+          # Commit media files to CDN repo
+          cd cdn-repo
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add watch/
+          
+          if git diff --staged --quiet; then
+            echo "No new media files to commit to CDN"
+          else
+            git commit -m "🖼️ Manual media download - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push origin main
+            echo "Media files updated and pushed to CDN repo"
+          fi
+
+      - name: Summary
+        run: |
+          echo "## 🖼️ Media Download Summary" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Force Download**: ${{ github.event.inputs.force_download }}" >> $GITHUB_STEP_SUMMARY
+          
+          # Count files
+          image_files=$(find cdn-repo/watch -name "*.jpg" | wc -l)
+          total_size=$(du -sh cdn-repo/watch/ | cut -f1)
+          
+          echo "- **Total Image Files**: $image_files" >> $GITHUB_STEP_SUMMARY
+          echo "- **Total Size**: $total_size" >> $GITHUB_STEP_SUMMARY
+
+      - name: Clean up environment file
+        if: always()
+        run: rm -f .env.local

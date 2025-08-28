@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "fetched_at": "2025-08-28T05:43:32.453435+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/history/movies.json",
+    "count": 10
+  },
+  "data": [
+    {
+      "id": 11203039648,
+      "watched_at": "2025-08-26T16:44:29.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Foxter and Max",
+        "year": 2019,
+        "ids": {
+          "trakt": 455087,
+          "slug": "foxter-and-max-2019",
+          "imdb": "tt8269856",
+          "tmdb": 611014
+        }
+      }
+    },
+    {
+      "id": 11176215982,
+      "watched_at": "2025-08-18T19:52:48.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Mission: Impossible - The Final Reckoning",
+        "year": 2025,
+        "ids": {
+          "trakt": 426078,
+          "slug": "mission-impossible-the-final-reckoning-2025",
+          "imdb": "tt9603208",
+          "tmdb": 575265
+        }
+      }
+    },
+    {
+      "id": 11173136295,
+      "watched_at": "2025-08-17T19:14:15.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "War",
+        "year": 2007,
+        "ids": {
+          "trakt": 5623,
+          "slug": "war-2007",
+          "imdb": "tt0499556",
+          "tmdb": 10431
+        }
+      }
+    },
+    {
+      "id": 11171914256,
+      "watched_at": "2025-08-17T09:55:14.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Superman",
+        "year": 2025,
+        "ids": {
+          "trakt": 853702,
+          "slug": "superman-2025",
+          "imdb": "tt5950044",
+          "tmdb": 1061474
+        }
+      }
+    },
+    {
+      "id": 11166077020,
+      "watched_at": "2025-08-15T13:57:23.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Bullet to the Head",
+        "year": 2012,
+        "ids": {
+          "trakt": 51263,
+          "slug": "bullet-to-the-head-2012",
+          "imdb": "tt1308729",
+          "tmdb": 70074
+        }
+      }
+    },
+    {
+      "id": 11163477690,
+      "watched_at": "2025-08-14T20:43:18.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "The Villainess",
+        "year": 2017,
+        "ids": {
+          "trakt": 283487,
+          "slug": "the-villainess-2017",
+          "imdb": "tt6777338",
+          "tmdb": 437109
+        }
+      }
+    },
+    {
+      "id": 11162289958,
+      "watched_at": "2025-08-14T10:40:22.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "The Killer",
+        "year": 2023,
+        "ids": {
+          "trakt": 635402,
+          "slug": "the-killer-2023",
+          "imdb": "tt1136617",
+          "tmdb": 800158
+        }
+      }
+    },
+    {
+      "id": 11160535250,
+      "watched_at": "2025-08-13T19:03:47.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "HIT: The Third Case",
+        "year": 2025,
+        "ids": {
+          "trakt": 856114,
+          "slug": "hit-the-third-case-2025",
+          "imdb": "tt23804696",
+          "tmdb": 1060046
+        }
+      }
+    },
+    {
+      "id": 11155296427,
+      "watched_at": "2025-08-13T06:45:50.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "HIT: The 2nd Case",
+        "year": 2022,
+        "ids": {
+          "trakt": 645596,
+          "slug": "hit-the-2nd-case-2022",
+          "imdb": "tt14279982",
+          "tmdb": 811945
+        }
+      }
+    },
+    {
+      "id": 11155295855,
+      "watched_at": "2025-08-13T06:45:34.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "HIT: The First Case",
+        "year": 2020,
+        "ids": {
+          "trakt": 517606,
+          "slug": "hit-the-first-case-2020",
+          "imdb": "tt11490170",
+          "tmdb": 678391
+        }
+      }
+    }
+  ]
+}

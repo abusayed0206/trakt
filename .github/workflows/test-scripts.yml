@@ -1,0 +1,68 @@
+name: Test Trakt Scripts
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+jobs:
+  test-scripts:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Test Python syntax
+        run: |
+          cd scripts
+          python -m py_compile fetch_trakt_data.py
+          python -m py_compile download_media.py
+          python -m py_compile manage_data.py
+
+      - name: Create test environment file
+        run: |
+          echo "TRAKT_API_KEY=test_key" > .env.local
+          echo "TRAKT_USERNAME=test_user" >> .env.local
+          echo "TMDB_API_KEY=test_key" >> .env.local
+
+      - name: Test script imports
+        run: |
+          cd scripts
+          python -c "import fetch_trakt_data; print('✅ fetch_trakt_data imports successfully')"
+          python -c "import download_media; print('✅ download_media imports successfully')"
+          python -c "import manage_data; print('✅ manage_data imports successfully')"
+
+      - name: Ensure required directories exist
+        run: |
+          mkdir -p public/data/json
+          mkdir -p public/data/imgs
+
+      - name: Test manage_data help
+        run: |
+          cd scripts
+          python manage_data.py --help
+
+      - name: Summary
+        run: |
+          echo "## ✅ Test Results" >> $GITHUB_STEP_SUMMARY
+          echo "- **Python Version**: $(python --version)" >> $GITHUB_STEP_SUMMARY
+          echo "- **All scripts compile successfully**: ✅" >> $GITHUB_STEP_SUMMARY
+          echo "- **All imports work**: ✅" >> $GITHUB_STEP_SUMMARY
+          echo "- **Directory structure**: ✅" >> $GITHUB_STEP_SUMMARY
+
+      - name: Clean up
+        if: always()
+        run: rm -f .env.local

@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "fetched_at": "2025-07-23T05:53:22.394845+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/lists/movies_items.json",
+    "count": 9
+  },
+  "data": [
+    {
+      "rank": 3,
+      "id": 1283731882,
+      "listed_at": "2025-07-21T12:09:45.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Perfect Blue",
+        "year": 1998,
+        "ids": {
+          "trakt": 5677,
+          "slug": "perfect-blue-1998",
+          "imdb": "tt0156887",
+          "tmdb": 10494
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "id": 1283735139,
+      "listed_at": "2025-07-21T12:10:01.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "The Handmaiden",
+        "year": 2016,
+        "ids": {
+          "trakt": 187026,
+          "slug": "the-handmaiden-2016",
+          "imdb": "tt4016934",
+          "tmdb": 290098
+        }
+      }
+    },
+    {
+      "rank": 7,
+      "id": 1283752517,
+      "listed_at": "2025-07-21T12:22:23.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "The Girl Who Kicked the Hornet's Nest",
+        "year": 2009,
+        "ids": {
+          "trakt": 21547,
+          "slug": "the-girl-who-kicked-the-hornet-s-nest-2009",
+          "imdb": "tt1343097",
+          "tmdb": 33613
+        }
+      }
+    },
+    {
+      "rank": 8,
+      "id": 1283752826,
+      "listed_at": "2025-07-21T12:22:33.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "The Girl Who Played with Fire",
+        "year": 2009,
+        "ids": {
+          "trakt": 14582,
+          "slug": "the-girl-who-played-with-fire-2009",
+          "imdb": "tt1216487",
+          "tmdb": 24253
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "id": 1283749252,
+      "listed_at": "2025-07-21T12:20:29.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Flight",
+        "year": 2012,
+        "ids": {
+          "trakt": 65754,
+          "slug": "flight-2012",
+          "imdb": "tt1907668",
+          "tmdb": 87502
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "id": 1283755424,
+      "listed_at": "2025-07-21T12:26:43.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "The Mist",
+        "year": 2007,
+        "ids": {
+          "trakt": 3345,
+          "slug": "the-mist-2007",
+          "imdb": "tt0884328",
+          "tmdb": 5876
+        }
+      }
+    },
+    {
+      "rank": 1,
+      "id": 1283730899,
+      "listed_at": "2025-07-21T12:08:11.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Before the Devil Knows You're Dead",
+        "year": 2007,
+        "ids": {
+          "trakt": 3986,
+          "slug": "before-the-devil-knows-you-re-dead-2007",
+          "imdb": "tt0292963",
+          "tmdb": 7972
+        }
+      }
+    },
+    {
+      "rank": 6,
+      "id": 1283749307,
+      "listed_at": "2025-07-21T12:20:33.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Flatliners",
+        "year": 1990,
+        "ids": {
+          "trakt": 1010,
+          "slug": "flatliners-1990",
+          "imdb": "tt0099582",
+          "tmdb": 1551
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "id": 1283731461,
+      "listed_at": "2025-07-21T12:09:02.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "The Devil's Own",
+        "year": 1997,
+        "ids": {
+          "trakt": 2625,
+          "slug": "the-devil-s-own-1997",
+          "imdb": "tt0118972",
+          "tmdb": 4477
+        }
+      }
+    }
+  ]
+}

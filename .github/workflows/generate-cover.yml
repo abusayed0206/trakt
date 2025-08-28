@@ -1,0 +1,176 @@
+name: Generate Cover Image
+
+on:
+  schedule:
+    # Run daily at 06:00 AM UTC (after the daily sync)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/generate_cover.py'
+      - 'public/data/json/user/watched/**'
+
+jobs:
+  generate-cover:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache Python dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('scripts/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Ensure public directory exists
+        run: |
+          mkdir -p public
+
+      - name: Generate Cover Image
+        env:
+          TRAKT_API: ${{ secrets.TRAKT_API_KEY }}
+          TRAKT_USERNAME: ${{ secrets.TRAKT_USERNAME }}
+        run: |
+          echo "🎨 Generating cover image from Trakt data..."
+          python scripts/generate_cover.py
+          
+          echo "✅ Cover generation completed"
+          
+          # Verify cover files were created
+          if [ ! -f public/cover.json ]; then
+            echo "❌ Error: cover.json was not created"
+            exit 1
+          fi
+          
+          if [ ! -f public/cover.jpg ]; then
+            echo "❌ Error: cover.jpg was not created"
+            exit 1
+          fi
+          
+          echo "📄 Cover files created successfully:"
+          ls -la public/cover.json public/cover.jpg
+          
+          echo "📋 Cover JSON preview:"
+          head -20 public/cover.json
+
+      - name: Verify cover image properties
+        run: |
+          echo "🔍 Verifying cover image properties..."
+          
+          # Check if ImageMagick is available, if not install it
+          if ! command -v identify &> /dev/null; then
+            sudo apt-get update
+            sudo apt-get install -y imagemagick
+          fi
+          
+          # Get image dimensions and file size
+          image_info=$(identify public/cover.jpg)
+          echo "📐 Image info: $image_info"
+          
+          # Extract dimensions
+          dimensions=$(identify -format "%wx%h" public/cover.jpg)
+          echo "📏 Dimensions: $dimensions"
+          
+          # Check if dimensions are correct (896x272)
+          if [[ "$dimensions" == "896x272" ]]; then
+            echo "✅ Cover image has correct dimensions: $dimensions"
+          else
+            echo "⚠️ Cover image dimensions ($dimensions) don't match expected (896x272)"
+          fi
+          
+          # Get file size
+          file_size=$(stat -c%s public/cover.jpg)
+          file_size_kb=$((file_size / 1024))
+          echo "📦 File size: ${file_size_kb}KB"
+
+      - name: Commit cover files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add the cover files
+          git add public/cover.json public/cover.jpg
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit for cover files"
+          else
+            git commit -m "🖼️ Update cover image and data - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo "cover_files_updated=true" >> $GITHUB_ENV
+          fi
+
+      - name: Push changes
+        run: |
+          if [[ "${{ env.cover_files_updated }}" == "true" ]]; then
+            git pull origin main --rebase
+            git push origin main
+            echo "Cover files pushed successfully"
+          else
+            echo "No changes to push"
+          fi
+
+      - name: Upload cover files as artifacts
+        uses: actions/upload-artifact@v4
+        id: artifact-upload
+        with:
+          name: cover-files
+          path: |
+            public/cover.json
+            public/cover.jpg
+          retention-days: 30
+          compression-level: 6  # Default compression for good balance of speed and size
+
+      - name: Summary
+        run: |
+          echo "## 🖼️ Cover Generation Summary" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Cover Files Updated**: ${{ env.cover_files_updated || 'false' }}" >> $GITHUB_STEP_SUMMARY
+          
+          # Get file info
+          if [ -f public/cover.jpg ]; then
+            file_size=$(stat -c%s public/cover.jpg)
+            file_size_kb=$((file_size / 1024))
+            dimensions=$(identify -format "%wx%h" public/cover.jpg 2>/dev/null || echo "unknown")
+            echo "- **Cover Image Size**: ${file_size_kb}KB" >> $GITHUB_STEP_SUMMARY
+            echo "- **Cover Image Dimensions**: $dimensions" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          if [ -f public/cover.json ]; then
+            movies_count=$(jq '.movies | length' public/cover.json 2>/dev/null || echo "unknown")
+            shows_count=$(jq '.shows | length' public/cover.json 2>/dev/null || echo "unknown")
+            echo "- **Movies in Cover**: $movies_count" >> $GITHUB_STEP_SUMMARY
+            echo "- **Shows in Cover**: $shows_count" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          # Add artifact information from v4 outputs
+          if [ -n "${{ steps.artifact-upload.outputs.artifact-id }}" ]; then
+            echo "- **Artifact ID**: ${{ steps.artifact-upload.outputs.artifact-id }}" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          if [ -n "${{ steps.artifact-upload.outputs.artifact-url }}" ]; then
+            echo "- **Artifact URL**: ${{ steps.artifact-upload.outputs.artifact-url }}" >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Cleanup on failure
+        if: failure()
+        run: |
+          echo "🧹 Cleaning up on failure..."
+          rm -f public/cover.json public/cover.jpg

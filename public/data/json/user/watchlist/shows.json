@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "fetched_at": "2025-08-09T05:45:48.852087+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/watchlist/shows.json",
+    "count": 1
+  },
+  "data": [
+    {
+      "rank": 12,
+      "id": 1283700059,
+      "listed_at": "2025-07-21T11:43:35.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Dexter: Resurrection",
+        "year": 2025,
+        "ids": {
+          "trakt": 249647,
+          "slug": "dexter-resurrection",
+          "tvdb": 452595,
+          "imdb": "tt33043892",
+          "tmdb": 259909,
+          "tvrage": null
+        }
+      }
+    }
+  ]
+}
