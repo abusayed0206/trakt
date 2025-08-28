@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-28T05:43:33.044535+00:00",
+    "fetched_at": "2025-08-28T19:57:12.599083+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 755
+    "count": 756
   },
   "data": [
     {
@@ -10474,6 +10474,21 @@
           "slug": "thunivu-2023",
           "imdb": "tt15163652",
           "tmdb": 904557
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-08-28T08:49:39.000Z",
+      "last_updated_at": "2025-08-28T08:49:41.000Z",
+      "movie": {
+        "title": "F1",
+        "year": 2025,
+        "ids": {
+          "trakt": 729817,
+          "slug": "f1-2025",
+          "imdb": "tt16311594",
+          "tmdb": 911430
         }
       }
     },

@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-28T05:43:32.453435+00:00",
+    "fetched_at": "2025-08-28T19:57:11.652635+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11208293375,
+      "watched_at": "2025-08-28T08:49:39.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "F1",
+        "year": 2025,
+        "ids": {
+          "trakt": 729817,
+          "slug": "f1-2025",
+          "imdb": "tt16311594",
+          "tmdb": 911430
+        }
+      }
+    },
     {
       "id": 11203039648,
       "watched_at": "2025-08-26T16:44:29.000Z",
@@ -148,22 +164,6 @@
           "slug": "hit-the-2nd-case-2022",
           "imdb": "tt14279982",
           "tmdb": 811945
-        }
-      }
-    },
-    {
-      "id": 11155295855,
-      "watched_at": "2025-08-13T06:45:34.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "HIT: The First Case",
-        "year": 2020,
-        "ids": {
-          "trakt": 517606,
-          "slug": "hit-the-first-case-2020",
-          "imdb": "tt11490170",
-          "tmdb": 678391
         }
       }
     }
