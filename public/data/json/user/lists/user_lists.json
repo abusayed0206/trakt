@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "fetched_at": "2025-08-28T05:43:34.522662+00:00",
+    "source": "trakt_api_user_data",
+    "username": "lrs",
+    "endpoint": "user/lists/user_lists.json",
+    "count": 3
+  },
+  "data": [
+    {
+      "name": "Series Watchlist for 2025",
+      "description": "I planned to watch these shows in 2025. some of them are planned for 2024 and moved to 2025.",
+      "privacy": "public",
+      "share_link": "https://trakt.tv/lists/26841041",
+      "type": "personal",
+      "display_numbers": true,
+      "allow_comments": true,
+      "sort_by": "popularity",
+      "sort_how": "desc",
+      "created_at": "2024-01-18T16:02:04.000Z",
+      "updated_at": "2025-08-08T17:07:39.000Z",
+      "item_count": 79,
+      "comment_count": 0,
+      "likes": 0,
+      "ids": {
+        "trakt": 26841041,
+        "slug": "series-watchlist-for-2025"
+      },
+      "user": {
+        "username": "lrs",
+        "private": false,
+        "deleted": false,
+        "name": "SAYED | সাঈদ",
+        "vip": false,
+        "vip_ep": false,
+        "director": false,
+        "ids": {
+          "slug": "lrs"
+        }
+      }
+    },
+    {
+      "name": "Anticipated Movies",
+      "description": "Just a list for anticipated movies and using it with radarr.",
+      "privacy": "public",
+      "share_link": "https://trakt.tv/lists/30670410",
+      "type": "personal",
+      "display_numbers": true,
+      "allow_comments": true,
+      "sort_by": "popularity",
+      "sort_how": "desc",
+      "created_at": "2025-02-15T16:47:16.000Z",
+      "updated_at": "2025-07-23T20:51:07.000Z",
+      "item_count": 15,
+      "comment_count": 0,
+      "likes": 0,
+      "ids": {
+        "trakt": 30670410,
+        "slug": "anticipated-movies"
+      },
+      "user": {
+        "username": "lrs",
+        "private": false,
+        "deleted": false,
+        "name": "SAYED | সাঈদ",
+        "vip": false,
+        "vip_ep": false,
+        "director": false,
+        "ids": {
+          "slug": "lrs"
+        }
+      }
+    },
+    {
+      "name": "Action Movies Archive",
+      "description": "",
+      "privacy": "public",
+      "share_link": "https://trakt.tv/lists/31950590",
+      "type": "personal",
+      "display_numbers": false,
+      "allow_comments": false,
+      "sort_by": "imdb_rating",
+      "sort_how": "desc",
+      "created_at": "2025-07-23T20:10:08.000Z",
+      "updated_at": "2025-08-10T19:48:00.000Z",
+      "item_count": 1832,
+      "comment_count": 0,
+      "likes": 0,
+      "ids": {
+        "trakt": 31950590,
+        "slug": "action-movies-archive"
+      },
+      "user": {
+        "username": "lrs",
+        "private": false,
+        "deleted": false,
+        "name": "SAYED | সাঈদ",
+        "vip": false,
+        "vip_ep": false,
+        "director": false,
+        "ids": {
+          "slug": "lrs"
+        }
+      }
+    }
+  ]
+}
