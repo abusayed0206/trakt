@@ -218,8 +218,8 @@ def create_cover_image(poster_data, output_path):
                 intensity = int((x / cover_width) * 50 + 20)
                 cover.putpixel((x, y), (intensity, intensity, intensity))
     
-    # Save the cover image
-    cover.save(output_path, 'JPEG', quality=95)
+    # Save the cover image as WebP for better compression
+    cover.save(output_path, 'WEBP', quality=90, method=6)
     print(f"🖼️ Cover image saved: {output_path}")
     print(f"📊 Successfully processed {successful_downloads} posters")
     print(f"🔄 Pattern used: {'-'.join(pattern)}")
@@ -253,7 +253,7 @@ def main():
     print(f"💾 Saved cover data: {cover_json_path}")
     
     # Create cover image
-    cover_image_path = 'public/cover.jpg'
+    cover_image_path = 'public/cover.webp'
     create_cover_image(poster_data, cover_image_path)
     
     print("✅ Cover generation completed successfully!")
