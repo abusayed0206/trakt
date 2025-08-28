@@ -60,13 +60,13 @@ jobs:
             exit 1
           fi
           
-          if [ ! -f public/cover.jpg ]; then
-            echo "❌ Error: cover.jpg was not created"
+          if [ ! -f public/cover.webp ]; then
+            echo "❌ Error: cover.webp was not created"
             exit 1
           fi
           
           echo "📄 Cover files created successfully:"
-          ls -la public/cover.json public/cover.jpg
+          ls -la public/cover.json public/cover.webp
           
           echo "📋 Cover JSON preview:"
           head -20 public/cover.json
@@ -82,11 +82,11 @@ jobs:
           fi
           
           # Get image dimensions and file size
-          image_info=$(identify public/cover.jpg)
+          image_info=$(identify public/cover.webp)
           echo "📐 Image info: $image_info"
           
           # Extract dimensions
-          dimensions=$(identify -format "%wx%h" public/cover.jpg)
+          dimensions=$(identify -format "%wx%h" public/cover.webp)
           echo "📏 Dimensions: $dimensions"
           
           # Check if dimensions are correct (896x272)
@@ -97,7 +97,7 @@ jobs:
           fi
           
           # Get file size
-          file_size=$(stat -c%s public/cover.jpg)
+          file_size=$(stat -c%s public/cover.webp)
           file_size_kb=$((file_size / 1024))
           echo "📦 File size: ${file_size_kb}KB"
 
@@ -107,7 +107,7 @@ jobs:
           git config --local user.name "GitHub Action"
           
           # Add the cover files
-          git add public/cover.json public/cover.jpg
+          git add public/cover.json public/cover.webp
           
           # Check if there are changes to commit
           if git diff --staged --quiet; then
@@ -134,7 +134,7 @@ jobs:
           name: cover-files
           path: |
             public/cover.json
-            public/cover.jpg
+            public/cover.webp
           retention-days: 30
           compression-level: 6  # Default compression for good balance of speed and size
 
@@ -145,10 +145,10 @@ jobs:
           echo "- **Cover Files Updated**: ${{ env.cover_files_updated || 'false' }}" >> $GITHUB_STEP_SUMMARY
           
           # Get file info
-          if [ -f public/cover.jpg ]; then
-            file_size=$(stat -c%s public/cover.jpg)
+          if [ -f public/cover.webp ]; then
+            file_size=$(stat -c%s public/cover.webp)
             file_size_kb=$((file_size / 1024))
-            dimensions=$(identify -format "%wx%h" public/cover.jpg 2>/dev/null || echo "unknown")
+            dimensions=$(identify -format "%wx%h" public/cover.webp 2>/dev/null || echo "unknown")
             echo "- **Cover Image Size**: ${file_size_kb}KB" >> $GITHUB_STEP_SUMMARY
             echo "- **Cover Image Dimensions**: $dimensions" >> $GITHUB_STEP_SUMMARY
           fi
@@ -173,4 +173,4 @@ jobs:
         if: failure()
         run: |
           echo "🧹 Cleaning up on failure..."
-          rm -f public/cover.json public/cover.jpg
+          rm -f public/cover.json public/cover.webp
