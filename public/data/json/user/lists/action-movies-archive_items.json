@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-28T20:35:38.890150+00:00",
+    "fetched_at": "2025-08-29T05:42:56.894214+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -22182,7 +22182,7 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Rats!",
+        "title": "RATS!",
         "year": 2025,
         "ids": {
           "trakt": 972940,
@@ -26127,10 +26127,10 @@
       "type": "movie",
       "movie": {
         "title": "Strange Darling",
-        "year": 2024,
+        "year": 2023,
         "ids": {
           "trakt": 827707,
-          "slug": "strange-darling-2024",
+          "slug": "strange-darling-2023",
           "imdb": "tt22375054",
           "tmdb": 1029281
         }
