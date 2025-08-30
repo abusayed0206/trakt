@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-29T05:42:54.308416+00:00",
+    "fetched_at": "2025-08-30T05:41:31.964749+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,9 @@
   },
   "data": [
     {
-      "plays": 26,
-      "last_watched_at": "2025-08-28T20:59:23.000Z",
-      "last_updated_at": "2025-08-28T20:59:23.000Z",
+      "plays": 40,
+      "last_watched_at": "2025-08-29T22:14:32.000Z",
+      "last_updated_at": "2025-08-29T22:14:32.000Z",
       "reset_at": null,
       "show": {
         "title": "24",
@@ -162,15 +162,85 @@
               "number": 2,
               "plays": 1,
               "last_watched_at": "2025-08-28T20:59:23.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T20:10:02.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T16:18:43.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T16:45:38.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T17:14:32.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T17:58:54.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T18:24:48.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T18:47:42.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T19:13:35.000Z"
+            },
+            {
+              "number": 11,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T19:40:07.000Z"
+            },
+            {
+              "number": 12,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T20:08:38.000Z"
+            },
+            {
+              "number": 13,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T20:38:19.000Z"
+            },
+            {
+              "number": 14,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T21:09:52.000Z"
+            },
+            {
+              "number": 15,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T21:43:36.000Z"
+            },
+            {
+              "number": 16,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T22:14:32.000Z"
             }
           ]
         }
       ]
     },
     {
-      "plays": 8,
-      "last_watched_at": "2025-08-26T15:05:40.000Z",
-      "last_updated_at": "2025-08-26T15:05:40.000Z",
+      "plays": 9,
+      "last_watched_at": "2025-08-29T09:56:44.000Z",
+      "last_updated_at": "2025-08-29T09:56:45.000Z",
       "reset_at": null,
       "show": {
         "title": "Dexter: Resurrection",
@@ -227,6 +297,11 @@
               "number": 8,
               "plays": 1,
               "last_watched_at": "2025-08-26T15:05:40.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T09:56:44.000Z"
             }
           ]
         }

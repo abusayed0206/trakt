@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-29T05:42:53.459316+00:00",
+    "fetched_at": "2025-08-30T05:41:29.820034+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
@@ -8,19 +8,19 @@
   },
   "data": [
     {
-      "id": 11210223487,
-      "watched_at": "2025-08-28T20:59:23.000Z",
+      "id": 11213743689,
+      "watched_at": "2025-08-29T22:14:32.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
         "season": 2,
-        "number": 2,
-        "title": "Day 2: 9:00 A.M.-10:00 A.M.",
+        "number": 16,
+        "title": "Day 2: 11:00 P.M.-12:00 A.M.",
         "ids": {
-          "trakt": 146272,
-          "tvdb": 189280,
-          "imdb": "tt0502207",
-          "tmdb": 134419,
+          "trakt": 146286,
+          "tvdb": 189294,
+          "imdb": "tt0502188",
+          "tmdb": 134457,
           "tvrage": null
         }
       },
@@ -38,19 +38,19 @@
       }
     },
     {
-      "id": 11210170250,
-      "watched_at": "2025-08-28T20:37:07.000Z",
+      "id": 11213613891,
+      "watched_at": "2025-08-29T21:43:36.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
         "season": 2,
-        "number": 1,
-        "title": "Day 2: 8:00 A.M.-9:00 A.M.",
+        "number": 15,
+        "title": "Day 2: 10:00 P.M.-11:00 P.M.",
         "ids": {
-          "trakt": 146271,
-          "tvdb": 189279,
-          "imdb": "tt0502205",
-          "tmdb": 134418,
+          "trakt": 146285,
+          "tvdb": 189293,
+          "imdb": "tt0502186",
+          "tmdb": 134453,
           "tvrage": null
         }
       },
@@ -68,19 +68,19 @@
       }
     },
     {
-      "id": 11205709839,
-      "watched_at": "2025-08-27T10:29:28.000Z",
-      "action": "watch",
+      "id": 11213523923,
+      "watched_at": "2025-08-29T21:09:52.000Z",
+      "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 1,
-        "number": 24,
-        "title": "11:00 P.M.-12:00 A.M.",
+        "season": 2,
+        "number": 14,
+        "title": "Day 2: 9:00 P.M.-10:00 P.M.",
         "ids": {
-          "trakt": 146270,
-          "tvdb": 189278,
-          "imdb": "tt0502164",
-          "tmdb": 134417,
+          "trakt": 146284,
+          "tvdb": 189292,
+          "imdb": "tt0502208",
+          "tmdb": 134451,
           "tvrage": null
         }
       },
@@ -98,19 +98,19 @@
       }
     },
     {
-      "id": 11205709822,
-      "watched_at": "2025-08-27T10:17:13.000Z",
+      "id": 11213518560,
+      "watched_at": "2025-08-29T20:38:19.000Z",
       "action": "watch",
       "type": "episode",
       "episode": {
-        "season": 1,
-        "number": 23,
-        "title": "10:00 P.M.-11:00 P.M.",
+        "season": 2,
+        "number": 13,
+        "title": "Day 2: 8:00 P.M.-9:00 P.M.",
         "ids": {
-          "trakt": 146269,
-          "tvdb": 189277,
-          "imdb": "tt0502162",
-          "tmdb": 134416,
+          "trakt": 146283,
+          "tvdb": 189291,
+          "imdb": "tt0502206",
+          "tmdb": 134448,
           "tvrage": null
         }
       },
@@ -128,19 +128,19 @@
       }
     },
     {
-      "id": 11205709800,
-      "watched_at": "2025-08-27T10:04:46.000Z",
+      "id": 11213350969,
+      "watched_at": "2025-08-29T20:10:02.000Z",
       "action": "watch",
       "type": "episode",
       "episode": {
-        "season": 1,
-        "number": 22,
-        "title": "9:00 P.M.-10:00 P.M.",
+        "season": 2,
+        "number": 3,
+        "title": "Day 2: 10:00 A.M.-11:00 A.M.",
         "ids": {
-          "trakt": 146268,
-          "tvdb": 189276,
-          "imdb": "tt0502184",
-          "tmdb": 134415,
+          "trakt": 146273,
+          "tvdb": 189281,
+          "imdb": "tt0502185",
+          "tmdb": 134420,
           "tvrage": null
         }
       },
@@ -158,19 +158,19 @@
       }
     },
     {
-      "id": 11205709791,
-      "watched_at": "2025-08-27T09:52:55.000Z",
-      "action": "watch",
+      "id": 11213347537,
+      "watched_at": "2025-08-29T20:08:38.000Z",
+      "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 1,
-        "number": 21,
-        "title": "8:00 P.M.-9:00 P.M.",
+        "season": 2,
+        "number": 12,
+        "title": "Day 2: 7:00 P.M.-8:00 P.M.",
         "ids": {
-          "trakt": 146267,
-          "tvdb": 189275,
-          "imdb": "tt0502182",
-          "tmdb": 134414,
+          "trakt": 146282,
+          "tvdb": 189290,
+          "imdb": "tt0502204",
+          "tmdb": 134440,
           "tvrage": null
         }
       },
@@ -188,19 +188,19 @@
       }
     },
     {
-      "id": 11205709780,
-      "watched_at": "2025-08-27T09:38:52.000Z",
-      "action": "watch",
+      "id": 11213262386,
+      "watched_at": "2025-08-29T19:40:07.000Z",
+      "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 1,
-        "number": 20,
-        "title": "7:00 P.M.-8:00 P.M.",
+        "season": 2,
+        "number": 11,
+        "title": "Day 2: 6:00 P.M.-7:00 P.M.",
         "ids": {
-          "trakt": 146266,
-          "tvdb": 189274,
-          "imdb": "tt0502180",
-          "tmdb": 134413,
+          "trakt": 146281,
+          "tvdb": 189289,
+          "imdb": "tt0502202",
+          "tmdb": 134439,
           "tvrage": null
         }
       },
@@ -218,19 +218,19 @@
       }
     },
     {
-      "id": 11205709751,
-      "watched_at": "2025-08-27T09:19:24.000Z",
+      "id": 11213208021,
+      "watched_at": "2025-08-29T19:13:35.000Z",
       "action": "watch",
       "type": "episode",
       "episode": {
-        "season": 1,
-        "number": 19,
-        "title": "6:00 P.M.-7:00 P.M.",
+        "season": 2,
+        "number": 10,
+        "title": "Day 2: 5:00 P.M.-6:00 P.M.",
         "ids": {
-          "trakt": 146265,
-          "tvdb": 189273,
-          "imdb": "tt0502178",
-          "tmdb": 134412,
+          "trakt": 146280,
+          "tvdb": 189288,
+          "imdb": "tt0502200",
+          "tmdb": 134436,
           "tvrage": null
         }
       },
@@ -248,19 +248,19 @@
       }
     },
     {
-      "id": 11205709733,
-      "watched_at": "2025-08-27T09:05:45.000Z",
+      "id": 11213207890,
+      "watched_at": "2025-08-29T18:47:42.000Z",
       "action": "watch",
       "type": "episode",
       "episode": {
-        "season": 1,
-        "number": 18,
-        "title": "5:00 P.M.-6:00 P.M.",
+        "season": 2,
+        "number": 9,
+        "title": "Day 2: 4:00 P.M.-5:00 P.M.",
         "ids": {
-          "trakt": 146264,
-          "tvdb": 189272,
-          "imdb": "tt0502176",
-          "tmdb": 134411,
+          "trakt": 146279,
+          "tvdb": 189287,
+          "imdb": "tt0502198",
+          "tmdb": 134433,
           "tvrage": null
         }
       },
@@ -278,19 +278,19 @@
       }
     },
     {
-      "id": 11205709688,
-      "watched_at": "2025-08-27T08:52:42.000Z",
+      "id": 11213207710,
+      "watched_at": "2025-08-29T18:24:48.000Z",
       "action": "watch",
       "type": "episode",
       "episode": {
-        "season": 1,
-        "number": 17,
-        "title": "4:00 P.M.-5:00 P.M.",
+        "season": 2,
+        "number": 8,
+        "title": "Day 2: 3:00 P.M.-4:00 P.M.",
         "ids": {
-          "trakt": 146263,
-          "tvdb": 189271,
-          "imdb": "tt0502174",
-          "tmdb": 134410,
+          "trakt": 146278,
+          "tvdb": 189286,
+          "imdb": "tt0502196",
+          "tmdb": 134431,
           "tvrage": null
         }
       },
