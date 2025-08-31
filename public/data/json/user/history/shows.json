@@ -1,12 +1,252 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-30T05:41:29.820034+00:00",
+    "fetched_at": "2025-08-31T05:42:06.369535+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11215332509,
+      "watched_at": "2025-08-30T08:30:04.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 24,
+        "title": "Day 2: 7:00 A.M.-8:00 A.M.",
+        "ids": {
+          "trakt": 146294,
+          "tvdb": 189302,
+          "imdb": "tt0502203",
+          "tmdb": 134476,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11215285426,
+      "watched_at": "2025-08-30T08:12:10.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 23,
+        "title": "Day 2: 6:00 A.M.-7:00 A.M.",
+        "ids": {
+          "trakt": 146293,
+          "tvdb": 189301,
+          "imdb": "tt0502201",
+          "tmdb": 134474,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11215233805,
+      "watched_at": "2025-08-30T07:53:35.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 22,
+        "title": "Day 2: 5:00 A.M.-6:00 A.M.",
+        "ids": {
+          "trakt": 146292,
+          "tvdb": 189300,
+          "imdb": "tt0502199",
+          "tmdb": 134472,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11215191052,
+      "watched_at": "2025-08-30T07:31:42.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 21,
+        "title": "Day 2: 4:00 A.M.-5:00 A.M.",
+        "ids": {
+          "trakt": 146291,
+          "tvdb": 189299,
+          "imdb": "tt0502197",
+          "tmdb": 134470,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11215139838,
+      "watched_at": "2025-08-30T07:02:59.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 20,
+        "title": "Day 2: 3:00 A.M.-4:00 A.M.",
+        "ids": {
+          "trakt": 146290,
+          "tvdb": 189298,
+          "imdb": "tt0502195",
+          "tmdb": 134468,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11215103606,
+      "watched_at": "2025-08-30T06:44:18.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 19,
+        "title": "Day 2: 2:00 A.M.-3:00 A.M.",
+        "ids": {
+          "trakt": 146289,
+          "tvdb": 189297,
+          "imdb": "tt0502193",
+          "tmdb": 134465,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11215072907,
+      "watched_at": "2025-08-30T06:26:38.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 18,
+        "title": "Day 2: 1:00 A.M.-2:00 A.M.",
+        "ids": {
+          "trakt": 146288,
+          "tvdb": 189296,
+          "imdb": "tt0502191",
+          "tmdb": 134463,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11215036765,
+      "watched_at": "2025-08-30T06:04:20.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 17,
+        "title": "Day 2: 12:00 A.M.-1:00 A.M.",
+        "ids": {
+          "trakt": 146287,
+          "tvdb": 189295,
+          "imdb": "tt0502189",
+          "tmdb": 134460,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11213743689,
       "watched_at": "2025-08-29T22:14:32.000Z",
@@ -51,246 +291,6 @@
           "tvdb": 189293,
           "imdb": "tt0502186",
           "tmdb": 134453,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11213523923,
-      "watched_at": "2025-08-29T21:09:52.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 14,
-        "title": "Day 2: 9:00 P.M.-10:00 P.M.",
-        "ids": {
-          "trakt": 146284,
-          "tvdb": 189292,
-          "imdb": "tt0502208",
-          "tmdb": 134451,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11213518560,
-      "watched_at": "2025-08-29T20:38:19.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 13,
-        "title": "Day 2: 8:00 P.M.-9:00 P.M.",
-        "ids": {
-          "trakt": 146283,
-          "tvdb": 189291,
-          "imdb": "tt0502206",
-          "tmdb": 134448,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11213350969,
-      "watched_at": "2025-08-29T20:10:02.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 3,
-        "title": "Day 2: 10:00 A.M.-11:00 A.M.",
-        "ids": {
-          "trakt": 146273,
-          "tvdb": 189281,
-          "imdb": "tt0502185",
-          "tmdb": 134420,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11213347537,
-      "watched_at": "2025-08-29T20:08:38.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 12,
-        "title": "Day 2: 7:00 P.M.-8:00 P.M.",
-        "ids": {
-          "trakt": 146282,
-          "tvdb": 189290,
-          "imdb": "tt0502204",
-          "tmdb": 134440,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11213262386,
-      "watched_at": "2025-08-29T19:40:07.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 11,
-        "title": "Day 2: 6:00 P.M.-7:00 P.M.",
-        "ids": {
-          "trakt": 146281,
-          "tvdb": 189289,
-          "imdb": "tt0502202",
-          "tmdb": 134439,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11213208021,
-      "watched_at": "2025-08-29T19:13:35.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 10,
-        "title": "Day 2: 5:00 P.M.-6:00 P.M.",
-        "ids": {
-          "trakt": 146280,
-          "tvdb": 189288,
-          "imdb": "tt0502200",
-          "tmdb": 134436,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11213207890,
-      "watched_at": "2025-08-29T18:47:42.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 9,
-        "title": "Day 2: 4:00 P.M.-5:00 P.M.",
-        "ids": {
-          "trakt": 146279,
-          "tvdb": 189287,
-          "imdb": "tt0502198",
-          "tmdb": 134433,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11213207710,
-      "watched_at": "2025-08-29T18:24:48.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 8,
-        "title": "Day 2: 3:00 P.M.-4:00 P.M.",
-        "ids": {
-          "trakt": 146278,
-          "tvdb": 189286,
-          "imdb": "tt0502196",
-          "tmdb": 134431,
           "tvrage": null
         }
       },
