@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "tmdb_id": 261392,
+      "title": "American Ultra",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/261392_poster.jpg",
+      "last_watched_at": "2025-08-31T12:36:51.000Z"
+    },
+    {
       "tmdb_id": 911430,
       "title": "F1",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/911430_poster.jpg",
@@ -53,24 +59,18 @@
       "title": "HIT: The Third Case",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1060046_poster.jpg",
       "last_watched_at": "2025-08-13T19:03:47.000Z"
-    },
-    {
-      "tmdb_id": 811945,
-      "title": "HIT: The 2nd Case",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/811945_poster.jpg",
-      "last_watched_at": "2025-08-13T06:45:50.000Z"
     }
   ],
   "shows": [
     {
       "tmdb_id": 1973,
       "title": "24",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/1/season_1_poster.jpg",
       "last_watched_at": "2025-08-30T08:30:04.000Z"
     },
     {
@@ -97,12 +97,12 @@
     {
       "tmdb_id": 119051,
       "title": "Wednesday",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/1/season_1_poster.jpg",
       "last_watched_at": "2025-08-09T06:40:10.000Z"
     },
     {
