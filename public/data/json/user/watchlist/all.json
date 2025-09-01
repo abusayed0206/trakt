@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-31T05:42:07.459401+00:00",
+    "fetched_at": "2025-09-01T05:44:18.572136+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
-    "count": 27
+    "count": 26
   },
   "data": [
     {
@@ -400,23 +400,6 @@
     },
     {
       "rank": 24,
-      "id": 1307691154,
-      "listed_at": "2025-08-27T07:35:26.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "American Ultra",
-        "year": 2015,
-        "ids": {
-          "trakt": 160399,
-          "slug": "american-ultra-2015",
-          "imdb": "tt3316948",
-          "tmdb": 261392
-        }
-      }
-    },
-    {
-      "rank": 25,
       "id": 1290228459,
       "listed_at": "2025-07-28T13:20:08.000Z",
       "notes": null,
@@ -433,7 +416,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": 1285065747,
       "listed_at": "2025-07-22T20:07:18.000Z",
       "notes": null,
@@ -450,7 +433,7 @@
       }
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": 1285066279,
       "listed_at": "2025-07-22T20:08:22.000Z",
       "notes": null,

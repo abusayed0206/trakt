@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-08-31T05:42:06.209624+00:00",
+    "fetched_at": "2025-09-01T05:44:17.198372+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11219825835,
+      "watched_at": "2025-08-31T12:36:51.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "American Ultra",
+        "year": 2015,
+        "ids": {
+          "trakt": 160399,
+          "slug": "american-ultra-2015",
+          "imdb": "tt3316948",
+          "tmdb": 261392
+        }
+      }
+    },
     {
       "id": 11208293375,
       "watched_at": "2025-08-28T08:49:39.000Z",
@@ -148,22 +164,6 @@
           "slug": "hit-the-third-case-2025",
           "imdb": "tt23804696",
           "tmdb": 1060046
-        }
-      }
-    },
-    {
-      "id": 11155296427,
-      "watched_at": "2025-08-13T06:45:50.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "HIT: The 2nd Case",
-        "year": 2022,
-        "ids": {
-          "trakt": 645596,
-          "slug": "hit-the-2nd-case-2022",
-          "imdb": "tt14279982",
-          "tmdb": 811945
         }
       }
     }
