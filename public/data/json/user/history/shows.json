@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-02T05:44:04.567479+00:00",
+    "fetched_at": "2025-09-03T05:41:28.827570+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11228261082,
+      "watched_at": "2025-09-02T18:38:31.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 19,
+        "title": "The Many Mouths of Aaron Colville",
+        "ids": {
+          "trakt": 75004,
+          "tvdb": 4825208,
+          "imdb": "tt3575976",
+          "tmdb": 973547,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11215332509,
       "watched_at": "2025-08-30T08:30:04.000Z",
@@ -261,36 +291,6 @@
           "tvdb": 189294,
           "imdb": "tt0502188",
           "tmdb": 134457,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11213613891,
-      "watched_at": "2025-08-29T21:43:36.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 15,
-        "title": "Day 2: 10:00 P.M.-11:00 P.M.",
-        "ids": {
-          "trakt": 146285,
-          "tvdb": 189293,
-          "imdb": "tt0502186",
-          "tmdb": 134453,
           "tvrage": null
         }
       },

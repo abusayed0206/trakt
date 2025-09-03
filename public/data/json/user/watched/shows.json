@@ -1,12 +1,252 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-02T05:44:05.509885+00:00",
+    "fetched_at": "2025-09-03T05:41:30.189177+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
     "count": 136
   },
   "data": [
+    {
+      "plays": 43,
+      "last_watched_at": "2025-09-02T18:38:31.000Z",
+      "last_updated_at": "2025-09-02T18:38:31.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T11:48:12.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T12:30:58.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T15:51:18.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T16:34:44.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T17:19:07.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-07-21T18:02:42.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-07-22T08:25:17.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2025-07-22T09:17:32.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 2,
+              "last_watched_at": "2025-07-25T18:14:39.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2025-07-25T18:54:51.000Z"
+            },
+            {
+              "number": 11,
+              "plays": 1,
+              "last_watched_at": "2025-07-30T13:31:34.000Z"
+            },
+            {
+              "number": 12,
+              "plays": 1,
+              "last_watched_at": "2025-07-30T16:19:20.000Z"
+            },
+            {
+              "number": 13,
+              "plays": 1,
+              "last_watched_at": "2025-07-30T19:37:31.000Z"
+            },
+            {
+              "number": 14,
+              "plays": 1,
+              "last_watched_at": "2025-07-30T20:17:34.000Z"
+            },
+            {
+              "number": 15,
+              "plays": 1,
+              "last_watched_at": "2025-07-31T06:30:14.000Z"
+            },
+            {
+              "number": 16,
+              "plays": 1,
+              "last_watched_at": "2025-07-31T13:01:15.000Z"
+            },
+            {
+              "number": 17,
+              "plays": 1,
+              "last_watched_at": "2025-07-31T15:41:48.000Z"
+            },
+            {
+              "number": 18,
+              "plays": 1,
+              "last_watched_at": "2025-08-01T18:20:06.000Z"
+            },
+            {
+              "number": 19,
+              "plays": 1,
+              "last_watched_at": "2025-08-01T19:21:22.000Z"
+            },
+            {
+              "number": 20,
+              "plays": 1,
+              "last_watched_at": "2025-08-01T20:03:57.000Z"
+            },
+            {
+              "number": 21,
+              "plays": 1,
+              "last_watched_at": "2025-08-19T10:32:45.000Z"
+            },
+            {
+              "number": 22,
+              "plays": 1,
+              "last_watched_at": "2025-08-19T10:32:51.000Z"
+            },
+            {
+              "number": 23,
+              "plays": 1,
+              "last_watched_at": "2025-08-19T10:32:43.000Z"
+            },
+            {
+              "number": 24,
+              "plays": 1,
+              "last_watched_at": "2025-08-19T10:32:42.000Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-08-02T08:05:16.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-08-02T08:50:51.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-08-02T12:59:12.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-08-04T14:38:34.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-08-04T18:10:57.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-08-20T08:41:35.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2025-08-20T09:05:05.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2025-08-20T10:53:32.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2025-08-20T11:36:54.000Z"
+            },
+            {
+              "number": 11,
+              "plays": 1,
+              "last_watched_at": "2025-08-20T12:18:05.000Z"
+            },
+            {
+              "number": 12,
+              "plays": 1,
+              "last_watched_at": "2025-08-20T12:56:24.000Z"
+            },
+            {
+              "number": 13,
+              "plays": 1,
+              "last_watched_at": "2025-08-20T13:54:46.000Z"
+            },
+            {
+              "number": 14,
+              "plays": 1,
+              "last_watched_at": "2025-08-20T15:29:54.000Z"
+            },
+            {
+              "number": 15,
+              "plays": 1,
+              "last_watched_at": "2025-08-20T16:54:39.000Z"
+            },
+            {
+              "number": 16,
+              "plays": 1,
+              "last_watched_at": "2025-08-20T18:52:33.000Z"
+            },
+            {
+              "number": 17,
+              "plays": 1,
+              "last_watched_at": "2025-08-21T10:59:07.000Z"
+            },
+            {
+              "number": 18,
+              "plays": 1,
+              "last_watched_at": "2025-08-21T13:31:56.000Z"
+            },
+            {
+              "number": 19,
+              "plays": 1,
+              "last_watched_at": "2025-09-02T18:38:31.000Z"
+            }
+          ]
+        }
+      ]
+    },
     {
       "plays": 48,
       "last_watched_at": "2025-08-30T08:30:04.000Z",
@@ -342,241 +582,6 @@
               "number": 9,
               "plays": 1,
               "last_watched_at": "2025-08-29T09:56:44.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 42,
-      "last_watched_at": "2025-08-21T13:31:56.000Z",
-      "last_updated_at": "2025-08-21T13:31:56.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T11:48:12.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T12:30:58.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T15:51:18.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T16:34:44.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T17:19:07.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2025-07-21T18:02:42.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2025-07-22T08:25:17.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2025-07-22T09:17:32.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 2,
-              "last_watched_at": "2025-07-25T18:14:39.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2025-07-25T18:54:51.000Z"
-            },
-            {
-              "number": 11,
-              "plays": 1,
-              "last_watched_at": "2025-07-30T13:31:34.000Z"
-            },
-            {
-              "number": 12,
-              "plays": 1,
-              "last_watched_at": "2025-07-30T16:19:20.000Z"
-            },
-            {
-              "number": 13,
-              "plays": 1,
-              "last_watched_at": "2025-07-30T19:37:31.000Z"
-            },
-            {
-              "number": 14,
-              "plays": 1,
-              "last_watched_at": "2025-07-30T20:17:34.000Z"
-            },
-            {
-              "number": 15,
-              "plays": 1,
-              "last_watched_at": "2025-07-31T06:30:14.000Z"
-            },
-            {
-              "number": 16,
-              "plays": 1,
-              "last_watched_at": "2025-07-31T13:01:15.000Z"
-            },
-            {
-              "number": 17,
-              "plays": 1,
-              "last_watched_at": "2025-07-31T15:41:48.000Z"
-            },
-            {
-              "number": 18,
-              "plays": 1,
-              "last_watched_at": "2025-08-01T18:20:06.000Z"
-            },
-            {
-              "number": 19,
-              "plays": 1,
-              "last_watched_at": "2025-08-01T19:21:22.000Z"
-            },
-            {
-              "number": 20,
-              "plays": 1,
-              "last_watched_at": "2025-08-01T20:03:57.000Z"
-            },
-            {
-              "number": 21,
-              "plays": 1,
-              "last_watched_at": "2025-08-19T10:32:45.000Z"
-            },
-            {
-              "number": 22,
-              "plays": 1,
-              "last_watched_at": "2025-08-19T10:32:51.000Z"
-            },
-            {
-              "number": 23,
-              "plays": 1,
-              "last_watched_at": "2025-08-19T10:32:43.000Z"
-            },
-            {
-              "number": 24,
-              "plays": 1,
-              "last_watched_at": "2025-08-19T10:32:42.000Z"
-            }
-          ]
-        },
-        {
-          "number": 2,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2025-08-02T08:05:16.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2025-08-02T08:50:51.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2025-08-02T12:59:12.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2025-08-04T14:38:34.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2025-08-04T18:10:57.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2025-08-20T08:41:35.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2025-08-20T09:05:05.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2025-08-20T10:53:32.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2025-08-20T11:36:54.000Z"
-            },
-            {
-              "number": 11,
-              "plays": 1,
-              "last_watched_at": "2025-08-20T12:18:05.000Z"
-            },
-            {
-              "number": 12,
-              "plays": 1,
-              "last_watched_at": "2025-08-20T12:56:24.000Z"
-            },
-            {
-              "number": 13,
-              "plays": 1,
-              "last_watched_at": "2025-08-20T13:54:46.000Z"
-            },
-            {
-              "number": 14,
-              "plays": 1,
-              "last_watched_at": "2025-08-20T15:29:54.000Z"
-            },
-            {
-              "number": 15,
-              "plays": 1,
-              "last_watched_at": "2025-08-20T16:54:39.000Z"
-            },
-            {
-              "number": 16,
-              "plays": 1,
-              "last_watched_at": "2025-08-20T18:52:33.000Z"
-            },
-            {
-              "number": 17,
-              "plays": 1,
-              "last_watched_at": "2025-08-21T10:59:07.000Z"
-            },
-            {
-              "number": 18,
-              "plays": 1,
-              "last_watched_at": "2025-08-21T13:31:56.000Z"
             }
           ]
         }
