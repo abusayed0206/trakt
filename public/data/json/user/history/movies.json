@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-03T05:41:28.731555+00:00",
+    "fetched_at": "2025-09-04T05:41:45.348157+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11230058275,
+      "watched_at": "2025-09-03T06:29:54.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Nobody 2",
+        "year": 2025,
+        "ids": {
+          "trakt": 810123,
+          "slug": "nobody-2-2025",
+          "imdb": "tt28996126",
+          "tmdb": 1007734
+        }
+      }
+    },
     {
       "id": 11219825835,
       "watched_at": "2025-08-31T12:36:51.000Z",
@@ -148,22 +164,6 @@
           "slug": "the-killer-2023",
           "imdb": "tt1136617",
           "tmdb": 800158
-        }
-      }
-    },
-    {
-      "id": 11160535250,
-      "watched_at": "2025-08-13T19:03:47.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "HIT: The Third Case",
-        "year": 2025,
-        "ids": {
-          "trakt": 856114,
-          "slug": "hit-the-third-case-2025",
-          "imdb": "tt23804696",
-          "tmdb": 1060046
         }
       }
     }

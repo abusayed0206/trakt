@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-03T05:41:29.603022+00:00",
+    "fetched_at": "2025-09-04T05:41:45.799606+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 757
+    "count": 758
   },
   "data": [
     {
@@ -10804,6 +10804,21 @@
           "slug": "cadaver-2022",
           "imdb": "tt11102262",
           "tmdb": 1006463
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-09-03T06:29:54.000Z",
+      "last_updated_at": "2025-09-03T06:29:54.000Z",
+      "movie": {
+        "title": "Nobody 2",
+        "year": 2025,
+        "ids": {
+          "trakt": 810123,
+          "slug": "nobody-2-2025",
+          "imdb": "tt28996126",
+          "tmdb": 1007734
         }
       }
     },
