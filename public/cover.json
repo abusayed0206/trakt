@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "tmdb_id": 1007734,
+      "title": "Nobody 2",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1007734_poster.jpg",
+      "last_watched_at": "2025-09-03T06:29:54.000Z"
+    },
+    {
       "tmdb_id": 261392,
       "title": "American Ultra",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/261392_poster.jpg",
@@ -53,15 +59,20 @@
       "title": "The Killer",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/800158_poster.jpg",
       "last_watched_at": "2025-08-14T10:40:22.000Z"
-    },
-    {
-      "tmdb_id": 1060046,
-      "title": "HIT: The Third Case",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1060046_poster.jpg",
-      "last_watched_at": "2025-08-13T19:03:47.000Z"
     }
   ],
   "shows": [
+    {
+      "tmdb_id": 119051,
+      "title": "Wednesday",
+      "season": 2,
+      "available_seasons": [
+        1,
+        2
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
+      "last_watched_at": "2025-09-03T18:22:48.000Z"
+    },
     {
       "tmdb_id": 1415,
       "title": "Elementary",
@@ -76,12 +87,12 @@
     {
       "tmdb_id": 1973,
       "title": "24",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/1/season_1_poster.jpg",
       "last_watched_at": "2025-08-30T08:30:04.000Z"
     },
     {
@@ -93,17 +104,6 @@
       ],
       "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/259909/1/season_1_poster.jpg",
       "last_watched_at": "2025-08-29T09:56:44.000Z"
-    },
-    {
-      "tmdb_id": 119051,
-      "title": "Wednesday",
-      "season": 1,
-      "available_seasons": [
-        1,
-        2
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/1/season_1_poster.jpg",
-      "last_watched_at": "2025-08-09T06:40:10.000Z"
     },
     {
       "tmdb_id": 1398,
@@ -118,7 +118,7 @@
     {
       "tmdb_id": 1425,
       "title": "House of Cards",
-      "season": 2,
+      "season": 4,
       "available_seasons": [
         1,
         2,
@@ -127,7 +127,7 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/4/season_4_poster.jpg",
       "last_watched_at": "2025-08-03T12:13:47.000Z"
     },
     {
