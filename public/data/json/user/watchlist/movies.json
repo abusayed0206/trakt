@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-04T05:41:46.191301+00:00",
+    "fetched_at": "2025-09-05T05:42:15.767043+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/movies.json",
-    "count": 26
+    "count": 25
   },
   "data": [
     {
@@ -366,23 +366,6 @@
     },
     {
       "rank": 22,
-      "id": 1305931352,
-      "listed_at": "2025-08-23T08:33:15.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Inheritance",
-        "year": 2020,
-        "ids": {
-          "trakt": 454984,
-          "slug": "inheritance-2020",
-          "imdb": "tt7923220",
-          "tmdb": 602147
-        }
-      }
-    },
-    {
-      "rank": 23,
       "id": 1285065712,
       "listed_at": "2025-07-22T20:07:01.000Z",
       "notes": null,
@@ -399,7 +382,7 @@
       }
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": 1290228459,
       "listed_at": "2025-07-28T13:20:08.000Z",
       "notes": null,
@@ -416,7 +399,7 @@
       }
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": 1285065747,
       "listed_at": "2025-07-22T20:07:18.000Z",
       "notes": null,
@@ -433,7 +416,7 @@
       }
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": 1285066279,
       "listed_at": "2025-07-22T20:08:22.000Z",
       "notes": null,
