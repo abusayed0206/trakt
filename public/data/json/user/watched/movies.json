@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-04T05:41:45.799606+00:00",
+    "fetched_at": "2025-09-05T05:42:14.601777+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 758
+    "count": 759
   },
   "data": [
     {
@@ -8944,6 +8944,21 @@
           "slug": "the-marvels-2023",
           "imdb": "tt10676048",
           "tmdb": 609681
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-09-04T13:34:09.000Z",
+      "last_updated_at": "2025-09-04T13:34:09.000Z",
+      "movie": {
+        "title": "Inheritance",
+        "year": 2020,
+        "ids": {
+          "trakt": 454984,
+          "slug": "inheritance-2020",
+          "imdb": "tt7923220",
+          "tmdb": 602147
         }
       }
     },
