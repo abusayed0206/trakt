@@ -1,12 +1,87 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-05T05:42:15.310099+00:00",
+    "fetched_at": "2025-09-06T05:41:00.927221+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
     "count": 136
   },
   "data": [
+    {
+      "plays": 10,
+      "last_watched_at": "2025-09-05T17:38:42.000Z",
+      "last_updated_at": "2025-09-05T17:38:42.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Dexter: Resurrection",
+        "year": 2025,
+        "ids": {
+          "trakt": 249647,
+          "slug": "dexter-resurrection",
+          "tvdb": 452595,
+          "imdb": "tt33043892",
+          "tmdb": 259909,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-08-09T06:39:36.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-08-09T06:39:37.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-08-09T06:39:38.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-08-09T06:39:39.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-08-09T06:39:42.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-08-13T06:46:13.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-08-17T08:27:05.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2025-08-26T15:05:40.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2025-08-29T09:56:44.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2025-09-05T17:38:42.000Z"
+            }
+          ]
+        }
+      ]
+    },
     {
       "plays": 44,
       "last_watched_at": "2025-09-04T12:07:47.000Z",
@@ -627,76 +702,6 @@
               "number": 24,
               "plays": 1,
               "last_watched_at": "2025-08-30T08:30:04.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 9,
-      "last_watched_at": "2025-08-29T09:56:44.000Z",
-      "last_updated_at": "2025-08-29T09:56:45.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Dexter: Resurrection",
-        "year": 2025,
-        "ids": {
-          "trakt": 249647,
-          "slug": "dexter-resurrection",
-          "tvdb": 452595,
-          "imdb": "tt33043892",
-          "tmdb": 259909,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2025-08-09T06:39:36.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2025-08-09T06:39:37.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2025-08-09T06:39:38.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2025-08-09T06:39:39.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2025-08-09T06:39:42.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2025-08-13T06:46:13.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2025-08-17T08:27:05.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2025-08-26T15:05:40.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2025-08-29T09:56:44.000Z"
             }
           ]
         }
