@@ -63,6 +63,16 @@
   ],
   "shows": [
     {
+      "tmdb_id": 259909,
+      "title": "Dexter: Resurrection",
+      "season": 1,
+      "available_seasons": [
+        1
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/259909/1/season_1_poster.jpg",
+      "last_watched_at": "2025-09-05T17:38:42.000Z"
+    },
+    {
       "tmdb_id": 1415,
       "title": "Elementary",
       "season": 1,
@@ -76,12 +86,12 @@
     {
       "tmdb_id": 119051,
       "title": "Wednesday",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
       "last_watched_at": "2025-09-04T08:28:14.000Z"
     },
     {
@@ -96,16 +106,6 @@
       "last_watched_at": "2025-08-30T08:30:04.000Z"
     },
     {
-      "tmdb_id": 259909,
-      "title": "Dexter: Resurrection",
-      "season": 1,
-      "available_seasons": [
-        1
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/259909/1/season_1_poster.jpg",
-      "last_watched_at": "2025-08-29T09:56:44.000Z"
-    },
-    {
       "tmdb_id": 1398,
       "title": "The Sopranos",
       "season": 1,
@@ -118,7 +118,7 @@
     {
       "tmdb_id": 1425,
       "title": "House of Cards",
-      "season": 5,
+      "season": 4,
       "available_seasons": [
         1,
         2,
@@ -127,7 +127,7 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/5/season_5_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/4/season_4_poster.jpg",
       "last_watched_at": "2025-08-03T12:13:47.000Z"
     },
     {
