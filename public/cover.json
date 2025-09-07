@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "tmdb_id": 126889,
+      "title": "Alien: Covenant",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/126889_poster.jpg",
+      "last_watched_at": "2025-09-06T21:26:11.000Z"
+    },
+    {
+      "tmdb_id": 70981,
+      "title": "Prometheus",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/70981_poster.jpg",
+      "last_watched_at": "2025-09-06T20:34:59.000Z"
+    },
+    {
       "tmdb_id": 602147,
       "title": "Inheritance",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/602147_poster.jpg",
@@ -47,18 +59,6 @@
       "title": "Superman",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1061474_poster.jpg",
       "last_watched_at": "2025-08-17T09:55:14.000Z"
-    },
-    {
-      "tmdb_id": 70074,
-      "title": "Bullet to the Head",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/70074_poster.jpg",
-      "last_watched_at": "2025-08-15T13:57:23.000Z"
-    },
-    {
-      "tmdb_id": 437109,
-      "title": "The Villainess",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/437109_poster.jpg",
-      "last_watched_at": "2025-08-14T20:43:18.000Z"
     }
   ],
   "shows": [
@@ -86,12 +86,12 @@
     {
       "tmdb_id": 119051,
       "title": "Wednesday",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-04T08:28:14.000Z"
     },
     {
@@ -118,7 +118,7 @@
     {
       "tmdb_id": 1425,
       "title": "House of Cards",
-      "season": 4,
+      "season": 2,
       "available_seasons": [
         1,
         2,
@@ -127,7 +127,7 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/4/season_4_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/2/season_2_poster.jpg",
       "last_watched_at": "2025-08-03T12:13:47.000Z"
     },
     {
