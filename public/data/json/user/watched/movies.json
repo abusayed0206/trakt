@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-06T05:41:00.674382+00:00",
+    "fetched_at": "2025-09-07T05:41:08.625011+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 759
+    "count": 761
   },
   "data": [
     {
@@ -4299,6 +4299,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2025-09-06T20:34:59.000Z",
+      "last_updated_at": "2025-09-06T20:34:59.000Z",
+      "movie": {
+        "title": "Prometheus",
+        "year": 2012,
+        "ids": {
+          "trakt": 52036,
+          "slug": "prometheus-2012",
+          "imdb": "tt1446714",
+          "tmdb": 70981
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2024-07-13T08:57:42.000Z",
       "last_updated_at": "2024-07-13T08:57:42.000Z",
       "movie": {
@@ -4984,6 +4999,21 @@
           "slug": "assassin-s-creed-2016",
           "imdb": "tt2094766",
           "tmdb": 121856
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-09-06T21:26:11.000Z",
+      "last_updated_at": "2025-09-06T21:26:11.000Z",
+      "movie": {
+        "title": "Alien: Covenant",
+        "year": 2017,
+        "ids": {
+          "trakt": 86997,
+          "slug": "alien-covenant-2017",
+          "imdb": "tt2316204",
+          "tmdb": 126889
         }
       }
     },
@@ -9447,7 +9477,7 @@
       "last_watched_at": "2023-10-14T10:26:53.000Z",
       "last_updated_at": "2023-10-14T10:26:53.000Z",
       "movie": {
-        "title": "Pushpa - The Rise",
+        "title": "Pushpa: The Rise",
         "year": 2021,
         "ids": {
           "trakt": 535445,

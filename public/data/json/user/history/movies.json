@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-06T05:41:00.185386+00:00",
+    "fetched_at": "2025-09-07T05:41:07.805947+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11244936671,
+      "watched_at": "2025-09-06T21:26:11.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Alien: Covenant",
+        "year": 2017,
+        "ids": {
+          "trakt": 86997,
+          "slug": "alien-covenant-2017",
+          "imdb": "tt2316204",
+          "tmdb": 126889
+        }
+      }
+    },
+    {
+      "id": 11244774515,
+      "watched_at": "2025-09-06T20:34:59.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Prometheus",
+        "year": 2012,
+        "ids": {
+          "trakt": 52036,
+          "slug": "prometheus-2012",
+          "imdb": "tt1446714",
+          "tmdb": 70981
+        }
+      }
+    },
     {
       "id": 11233912176,
       "watched_at": "2025-09-04T13:34:09.000Z",
@@ -132,38 +164,6 @@
           "slug": "superman-2025",
           "imdb": "tt5950044",
           "tmdb": 1061474
-        }
-      }
-    },
-    {
-      "id": 11166077020,
-      "watched_at": "2025-08-15T13:57:23.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Bullet to the Head",
-        "year": 2012,
-        "ids": {
-          "trakt": 51263,
-          "slug": "bullet-to-the-head-2012",
-          "imdb": "tt1308729",
-          "tmdb": 70074
-        }
-      }
-    },
-    {
-      "id": 11163477690,
-      "watched_at": "2025-08-14T20:43:18.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "The Villainess",
-        "year": 2017,
-        "ids": {
-          "trakt": 283487,
-          "slug": "the-villainess-2017",
-          "imdb": "tt6777338",
-          "tmdb": 437109
         }
       }
     }
