@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-07T05:41:12.690734+00:00",
+    "fetched_at": "2025-09-08T05:42:45.519848+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -26110,10 +26110,10 @@
       "type": "movie",
       "movie": {
         "title": "Strange Darling",
-        "year": 2023,
+        "year": 2024,
         "ids": {
           "trakt": 827707,
-          "slug": "strange-darling-2023",
+          "slug": "strange-darling-2024",
           "imdb": "tt22375054",
           "tmdb": 1029281
         }
