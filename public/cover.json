@@ -63,6 +63,17 @@
   ],
   "shows": [
     {
+      "tmdb_id": 1415,
+      "title": "Elementary",
+      "season": 2,
+      "available_seasons": [
+        1,
+        2
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/2/season_2_poster.jpg",
+      "last_watched_at": "2025-09-07T16:00:00.000Z"
+    },
+    {
       "tmdb_id": 259909,
       "title": "Dexter: Resurrection",
       "season": 1,
@@ -71,17 +82,6 @@
       ],
       "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/259909/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-05T17:38:42.000Z"
-    },
-    {
-      "tmdb_id": 1415,
-      "title": "Elementary",
-      "season": 1,
-      "available_seasons": [
-        1,
-        2
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/1/season_1_poster.jpg",
-      "last_watched_at": "2025-09-04T12:07:47.000Z"
     },
     {
       "tmdb_id": 119051,
@@ -97,12 +97,12 @@
     {
       "tmdb_id": 1973,
       "title": "24",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/1/season_1_poster.jpg",
       "last_watched_at": "2025-08-30T08:30:04.000Z"
     },
     {
@@ -118,7 +118,7 @@
     {
       "tmdb_id": 1425,
       "title": "House of Cards",
-      "season": 2,
+      "season": 3,
       "available_seasons": [
         1,
         2,
@@ -127,7 +127,7 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/3/season_3_poster.jpg",
       "last_watched_at": "2025-08-03T12:13:47.000Z"
     },
     {
