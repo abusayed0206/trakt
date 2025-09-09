@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-08T05:42:41.481279+00:00",
+    "fetched_at": "2025-09-09T05:42:48.867496+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
@@ -45,7 +45,7 @@
       "episode": {
         "season": 1,
         "number": 10,
-        "title": "And Justice for All",
+        "title": "And Justice for All...",
         "ids": {
           "trakt": 12853600,
           "tvdb": 11167531,
