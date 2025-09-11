@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-10T05:41:59.704958+00:00",
+    "fetched_at": "2025-09-11T05:42:04.285190+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11256923676,
+      "watched_at": "2025-09-10T09:38:40.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 24,
+        "title": "The Grand Experiment",
+        "ids": {
+          "trakt": 75009,
+          "tvdb": 4833390,
+          "imdb": "tt3611988",
+          "tmdb": 975572,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11256866077,
+      "watched_at": "2025-09-10T08:57:19.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 23,
+        "title": "Art in the Blood",
+        "ids": {
+          "trakt": 75008,
+          "tvdb": 4833389,
+          "imdb": "tt3668094",
+          "tmdb": 975571,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11255533810,
       "watched_at": "2025-09-09T21:55:25.000Z",
@@ -243,66 +303,6 @@
           "tvdb": 397060,
           "imdb": "tt13443470",
           "tmdb": 119051,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11231616621,
-      "watched_at": "2025-09-03T17:26:57.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 6,
-        "title": "Woe Thyself",
-        "ids": {
-          "trakt": 13033556,
-          "tvdb": 11100620,
-          "imdb": "tt33100419",
-          "tmdb": 6165597,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Wednesday",
-        "year": 2022,
-        "ids": {
-          "trakt": 173996,
-          "slug": "wednesday",
-          "tvdb": 397060,
-          "imdb": "tt13443470",
-          "tmdb": 119051,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11228261082,
-      "watched_at": "2025-09-02T18:38:31.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 19,
-        "title": "The Many Mouths of Aaron Colville",
-        "ids": {
-          "trakt": 75004,
-          "tvdb": 4825208,
-          "imdb": "tt3575976",
-          "tmdb": 973547,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
           "tvrage": null
         }
       }
