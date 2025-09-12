@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "tmdb_id": 348350,
+      "title": "Solo: A Star Wars Story",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/348350_poster.jpg",
+      "last_watched_at": "2025-09-12T04:40:45.000Z"
+    },
+    {
+      "tmdb_id": 330459,
+      "title": "Rogue One: A Star Wars Story",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/330459_poster.jpg",
+      "last_watched_at": "2025-09-12T02:24:12.000Z"
+    },
+    {
       "tmdb_id": 126889,
       "title": "Alien: Covenant",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/126889_poster.jpg",
@@ -47,30 +59,18 @@
       "title": "Mission: Impossible - The Final Reckoning",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/575265_poster.jpg",
       "last_watched_at": "2025-08-18T19:52:48.000Z"
-    },
-    {
-      "tmdb_id": 10431,
-      "title": "War",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/10431_poster.jpg",
-      "last_watched_at": "2025-08-17T19:14:15.000Z"
-    },
-    {
-      "tmdb_id": 1061474,
-      "title": "Superman",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1061474_poster.jpg",
-      "last_watched_at": "2025-08-17T09:55:14.000Z"
     }
   ],
   "shows": [
     {
       "tmdb_id": 1415,
       "title": "Elementary",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-10T09:38:40.000Z"
     },
     {
@@ -86,12 +86,12 @@
     {
       "tmdb_id": 119051,
       "title": "Wednesday",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
       "last_watched_at": "2025-09-04T08:28:14.000Z"
     },
     {
