@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-11T05:42:04.196657+00:00",
+    "fetched_at": "2025-09-12T05:41:55.304185+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11267344808,
+      "watched_at": "2025-09-12T04:40:45.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Solo: A Star Wars Story",
+        "year": 2018,
+        "ids": {
+          "trakt": 221890,
+          "slug": "solo-a-star-wars-story-2018",
+          "imdb": "tt3778644",
+          "tmdb": 348350
+        }
+      }
+    },
+    {
+      "id": 11266674547,
+      "watched_at": "2025-09-12T02:24:12.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Rogue One: A Star Wars Story",
+        "year": 2016,
+        "ids": {
+          "trakt": 211396,
+          "slug": "rogue-one-a-star-wars-story-2016",
+          "imdb": "tt3748528",
+          "tmdb": 330459
+        }
+      }
+    },
     {
       "id": 11244936671,
       "watched_at": "2025-09-06T21:26:11.000Z",
@@ -132,38 +164,6 @@
           "slug": "mission-impossible-the-final-reckoning-2025",
           "imdb": "tt9603208",
           "tmdb": 575265
-        }
-      }
-    },
-    {
-      "id": 11173136295,
-      "watched_at": "2025-08-17T19:14:15.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "War",
-        "year": 2007,
-        "ids": {
-          "trakt": 5623,
-          "slug": "war-2007",
-          "imdb": "tt0499556",
-          "tmdb": 10431
-        }
-      }
-    },
-    {
-      "id": 11171914256,
-      "watched_at": "2025-08-17T09:55:14.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Superman",
-        "year": 2025,
-        "ids": {
-          "trakt": 853702,
-          "slug": "superman-2025",
-          "imdb": "tt5950044",
-          "tmdb": 1061474
         }
       }
     }
