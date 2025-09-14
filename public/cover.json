@@ -1,6 +1,42 @@
 {
   "movies": [
     {
+      "tmdb_id": 157353,
+      "title": "Transcendence",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/157353_poster.jpg",
+      "last_watched_at": "2025-09-13T13:35:36.000Z"
+    },
+    {
+      "tmdb_id": 679,
+      "title": "Aliens",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/679_poster.jpg",
+      "last_watched_at": "2025-09-13T12:32:33.000Z"
+    },
+    {
+      "tmdb_id": 937249,
+      "title": "57 Seconds",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/937249_poster.jpg",
+      "last_watched_at": "2025-09-13T12:31:30.000Z"
+    },
+    {
+      "tmdb_id": 87502,
+      "title": "Flight",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/87502_poster.jpg",
+      "last_watched_at": "2025-09-13T12:31:19.000Z"
+    },
+    {
+      "tmdb_id": 169298,
+      "title": "Bullet",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/169298_poster.jpg",
+      "last_watched_at": "2025-09-13T10:32:15.000Z"
+    },
+    {
+      "tmdb_id": 22832,
+      "title": "Ninja Assassin",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/22832_poster.jpg",
+      "last_watched_at": "2025-09-13T08:08:45.000Z"
+    },
+    {
       "tmdb_id": 348350,
       "title": "Solo: A Star Wars Story",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/348350_poster.jpg",
@@ -23,45 +59,21 @@
       "title": "Prometheus",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/70981_poster.jpg",
       "last_watched_at": "2025-09-06T20:34:59.000Z"
-    },
-    {
-      "tmdb_id": 602147,
-      "title": "Inheritance",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/602147_poster.jpg",
-      "last_watched_at": "2025-09-04T13:34:09.000Z"
-    },
-    {
-      "tmdb_id": 1007734,
-      "title": "Nobody 2",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1007734_poster.jpg",
-      "last_watched_at": "2025-09-03T06:29:54.000Z"
-    },
-    {
-      "tmdb_id": 261392,
-      "title": "American Ultra",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/261392_poster.jpg",
-      "last_watched_at": "2025-08-31T12:36:51.000Z"
-    },
-    {
-      "tmdb_id": 911430,
-      "title": "F1",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/911430_poster.jpg",
-      "last_watched_at": "2025-08-28T08:49:39.000Z"
-    },
-    {
-      "tmdb_id": 611014,
-      "title": "Foxter and Max",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/611014_poster.jpg",
-      "last_watched_at": "2025-08-26T16:44:29.000Z"
-    },
-    {
-      "tmdb_id": 575265,
-      "title": "Mission: Impossible - The Final Reckoning",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/575265_poster.jpg",
-      "last_watched_at": "2025-08-18T19:52:48.000Z"
     }
   ],
   "shows": [
+    {
+      "tmdb_id": 1973,
+      "title": "24",
+      "season": 2,
+      "available_seasons": [
+        1,
+        2,
+        3
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/2/season_2_poster.jpg",
+      "last_watched_at": "2025-09-13T21:32:02.000Z"
+    },
     {
       "tmdb_id": 1415,
       "title": "Elementary",
@@ -95,17 +107,6 @@
       "last_watched_at": "2025-09-04T08:28:14.000Z"
     },
     {
-      "tmdb_id": 1973,
-      "title": "24",
-      "season": 2,
-      "available_seasons": [
-        1,
-        2
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/2/season_2_poster.jpg",
-      "last_watched_at": "2025-08-30T08:30:04.000Z"
-    },
-    {
       "tmdb_id": 1398,
       "title": "The Sopranos",
       "season": 1,
@@ -118,7 +119,7 @@
     {
       "tmdb_id": 1425,
       "title": "House of Cards",
-      "season": 5,
+      "season": 1,
       "available_seasons": [
         1,
         2,
@@ -127,7 +128,7 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/5/season_5_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/1/season_1_poster.jpg",
       "last_watched_at": "2025-08-03T12:13:47.000Z"
     },
     {
