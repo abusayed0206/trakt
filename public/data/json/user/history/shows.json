@@ -1,12 +1,162 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-13T05:40:36.254212+00:00",
+    "fetched_at": "2025-09-14T05:40:36.480608+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11277578821,
+      "watched_at": "2025-09-13T21:32:02.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 5,
+        "title": "Day 3: 5:00 P.M.-6:00 P.M.",
+        "ids": {
+          "trakt": 146299,
+          "tvdb": 189307,
+          "imdb": "tt0502224",
+          "tmdb": 134485,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11277395356,
+      "watched_at": "2025-09-13T20:45:52.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 4,
+        "title": "Day 3: 4:00 P.M.-5:00 P.M.",
+        "ids": {
+          "trakt": 146298,
+          "tvdb": 189306,
+          "imdb": "tt0502222",
+          "tmdb": 134484,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11277254984,
+      "watched_at": "2025-09-13T20:08:32.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 3,
+        "title": "Day 3: 3:00 P.M.-4:00 P.M.",
+        "ids": {
+          "trakt": 146297,
+          "tvdb": 189305,
+          "imdb": "tt0502220",
+          "tmdb": 134483,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11277121999,
+      "watched_at": "2025-09-13T19:43:27.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 2,
+        "title": "Day 3: 2:00 P.M.-3:00 P.M.",
+        "ids": {
+          "trakt": 146296,
+          "tvdb": 189304,
+          "imdb": "tt0502218",
+          "tmdb": 134482,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11276953841,
+      "watched_at": "2025-09-13T19:06:07.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 1,
+        "title": "Day 3: 1:00 P.M.-2:00 P.M.",
+        "ids": {
+          "trakt": 146295,
+          "tvdb": 189303,
+          "imdb": "tt0502216",
+          "tmdb": 134478,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "24",
+        "year": 2001,
+        "ids": {
+          "trakt": 1960,
+          "slug": "24-2001",
+          "tvdb": 76290,
+          "imdb": "tt0285331",
+          "tmdb": 1973,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11256923676,
       "watched_at": "2025-09-10T09:38:40.000Z",
@@ -153,156 +303,6 @@
           "tvdb": 255316,
           "imdb": "tt2191671",
           "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11239126366,
-      "watched_at": "2025-09-05T17:38:42.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 10,
-        "title": "And Justice for All...",
-        "ids": {
-          "trakt": 12853600,
-          "tvdb": 11167531,
-          "imdb": "tt36332569",
-          "tmdb": 6201600,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Dexter: Resurrection",
-        "year": 2025,
-        "ids": {
-          "trakt": 249647,
-          "slug": "dexter-resurrection",
-          "tvdb": 452595,
-          "imdb": "tt33043892",
-          "tmdb": 259909,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11233768226,
-      "watched_at": "2025-09-04T12:07:47.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 6,
-        "title": "An Unnatural Arrangement",
-        "ids": {
-          "trakt": 74991,
-          "tvdb": 4643850,
-          "imdb": "tt3182708",
-          "tmdb": 971765,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Elementary",
-        "year": 2012,
-        "ids": {
-          "trakt": 1406,
-          "slug": "elementary",
-          "tvdb": 255316,
-          "imdb": "tt2191671",
-          "tmdb": 1415,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11233399385,
-      "watched_at": "2025-09-04T08:28:14.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 5,
-        "title": "Hyde and Woe Seek",
-        "ids": {
-          "trakt": 13033553,
-          "tvdb": 11100619,
-          "imdb": "tt33100417",
-          "tmdb": 6165596,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Wednesday",
-        "year": 2022,
-        "ids": {
-          "trakt": 173996,
-          "slug": "wednesday",
-          "tvdb": 397060,
-          "imdb": "tt13443470",
-          "tmdb": 119051,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11231735739,
-      "watched_at": "2025-09-03T18:22:48.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 8,
-        "title": "This Means Woe",
-        "ids": {
-          "trakt": 13033563,
-          "tvdb": 11100621,
-          "imdb": "tt33310268",
-          "tmdb": 6165599,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Wednesday",
-        "year": 2022,
-        "ids": {
-          "trakt": 173996,
-          "slug": "wednesday",
-          "tvdb": 397060,
-          "imdb": "tt13443470",
-          "tmdb": 119051,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11231675657,
-      "watched_at": "2025-09-03T17:59:18.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 7,
-        "title": "Woe Me the Money",
-        "ids": {
-          "trakt": 13033558,
-          "tvdb": 11317568,
-          "imdb": "tt33310267",
-          "tmdb": 6165598,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Wednesday",
-        "year": 2022,
-        "ids": {
-          "trakt": 173996,
-          "slug": "wednesday",
-          "tvdb": 397060,
-          "imdb": "tt13443470",
-          "tmdb": 119051,
           "tvrage": null
         }
       }

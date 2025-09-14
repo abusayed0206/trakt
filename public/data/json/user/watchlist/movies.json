@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-13T05:40:37.540723+00:00",
+    "fetched_at": "2025-09-14T05:40:38.067195+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/movies.json",
-    "count": 23
+    "count": 22
   },
   "data": [
     {
@@ -378,23 +378,6 @@
           "slug": "cellular-2004",
           "imdb": "tt0337921",
           "tmdb": 9759
-        }
-      }
-    },
-    {
-      "rank": 23,
-      "id": 1285066279,
-      "listed_at": "2025-07-22T20:08:22.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Aliens",
-        "year": 1986,
-        "ids": {
-          "trakt": 553,
-          "slug": "aliens-1986",
-          "imdb": "tt0090605",
-          "tmdb": 679
         }
       }
     }

@@ -1,12 +1,108 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-13T05:40:36.103009+00:00",
+    "fetched_at": "2025-09-14T05:40:36.389166+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11275728304,
+      "watched_at": "2025-09-13T13:35:36.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Transcendence",
+        "year": 2014,
+        "ids": {
+          "trakt": 102164,
+          "slug": "transcendence-2014",
+          "imdb": "tt2209764",
+          "tmdb": 157353
+        }
+      }
+    },
+    {
+      "id": 11275499134,
+      "watched_at": "2025-09-13T12:32:33.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Aliens",
+        "year": 1986,
+        "ids": {
+          "trakt": 553,
+          "slug": "aliens-1986",
+          "imdb": "tt0090605",
+          "tmdb": 679
+        }
+      }
+    },
+    {
+      "id": 11275496924,
+      "watched_at": "2025-09-13T12:31:30.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "57 Seconds",
+        "year": 2023,
+        "ids": {
+          "trakt": 751911,
+          "slug": "57-seconds-2023",
+          "imdb": "tt18083578",
+          "tmdb": 937249
+        }
+      }
+    },
+    {
+      "id": 11275496658,
+      "watched_at": "2025-09-13T12:31:19.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Flight",
+        "year": 2012,
+        "ids": {
+          "trakt": 65754,
+          "slug": "flight-2012",
+          "imdb": "tt1907668",
+          "tmdb": 87502
+        }
+      }
+    },
+    {
+      "id": 11274982398,
+      "watched_at": "2025-09-13T10:32:15.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Bullet",
+        "year": 2014,
+        "ids": {
+          "trakt": 108050,
+          "slug": "bullet-2014",
+          "imdb": "tt2544734",
+          "tmdb": 169298
+        }
+      }
+    },
+    {
+      "id": 11274352956,
+      "watched_at": "2025-09-13T08:08:45.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Ninja Assassin",
+        "year": 2009,
+        "ids": {
+          "trakt": 13874,
+          "slug": "ninja-assassin-2009",
+          "imdb": "tt1186367",
+          "tmdb": 22832
+        }
+      }
+    },
     {
       "id": 11267344808,
       "watched_at": "2025-09-12T04:40:45.000Z",
@@ -68,102 +164,6 @@
           "slug": "prometheus-2012",
           "imdb": "tt1446714",
           "tmdb": 70981
-        }
-      }
-    },
-    {
-      "id": 11233912176,
-      "watched_at": "2025-09-04T13:34:09.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Inheritance",
-        "year": 2020,
-        "ids": {
-          "trakt": 454984,
-          "slug": "inheritance-2020",
-          "imdb": "tt7923220",
-          "tmdb": 602147
-        }
-      }
-    },
-    {
-      "id": 11230058275,
-      "watched_at": "2025-09-03T06:29:54.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Nobody 2",
-        "year": 2025,
-        "ids": {
-          "trakt": 810123,
-          "slug": "nobody-2-2025",
-          "imdb": "tt28996126",
-          "tmdb": 1007734
-        }
-      }
-    },
-    {
-      "id": 11219825835,
-      "watched_at": "2025-08-31T12:36:51.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "American Ultra",
-        "year": 2015,
-        "ids": {
-          "trakt": 160399,
-          "slug": "american-ultra-2015",
-          "imdb": "tt3316948",
-          "tmdb": 261392
-        }
-      }
-    },
-    {
-      "id": 11208293375,
-      "watched_at": "2025-08-28T08:49:39.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "F1",
-        "year": 2025,
-        "ids": {
-          "trakt": 729817,
-          "slug": "f1-2025",
-          "imdb": "tt16311594",
-          "tmdb": 911430
-        }
-      }
-    },
-    {
-      "id": 11203039648,
-      "watched_at": "2025-08-26T16:44:29.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Foxter and Max",
-        "year": 2019,
-        "ids": {
-          "trakt": 455087,
-          "slug": "foxter-and-max-2019",
-          "imdb": "tt8269856",
-          "tmdb": 611014
-        }
-      }
-    },
-    {
-      "id": 11176215982,
-      "watched_at": "2025-08-18T19:52:48.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Mission: Impossible - The Final Reckoning",
-        "year": 2025,
-        "ids": {
-          "trakt": 426078,
-          "slug": "mission-impossible-the-final-reckoning-2025",
-          "imdb": "tt9603208",
-          "tmdb": 575265
         }
       }
     }
