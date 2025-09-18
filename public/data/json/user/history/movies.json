@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-17T05:41:56.439377+00:00",
+    "fetched_at": "2025-09-18T05:42:00.392152+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11299276411,
+      "watched_at": "2025-09-17T20:24:43.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Redemption",
+        "year": 2013,
+        "ids": {
+          "trakt": 102705,
+          "slug": "redemption-2013-04-05",
+          "imdb": "tt2201886",
+          "tmdb": 158394
+        }
+      }
+    },
     {
       "id": 11275728304,
       "watched_at": "2025-09-13T13:35:36.000Z",
@@ -148,22 +164,6 @@
           "slug": "alien-covenant-2017",
           "imdb": "tt2316204",
           "tmdb": 126889
-        }
-      }
-    },
-    {
-      "id": 11244774515,
-      "watched_at": "2025-09-06T20:34:59.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Prometheus",
-        "year": 2012,
-        "ids": {
-          "trakt": 52036,
-          "slug": "prometheus-2012",
-          "imdb": "tt1446714",
-          "tmdb": 70981
         }
       }
     }
