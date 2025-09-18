@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-17T05:41:57.152124+00:00",
+    "fetched_at": "2025-09-18T05:42:00.957355+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 769
+    "count": 770
   },
   "data": [
     {
@@ -5239,6 +5239,21 @@
           "slug": "transcendence-2014",
           "imdb": "tt2209764",
           "tmdb": 157353
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-09-17T20:24:43.000Z",
+      "last_updated_at": "2025-09-17T20:24:43.000Z",
+      "movie": {
+        "title": "Redemption",
+        "year": 2013,
+        "ids": {
+          "trakt": 102705,
+          "slug": "redemption-2013-04-05",
+          "imdb": "tt2201886",
+          "tmdb": 158394
         }
       }
     },
