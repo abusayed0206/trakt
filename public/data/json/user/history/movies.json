@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-18T05:42:00.392152+00:00",
+    "fetched_at": "2025-09-19T05:42:01.379703+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11304432602,
+      "watched_at": "2025-09-18T15:06:12.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "The Punisher",
+        "year": 2004,
+        "ids": {
+          "trakt": 3843,
+          "slug": "the-punisher-2004",
+          "imdb": "tt0330793",
+          "tmdb": 7220
+        }
+      }
+    },
     {
       "id": 11299276411,
       "watched_at": "2025-09-17T20:24:43.000Z",
@@ -148,22 +164,6 @@
           "slug": "rogue-one-a-star-wars-story-2016",
           "imdb": "tt3748528",
           "tmdb": 330459
-        }
-      }
-    },
-    {
-      "id": 11244936671,
-      "watched_at": "2025-09-06T21:26:11.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Alien: Covenant",
-        "year": 2017,
-        "ids": {
-          "trakt": 86997,
-          "slug": "alien-covenant-2017",
-          "imdb": "tt2316204",
-          "tmdb": 126889
         }
       }
     }
