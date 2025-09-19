@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "tmdb_id": 7220,
+      "title": "The Punisher",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/7220_poster.jpg",
+      "last_watched_at": "2025-09-18T15:06:12.000Z"
+    },
+    {
       "tmdb_id": 158394,
       "title": "Redemption",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/158394_poster.jpg",
@@ -53,36 +59,30 @@
       "title": "Rogue One: A Star Wars Story",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/330459_poster.jpg",
       "last_watched_at": "2025-09-12T02:24:12.000Z"
-    },
-    {
-      "tmdb_id": 126889,
-      "title": "Alien: Covenant",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/126889_poster.jpg",
-      "last_watched_at": "2025-09-06T21:26:11.000Z"
     }
   ],
   "shows": [
     {
       "tmdb_id": 1973,
       "title": "24",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/2/season_2_poster.jpg",
       "last_watched_at": "2025-09-15T08:42:24.000Z"
     },
     {
       "tmdb_id": 1415,
       "title": "Elementary",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-10T09:38:40.000Z"
     },
     {
@@ -98,12 +98,12 @@
     {
       "tmdb_id": 119051,
       "title": "Wednesday",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-04T08:28:14.000Z"
     },
     {
