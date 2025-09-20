@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-19T05:42:01.379703+00:00",
+    "fetched_at": "2025-09-20T05:41:43.736485+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11312084504,
+      "watched_at": "2025-09-19T22:54:20.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Punisher: War Zone",
+        "year": 2008,
+        "ids": {
+          "trakt": 7612,
+          "slug": "punisher-war-zone-2008",
+          "imdb": "tt0450314",
+          "tmdb": 13056
+        }
+      }
+    },
+    {
+      "id": 11311726580,
+      "watched_at": "2025-09-19T21:18:20.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Cellular",
+        "year": 2004,
+        "ids": {
+          "trakt": 5020,
+          "slug": "cellular-2004",
+          "imdb": "tt0337921",
+          "tmdb": 9759
+        }
+      }
+    },
     {
       "id": 11304432602,
       "watched_at": "2025-09-18T15:06:12.000Z",
@@ -132,38 +164,6 @@
           "slug": "ninja-assassin-2009",
           "imdb": "tt1186367",
           "tmdb": 22832
-        }
-      }
-    },
-    {
-      "id": 11267344808,
-      "watched_at": "2025-09-12T04:40:45.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Solo: A Star Wars Story",
-        "year": 2018,
-        "ids": {
-          "trakt": 221890,
-          "slug": "solo-a-star-wars-story-2018",
-          "imdb": "tt3778644",
-          "tmdb": 348350
-        }
-      }
-    },
-    {
-      "id": 11266674547,
-      "watched_at": "2025-09-12T02:24:12.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Rogue One: A Star Wars Story",
-        "year": 2016,
-        "ids": {
-          "trakt": 211396,
-          "slug": "rogue-one-a-star-wars-story-2016",
-          "imdb": "tt3748528",
-          "tmdb": 330459
         }
       }
     }

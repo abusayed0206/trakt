@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-19T05:42:02.828661+00:00",
+    "fetched_at": "2025-09-20T05:41:45.552793+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
-    "count": 22
+    "count": 21
   },
   "data": [
     {
@@ -361,23 +361,6 @@
           "slug": "the-hobbit-the-battle-of-the-five-armies-2014",
           "imdb": "tt2310332",
           "tmdb": 122917
-        }
-      }
-    },
-    {
-      "rank": 22,
-      "id": 1290228459,
-      "listed_at": "2025-07-28T13:20:08.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Cellular",
-        "year": 2004,
-        "ids": {
-          "trakt": 5020,
-          "slug": "cellular-2004",
-          "imdb": "tt0337921",
-          "tmdb": 9759
         }
       }
     }
