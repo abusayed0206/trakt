@@ -1,6 +1,18 @@
 {
   "movies": [
     {
+      "tmdb_id": 13056,
+      "title": "Punisher: War Zone",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/13056_poster.jpg",
+      "last_watched_at": "2025-09-19T22:54:20.000Z"
+    },
+    {
+      "tmdb_id": 9759,
+      "title": "Cellular",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/9759_poster.jpg",
+      "last_watched_at": "2025-09-19T21:18:20.000Z"
+    },
+    {
       "tmdb_id": 7220,
       "title": "The Punisher",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/7220_poster.jpg",
@@ -47,18 +59,6 @@
       "title": "Ninja Assassin",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/22832_poster.jpg",
       "last_watched_at": "2025-09-13T08:08:45.000Z"
-    },
-    {
-      "tmdb_id": 348350,
-      "title": "Solo: A Star Wars Story",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/348350_poster.jpg",
-      "last_watched_at": "2025-09-12T04:40:45.000Z"
-    },
-    {
-      "tmdb_id": 330459,
-      "title": "Rogue One: A Star Wars Story",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/330459_poster.jpg",
-      "last_watched_at": "2025-09-12T02:24:12.000Z"
     }
   ],
   "shows": [
@@ -98,12 +98,12 @@
     {
       "tmdb_id": 119051,
       "title": "Wednesday",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
       "last_watched_at": "2025-09-04T08:28:14.000Z"
     },
     {
@@ -119,7 +119,7 @@
     {
       "tmdb_id": 1425,
       "title": "House of Cards",
-      "season": 6,
+      "season": 2,
       "available_seasons": [
         1,
         2,
@@ -128,7 +128,7 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/6/season_6_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/2/season_2_poster.jpg",
       "last_watched_at": "2025-08-03T12:13:47.000Z"
     },
     {
