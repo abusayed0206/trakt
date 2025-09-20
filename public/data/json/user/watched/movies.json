@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-19T05:42:02.348071+00:00",
+    "fetched_at": "2025-09-20T05:41:44.733580+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 771
+    "count": 773
   },
   "data": [
     {
@@ -2649,6 +2649,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2025-09-19T21:18:20.000Z",
+      "last_updated_at": "2025-09-19T21:18:20.000Z",
+      "movie": {
+        "title": "Cellular",
+        "year": 2004,
+        "ids": {
+          "trakt": 5020,
+          "slug": "cellular-2004",
+          "imdb": "tt0337921",
+          "tmdb": 9759
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2025-01-15T12:17:22.000Z",
       "last_updated_at": "2025-01-15T12:17:22.000Z",
       "movie": {
@@ -2959,6 +2974,21 @@
           "slug": "eagle-eye-2008",
           "imdb": "tt1059786",
           "tmdb": 13027
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-09-19T22:54:20.000Z",
+      "last_updated_at": "2025-09-19T22:54:20.000Z",
+      "movie": {
+        "title": "Punisher: War Zone",
+        "year": 2008,
+        "ids": {
+          "trakt": 7612,
+          "slug": "punisher-war-zone-2008",
+          "imdb": "tt0450314",
+          "tmdb": 13056
         }
       }
     },
