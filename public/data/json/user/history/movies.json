@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-20T05:41:43.736485+00:00",
+    "fetched_at": "2025-09-21T05:42:08.533332+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11317672518,
+      "watched_at": "2025-09-20T22:51:53.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Death Race",
+        "year": 2008,
+        "ids": {
+          "trakt": 5666,
+          "slug": "death-race-2008",
+          "imdb": "tt0452608",
+          "tmdb": 10483
+        }
+      }
+    },
     {
       "id": 11312084504,
       "watched_at": "2025-09-19T22:54:20.000Z",
@@ -148,22 +164,6 @@
           "slug": "bullet-2014",
           "imdb": "tt2544734",
           "tmdb": 169298
-        }
-      }
-    },
-    {
-      "id": 11274352956,
-      "watched_at": "2025-09-13T08:08:45.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Ninja Assassin",
-        "year": 2009,
-        "ids": {
-          "trakt": 13874,
-          "slug": "ninja-assassin-2009",
-          "imdb": "tt1186367",
-          "tmdb": 22832
         }
       }
     }

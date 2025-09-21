@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-20T05:41:44.733580+00:00",
+    "fetched_at": "2025-09-21T05:42:09.426894+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 773
+    "count": 774
   },
   "data": [
     {
@@ -2734,6 +2734,21 @@
           "slug": "yes-man-2008",
           "imdb": "tt1068680",
           "tmdb": 10201
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-09-20T22:51:53.000Z",
+      "last_updated_at": "2025-09-20T22:51:53.000Z",
+      "movie": {
+        "title": "Death Race",
+        "year": 2008,
+        "ids": {
+          "trakt": 5666,
+          "slug": "death-race-2008",
+          "imdb": "tt0452608",
+          "tmdb": 10483
         }
       }
     },
