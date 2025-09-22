@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-21T05:42:08.533332+00:00",
+    "fetched_at": "2025-09-22T05:42:37.696737+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11320106256,
+      "watched_at": "2025-09-21T11:32:04.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Death Race 2",
+        "year": 2010,
+        "ids": {
+          "trakt": 36230,
+          "slug": "death-race-2-2010",
+          "imdb": "tt1500491",
+          "tmdb": 51620
+        }
+      }
+    },
     {
       "id": 11317672518,
       "watched_at": "2025-09-20T22:51:53.000Z",
@@ -148,22 +164,6 @@
           "slug": "flight-2012",
           "imdb": "tt1907668",
           "tmdb": 87502
-        }
-      }
-    },
-    {
-      "id": 11274982398,
-      "watched_at": "2025-09-13T10:32:15.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Bullet",
-        "year": 2014,
-        "ids": {
-          "trakt": 108050,
-          "slug": "bullet-2014",
-          "imdb": "tt2544734",
-          "tmdb": 169298
         }
       }
     }

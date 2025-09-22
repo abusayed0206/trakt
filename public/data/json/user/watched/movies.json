@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-21T05:42:09.426894+00:00",
+    "fetched_at": "2025-09-22T05:42:38.818081+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 774
+    "count": 775
   },
   "data": [
     {
@@ -4054,6 +4054,21 @@
           "slug": "the-man-from-nowhere-2010",
           "imdb": "tt1527788",
           "tmdb": 51608
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-09-21T11:32:04.000Z",
+      "last_updated_at": "2025-09-21T11:32:04.000Z",
+      "movie": {
+        "title": "Death Race 2",
+        "year": 2010,
+        "ids": {
+          "trakt": 36230,
+          "slug": "death-race-2-2010",
+          "imdb": "tt1500491",
+          "tmdb": 51620
         }
       }
     },
