@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-22T05:42:38.818081+00:00",
+    "fetched_at": "2025-09-23T05:43:07.847270+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 775
+    "count": 776
   },
   "data": [
     {
@@ -4834,6 +4834,21 @@
           "slug": "the-raid-2012",
           "imdb": "tt1899353",
           "tmdb": 94329
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-09-22T14:40:20.000Z",
+      "last_updated_at": "2025-09-22T14:40:20.000Z",
+      "movie": {
+        "title": "RoboCop",
+        "year": 2014,
+        "ids": {
+          "trakt": 70554,
+          "slug": "robocop-2014",
+          "imdb": "tt1234721",
+          "tmdb": 97020
         }
       }
     },
