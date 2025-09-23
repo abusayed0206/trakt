@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-22T05:42:37.696737+00:00",
+    "fetched_at": "2025-09-23T05:43:06.909447+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11326592581,
+      "watched_at": "2025-09-22T14:40:20.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "RoboCop",
+        "year": 2014,
+        "ids": {
+          "trakt": 70554,
+          "slug": "robocop-2014",
+          "imdb": "tt1234721",
+          "tmdb": 97020
+        }
+      }
+    },
     {
       "id": 11320106256,
       "watched_at": "2025-09-21T11:32:04.000Z",
@@ -148,22 +164,6 @@
           "slug": "57-seconds-2023",
           "imdb": "tt18083578",
           "tmdb": 937249
-        }
-      }
-    },
-    {
-      "id": 11275496658,
-      "watched_at": "2025-09-13T12:31:19.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Flight",
-        "year": 2012,
-        "ids": {
-          "trakt": 65754,
-          "slug": "flight-2012",
-          "imdb": "tt1907668",
-          "tmdb": 87502
         }
       }
     }
