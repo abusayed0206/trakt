@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-24T05:42:21.675561+00:00",
+    "fetched_at": "2025-09-25T05:42:43.875156+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/stats/overview.json",
@@ -10,7 +10,7 @@
     "movies": {
       "plays": 796,
       "watched": 776,
-      "minutes": 98463,
+      "minutes": 98462,
       "collected": 0,
       "ratings": 14,
       "comments": 0
