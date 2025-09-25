@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-24T05:42:24.163384+00:00",
+    "fetched_at": "2025-09-25T05:42:45.383565+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -78,23 +78,6 @@
       }
     },
     {
-      "rank": 5,
-      "id": 1174076315,
-      "listed_at": "2025-02-16T04:14:54.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Avatar 5",
-        "year": 2031,
-        "ids": {
-          "trakt": 235669,
-          "slug": "avatar-5-2031",
-          "imdb": "tt5637536",
-          "tmdb": 393209
-        }
-      }
-    },
-    {
       "rank": 6,
       "id": 1174076317,
       "listed_at": "2025-02-16T04:14:59.000Z",
@@ -108,6 +91,23 @@
           "slug": "avengers-doomsday-2026",
           "imdb": "tt21357150",
           "tmdb": 1003596
+        }
+      }
+    },
+    {
+      "rank": 5,
+      "id": 1174076315,
+      "listed_at": "2025-02-16T04:14:54.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Avatar 5",
+        "year": 2031,
+        "ids": {
+          "trakt": 235669,
+          "slug": "avatar-5-2031",
+          "imdb": "tt5637536",
+          "tmdb": 393209
         }
       }
     },
