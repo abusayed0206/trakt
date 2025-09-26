@@ -63,15 +63,27 @@
   ],
   "shows": [
     {
-      "tmdb_id": 1973,
-      "title": "24",
+      "tmdb_id": 110316,
+      "title": "Alice in Borderland",
       "season": 2,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/110316/2/season_2_poster.jpg",
+      "last_watched_at": "2025-09-25T22:53:47.000Z"
+    },
+    {
+      "tmdb_id": 1973,
+      "title": "24",
+      "season": 1,
+      "available_seasons": [
+        1,
+        2,
+        3
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-15T08:42:24.000Z"
     },
     {
@@ -160,16 +172,6 @@
       ],
       "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/61859/1/season_1_poster.jpg",
       "last_watched_at": "2025-07-08T09:35:47.000Z"
-    },
-    {
-      "tmdb_id": 64840,
-      "title": "Signal",
-      "season": 1,
-      "available_seasons": [
-        1
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/64840/1/season_1_poster.jpg",
-      "last_watched_at": "2025-07-07T15:43:45.000Z"
     }
   ]
 }
