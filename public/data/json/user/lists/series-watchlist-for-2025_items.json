@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-27T05:40:58.093961+00:00",
+    "fetched_at": "2025-09-28T05:42:42.361323+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -673,25 +673,6 @@
       }
     },
     {
-      "rank": 48,
-      "id": 1283744090,
-      "listed_at": "2025-07-21T12:16:01.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "The Killing",
-        "year": 2011,
-        "ids": {
-          "trakt": 34268,
-          "slug": "the-killing-2011",
-          "tvdb": 210171,
-          "imdb": "tt1637727",
-          "tmdb": 34415,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 25,
       "id": 1153031292,
       "listed_at": "2025-01-08T18:22:11.000Z",
@@ -706,6 +687,25 @@
           "tvdb": 392276,
           "imdb": "tt11737520",
           "tmdb": 111110,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 48,
+      "id": 1283744090,
+      "listed_at": "2025-07-21T12:16:01.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Killing",
+        "year": 2011,
+        "ids": {
+          "trakt": 34268,
+          "slug": "the-killing-2011",
+          "tvdb": 210171,
+          "imdb": "tt1637727",
+          "tmdb": 34415,
           "tvrage": null
         }
       }
@@ -958,25 +958,6 @@
       }
     },
     {
-      "rank": 29,
-      "id": 1153031321,
-      "listed_at": "2025-01-08T18:22:47.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "Chicago P.D.",
-        "year": 2014,
-        "ids": {
-          "trakt": 58454,
-          "slug": "chicago-p-d",
-          "tvdb": 269641,
-          "imdb": "tt2805096",
-          "tmdb": 58841,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 74,
       "id": 1286151728,
       "listed_at": "2025-07-23T21:00:58.000Z",
@@ -991,6 +972,25 @@
           "tvdb": 295515,
           "imdb": "tt4428122",
           "tmdb": 62816,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 29,
+      "id": 1153031321,
+      "listed_at": "2025-01-08T18:22:47.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Chicago P.D.",
+        "year": 2014,
+        "ids": {
+          "trakt": 58454,
+          "slug": "chicago-p-d",
+          "tvdb": 269641,
+          "imdb": "tt2805096",
+          "tmdb": 58841,
           "tvrage": null
         }
       }

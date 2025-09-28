@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-27T05:40:56.302366+00:00",
+    "fetched_at": "2025-09-28T05:42:39.395196+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11355296660,
+      "watched_at": "2025-09-27T20:44:13.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Taandob",
+        "year": 2025,
+        "ids": {
+          "trakt": 1141706,
+          "slug": "taandob-2025",
+          "imdb": "tt36293840",
+          "tmdb": 1396122
+        }
+      }
+    },
     {
       "id": 11326592581,
       "watched_at": "2025-09-22T14:40:20.000Z",
@@ -148,22 +164,6 @@
           "slug": "aliens-1986",
           "imdb": "tt0090605",
           "tmdb": 679
-        }
-      }
-    },
-    {
-      "id": 11275496924,
-      "watched_at": "2025-09-13T12:31:30.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "57 Seconds",
-        "year": 2023,
-        "ids": {
-          "trakt": 751911,
-          "slug": "57-seconds-2023",
-          "imdb": "tt18083578",
-          "tmdb": 937249
         }
       }
     }
