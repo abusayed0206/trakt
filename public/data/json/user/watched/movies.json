@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-27T05:40:56.716241+00:00",
+    "fetched_at": "2025-09-28T05:42:40.350563+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 776
+    "count": 777
   },
   "data": [
     {
@@ -11629,6 +11629,21 @@
           "slug": "rekhachithram-2025",
           "imdb": "tt32284154",
           "tmdb": 1290954
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-09-27T20:44:13.000Z",
+      "last_updated_at": "2025-09-27T20:44:13.000Z",
+      "movie": {
+        "title": "Taandob",
+        "year": 2025,
+        "ids": {
+          "trakt": 1141706,
+          "slug": "taandob-2025",
+          "imdb": "tt36293840",
+          "tmdb": 1396122
         }
       }
     },
