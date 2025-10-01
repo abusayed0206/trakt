@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-30T05:42:58.304000+00:00",
+    "fetched_at": "2025-10-01T05:42:43.409741+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11372043617,
+      "watched_at": "2025-09-30T16:23:50.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "The Counselor",
+        "year": 2013,
+        "ids": {
+          "trakt": 77151,
+          "slug": "the-counselor-2013",
+          "imdb": "tt2193215",
+          "tmdb": 109091
+        }
+      }
+    },
+    {
+      "id": 11371027693,
+      "watched_at": "2025-09-30T12:46:31.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Ultraviolet",
+        "year": 2006,
+        "ids": {
+          "trakt": 5154,
+          "slug": "ultraviolet-2006",
+          "imdb": "tt0370032",
+          "tmdb": 9920
+        }
+      }
+    },
     {
       "id": 11355296660,
       "watched_at": "2025-09-27T20:44:13.000Z",
@@ -132,38 +164,6 @@
           "slug": "redemption-2013-04-05",
           "imdb": "tt2201886",
           "tmdb": 158394
-        }
-      }
-    },
-    {
-      "id": 11275728304,
-      "watched_at": "2025-09-13T13:35:36.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Transcendence",
-        "year": 2014,
-        "ids": {
-          "trakt": 102164,
-          "slug": "transcendence-2014",
-          "imdb": "tt2209764",
-          "tmdb": 157353
-        }
-      }
-    },
-    {
-      "id": 11275499134,
-      "watched_at": "2025-09-13T12:32:33.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Aliens",
-        "year": 1986,
-        "ids": {
-          "trakt": 553,
-          "slug": "aliens-1986",
-          "imdb": "tt0090605",
-          "tmdb": 679
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-09-30T05:42:59.190285+00:00",
+    "fetched_at": "2025-10-01T05:42:44.663620+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/user_lists.json",
@@ -82,8 +82,8 @@
       "sort_by": "imdb_rating",
       "sort_how": "desc",
       "created_at": "2025-07-23T20:10:08.000Z",
-      "updated_at": "2025-09-29T15:02:19.000Z",
-      "item_count": 1810,
+      "updated_at": "2025-09-30T16:25:31.000Z",
+      "item_count": 1809,
       "comment_count": 0,
       "likes": 0,
       "ids": {
