@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-01T05:42:44.526230+00:00",
+    "fetched_at": "2025-10-02T05:42:29.368413+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/movies.json",
-    "count": 22
+    "count": 21
   },
   "data": [
     {
@@ -298,23 +298,6 @@
     },
     {
       "rank": 18,
-      "id": 1327666466,
-      "listed_at": "2025-09-30T11:06:57.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Ransom",
-        "year": 1996,
-        "ids": {
-          "trakt": 2302,
-          "slug": "ransom-1996",
-          "imdb": "tt0117438",
-          "tmdb": 3595
-        }
-      }
-    },
-    {
-      "rank": 19,
       "id": 1290228070,
       "listed_at": "2025-07-28T13:19:02.000Z",
       "notes": null,
@@ -331,7 +314,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "id": 1285064977,
       "listed_at": "2025-07-22T20:05:47.000Z",
       "notes": null,
@@ -348,7 +331,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": 1285065122,
       "listed_at": "2025-07-22T20:06:09.000Z",
       "notes": null,
@@ -365,7 +348,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": 1285065712,
       "listed_at": "2025-07-22T20:07:01.000Z",
       "notes": null,

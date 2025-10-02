@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-01T05:42:43.409741+00:00",
+    "fetched_at": "2025-10-02T05:42:24.646370+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11377302457,
+      "watched_at": "2025-10-01T13:45:34.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Ransom",
+        "year": 1996,
+        "ids": {
+          "trakt": 2302,
+          "slug": "ransom-1996",
+          "imdb": "tt0117438",
+          "tmdb": 3595
+        }
+      }
+    },
     {
       "id": 11372043617,
       "watched_at": "2025-09-30T16:23:50.000Z",
@@ -148,22 +164,6 @@
           "slug": "the-punisher-2004",
           "imdb": "tt0330793",
           "tmdb": 7220
-        }
-      }
-    },
-    {
-      "id": 11299276411,
-      "watched_at": "2025-09-17T20:24:43.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Redemption",
-        "year": 2013,
-        "ids": {
-          "trakt": 102705,
-          "slug": "redemption-2013-04-05",
-          "imdb": "tt2201886",
-          "tmdb": 158394
         }
       }
     }
