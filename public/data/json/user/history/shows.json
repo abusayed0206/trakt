@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-03T05:41:51.765483+00:00",
+    "fetched_at": "2025-10-04T05:40:46.042130+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
@@ -49,7 +49,7 @@
         "ids": {
           "trakt": 13511923,
           "tvdb": 11167781,
-          "imdb": null,
+          "imdb": "tt38509472",
           "tmdb": 6527743,
           "tvrage": null
         }
@@ -79,7 +79,7 @@
         "ids": {
           "trakt": 13511922,
           "tvdb": 11167780,
-          "imdb": null,
+          "imdb": "tt38509471",
           "tmdb": 6527742,
           "tvrage": null
         }
@@ -109,7 +109,7 @@
         "ids": {
           "trakt": 13511919,
           "tvdb": 11167779,
-          "imdb": null,
+          "imdb": "tt38509470",
           "tmdb": 6527740,
           "tvrage": null
         }
@@ -139,7 +139,7 @@
         "ids": {
           "trakt": 13511915,
           "tvdb": 11167778,
-          "imdb": null,
+          "imdb": "tt38509469",
           "tmdb": 6527739,
           "tvrage": null
         }
@@ -169,7 +169,7 @@
         "ids": {
           "trakt": 13511912,
           "tvdb": 11167777,
-          "imdb": null,
+          "imdb": "tt38509467",
           "tmdb": 6527738,
           "tvrage": null
         }
