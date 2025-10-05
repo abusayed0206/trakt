@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-04T05:40:48.120623+00:00",
+    "fetched_at": "2025-10-05T05:40:46.224936+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -23,8 +23,7 @@
           "imdb": "tt13623126",
           "tmdb": 114471,
           "tvrage": null
-        },
-        "aired_episodes": 6
+        }
       }
     },
     {
