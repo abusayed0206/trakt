@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-05T05:40:46.124141+00:00",
+    "fetched_at": "2025-10-06T05:42:07.769848+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -977,6 +977,25 @@
       }
     },
     {
+      "rank": 12,
+      "id": 1133528030,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Terminal List",
+        "year": 2022,
+        "ids": {
+          "trakt": 170081,
+          "slug": "the-terminal-list",
+          "tvdb": 399917,
+          "imdb": "tt11743610",
+          "tmdb": 120911,
+          "tvrage": null
+        }
+      }
+    },
+    {
       "rank": 74,
       "id": 1286151728,
       "listed_at": "2025-07-23T21:00:58.000Z",
@@ -996,20 +1015,20 @@
       }
     },
     {
-      "rank": 12,
-      "id": 1133528030,
-      "listed_at": "2024-12-04T17:14:17.000Z",
+      "rank": 27,
+      "id": 1153031296,
+      "listed_at": "2025-01-08T18:22:20.000Z",
       "notes": null,
       "type": "show",
       "show": {
-        "title": "The Terminal List",
-        "year": 2022,
+        "title": "Dark Matter",
+        "year": 2024,
         "ids": {
-          "trakt": 170081,
-          "slug": "the-terminal-list",
-          "tvdb": 399917,
-          "imdb": "tt11743610",
-          "tmdb": 120911,
+          "trakt": 170597,
+          "slug": "dark-matter-2024",
+          "tvdb": 393159,
+          "imdb": "tt19231492",
+          "tmdb": 196322,
           "tvrage": null
         }
       }
@@ -1034,20 +1053,20 @@
       }
     },
     {
-      "rank": 27,
-      "id": 1153031296,
-      "listed_at": "2025-01-08T18:22:20.000Z",
+      "rank": 35,
+      "id": 1273910724,
+      "listed_at": "2025-07-08T19:03:09.000Z",
       "notes": null,
       "type": "show",
       "show": {
-        "title": "Dark Matter",
-        "year": 2024,
+        "title": "The Pitt",
+        "year": 2025,
         "ids": {
-          "trakt": 170597,
-          "slug": "dark-matter-2024",
-          "tvdb": 393159,
-          "imdb": "tt19231492",
-          "tmdb": 196322,
+          "trakt": 232884,
+          "slug": "the-pitt",
+          "tvdb": 448176,
+          "imdb": "tt31938062",
+          "tmdb": 250307,
           "tvrage": null
         }
       }
@@ -1086,25 +1105,6 @@
           "tvdb": 70682,
           "imdb": "tt0118421",
           "tmdb": 3322,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "rank": 35,
-      "id": 1273910724,
-      "listed_at": "2025-07-08T19:03:09.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "The Pitt",
-        "year": 2025,
-        "ids": {
-          "trakt": 232884,
-          "slug": "the-pitt",
-          "tvdb": 448176,
-          "imdb": "tt31938062",
-          "tmdb": 250307,
           "tvrage": null
         }
       }
