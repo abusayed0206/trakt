@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-05T05:40:44.944629+00:00",
+    "fetched_at": "2025-10-06T05:42:06.886580+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/movies.json",
-    "count": 21
+    "count": 19
   },
   "data": [
     {
@@ -145,40 +145,6 @@
     },
     {
       "rank": 9,
-      "id": 1217468098,
-      "listed_at": "2025-04-30T20:10:17.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Iratta",
-        "year": 2023,
-        "ids": {
-          "trakt": 759359,
-          "slug": "iratta-2023",
-          "imdb": "tt25406500",
-          "tmdb": 945167
-        }
-      }
-    },
-    {
-      "rank": 10,
-      "id": 1217468099,
-      "listed_at": "2025-04-30T20:10:17.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Joji",
-        "year": 2021,
-        "ids": {
-          "trakt": 627618,
-          "slug": "joji-2021",
-          "imdb": "tt13206926",
-          "tmdb": 791779
-        }
-      }
-    },
-    {
-      "rank": 11,
       "id": 1217641286,
       "listed_at": "2025-05-01T07:43:18.000Z",
       "notes": null,
@@ -195,7 +161,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 10,
       "id": 1283823239,
       "listed_at": "2025-07-21T13:46:22.000Z",
       "notes": null,
@@ -212,7 +178,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 11,
       "id": 1283823242,
       "listed_at": "2025-07-21T13:46:24.000Z",
       "notes": null,
@@ -229,7 +195,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 12,
       "id": 1285064024,
       "listed_at": "2025-07-22T20:03:39.000Z",
       "notes": null,
@@ -246,7 +212,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 13,
       "id": 1283823253,
       "listed_at": "2025-07-21T13:46:26.000Z",
       "notes": null,
@@ -263,7 +229,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "id": 1326973797,
       "listed_at": "2025-09-29T14:54:12.000Z",
       "notes": null,
@@ -280,7 +246,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "id": 1285064215,
       "listed_at": "2025-07-22T20:04:33.000Z",
       "notes": null,
@@ -297,7 +263,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "id": 1290228070,
       "listed_at": "2025-07-28T13:19:02.000Z",
       "notes": null,
@@ -314,7 +280,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "id": 1285064977,
       "listed_at": "2025-07-22T20:05:47.000Z",
       "notes": null,
@@ -331,7 +297,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "id": 1285065122,
       "listed_at": "2025-07-22T20:06:09.000Z",
       "notes": null,
@@ -348,7 +314,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 19,
       "id": 1285065712,
       "listed_at": "2025-07-22T20:07:01.000Z",
       "notes": null,
