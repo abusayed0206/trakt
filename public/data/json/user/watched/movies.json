@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-06T05:42:06.427872+00:00",
+    "fetched_at": "2025-10-07T05:42:03.953574+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
@@ -1378,10 +1378,10 @@
       "last_updated_at": "2024-06-27T06:36:31.000Z",
       "movie": {
         "title": "V for Vendetta",
-        "year": 2006,
+        "year": 2005,
         "ids": {
           "trakt": 595,
-          "slug": "v-for-vendetta-2006",
+          "slug": "v-for-vendetta-2005",
           "imdb": "tt0434409",
           "tmdb": 752
         }
@@ -4827,11 +4827,11 @@
       "last_watched_at": "1996-12-16T17:00:00.000Z",
       "last_updated_at": "2024-11-12T16:19:14.000Z",
       "movie": {
-        "title": "Dipu Number 2",
+        "title": "Dipu Number Two",
         "year": 1996,
         "ids": {
           "trakt": 68858,
-          "slug": "dipu-number-2-1996",
+          "slug": "dipu-number-two-1996",
           "imdb": "tt1935109",
           "tmdb": 93527
         }
