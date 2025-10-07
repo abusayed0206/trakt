@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-06T05:42:06.792216+00:00",
+    "fetched_at": "2025-10-07T05:42:04.247346+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
-    "count": 19
+    "count": 20
   },
   "data": [
     {
@@ -196,6 +196,26 @@
     },
     {
       "rank": 12,
+      "id": 1332522806,
+      "listed_at": "2025-10-06T16:37:30.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "A Knight of the Seven Kingdoms: The Hedge Knight",
+        "year": null,
+        "ids": {
+          "trakt": 204141,
+          "slug": "a-knight-of-the-seven-kingdoms-the-hedge-knight",
+          "tvdb": 433631,
+          "imdb": "tt27497448",
+          "tmdb": 224372,
+          "tvrage": null
+        },
+        "aired_episodes": 0
+      }
+    },
+    {
+      "rank": 13,
       "id": 1285064024,
       "listed_at": "2025-07-22T20:03:39.000Z",
       "notes": null,
@@ -212,7 +232,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": 1283823253,
       "listed_at": "2025-07-21T13:46:26.000Z",
       "notes": null,
@@ -229,7 +249,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": 1326973797,
       "listed_at": "2025-09-29T14:54:12.000Z",
       "notes": null,
@@ -246,7 +266,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": 1285064215,
       "listed_at": "2025-07-22T20:04:33.000Z",
       "notes": null,
@@ -263,7 +283,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": 1290228070,
       "listed_at": "2025-07-28T13:19:02.000Z",
       "notes": null,
@@ -280,7 +300,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": 1285064977,
       "listed_at": "2025-07-22T20:05:47.000Z",
       "notes": null,
@@ -297,7 +317,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": 1285065122,
       "listed_at": "2025-07-22T20:06:09.000Z",
       "notes": null,
@@ -314,7 +334,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": 1285065712,
       "listed_at": "2025-07-22T20:07:01.000Z",
       "notes": null,
