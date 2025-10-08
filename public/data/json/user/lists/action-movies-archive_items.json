@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-07T05:42:06.317378+00:00",
+    "fetched_at": "2025-10-08T05:42:43.761662+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -4044,10 +4044,10 @@
       "type": "movie",
       "movie": {
         "title": "Brick",
-        "year": 2005,
+        "year": 2006,
         "ids": {
           "trakt": 4570,
-          "slug": "brick-2005",
+          "slug": "brick-2006",
           "imdb": "tt0393109",
           "tmdb": 9270
         }
