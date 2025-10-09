@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-08T05:42:38.113469+00:00",
+    "fetched_at": "2025-10-09T05:43:17.179513+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 780
+    "count": 781
   },
   "data": [
     {
@@ -274,6 +274,21 @@
           "slug": "the-equalizer-3-2023",
           "imdb": "tt17024450",
           "tmdb": 926393
+        }
+      }
+    },
+    {
+      "plays": 2,
+      "last_watched_at": "2025-10-08T19:50:02.000Z",
+      "last_updated_at": "2025-10-08T19:50:05.000Z",
+      "movie": {
+        "title": "Por Thozhil",
+        "year": 2023,
+        "ids": {
+          "trakt": 897313,
+          "slug": "por-thozhil-2023",
+          "imdb": "tt27542289",
+          "tmdb": 1115239
         }
       }
     },
@@ -10554,6 +10569,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2025-10-08T18:23:49.000Z",
+      "last_updated_at": "2025-10-08T18:23:54.000Z",
+      "movie": {
+        "title": "The Plot",
+        "year": 2024,
+        "ids": {
+          "trakt": 692551,
+          "slug": "the-plot-2024",
+          "imdb": "tt26591189",
+          "tmdb": 865910
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2024-02-08T13:33:32.000Z",
       "last_updated_at": "2024-02-08T13:33:32.000Z",
       "movie": {
@@ -11434,21 +11464,6 @@
           "slug": "juror-2-2024",
           "imdb": "tt27403986",
           "tmdb": 1106739
-        }
-      }
-    },
-    {
-      "plays": 1,
-      "last_watched_at": "2023-10-14T09:49:33.000Z",
-      "last_updated_at": "2023-10-14T09:49:33.000Z",
-      "movie": {
-        "title": "Por Thozhil",
-        "year": 2023,
-        "ids": {
-          "trakt": 897313,
-          "slug": "por-thozhil-2023",
-          "imdb": "tt27542289",
-          "tmdb": 1115239
         }
       }
     },
