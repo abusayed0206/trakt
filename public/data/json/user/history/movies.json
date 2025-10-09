@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-08T05:42:37.581095+00:00",
+    "fetched_at": "2025-10-09T05:43:16.602510+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11431641746,
+      "watched_at": "2025-10-08T19:50:02.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Por Thozhil",
+        "year": 2023,
+        "ids": {
+          "trakt": 897313,
+          "slug": "por-thozhil-2023",
+          "imdb": "tt27542289",
+          "tmdb": 1115239
+        }
+      }
+    },
+    {
+      "id": 11431098149,
+      "watched_at": "2025-10-08T18:23:49.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "The Plot",
+        "year": 2024,
+        "ids": {
+          "trakt": 692551,
+          "slug": "the-plot-2024",
+          "imdb": "tt26591189",
+          "tmdb": 865910
+        }
+      }
+    },
     {
       "id": 11377302457,
       "watched_at": "2025-10-01T13:45:34.000Z",
@@ -132,38 +164,6 @@
           "slug": "punisher-war-zone-2008",
           "imdb": "tt0450314",
           "tmdb": 13056
-        }
-      }
-    },
-    {
-      "id": 11311726580,
-      "watched_at": "2025-09-19T21:18:20.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Cellular",
-        "year": 2004,
-        "ids": {
-          "trakt": 5020,
-          "slug": "cellular-2004",
-          "imdb": "tt0337921",
-          "tmdb": 9759
-        }
-      }
-    },
-    {
-      "id": 11304432602,
-      "watched_at": "2025-09-18T15:06:12.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "The Punisher",
-        "year": 2004,
-        "ids": {
-          "trakt": 3843,
-          "slug": "the-punisher-2004",
-          "imdb": "tt0330793",
-          "tmdb": 7220
         }
       }
     }
