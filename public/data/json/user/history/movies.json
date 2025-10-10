@@ -1,12 +1,60 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-09T05:43:16.602510+00:00",
+    "fetched_at": "2025-10-10T05:43:10.765489+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11438980020,
+      "watched_at": "2025-10-09T19:33:37.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Den of Thieves",
+        "year": 2018,
+        "ids": {
+          "trakt": 296164,
+          "slug": "den-of-thieves-2018",
+          "imdb": "tt1259528",
+          "tmdb": 449443
+        }
+      }
+    },
+    {
+      "id": 11435336525,
+      "watched_at": "2025-10-09T05:58:29.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Attack on Titan II: End of the World",
+        "year": 2015,
+        "ids": {
+          "trakt": 220829,
+          "slug": "attack-on-titan-ii-end-of-the-world-2015",
+          "imdb": "tt4294052",
+          "tmdb": 340382
+        }
+      }
+    },
+    {
+      "id": 11435332441,
+      "watched_at": "2025-10-09T05:57:02.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Attack on Titan",
+        "year": 2015,
+        "ids": {
+          "trakt": 191896,
+          "slug": "attack-on-titan-2015",
+          "imdb": "tt2072230",
+          "tmdb": 295830
+        }
+      }
+    },
     {
       "id": 11431641746,
       "watched_at": "2025-10-08T19:50:02.000Z",
@@ -116,54 +164,6 @@
           "slug": "robocop-2014",
           "imdb": "tt1234721",
           "tmdb": 97020
-        }
-      }
-    },
-    {
-      "id": 11320106256,
-      "watched_at": "2025-09-21T11:32:04.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Death Race 2",
-        "year": 2010,
-        "ids": {
-          "trakt": 36230,
-          "slug": "death-race-2-2010",
-          "imdb": "tt1500491",
-          "tmdb": 51620
-        }
-      }
-    },
-    {
-      "id": 11317672518,
-      "watched_at": "2025-09-20T22:51:53.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Death Race",
-        "year": 2008,
-        "ids": {
-          "trakt": 5666,
-          "slug": "death-race-2008",
-          "imdb": "tt0452608",
-          "tmdb": 10483
-        }
-      }
-    },
-    {
-      "id": 11312084504,
-      "watched_at": "2025-09-19T22:54:20.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Punisher: War Zone",
-        "year": 2008,
-        "ids": {
-          "trakt": 7612,
-          "slug": "punisher-war-zone-2008",
-          "imdb": "tt0450314",
-          "tmdb": 13056
         }
       }
     }

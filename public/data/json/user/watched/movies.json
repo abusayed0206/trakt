@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-09T05:43:17.179513+00:00",
+    "fetched_at": "2025-10-10T05:43:12.023237+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 781
+    "count": 784
   },
   "data": [
     {
@@ -6384,6 +6384,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2025-10-09T05:57:02.000Z",
+      "last_updated_at": "2025-10-09T05:57:03.000Z",
+      "movie": {
+        "title": "Attack on Titan",
+        "year": 2015,
+        "ids": {
+          "trakt": 191896,
+          "slug": "attack-on-titan-2015",
+          "imdb": "tt2072230",
+          "tmdb": 295830
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2023-10-14T14:48:16.000Z",
       "last_updated_at": "2023-10-14T14:48:16.000Z",
       "movie": {
@@ -6904,6 +6919,21 @@
           "slug": "annihilation-2018",
           "imdb": "tt2798920",
           "tmdb": 300668
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-10-09T05:58:29.000Z",
+      "last_updated_at": "2025-10-09T05:58:30.000Z",
+      "movie": {
+        "title": "Attack on Titan II: End of the World",
+        "year": 2015,
+        "ids": {
+          "trakt": 220829,
+          "slug": "attack-on-titan-ii-end-of-the-world-2015",
+          "imdb": "tt4294052",
+          "tmdb": 340382
         }
       }
     },
@@ -7909,6 +7939,21 @@
           "slug": "guardians-of-the-galaxy-volume-3-2023",
           "imdb": "tt6791350",
           "tmdb": 447365
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-10-09T19:33:37.000Z",
+      "last_updated_at": "2025-10-09T19:33:38.000Z",
+      "movie": {
+        "title": "Den of Thieves",
+        "year": 2018,
+        "ids": {
+          "trakt": 296164,
+          "slug": "den-of-thieves-2018",
+          "imdb": "tt1259528",
+          "tmdb": 449443
         }
       }
     },
