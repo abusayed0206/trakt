@@ -1,6 +1,24 @@
 {
   "movies": [
     {
+      "tmdb_id": 449443,
+      "title": "Den of Thieves",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/449443_poster.jpg",
+      "last_watched_at": "2025-10-09T19:33:37.000Z"
+    },
+    {
+      "tmdb_id": 340382,
+      "title": "Attack on Titan II: End of the World",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/340382_poster.jpg",
+      "last_watched_at": "2025-10-09T05:58:29.000Z"
+    },
+    {
+      "tmdb_id": 295830,
+      "title": "Attack on Titan",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/295830_poster.jpg",
+      "last_watched_at": "2025-10-09T05:57:02.000Z"
+    },
+    {
       "tmdb_id": 1115239,
       "title": "Por Thozhil",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1115239_poster.jpg",
@@ -41,24 +59,6 @@
       "title": "RoboCop",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/97020_poster.jpg",
       "last_watched_at": "2025-09-22T14:40:20.000Z"
-    },
-    {
-      "tmdb_id": 51620,
-      "title": "Death Race 2",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/51620_poster.jpg",
-      "last_watched_at": "2025-09-21T11:32:04.000Z"
-    },
-    {
-      "tmdb_id": 10483,
-      "title": "Death Race",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/10483_poster.jpg",
-      "last_watched_at": "2025-09-20T22:51:53.000Z"
-    },
-    {
-      "tmdb_id": 13056,
-      "title": "Punisher: War Zone",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/13056_poster.jpg",
-      "last_watched_at": "2025-09-19T22:54:20.000Z"
     }
   ],
   "shows": [
@@ -110,12 +110,12 @@
     {
       "tmdb_id": 119051,
       "title": "Wednesday",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-04T08:28:14.000Z"
     },
     {
@@ -131,7 +131,7 @@
     {
       "tmdb_id": 1425,
       "title": "House of Cards",
-      "season": 1,
+      "season": 4,
       "available_seasons": [
         1,
         2,
@@ -140,7 +140,7 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/4/season_4_poster.jpg",
       "last_watched_at": "2025-08-03T12:13:47.000Z"
     },
     {
