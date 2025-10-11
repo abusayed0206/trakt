@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-10T05:43:12.023237+00:00",
+    "fetched_at": "2025-10-11T05:40:49.156655+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 784
+    "count": 785
   },
   "data": [
     {
@@ -1894,6 +1894,21 @@
           "slug": "pirates-of-the-caribbean-on-stranger-tides-2011",
           "imdb": "tt1298650",
           "tmdb": 1865
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-10-10T13:02:18.000Z",
+      "last_updated_at": "2025-10-10T13:02:17.000Z",
+      "movie": {
+        "title": "Star Wars: Episode I - The Phantom Menace",
+        "year": 1999,
+        "ids": {
+          "trakt": 1268,
+          "slug": "star-wars-episode-i-the-phantom-menace-1999",
+          "imdb": "tt0120915",
+          "tmdb": 1893
         }
       }
     },
