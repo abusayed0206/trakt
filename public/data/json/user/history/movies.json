@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-10T05:43:10.765489+00:00",
+    "fetched_at": "2025-10-11T05:40:47.866879+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11441563067,
+      "watched_at": "2025-10-10T13:02:18.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Star Wars: Episode I - The Phantom Menace",
+        "year": 1999,
+        "ids": {
+          "trakt": 1268,
+          "slug": "star-wars-episode-i-the-phantom-menace-1999",
+          "imdb": "tt0120915",
+          "tmdb": 1893
+        }
+      }
+    },
     {
       "id": 11438980020,
       "watched_at": "2025-10-09T19:33:37.000Z",
@@ -148,22 +164,6 @@
           "slug": "taandob-2025",
           "imdb": "tt36293840",
           "tmdb": 1396122
-        }
-      }
-    },
-    {
-      "id": 11326592581,
-      "watched_at": "2025-09-22T14:40:20.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "RoboCop",
-        "year": 2014,
-        "ids": {
-          "trakt": 70554,
-          "slug": "robocop-2014",
-          "imdb": "tt1234721",
-          "tmdb": 97020
         }
       }
     }
