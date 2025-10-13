@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-12T05:41:25.817338+00:00",
+    "fetched_at": "2025-10-13T05:43:36.595387+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
@@ -14,7 +14,7 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Ong Bak",
+        "title": "Ong-Bak",
         "year": 2003,
         "ids": {
           "trakt": 4614,
@@ -201,11 +201,11 @@
       "notes": null,
       "type": "show",
       "show": {
-        "title": "A Knight of the Seven Kingdoms: The Hedge Knight",
-        "year": null,
+        "title": "A Knight of the Seven Kingdoms",
+        "year": 2026,
         "ids": {
           "trakt": 204141,
-          "slug": "a-knight-of-the-seven-kingdoms-the-hedge-knight",
+          "slug": "a-knight-of-the-seven-kingdoms",
           "tvdb": 433631,
           "imdb": "tt27497448",
           "tmdb": 224372,

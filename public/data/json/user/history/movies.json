@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-12T05:41:23.994137+00:00",
+    "fetched_at": "2025-10-13T05:43:35.160139+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11448197093,
+      "watched_at": "2025-10-12T10:05:59.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Alien Resurrection",
+        "year": 1997,
+        "ids": {
+          "trakt": 4045,
+          "slug": "alien-resurrection-1997",
+          "imdb": "tt0118583",
+          "tmdb": 8078
+        }
+      }
+    },
     {
       "id": 11446139720,
       "watched_at": "2025-10-11T20:16:48.000Z",
@@ -148,22 +164,6 @@
           "slug": "ransom-1996",
           "imdb": "tt0117438",
           "tmdb": 3595
-        }
-      }
-    },
-    {
-      "id": 11372043617,
-      "watched_at": "2025-09-30T16:23:50.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "The Counselor",
-        "year": 2013,
-        "ids": {
-          "trakt": 77151,
-          "slug": "the-counselor-2013",
-          "imdb": "tt2193215",
-          "tmdb": 109091
         }
       }
     }
