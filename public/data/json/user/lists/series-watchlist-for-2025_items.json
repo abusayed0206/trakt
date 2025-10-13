@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-12T05:41:26.599186+00:00",
+    "fetched_at": "2025-10-13T05:43:37.958504+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -730,25 +730,6 @@
       }
     },
     {
-      "rank": 71,
-      "id": 1286151520,
-      "listed_at": "2025-07-23T21:00:34.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "The Last Ship",
-        "year": 2014,
-        "ids": {
-          "trakt": 60360,
-          "slug": "the-last-ship",
-          "tvdb": 269533,
-          "imdb": "tt2402207",
-          "tmdb": 60802,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 14,
       "id": 1153031245,
       "listed_at": "2025-01-08T18:16:56.000Z",
@@ -768,20 +749,20 @@
       }
     },
     {
-      "rank": 61,
-      "id": 1286150874,
-      "listed_at": "2025-07-23T20:59:39.000Z",
+      "rank": 71,
+      "id": 1286151520,
+      "listed_at": "2025-07-23T21:00:34.000Z",
       "notes": null,
       "type": "show",
       "show": {
-        "title": "Burn Notice",
-        "year": 2007,
+        "title": "The Last Ship",
+        "year": 2014,
         "ids": {
-          "trakt": 2900,
-          "slug": "burn-notice",
-          "tvdb": 80270,
-          "imdb": "tt0810788",
-          "tmdb": 2919,
+          "trakt": 60360,
+          "slug": "the-last-ship",
+          "tvdb": 269533,
+          "imdb": "tt2402207",
+          "tmdb": 60802,
           "tvrage": null
         }
       }
@@ -806,6 +787,25 @@
       }
     },
     {
+      "rank": 61,
+      "id": 1286150874,
+      "listed_at": "2025-07-23T20:59:39.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Burn Notice",
+        "year": 2007,
+        "ids": {
+          "trakt": 2900,
+          "slug": "burn-notice",
+          "tvdb": 80270,
+          "imdb": "tt0810788",
+          "tmdb": 2919,
+          "tvrage": null
+        }
+      }
+    },
+    {
       "rank": 47,
       "id": 1153419635,
       "listed_at": "2025-01-09T10:27:58.000Z",
@@ -825,25 +825,6 @@
       }
     },
     {
-      "rank": 9,
-      "id": 1133528027,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "Law & Order: Special Victims Unit",
-        "year": 1999,
-        "ids": {
-          "trakt": 2716,
-          "slug": "law-order-special-victims-unit",
-          "tvdb": 75692,
-          "imdb": "tt0203259",
-          "tmdb": 2734,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 55,
       "id": 1285066962,
       "listed_at": "2025-07-22T20:09:52.000Z",
@@ -858,6 +839,25 @@
           "tvdb": 446831,
           "imdb": "tt31510819",
           "tmdb": 247718,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "id": 1133528027,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Law & Order: Special Victims Unit",
+        "year": 1999,
+        "ids": {
+          "trakt": 2716,
+          "slug": "law-order-special-victims-unit",
+          "tvdb": 75692,
+          "imdb": "tt0203259",
+          "tmdb": 2734,
           "tvrage": null
         }
       }
@@ -901,25 +901,6 @@
       }
     },
     {
-      "rank": 72,
-      "id": 1286151594,
-      "listed_at": "2025-07-23T21:00:44.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "Leverage",
-        "year": 2008,
-        "ids": {
-          "trakt": 7438,
-          "slug": "leverage",
-          "tvdb": 82339,
-          "imdb": "tt1103987",
-          "tmdb": 7482,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 22,
       "id": 1153031275,
       "listed_at": "2025-01-08T18:20:08.000Z",
@@ -958,20 +939,20 @@
       }
     },
     {
-      "rank": 29,
-      "id": 1153031321,
-      "listed_at": "2025-01-08T18:22:47.000Z",
+      "rank": 72,
+      "id": 1286151594,
+      "listed_at": "2025-07-23T21:00:44.000Z",
       "notes": null,
       "type": "show",
       "show": {
-        "title": "Chicago P.D.",
-        "year": 2014,
+        "title": "Leverage",
+        "year": 2008,
         "ids": {
-          "trakt": 58454,
-          "slug": "chicago-p-d",
-          "tvdb": 269641,
-          "imdb": "tt2805096",
-          "tmdb": 58841,
+          "trakt": 7438,
+          "slug": "leverage",
+          "tvdb": 82339,
+          "imdb": "tt1103987",
+          "tmdb": 7482,
           "tvrage": null
         }
       }
@@ -996,6 +977,25 @@
       }
     },
     {
+      "rank": 29,
+      "id": 1153031321,
+      "listed_at": "2025-01-08T18:22:47.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Chicago P.D.",
+        "year": 2014,
+        "ids": {
+          "trakt": 58454,
+          "slug": "chicago-p-d",
+          "tvdb": 269641,
+          "imdb": "tt2805096",
+          "tmdb": 58841,
+          "tvrage": null
+        }
+      }
+    },
+    {
       "rank": 74,
       "id": 1286151728,
       "listed_at": "2025-07-23T21:00:58.000Z",
@@ -1010,6 +1010,25 @@
           "tvdb": 295515,
           "imdb": "tt4428122",
           "tmdb": 62816,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 35,
+      "id": 1273910724,
+      "listed_at": "2025-07-08T19:03:09.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Pitt",
+        "year": 2025,
+        "ids": {
+          "trakt": 232884,
+          "slug": "the-pitt",
+          "tvdb": 448176,
+          "imdb": "tt31938062",
+          "tmdb": 250307,
           "tvrage": null
         }
       }
@@ -1048,25 +1067,6 @@
           "tvdb": 289079,
           "imdb": "tt3865236",
           "tmdb": 47450,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "rank": 35,
-      "id": 1273910724,
-      "listed_at": "2025-07-08T19:03:09.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "The Pitt",
-        "year": 2025,
-        "ids": {
-          "trakt": 232884,
-          "slug": "the-pitt",
-          "tvdb": 448176,
-          "imdb": "tt31938062",
-          "tmdb": 250307,
           "tvrage": null
         }
       }
