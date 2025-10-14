@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-13T05:43:36.228375+00:00",
+    "fetched_at": "2025-10-14T05:42:44.570940+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
-    "count": 136
+    "count": 137
   },
   "data": [
     {
@@ -22307,6 +22307,111 @@
               "number": 11,
               "plays": 1,
               "last_watched_at": "2023-10-14T08:07:13.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plays": 16,
+      "last_watched_at": "2023-10-09T14:27:00.000Z",
+      "last_updated_at": "2025-10-13T14:27:36.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Blind",
+        "year": 2022,
+        "ids": {
+          "trakt": 197839,
+          "slug": "blind",
+          "tvdb": 421488,
+          "imdb": "tt21631058",
+          "tmdb": 158865,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 11,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 12,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 13,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 14,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 15,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
+            },
+            {
+              "number": 16,
+              "plays": 1,
+              "last_watched_at": "2023-10-09T14:27:00.000Z"
             }
           ]
         }
