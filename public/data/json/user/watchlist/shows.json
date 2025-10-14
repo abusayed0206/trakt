@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-13T05:43:37.125887+00:00",
+    "fetched_at": "2025-10-14T05:42:45.277232+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/shows.json",
-    "count": 1
+    "count": 2
   },
   "data": [
     {
@@ -22,6 +22,25 @@
           "tvdb": 433631,
           "imdb": "tt27497448",
           "tmdb": 224372,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 15,
+      "id": 1336895730,
+      "listed_at": "2025-10-13T10:17:31.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Manifest",
+        "year": 2018,
+        "ids": {
+          "trakt": 133259,
+          "slug": "manifest",
+          "tvdb": 349271,
+          "imdb": "tt8421350",
+          "tmdb": 79696,
           "tvrage": null
         }
       }

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-13T05:43:36.595387+00:00",
+    "fetched_at": "2025-10-14T05:42:44.983721+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
-    "count": 20
+    "count": 21
   },
   "data": [
     {
@@ -249,6 +249,25 @@
     },
     {
       "rank": 15,
+      "id": 1336895730,
+      "listed_at": "2025-10-13T10:17:31.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Manifest",
+        "year": 2018,
+        "ids": {
+          "trakt": 133259,
+          "slug": "manifest",
+          "tvdb": 349271,
+          "imdb": "tt8421350",
+          "tmdb": 79696,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 16,
       "id": 1326973797,
       "listed_at": "2025-09-29T14:54:12.000Z",
       "notes": null,
@@ -265,7 +284,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": 1285064215,
       "listed_at": "2025-07-22T20:04:33.000Z",
       "notes": null,
@@ -282,7 +301,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": 1290228070,
       "listed_at": "2025-07-28T13:19:02.000Z",
       "notes": null,
@@ -299,7 +318,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": 1285064977,
       "listed_at": "2025-07-22T20:05:47.000Z",
       "notes": null,
@@ -316,7 +335,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": 1285065122,
       "listed_at": "2025-07-22T20:06:09.000Z",
       "notes": null,
@@ -333,7 +352,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": 1285065712,
       "listed_at": "2025-07-22T20:07:01.000Z",
       "notes": null,
