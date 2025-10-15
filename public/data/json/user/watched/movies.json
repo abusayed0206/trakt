@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-14T05:42:42.763361+00:00",
+    "fetched_at": "2025-10-15T05:42:57.953582+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
@@ -1393,10 +1393,10 @@
       "last_updated_at": "2024-06-27T06:36:31.000Z",
       "movie": {
         "title": "V for Vendetta",
-        "year": 2005,
+        "year": 2006,
         "ids": {
           "trakt": 595,
-          "slug": "v-for-vendetta-2005",
+          "slug": "v-for-vendetta-2006",
           "imdb": "tt0434409",
           "tmdb": 752
         }
@@ -4917,11 +4917,11 @@
       "last_watched_at": "2011-04-01T17:00:00.000Z",
       "last_updated_at": "2024-11-12T16:18:26.000Z",
       "movie": {
-        "title": "Amar Bondhu Rashed",
+        "title": "My Friend Rashed",
         "year": 2011,
         "ids": {
           "trakt": 68860,
-          "slug": "amar-bondhu-rashed-2011",
+          "slug": "my-friend-rashed-2011",
           "imdb": "tt1918969",
           "tmdb": 93529
         }

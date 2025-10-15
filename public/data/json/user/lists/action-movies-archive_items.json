@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-14T05:42:46.296622+00:00",
+    "fetched_at": "2025-10-15T05:42:59.695448+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -3483,10 +3483,10 @@
       "type": "movie",
       "movie": {
         "title": "Blood Simple",
-        "year": 1984,
+        "year": 1985,
         "ids": {
           "trakt": 6464,
-          "slug": "blood-simple-1984",
+          "slug": "blood-simple-1985",
           "imdb": "tt0086979",
           "tmdb": 11368
         }
@@ -10895,10 +10895,10 @@
       "type": "movie",
       "movie": {
         "title": "The Good Thief",
-        "year": 2002,
+        "year": 2003,
         "ids": {
           "trakt": 3442,
-          "slug": "the-good-thief-2002",
+          "slug": "the-good-thief-2003",
           "imdb": "tt0281820",
           "tmdb": 6016
         }
@@ -24019,10 +24019,10 @@
       "type": "movie",
       "movie": {
         "title": "Shadow in the Cloud",
-        "year": 2020,
+        "year": 2021,
         "ids": {
           "trakt": 508648,
-          "slug": "shadow-in-the-cloud-2020",
+          "slug": "shadow-in-the-cloud-2021",
           "imdb": "tt9691136",
           "tmdb": 675327
         }
