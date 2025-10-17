@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-16T05:42:44.560862+00:00",
+    "fetched_at": "2025-10-17T05:45:18.084270+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -15604,10 +15604,10 @@
       "type": "movie",
       "movie": {
         "title": "Legend of the White Dragon",
-        "year": 2023,
+        "year": null,
         "ids": {
           "trakt": 673734,
-          "slug": "legend-of-the-white-dragon-2023",
+          "slug": "legend-of-the-white-dragon",
           "imdb": "tt12446086",
           "tmdb": 843352
         }
@@ -28337,10 +28337,10 @@
       "type": "movie",
       "movie": {
         "title": "Universal Soldier: Regeneration",
-        "year": 2009,
+        "year": 2010,
         "ids": {
           "trakt": 17792,
-          "slug": "universal-soldier-regeneration-2009",
+          "slug": "universal-soldier-regeneration-2010",
           "imdb": "tt1288403",
           "tmdb": 28510
         }

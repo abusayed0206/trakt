@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-16T05:42:42.512734+00:00",
+    "fetched_at": "2025-10-17T05:45:14.027119+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11465567639,
+      "watched_at": "2025-10-16T10:43:27.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 2,
+        "title": "Compulsion",
+        "ids": {
+          "trakt": 291404,
+          "tvdb": 300385,
+          "imdb": "tt0550487",
+          "tmdb": 282861,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11465476408,
+      "watched_at": "2025-10-16T09:49:15.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 1,
+        "title": "Extreme Aggressor",
+        "ids": {
+          "trakt": 291403,
+          "tvdb": 176357,
+          "imdb": "tt0550489",
+          "tmdb": 282843,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11349792187,
       "watched_at": "2025-09-26T20:33:54.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 189325,
           "imdb": "tt0502211",
           "tmdb": 134514,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11283432737,
-      "watched_at": "2025-09-14T21:32:06.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 21,
-        "title": "Day 3: 9:00 A.M.-10:00 A.M.",
-        "ids": {
-          "trakt": 146315,
-          "tvdb": 189323,
-          "imdb": "tt0502231",
-          "tmdb": 134511,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11283271682,
-      "watched_at": "2025-09-14T21:07:14.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 20,
-        "title": "Day 3: 8:00 A.M.-9:00 A.M.",
-        "ids": {
-          "trakt": 146314,
-          "tvdb": 189322,
-          "imdb": "tt0502229",
-          "tmdb": 134510,
           "tvrage": null
         }
       },
