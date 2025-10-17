@@ -63,15 +63,25 @@
   ],
   "shows": [
     {
+      "tmdb_id": 4057,
+      "title": "Criminal Minds",
+      "season": 1,
+      "available_seasons": [
+        1
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/1/season_1_poster.jpg",
+      "last_watched_at": "2025-10-16T10:43:27.000Z"
+    },
+    {
       "tmdb_id": 110316,
       "title": "Alice in Borderland",
-      "season": 3,
+      "season": 1,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/110316/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/110316/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-26T20:33:54.000Z"
     },
     {
@@ -162,16 +172,6 @@
       ],
       "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/97173/1/season_1_poster.jpg",
       "last_watched_at": "2025-07-08T19:32:21.000Z"
-    },
-    {
-      "tmdb_id": 61859,
-      "title": "The Night Manager",
-      "season": 1,
-      "available_seasons": [
-        1
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/61859/1/season_1_poster.jpg",
-      "last_watched_at": "2025-07-08T09:35:47.000Z"
     }
   ]
 }
