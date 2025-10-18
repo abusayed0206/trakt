@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-17T05:45:13.845099+00:00",
+    "fetched_at": "2025-10-18T05:42:07.835677+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11470577591,
+      "watched_at": "2025-10-17T19:13:56.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Michael Clayton",
+        "year": 2007,
+        "ids": {
+          "trakt": 2691,
+          "slug": "michael-clayton-2007",
+          "imdb": "tt0465538",
+          "tmdb": 4566
+        }
+      }
+    },
     {
       "id": 11448197093,
       "watched_at": "2025-10-12T10:05:59.000Z",
@@ -148,22 +164,6 @@
           "slug": "the-plot-2024",
           "imdb": "tt26591189",
           "tmdb": 865910
-        }
-      }
-    },
-    {
-      "id": 11377302457,
-      "watched_at": "2025-10-01T13:45:34.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Ransom",
-        "year": 1996,
-        "ids": {
-          "trakt": 2302,
-          "slug": "ransom-1996",
-          "imdb": "tt0117438",
-          "tmdb": 3595
         }
       }
     }
