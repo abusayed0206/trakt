@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-18T05:42:08.156231+00:00",
+    "fetched_at": "2025-10-19T05:42:35.040568+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11472558118,
+      "watched_at": "2025-10-18T09:28:45.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 3,
+        "title": "Won't Get Fooled Again",
+        "ids": {
+          "trakt": 291405,
+          "tvdb": 300474,
+          "imdb": "tt0550498",
+          "tmdb": 282865,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11465567639,
       "watched_at": "2025-10-16T10:43:27.000Z",
@@ -261,36 +291,6 @@
           "tvdb": 189326,
           "imdb": "tt0502214",
           "tmdb": 134517,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11285703731,
-      "watched_at": "2025-09-15T08:26:57.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 23,
-        "title": "Day 3: 11:00 A.M.-12:00 P.M.",
-        "ids": {
-          "trakt": 146317,
-          "tvdb": 189325,
-          "imdb": "tt0502211",
-          "tmdb": 134514,
           "tvrage": null
         }
       },
