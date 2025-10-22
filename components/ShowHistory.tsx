@@ -59,16 +59,18 @@ export default function ShowHistory() {
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
         {history.map((item) => (
           <div key={item.id} className="group">
-            <div className="relative overflow-hidden rounded-lg mb-3 aspect-[2/3] bg-gray-100">
-              <LazyImage
-                tmdbId={item.show!.ids.tmdb.toString()}
-                type="shows"
-                category="posters"
-                season={item.episode!.season.toString()}
-                alt={`${item.show!.title} Season ${item.episode!.season}`}
-                className="w-full h-full"
-              />
-            </div>
+            <Link href={`/tv/${item.show!.ids.tmdb}`}>
+              <div className="relative overflow-hidden rounded-lg mb-3 aspect-[2/3] bg-gray-100 cursor-pointer">
+                <LazyImage
+                  tmdbId={item.show!.ids.tmdb.toString()}
+                  type="shows"
+                  category="posters"
+                  season={item.episode!.season.toString()}
+                  alt={`${item.show!.title} Season ${item.episode!.season}`}
+                  className="w-full h-full"
+                />
+              </div>
+            </Link>
             
             {/* External links below poster */}
             <div className="flex gap-4 mb-2 justify-center">
