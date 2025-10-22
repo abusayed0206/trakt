@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-21T05:43:17.502333+00:00",
+    "fetched_at": "2025-10-22T05:44:26.348273+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,9 @@
   },
   "data": [
     {
-      "plays": 4,
-      "last_watched_at": "2025-10-18T09:28:45.000Z",
-      "last_updated_at": "2025-10-18T09:28:45.000Z",
+      "plays": 7,
+      "last_watched_at": "2025-10-21T19:21:13.000Z",
+      "last_updated_at": "2025-10-21T19:21:13.000Z",
       "reset_at": null,
       "show": {
         "title": "Criminal Minds",
@@ -42,6 +42,21 @@
               "number": 3,
               "plays": 1,
               "last_watched_at": "2025-10-18T09:28:45.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-10-21T08:41:28.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-10-21T18:26:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-10-21T19:21:13.000Z"
             }
           ]
         }
