@@ -67,19 +67,21 @@ export default function WatchedShowsGrid() {
           
           return (
             <div key={item.show.ids.trakt} className="group">
-              <div className="relative overflow-hidden rounded-lg mb-3 aspect-[2/3] bg-gray-100">
-                <div className="absolute top-2 left-2 bg-gray-800 text-white text-xs font-bold px-2 py-1 rounded z-10 flex items-center gap-1">
-                  <span className="w-2 h-2 bg-white rounded-full"></span>
-                  {totalEpisodes}
+              <Link href={`/tv/${item.show.ids.tmdb}`}>
+                <div className="relative overflow-hidden rounded-lg mb-3 aspect-[2/3] bg-gray-100 cursor-pointer">
+                  <div className="absolute top-2 left-2 bg-gray-800 text-white text-xs font-bold px-2 py-1 rounded z-10 flex items-center gap-1">
+                    <span className="w-2 h-2 bg-white rounded-full"></span>
+                    {totalEpisodes}
+                  </div>
+                  <LazyImage
+                    tmdbId={item.show.ids.tmdb.toString()}
+                    type="shows"
+                    category="posters"
+                    alt={item.show.title}
+                    className="w-full h-full"
+                  />
                 </div>
-                <LazyImage
-                  tmdbId={item.show.ids.tmdb.toString()}
-                  type="shows"
-                  category="posters"
-                  alt={item.show.title}
-                  className="w-full h-full"
-                />
-              </div>
+              </Link>
               
               {/* External links below poster */}
               <div className="flex gap-4 mb-2 justify-center">

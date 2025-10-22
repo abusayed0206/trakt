@@ -64,21 +64,23 @@ export default function WatchedMoviesGrid() {
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
         {displayedMovies.map((item) => (
           <div key={item.movie.ids.trakt} className="group">
-            <div className="relative overflow-hidden rounded-lg mb-3 aspect-[2/3] bg-gray-100">
-              {item.plays > 1 && (
-                <div className="absolute top-2 left-2 bg-gray-800 text-white text-xs font-bold px-2 py-1 rounded z-10 flex items-center gap-1">
-                  <span className="w-2 h-2 bg-white rounded-full"></span>
-                  {item.plays}
-                </div>
-              )}
-              <LazyImage
-                tmdbId={item.movie.ids.tmdb.toString()}
-                type="movies"
-                category="posters"
-                alt={item.movie.title}
-                className="w-full h-full"
-              />
-            </div>
+            <Link href={`/movie/${item.movie.ids.tmdb}`}>
+              <div className="relative overflow-hidden rounded-lg mb-3 aspect-[2/3] bg-gray-100 cursor-pointer">
+                {item.plays > 1 && (
+                  <div className="absolute top-2 left-2 bg-gray-800 text-white text-xs font-bold px-2 py-1 rounded z-10 flex items-center gap-1">
+                    <span className="w-2 h-2 bg-white rounded-full"></span>
+                    {item.plays}
+                  </div>
+                )}
+                <LazyImage
+                  tmdbId={item.movie.ids.tmdb.toString()}
+                  type="movies"
+                  category="posters"
+                  alt={item.movie.title}
+                  className="w-full h-full"
+                />
+              </div>
+            </Link>
             
             {/* External links below poster */}
             <div className="flex gap-4 mb-2 justify-center">
