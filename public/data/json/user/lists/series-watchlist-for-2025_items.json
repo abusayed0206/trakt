@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-23T05:43:27.617580+00:00",
+    "fetched_at": "2025-10-24T05:43:00.258379+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -920,25 +920,6 @@
       }
     },
     {
-      "rank": 10,
-      "id": 1133528028,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "CSI: Crime Scene Investigation",
-        "year": 2000,
-        "ids": {
-          "trakt": 1422,
-          "slug": "csi-crime-scene-investigation",
-          "tvdb": 72546,
-          "imdb": "tt0247082",
-          "tmdb": 1431,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 72,
       "id": 1286151594,
       "listed_at": "2025-07-23T21:00:44.000Z",
@@ -972,6 +953,25 @@
           "tvdb": 399917,
           "imdb": "tt11743610",
           "tmdb": 120911,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 36,
+      "id": 1273910724,
+      "listed_at": "2025-07-08T19:03:09.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Pitt",
+        "year": 2025,
+        "ids": {
+          "trakt": 232884,
+          "slug": "the-pitt",
+          "tvdb": 448176,
+          "imdb": "tt31938062",
+          "tmdb": 250307,
           "tvrage": null
         }
       }
@@ -1015,20 +1015,20 @@
       }
     },
     {
-      "rank": 36,
-      "id": 1273910724,
-      "listed_at": "2025-07-08T19:03:09.000Z",
+      "rank": 10,
+      "id": 1133528028,
+      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null,
       "type": "show",
       "show": {
-        "title": "The Pitt",
-        "year": 2025,
+        "title": "CSI: Crime Scene Investigation",
+        "year": 2000,
         "ids": {
-          "trakt": 232884,
-          "slug": "the-pitt",
-          "tvdb": 448176,
-          "imdb": "tt31938062",
-          "tmdb": 250307,
+          "trakt": 1422,
+          "slug": "csi-crime-scene-investigation",
+          "tvdb": 72546,
+          "imdb": "tt0247082",
+          "tmdb": 1431,
           "tvrage": null
         }
       }
@@ -1072,25 +1072,6 @@
       }
     },
     {
-      "rank": 73,
-      "id": 1286151708,
-      "listed_at": "2025-07-23T21:00:54.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "NCIS: Los Angeles",
-        "year": 2009,
-        "ids": {
-          "trakt": 17532,
-          "slug": "ncis-los-angeles",
-          "tvdb": 95441,
-          "imdb": "tt1378167",
-          "tmdb": 17610,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 11,
       "id": 1133528029,
       "listed_at": "2024-12-04T17:14:17.000Z",
@@ -1105,6 +1086,25 @@
           "tvdb": 70682,
           "imdb": "tt0118421",
           "tmdb": 3322,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 73,
+      "id": 1286151708,
+      "listed_at": "2025-07-23T21:00:54.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "NCIS: Los Angeles",
+        "year": 2009,
+        "ids": {
+          "trakt": 17532,
+          "slug": "ncis-los-angeles",
+          "tvdb": 95441,
+          "imdb": "tt1378167",
+          "tmdb": 17610,
           "tvrage": null
         }
       }
@@ -1186,25 +1186,6 @@
       }
     },
     {
-      "rank": 77,
-      "id": 1286152000,
-      "listed_at": "2025-07-23T21:01:19.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "Strike Back",
-        "year": 2010,
-        "ids": {
-          "trakt": 32433,
-          "slug": "strike-back",
-          "tvdb": 148581,
-          "imdb": "tt1492179",
-          "tmdb": 32573,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 60,
       "id": 1286150872,
       "listed_at": "2025-07-23T20:59:36.000Z",
@@ -1219,6 +1200,25 @@
           "tvdb": 287314,
           "imdb": "tt3520702",
           "tmdb": 61986,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 77,
+      "id": 1286152000,
+      "listed_at": "2025-07-23T21:01:19.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Strike Back",
+        "year": 2010,
+        "ids": {
+          "trakt": 32433,
+          "slug": "strike-back",
+          "tvdb": 148581,
+          "imdb": "tt1492179",
+          "tmdb": 32573,
           "tvrage": null
         }
       }
