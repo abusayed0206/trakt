@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-23T05:43:25.307611+00:00",
+    "fetched_at": "2025-10-24T05:42:57.959826+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11490231445,
+      "watched_at": "2025-10-23T16:35:03.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 9,
+        "title": "Derailed",
+        "ids": {
+          "trakt": 291411,
+          "tvdb": 301325,
+          "imdb": "tt0550488",
+          "tmdb": 282893,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11490111359,
+      "watched_at": "2025-10-23T15:30:36.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 8,
+        "title": "Natural Born Killer",
+        "ids": {
+          "trakt": 291410,
+          "tvdb": 301327,
+          "imdb": "tt0550491",
+          "tmdb": 282889,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11487134871,
       "watched_at": "2025-10-22T16:13:44.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 11167781,
           "imdb": "tt38509472",
           "tmdb": 6527743,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Alice in Borderland",
-        "year": 2020,
-        "ids": {
-          "trakt": 157841,
-          "slug": "alice-in-borderland-2020",
-          "tvdb": 376472,
-          "imdb": "tt10795658",
-          "tmdb": 110316,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11344674879,
-      "watched_at": "2025-09-25T22:53:47.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 5,
-        "title": "Episode 5",
-        "ids": {
-          "trakt": 13511922,
-          "tvdb": 11167780,
-          "imdb": "tt38509471",
-          "tmdb": 6527742,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Alice in Borderland",
-        "year": 2020,
-        "ids": {
-          "trakt": 157841,
-          "slug": "alice-in-borderland-2020",
-          "tvdb": 376472,
-          "imdb": "tt10795658",
-          "tmdb": 110316,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11344536100,
-      "watched_at": "2025-09-25T22:08:23.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 4,
-        "title": "Episode 4",
-        "ids": {
-          "trakt": 13511919,
-          "tvdb": 11167779,
-          "imdb": "tt38509470",
-          "tmdb": 6527740,
           "tvrage": null
         }
       },
