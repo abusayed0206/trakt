@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-27T05:45:27.088629+00:00",
+    "fetched_at": "2025-10-28T05:44:38.673645+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11501898287,
+      "watched_at": "2025-10-27T08:31:03.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 14,
+        "title": "Riding the Lightning",
+        "ids": {
+          "trakt": 291416,
+          "tvdb": 301450,
+          "imdb": "tt0758177",
+          "tmdb": 282912,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11501848609,
+      "watched_at": "2025-10-27T07:51:41.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 13,
+        "title": "Poison",
+        "ids": {
+          "trakt": 291415,
+          "tvdb": 301449,
+          "imdb": "tt0550493",
+          "tmdb": 1005469,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11493953946,
       "watched_at": "2025-10-24T20:55:42.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 300614,
           "imdb": "tt0550486",
           "tmdb": 282875,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11483049357,
-      "watched_at": "2025-10-21T08:41:28.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 4,
-        "title": "Plain Sight",
-        "ids": {
-          "trakt": 291406,
-          "tvdb": 300475,
-          "imdb": "tt0550492",
-          "tmdb": 282871,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11472558118,
-      "watched_at": "2025-10-18T09:28:45.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 3,
-        "title": "Won't Get Fooled Again",
-        "ids": {
-          "trakt": 291405,
-          "tvdb": 300474,
-          "imdb": "tt0550498",
-          "tmdb": 282865,
           "tvrage": null
         }
       },
