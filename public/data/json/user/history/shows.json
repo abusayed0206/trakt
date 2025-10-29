@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-28T05:44:38.673645+00:00",
+    "fetched_at": "2025-10-29T05:45:03.665451+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11505900399,
+      "watched_at": "2025-10-28T11:33:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 15,
+        "title": "Unfinished Business",
+        "ids": {
+          "trakt": 291417,
+          "tvdb": 303568,
+          "imdb": "tt0550496",
+          "tmdb": 282913,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11501898287,
       "watched_at": "2025-10-27T08:31:03.000Z",
@@ -261,36 +291,6 @@
           "tvdb": 301323,
           "imdb": "tt0550490",
           "tmdb": 282879,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11484206641,
-      "watched_at": "2025-10-21T18:26:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 5,
-        "title": "Broken Mirror",
-        "ids": {
-          "trakt": 291407,
-          "tvdb": 300614,
-          "imdb": "tt0550486",
-          "tmdb": 282875,
           "tvrage": null
         }
       },
