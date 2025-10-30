@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-10-29T05:45:04.994745+00:00",
+    "fetched_at": "2025-10-30T05:43:32.736409+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
@@ -244,8 +244,7 @@
           "imdb": "tt27497448",
           "tmdb": 224372,
           "tvrage": null
-        },
-        "aired_episodes": 0
+        }
       }
     },
     {
@@ -281,8 +280,7 @@
           "imdb": "tt8421350",
           "tmdb": 79696,
           "tvrage": null
-        },
-        "aired_episodes": 62
+        }
       }
     },
     {
