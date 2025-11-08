@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "tmdb_id": 269149,
+      "title": "Zootopia",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/269149_poster.jpg",
+      "last_watched_at": "2025-11-07T21:40:02.000Z"
+    },
+    {
       "tmdb_id": 4566,
       "title": "Michael Clayton",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/4566_poster.jpg",
@@ -53,12 +59,6 @@
       "title": "Por Thozhil",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1115239_poster.jpg",
       "last_watched_at": "2025-10-08T19:50:02.000Z"
-    },
-    {
-      "tmdb_id": 865910,
-      "title": "The Plot",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/865910_poster.jpg",
-      "last_watched_at": "2025-10-08T18:23:49.000Z"
     }
   ],
   "shows": [
@@ -75,13 +75,13 @@
     {
       "tmdb_id": 110316,
       "title": "Alice in Borderland",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/110316/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/110316/2/season_2_poster.jpg",
       "last_watched_at": "2025-09-26T20:33:54.000Z"
     },
     {
@@ -99,12 +99,12 @@
     {
       "tmdb_id": 1415,
       "title": "Elementary",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-10T09:38:40.000Z"
     },
     {
@@ -120,12 +120,12 @@
     {
       "tmdb_id": 119051,
       "title": "Wednesday",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
       "last_watched_at": "2025-09-04T08:28:14.000Z"
     },
     {
