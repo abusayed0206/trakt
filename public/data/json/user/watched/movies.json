@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-07T05:44:02.914364+00:00",
+    "fetched_at": "2025-11-08T05:42:26.503577+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 789
+    "count": 790
   },
   "data": [
     {
@@ -6139,6 +6139,21 @@
           "slug": "london-has-fallen-2016",
           "imdb": "tt3300542",
           "tmdb": 267860
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-11-07T21:40:02.000Z",
+      "last_updated_at": "2025-11-07T21:40:02.000Z",
+      "movie": {
+        "title": "Zootopia",
+        "year": 2016,
+        "ids": {
+          "trakt": 167397,
+          "slug": "zootopia-2016",
+          "imdb": "tt2948356",
+          "tmdb": 269149
         }
       }
     },

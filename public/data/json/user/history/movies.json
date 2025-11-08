@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-07T05:44:02.548896+00:00",
+    "fetched_at": "2025-11-08T05:42:25.128239+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11601238068,
+      "watched_at": "2025-11-07T21:40:02.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Zootopia",
+        "year": 2016,
+        "ids": {
+          "trakt": 167397,
+          "slug": "zootopia-2016",
+          "imdb": "tt2948356",
+          "tmdb": 269149
+        }
+      }
+    },
     {
       "id": 11470577591,
       "watched_at": "2025-10-17T19:13:56.000Z",
@@ -148,22 +164,6 @@
           "slug": "por-thozhil-2023",
           "imdb": "tt27542289",
           "tmdb": 1115239
-        }
-      }
-    },
-    {
-      "id": 11431098149,
-      "watched_at": "2025-10-08T18:23:49.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "The Plot",
-        "year": 2024,
-        "ids": {
-          "trakt": 692551,
-          "slug": "the-plot-2024",
-          "imdb": "tt26591189",
-          "tmdb": 865910
         }
       }
     }
