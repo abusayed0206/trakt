@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-09T05:42:25.716509+00:00",
+    "fetched_at": "2025-11-10T05:44:38.529745+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11607420130,
+      "watched_at": "2025-11-09T12:57:49.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Vikram",
+        "year": 2022,
+        "ids": {
+          "trakt": 584324,
+          "slug": "vikram-2022",
+          "imdb": "tt9179430",
+          "tmdb": 743563
+        }
+      }
+    },
     {
       "id": 11601238068,
       "watched_at": "2025-11-07T21:40:02.000Z",
@@ -148,22 +164,6 @@
           "slug": "attack-on-titan-2015",
           "imdb": "tt2072230",
           "tmdb": 295830
-        }
-      }
-    },
-    {
-      "id": 11431641746,
-      "watched_at": "2025-10-08T19:50:02.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Por Thozhil",
-        "year": 2023,
-        "ids": {
-          "trakt": 897313,
-          "slug": "por-thozhil-2023",
-          "imdb": "tt27542289",
-          "tmdb": 1115239
         }
       }
     }
