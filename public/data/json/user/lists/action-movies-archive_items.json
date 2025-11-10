@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-09T05:42:28.797546+00:00",
+    "fetched_at": "2025-11-10T05:44:44.557018+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -19582,10 +19582,10 @@
       "type": "movie",
       "movie": {
         "title": "Oculus",
-        "year": 2013,
+        "year": 2014,
         "ids": {
           "trakt": 102273,
-          "slug": "oculus-2014-04-03",
+          "slug": "oculus-2014",
           "imdb": "tt2388715",
           "tmdb": 157547
         }
