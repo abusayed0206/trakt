@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-12T05:44:29.421939+00:00",
+    "fetched_at": "2025-11-13T05:45:51.446743+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11626983541,
+      "watched_at": "2025-11-12T20:59:10.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Collateral",
+        "year": 2004,
+        "ids": {
+          "trakt": 998,
+          "slug": "collateral-2004",
+          "imdb": "tt0369339",
+          "tmdb": 1538
+        }
+      }
+    },
     {
       "id": 11607420130,
       "watched_at": "2025-11-09T12:57:49.000Z",
@@ -148,22 +164,6 @@
           "slug": "attack-on-titan-ii-end-of-the-world-2015",
           "imdb": "tt4294052",
           "tmdb": 340382
-        }
-      }
-    },
-    {
-      "id": 11435332441,
-      "watched_at": "2025-10-09T05:57:02.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Attack on Titan",
-        "year": 2015,
-        "ids": {
-          "trakt": 191896,
-          "slug": "attack-on-titan-2015",
-          "imdb": "tt2072230",
-          "tmdb": 295830
         }
       }
     }

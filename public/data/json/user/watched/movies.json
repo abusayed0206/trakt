@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-12T05:44:29.780767+00:00",
+    "fetched_at": "2025-11-13T05:45:52.615504+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 791
+    "count": 792
   },
   "data": [
     {
@@ -1684,6 +1684,21 @@
           "slug": "the-illusionist-2006",
           "imdb": "tt0443543",
           "tmdb": 1491
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-11-12T20:59:10.000Z",
+      "last_updated_at": "2025-11-12T20:59:10.000Z",
+      "movie": {
+        "title": "Collateral",
+        "year": 2004,
+        "ids": {
+          "trakt": 998,
+          "slug": "collateral-2004",
+          "imdb": "tt0369339",
+          "tmdb": 1538
         }
       }
     },
