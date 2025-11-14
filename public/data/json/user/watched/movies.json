@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-13T05:45:52.615504+00:00",
+    "fetched_at": "2025-11-14T05:44:14.154297+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 792
+    "count": 793
   },
   "data": [
     {
@@ -2569,6 +2569,21 @@
           "slug": "eraser-1996",
           "imdb": "tt0116213",
           "tmdb": 9268
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2025-11-13T14:44:01.000Z",
+      "last_updated_at": "2025-11-13T14:44:01.000Z",
+      "movie": {
+        "title": "Nikita",
+        "year": 1990,
+        "ids": {
+          "trakt": 4620,
+          "slug": "nikita-1990",
+          "imdb": "tt0100263",
+          "tmdb": 9322
         }
       }
     },
