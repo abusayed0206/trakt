@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-16T05:43:29.036152+00:00",
+    "fetched_at": "2025-11-17T05:45:18.369308+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -27,23 +27,6 @@
       }
     },
     {
-      "rank": 3,
-      "id": 1174076303,
-      "listed_at": "2025-02-16T04:14:41.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Avatar: Fire and Ash",
-        "year": 2025,
-        "ids": {
-          "trakt": 62544,
-          "slug": "avatar-fire-and-ash-2025",
-          "imdb": "tt1757678",
-          "tmdb": 83533
-        }
-      }
-    },
-    {
       "rank": 8,
       "id": 1174076338,
       "listed_at": "2025-02-16T04:15:17.000Z",
@@ -57,6 +40,23 @@
           "slug": "now-you-see-me-now-you-don-t-2025",
           "imdb": "tt4712810",
           "tmdb": 425274
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "id": 1174076303,
+      "listed_at": "2025-02-16T04:14:41.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Avatar: Fire and Ash",
+        "year": 2025,
+        "ids": {
+          "trakt": 62544,
+          "slug": "avatar-fire-and-ash-2025",
+          "imdb": "tt1757678",
+          "tmdb": 83533
         }
       }
     },
