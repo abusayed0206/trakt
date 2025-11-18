@@ -1,6 +1,24 @@
 {
   "movies": [
     {
+      "tmdb_id": 1233413,
+      "title": "Sinners",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1233413_poster.jpg",
+      "last_watched_at": "2025-11-17T20:16:40.000Z"
+    },
+    {
+      "tmdb_id": 1062722,
+      "title": "Frankenstein",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1062722_poster.jpg",
+      "last_watched_at": "2025-11-17T19:03:43.000Z"
+    },
+    {
+      "tmdb_id": 11,
+      "title": "Star Wars",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/11_poster.jpg",
+      "last_watched_at": "2025-11-17T09:06:41.000Z"
+    },
+    {
       "tmdb_id": 9322,
       "title": "Nikita",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/9322_poster.jpg",
@@ -41,24 +59,6 @@
       "title": "Accepted",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/9788_poster.jpg",
       "last_watched_at": "2025-10-11T20:16:48.000Z"
-    },
-    {
-      "tmdb_id": 8077,
-      "title": "Alien³",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/8077_poster.jpg",
-      "last_watched_at": "2025-10-11T06:36:15.000Z"
-    },
-    {
-      "tmdb_id": 1893,
-      "title": "Star Wars: Episode I - The Phantom Menace",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1893_poster.jpg",
-      "last_watched_at": "2025-10-10T13:02:18.000Z"
-    },
-    {
-      "tmdb_id": 449443,
-      "title": "Den of Thieves",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/449443_poster.jpg",
-      "last_watched_at": "2025-10-09T19:33:37.000Z"
     }
   ],
   "shows": [
@@ -88,13 +88,13 @@
     {
       "tmdb_id": 1973,
       "title": "24",
-      "season": 1,
+      "season": 3,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/3/season_3_poster.jpg",
       "last_watched_at": "2025-09-15T08:42:24.000Z"
     },
     {
@@ -142,7 +142,7 @@
     {
       "tmdb_id": 1425,
       "title": "House of Cards",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2,
@@ -151,7 +151,7 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/1/season_1_poster.jpg",
       "last_watched_at": "2025-08-03T12:13:47.000Z"
     },
     {
