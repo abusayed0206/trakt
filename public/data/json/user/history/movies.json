@@ -1,12 +1,60 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-17T05:45:16.573627+00:00",
+    "fetched_at": "2025-11-18T05:44:36.642708+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11657948828,
+      "watched_at": "2025-11-17T20:16:40.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Sinners",
+        "year": 2025,
+        "ids": {
+          "trakt": 997581,
+          "slug": "sinners-2025",
+          "imdb": "tt31193180",
+          "tmdb": 1233413
+        }
+      }
+    },
+    {
+      "id": 11657758842,
+      "watched_at": "2025-11-17T19:03:43.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Frankenstein",
+        "year": 2025,
+        "ids": {
+          "trakt": 854887,
+          "slug": "frankenstein-2025",
+          "imdb": "tt1312221",
+          "tmdb": 1062722
+        }
+      }
+    },
+    {
+      "id": 11655140254,
+      "watched_at": "2025-11-17T09:06:41.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Star Wars",
+        "year": 1977,
+        "ids": {
+          "trakt": 7,
+          "slug": "star-wars-1977",
+          "imdb": "tt0076759",
+          "tmdb": 11
+        }
+      }
+    },
     {
       "id": 11629999118,
       "watched_at": "2025-11-13T14:44:01.000Z",
@@ -116,54 +164,6 @@
           "slug": "accepted-2006",
           "imdb": "tt0384793",
           "tmdb": 9788
-        }
-      }
-    },
-    {
-      "id": 11444175753,
-      "watched_at": "2025-10-11T06:36:15.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Alien³",
-        "year": 1992,
-        "ids": {
-          "trakt": 4044,
-          "slug": "alien-1992",
-          "imdb": "tt0103644",
-          "tmdb": 8077
-        }
-      }
-    },
-    {
-      "id": 11441563067,
-      "watched_at": "2025-10-10T13:02:18.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Star Wars: Episode I - The Phantom Menace",
-        "year": 1999,
-        "ids": {
-          "trakt": 1268,
-          "slug": "star-wars-episode-i-the-phantom-menace-1999",
-          "imdb": "tt0120915",
-          "tmdb": 1893
-        }
-      }
-    },
-    {
-      "id": 11438980020,
-      "watched_at": "2025-10-09T19:33:37.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Den of Thieves",
-        "year": 2018,
-        "ids": {
-          "trakt": 296164,
-          "slug": "den-of-thieves-2018",
-          "imdb": "tt1259528",
-          "tmdb": 449443
         }
       }
     }
