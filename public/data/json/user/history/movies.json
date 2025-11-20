@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-19T05:44:34.551189+00:00",
+    "fetched_at": "2025-11-20T05:44:28.768640+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11663701703,
+      "watched_at": "2025-11-19T18:26:33.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Law Abiding Citizen",
+        "year": 2009,
+        "ids": {
+          "trakt": 13852,
+          "slug": "law-abiding-citizen-2009",
+          "imdb": "tt1197624",
+          "tmdb": 22803
+        }
+      }
+    },
     {
       "id": 11657948828,
       "watched_at": "2025-11-17T20:16:40.000Z",
@@ -148,22 +164,6 @@
           "slug": "alien-resurrection-1997",
           "imdb": "tt0118583",
           "tmdb": 8078
-        }
-      }
-    },
-    {
-      "id": 11446139720,
-      "watched_at": "2025-10-11T20:16:48.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Accepted",
-        "year": 2006,
-        "ids": {
-          "trakt": 5048,
-          "slug": "accepted-2006",
-          "imdb": "tt0384793",
-          "tmdb": 9788
         }
       }
     }
