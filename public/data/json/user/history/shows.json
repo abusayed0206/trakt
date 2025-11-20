@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-19T05:44:34.761686+00:00",
+    "fetched_at": "2025-11-20T05:44:28.951853+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11663868485,
+      "watched_at": "2025-11-19T19:54:26.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 1,
+        "title": "We Is Us",
+        "ids": {
+          "trakt": 11516846,
+          "tvdb": 9860610,
+          "imdb": "tt30759782",
+          "tmdb": 5154192,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Pluribus",
+        "year": 2025,
+        "ids": {
+          "trakt": 206790,
+          "slug": "pluribus",
+          "tvdb": 436457,
+          "imdb": "tt22202452",
+          "tmdb": 225171,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11662804372,
+      "watched_at": "2025-11-19T11:17:14.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 9,
+        "title": "The Last Word",
+        "ids": {
+          "trakt": 291433,
+          "tvdb": 307956,
+          "imdb": "tt0878359",
+          "tmdb": 283045,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11661112310,
       "watched_at": "2025-11-18T21:26:55.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 307275,
           "imdb": "tt0779006",
           "tmdb": 1005471,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11595692190,
-      "watched_at": "2025-11-06T16:55:04.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 20,
-        "title": "Charm and Harm",
-        "ids": {
-          "trakt": 291422,
-          "tvdb": 307274,
-          "imdb": "tt0771037",
-          "tmdb": 282926,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11574543464,
-      "watched_at": "2025-11-03T10:40:49.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 19,
-        "title": "Machismo",
-        "ids": {
-          "trakt": 291421,
-          "tvdb": 307273,
-          "imdb": "tt0764319",
-          "tmdb": 282917,
           "tvrage": null
         }
       },
