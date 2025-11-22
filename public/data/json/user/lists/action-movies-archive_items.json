@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-17T05:45:19.102723+00:00",
+    "fetched_at": "2025-11-22T05:42:45.353931+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -151,10 +151,10 @@
       "type": "movie",
       "movie": {
         "title": "13 Tzameti",
-        "year": 2005,
+        "year": 2006,
         "ids": {
           "trakt": 3472,
-          "slug": "13-tzameti-2005",
+          "slug": "13-tzameti-2006",
           "imdb": "tt0475169",
           "tmdb": 6077
         }
@@ -3007,10 +3007,10 @@
       "type": "movie",
       "movie": {
         "title": "Beyond the Raging Sea",
-        "year": 2024,
+        "year": 2018,
         "ids": {
           "trakt": 1035510,
-          "slug": "beyond-the-raging-sea-2024",
+          "slug": "beyond-the-raging-sea-2018",
           "imdb": "tt8352016",
           "tmdb": 646888
         }
@@ -5285,10 +5285,10 @@
       "type": "movie",
       "movie": {
         "title": "Coherence",
-        "year": 2013,
+        "year": 2014,
         "ids": {
           "trakt": 135581,
-          "slug": "coherence-2013",
+          "slug": "coherence-2014",
           "imdb": "tt2866360",
           "tmdb": 220289
         }
