@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-23T05:43:43.601332+00:00",
+    "fetched_at": "2025-11-24T05:46:27.300646+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -1034,11 +1034,11 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "AEW All In: London - Zero Hour",
+        "title": "AEW All In 2023: London - Zero Hour",
         "year": 2023,
         "ids": {
           "trakt": 943170,
-          "slug": "aew-all-in-london-zero-hour-2023",
+          "slug": "aew-all-in-2023-london-zero-hour-2023",
           "imdb": "tt28785541",
           "tmdb": 1170420
         }
@@ -9705,10 +9705,10 @@
       "type": "movie",
       "movie": {
         "title": "The Forgotten Battle",
-        "year": 2020,
+        "year": 2021,
         "ids": {
           "trakt": 473452,
-          "slug": "the-forgotten-battle-2020",
+          "slug": "the-forgotten-battle-2021",
           "imdb": "tt10521092",
           "tmdb": 633515
         }
