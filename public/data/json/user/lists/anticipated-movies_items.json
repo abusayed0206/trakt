@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-23T05:43:42.742327+00:00",
+    "fetched_at": "2025-11-24T05:46:26.625547+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -163,23 +163,6 @@
       }
     },
     {
-      "rank": 11,
-      "id": 1210621808,
-      "listed_at": "2025-04-14T10:15:39.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "The Beekeeper 2",
-        "year": null,
-        "ids": {
-          "trakt": 1179070,
-          "slug": "the-beekeeper-2",
-          "imdb": "tt35935357",
-          "tmdb": 1440769
-        }
-      }
-    },
-    {
       "rank": 10,
       "id": 1205938473,
       "listed_at": "2025-04-03T16:21:59.000Z",
@@ -193,6 +176,23 @@
           "slug": "run-all-night-2",
           "imdb": "tt29032187",
           "tmdb": 1175590
+        }
+      }
+    },
+    {
+      "rank": 11,
+      "id": 1210621808,
+      "listed_at": "2025-04-14T10:15:39.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "The Beekeeper 2",
+        "year": null,
+        "ids": {
+          "trakt": 1179070,
+          "slug": "the-beekeeper-2",
+          "imdb": "tt35935357",
+          "tmdb": 1440769
         }
       }
     },
