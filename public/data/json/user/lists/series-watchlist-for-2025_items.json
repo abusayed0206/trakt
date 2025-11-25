@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-24T05:46:26.515199+00:00",
+    "fetched_at": "2025-11-25T05:45:30.095699+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
-    "count": 80
+    "count": 81
   },
   "data": [
     {
@@ -426,6 +426,25 @@
       }
     },
     {
+      "rank": 81,
+      "id": 1372615448,
+      "listed_at": "2025-11-24T21:13:59.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Spartacus",
+        "year": 2010,
+        "ids": {
+          "trakt": 46038,
+          "slug": "spartacus",
+          "tvdb": 129261,
+          "imdb": "tt1442449",
+          "tmdb": 46296,
+          "tvrage": null
+        }
+      }
+    },
+    {
       "rank": 21,
       "id": 1153031271,
       "listed_at": "2025-01-08T18:19:46.000Z",
@@ -768,6 +787,25 @@
       }
     },
     {
+      "rank": 45,
+      "id": 1153419635,
+      "listed_at": "2025-01-09T10:27:58.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Fall",
+        "year": 2013,
+        "ids": {
+          "trakt": 48703,
+          "slug": "the-fall",
+          "tvdb": 258107,
+          "imdb": "tt2294189",
+          "tmdb": 49010,
+          "tvrage": null
+        }
+      }
+    },
+    {
       "rank": 61,
       "id": 1286150874,
       "listed_at": "2025-07-23T20:59:39.000Z",
@@ -801,25 +839,6 @@
           "tvdb": 281630,
           "imdb": "tt3514324",
           "tmdb": 60797,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "rank": 45,
-      "id": 1153419635,
-      "listed_at": "2025-01-09T10:27:58.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "The Fall",
-        "year": 2013,
-        "ids": {
-          "trakt": 48703,
-          "slug": "the-fall",
-          "tvdb": 258107,
-          "imdb": "tt2294189",
-          "tmdb": 49010,
           "tvrage": null
         }
       }
@@ -882,6 +901,25 @@
       }
     },
     {
+      "rank": 36,
+      "id": 1273910724,
+      "listed_at": "2025-07-08T19:03:09.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Pitt",
+        "year": 2025,
+        "ids": {
+          "trakt": 232884,
+          "slug": "the-pitt",
+          "tvdb": 448176,
+          "imdb": "tt31938062",
+          "tmdb": 250307,
+          "tvrage": null
+        }
+      }
+    },
+    {
       "rank": 22,
       "id": 1153031275,
       "listed_at": "2025-01-08T18:20:08.000Z",
@@ -915,25 +953,6 @@
           "tvdb": 255326,
           "imdb": "tt2189221",
           "tmdb": 51704,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "rank": 36,
-      "id": 1273910724,
-      "listed_at": "2025-07-08T19:03:09.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "The Pitt",
-        "year": 2025,
-        "ids": {
-          "trakt": 232884,
-          "slug": "the-pitt",
-          "tvdb": 448176,
-          "imdb": "tt31938062",
-          "tmdb": 250307,
           "tvrage": null
         }
       }
@@ -1262,25 +1281,6 @@
       }
     },
     {
-      "rank": 69,
-      "id": 1286151465,
-      "listed_at": "2025-07-23T21:00:26.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "Last Resort",
-        "year": 2012,
-        "ids": {
-          "trakt": 44404,
-          "slug": "last-resort",
-          "tvdb": 255413,
-          "imdb": "tt2172103",
-          "tmdb": 44652,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 13,
       "id": 1147927571,
       "listed_at": "2024-12-31T02:39:56.000Z",
@@ -1295,6 +1295,25 @@
           "tvdb": 364080,
           "imdb": "tt10323338",
           "tmdb": 89393,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 69,
+      "id": 1286151465,
+      "listed_at": "2025-07-23T21:00:26.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Last Resort",
+        "year": 2012,
+        "ids": {
+          "trakt": 44404,
+          "slug": "last-resort",
+          "tvdb": 255413,
+          "imdb": "tt2172103",
+          "tmdb": 44652,
           "tvrage": null
         }
       }
