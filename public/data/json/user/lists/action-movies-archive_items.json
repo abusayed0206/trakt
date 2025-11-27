@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-26T05:44:46.819353+00:00",
+    "fetched_at": "2025-11-27T05:46:08.694796+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -29832,11 +29832,11 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "WWE Bad Blood",
+        "title": "WWE Bad Blood 2024",
         "year": 2024,
         "ids": {
           "trakt": 1073992,
-          "slug": "wwe-bad-blood-2024",
+          "slug": "wwe-bad-blood-2024-2024",
           "imdb": "tt32857146",
           "tmdb": 1313883
         }
