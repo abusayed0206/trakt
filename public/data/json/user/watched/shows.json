@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-26T05:44:44.908671+00:00",
+    "fetched_at": "2025-11-27T05:46:06.787574+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,59 @@
   },
   "data": [
     {
-      "plays": 30,
-      "last_watched_at": "2025-11-23T09:52:15.000Z",
-      "last_updated_at": "2025-11-23T09:52:15.000Z",
+      "plays": 5,
+      "last_watched_at": "2025-11-26T21:14:01.000Z",
+      "last_updated_at": "2025-11-26T21:14:01.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Pluribus",
+        "year": 2025,
+        "ids": {
+          "trakt": 206790,
+          "slug": "pluribus",
+          "tvdb": 436457,
+          "imdb": "tt22202452",
+          "tmdb": 225171,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-11-19T19:54:26.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-11-20T09:06:12.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-11-20T09:17:29.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-11-21T11:13:28.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-11-26T21:14:01.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plays": 32,
+      "last_watched_at": "2025-11-26T17:26:15.000Z",
+      "last_updated_at": "2025-11-26T17:26:15.000Z",
       "reset_at": null,
       "show": {
         "title": "Criminal Minds",
@@ -177,51 +227,16 @@
               "number": 10,
               "plays": 1,
               "last_watched_at": "2025-11-23T09:52:15.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 4,
-      "last_watched_at": "2025-11-21T11:13:28.000Z",
-      "last_updated_at": "2025-11-21T11:13:28.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Pluribus",
-        "year": 2025,
-        "ids": {
-          "trakt": 206790,
-          "slug": "pluribus",
-          "tvdb": 436457,
-          "imdb": "tt22202452",
-          "tmdb": 225171,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2025-11-19T19:54:26.000Z"
             },
             {
-              "number": 2,
+              "number": 11,
               "plays": 1,
-              "last_watched_at": "2025-11-20T09:06:12.000Z"
+              "last_watched_at": "2025-11-26T12:55:00.000Z"
             },
             {
-              "number": 3,
+              "number": 12,
               "plays": 1,
-              "last_watched_at": "2025-11-20T09:17:29.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2025-11-21T11:13:28.000Z"
+              "last_watched_at": "2025-11-26T17:26:15.000Z"
             }
           ]
         }
