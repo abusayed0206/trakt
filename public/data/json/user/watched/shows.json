@@ -1,12 +1,247 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-27T05:46:06.787574+00:00",
+    "fetched_at": "2025-11-28T05:45:49.810381+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
     "count": 138
   },
   "data": [
+    {
+      "plays": 38,
+      "last_watched_at": "2025-11-27T20:11:09.000Z",
+      "last_updated_at": "2025-11-27T20:11:09.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Stranger Things",
+        "year": 2016,
+        "ids": {
+          "trakt": 104439,
+          "slug": "stranger-things",
+          "tvdb": 305288,
+          "imdb": "tt4574334",
+          "tmdb": 66732,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:19.000Z"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-11-27T09:15:13.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-11-27T19:11:17.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-11-27T19:40:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-11-27T20:11:09.000Z"
+            }
+          ]
+        }
+      ]
+    },
     {
       "plays": 5,
       "last_watched_at": "2025-11-26T21:14:01.000Z",
@@ -16782,216 +17017,6 @@
               "number": 20,
               "plays": 1,
               "last_watched_at": "2023-10-14T14:33:49.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 34,
-      "last_watched_at": "2023-10-14T14:33:19.000Z",
-      "last_updated_at": "2023-10-14T14:33:19.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Stranger Things",
-        "year": 2016,
-        "ids": {
-          "trakt": 104439,
-          "slug": "stranger-things",
-          "tvdb": 305288,
-          "imdb": "tt4574334",
-          "tmdb": 66732,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            }
-          ]
-        },
-        {
-          "number": 2,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            }
-          ]
-        },
-        {
-          "number": 3,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            }
-          ]
-        },
-        {
-          "number": 4,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:19.000Z"
             }
           ]
         }
