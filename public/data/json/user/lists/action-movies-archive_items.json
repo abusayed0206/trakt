@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-28T05:45:51.307052+00:00",
+    "fetched_at": "2025-11-29T05:44:23.411092+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -4367,10 +4367,10 @@
       "type": "movie",
       "movie": {
         "title": "Butch Cassidy and the Wild Bunch",
-        "year": 2023,
+        "year": 2025,
         "ids": {
           "trakt": 886163,
-          "slug": "butch-cassidy-and-the-wild-bunch-2023",
+          "slug": "butch-cassidy-and-the-wild-bunch-2025",
           "imdb": "tt26736344",
           "tmdb": 1101574
         }
@@ -20857,10 +20857,10 @@
       "type": "movie",
       "movie": {
         "title": "The Place Beyond the Pines",
-        "year": 2013,
+        "year": 2012,
         "ids": {
           "trakt": 70754,
-          "slug": "the-place-beyond-the-pines-2013",
+          "slug": "the-place-beyond-the-pines-2012",
           "imdb": "tt1817273",
           "tmdb": 97367
         }

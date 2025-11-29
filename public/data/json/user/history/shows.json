@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-28T05:45:48.109573+00:00",
+    "fetched_at": "2025-11-29T05:44:19.595495+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11739511284,
+      "watched_at": "2025-11-28T10:49:20.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 13,
+        "title": "No Way Out (1)",
+        "ids": {
+          "trakt": 291437,
+          "tvdb": 314554,
+          "imdb": "tt0935314",
+          "tmdb": 283088,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11735895574,
       "watched_at": "2025-11-27T20:11:09.000Z",
@@ -261,36 +291,6 @@
           "tvdb": 11260077,
           "imdb": "tt32767327",
           "tmdb": 5964850,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Pluribus",
-        "year": 2025,
-        "ids": {
-          "trakt": 206790,
-          "slug": "pluribus",
-          "tvdb": 436457,
-          "imdb": "tt22202452",
-          "tmdb": 225171,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11667827936,
-      "watched_at": "2025-11-20T09:17:29.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 3,
-        "title": "Grenade",
-        "ids": {
-          "trakt": 12800268,
-          "tvdb": 11260076,
-          "imdb": "tt32767323",
-          "tmdb": 5964849,
           "tvrage": null
         }
       },
