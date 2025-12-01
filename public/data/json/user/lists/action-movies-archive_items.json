@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-11-30T05:45:01.776918+00:00",
+    "fetched_at": "2025-12-01T05:50:40.473127+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -20857,10 +20857,10 @@
       "type": "movie",
       "movie": {
         "title": "The Place Beyond the Pines",
-        "year": 2012,
+        "year": 2013,
         "ids": {
           "trakt": 70754,
-          "slug": "the-place-beyond-the-pines-2012",
+          "slug": "the-place-beyond-the-pines-2013",
           "imdb": "tt1817273",
           "tmdb": 97367
         }
