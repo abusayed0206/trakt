@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-01T05:50:39.698117+00:00",
+    "fetched_at": "2025-12-02T05:45:22.327040+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
-    "count": 81
+    "count": 82
   },
   "data": [
     {
@@ -445,25 +445,6 @@
       }
     },
     {
-      "rank": 21,
-      "id": 1153031271,
-      "listed_at": "2025-01-08T18:19:46.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "Castle",
-        "year": 2009,
-        "ids": {
-          "trakt": 1410,
-          "slug": "castle",
-          "tvdb": 83462,
-          "imdb": "tt1219024",
-          "tmdb": 1419,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 47,
       "id": 1275439151,
       "listed_at": "2025-07-10T08:59:30.000Z",
@@ -478,6 +459,25 @@
           "tvdb": 338186,
           "imdb": "tt7660850",
           "tmdb": 76331,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 21,
+      "id": 1153031271,
+      "listed_at": "2025-01-08T18:19:46.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Castle",
+        "year": 2009,
+        "ids": {
+          "trakt": 1410,
+          "slug": "castle",
+          "tvdb": 83462,
+          "imdb": "tt1219024",
+          "tmdb": 1419,
           "tvrage": null
         }
       }
@@ -687,6 +687,25 @@
           "tvdb": 258823,
           "imdb": "tt2070791",
           "tmdb": 1410,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 82,
+      "id": 1377268265,
+      "listed_at": "2025-12-01T10:22:35.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Strain",
+        "year": 2014,
+        "ids": {
+          "trakt": 47350,
+          "slug": "the-strain",
+          "tvdb": 276564,
+          "imdb": "tt2654620",
+          "tmdb": 47640,
           "tvrage": null
         }
       }
