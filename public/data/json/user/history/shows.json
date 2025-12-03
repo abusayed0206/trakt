@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-02T05:45:20.553589+00:00",
+    "fetched_at": "2025-12-03T05:46:52.779446+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11757553324,
+      "watched_at": "2025-12-02T09:28:35.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 16,
+        "title": "Fear and Loathing",
+        "ids": {
+          "trakt": 291440,
+          "tvdb": 318042,
+          "imdb": "tt0916096",
+          "tmdb": 283128,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11749695541,
       "watched_at": "2025-11-30T16:24:10.000Z",
@@ -261,36 +291,6 @@
           "tvdb": 314553,
           "imdb": "tt0923155",
           "tmdb": 283080,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11725313598,
-      "watched_at": "2025-11-26T12:55:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 11,
-        "title": "Sex, Birth, Death",
-        "ids": {
-          "trakt": 291435,
-          "tvdb": 314552,
-          "imdb": "tt0906371",
-          "tmdb": 1005475,
           "tvrage": null
         }
       },
