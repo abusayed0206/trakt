@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-04T05:45:28.171190+00:00",
+    "fetched_at": "2025-12-05T05:45:49.272302+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -1053,25 +1053,6 @@
       }
     },
     {
-      "rank": 10,
-      "id": 1133528028,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "CSI: Crime Scene Investigation",
-        "year": 2000,
-        "ids": {
-          "trakt": 1422,
-          "slug": "csi-crime-scene-investigation",
-          "tvdb": 72546,
-          "imdb": "tt0247082",
-          "tmdb": 1431,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 27,
       "id": 1153031296,
       "listed_at": "2025-01-08T18:22:20.000Z",
@@ -1086,6 +1067,25 @@
           "tvdb": 393159,
           "imdb": "tt19231492",
           "tmdb": 196322,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 10,
+      "id": 1133528028,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "CSI: Crime Scene Investigation",
+        "year": 2000,
+        "ids": {
+          "trakt": 1422,
+          "slug": "csi-crime-scene-investigation",
+          "tvdb": 72546,
+          "imdb": "tt0247082",
+          "tmdb": 1431,
           "tvrage": null
         }
       }
