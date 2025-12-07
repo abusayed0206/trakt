@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-06T05:44:04.827110+00:00",
+    "fetched_at": "2025-12-07T05:42:54.533464+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,64 +8,9 @@
   },
   "data": [
     {
-      "plays": 6,
-      "last_watched_at": "2025-12-05T12:25:11.000Z",
-      "last_updated_at": "2025-12-05T12:25:11.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Pluribus",
-        "year": 2025,
-        "ids": {
-          "trakt": 206790,
-          "slug": "pluribus",
-          "tvdb": 436457,
-          "imdb": "tt22202452",
-          "tmdb": 225171,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2025-11-19T19:54:26.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2025-11-20T09:06:12.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2025-11-20T09:17:29.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2025-11-21T11:13:28.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2025-11-26T21:14:01.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2025-12-05T12:25:11.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 36,
-      "last_watched_at": "2025-12-02T09:28:35.000Z",
-      "last_updated_at": "2025-12-02T09:28:35.000Z",
+      "plays": 39,
+      "last_watched_at": "2025-12-06T20:38:54.000Z",
+      "last_updated_at": "2025-12-06T20:38:54.000Z",
       "reset_at": null,
       "show": {
         "title": "Criminal Minds",
@@ -262,6 +207,76 @@
               "number": 16,
               "plays": 1,
               "last_watched_at": "2025-12-02T09:28:35.000Z"
+            },
+            {
+              "number": 17,
+              "plays": 1,
+              "last_watched_at": "2025-12-06T19:09:18.000Z"
+            },
+            {
+              "number": 18,
+              "plays": 1,
+              "last_watched_at": "2025-12-06T19:56:15.000Z"
+            },
+            {
+              "number": 19,
+              "plays": 1,
+              "last_watched_at": "2025-12-06T20:38:54.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plays": 6,
+      "last_watched_at": "2025-12-05T12:25:11.000Z",
+      "last_updated_at": "2025-12-05T12:25:11.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Pluribus",
+        "year": 2025,
+        "ids": {
+          "trakt": 206790,
+          "slug": "pluribus",
+          "tvdb": 436457,
+          "imdb": "tt22202452",
+          "tmdb": 225171,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-11-19T19:54:26.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-11-20T09:06:12.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-11-20T09:17:29.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-11-21T11:13:28.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-11-26T21:14:01.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-12-05T12:25:11.000Z"
             }
           ]
         }

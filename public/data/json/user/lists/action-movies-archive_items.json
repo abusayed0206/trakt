@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-06T05:44:06.340549+00:00",
+    "fetched_at": "2025-12-07T05:42:57.673381+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -22930,11 +22930,11 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "ROH: Final Battle",
+        "title": "ROH Final Battle 2022",
         "year": 2022,
         "ids": {
           "trakt": 810770,
-          "slug": "roh-final-battle-2022",
+          "slug": "roh-final-battle-2022-2022",
           "imdb": "tt22869322",
           "tmdb": 1008612
         }
