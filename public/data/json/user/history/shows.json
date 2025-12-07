@@ -1,12 +1,102 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-06T05:44:02.861677+00:00",
+    "fetched_at": "2025-12-07T05:42:52.710607+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11783928521,
+      "watched_at": "2025-12-06T20:38:54.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 19,
+        "title": "Ashes and Dust",
+        "ids": {
+          "trakt": 291443,
+          "tvdb": 320463,
+          "imdb": "tt0965936",
+          "tmdb": 283163,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11783781600,
+      "watched_at": "2025-12-06T19:56:15.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 18,
+        "title": "Jones",
+        "ids": {
+          "trakt": 291442,
+          "tvdb": 319329,
+          "imdb": "tt0965937",
+          "tmdb": 283151,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11783677002,
+      "watched_at": "2025-12-06T19:09:18.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 17,
+        "title": "Distress",
+        "ids": {
+          "trakt": 291441,
+          "tvdb": 318043,
+          "imdb": "tt0945886",
+          "tmdb": 283142,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11778054131,
       "watched_at": "2025-12-05T12:25:11.000Z",
@@ -213,96 +303,6 @@
           "tvdb": 305288,
           "imdb": "tt4574334",
           "tmdb": 66732,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11735761795,
-      "watched_at": "2025-11-27T19:11:17.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 2,
-        "title": "Chapter Two: The Vanishing of...",
-        "ids": {
-          "trakt": 12291590,
-          "tvdb": 10788048,
-          "imdb": "tt21914626",
-          "tmdb": 5607045,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Stranger Things",
-        "year": 2016,
-        "ids": {
-          "trakt": 104439,
-          "slug": "stranger-things",
-          "tvdb": 305288,
-          "imdb": "tt4574334",
-          "tmdb": 66732,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11731762568,
-      "watched_at": "2025-11-27T09:15:13.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 1,
-        "title": "Chapter One: The Crawl",
-        "ids": {
-          "trakt": 12116371,
-          "tvdb": 9443528,
-          "imdb": "tt18268644",
-          "tmdb": 5477828,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Stranger Things",
-        "year": 2016,
-        "ids": {
-          "trakt": 104439,
-          "slug": "stranger-things",
-          "tvdb": 305288,
-          "imdb": "tt4574334",
-          "tmdb": 66732,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11726494332,
-      "watched_at": "2025-11-26T21:14:01.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 5,
-        "title": "Got Milk",
-        "ids": {
-          "trakt": 12800271,
-          "tvdb": 11260078,
-          "imdb": "tt32777418",
-          "tmdb": 5964851,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Pluribus",
-        "year": 2025,
-        "ids": {
-          "trakt": 206790,
-          "slug": "pluribus",
-          "tvdb": 436457,
-          "imdb": "tt22202452",
-          "tmdb": 225171,
           "tvrage": null
         }
       }
