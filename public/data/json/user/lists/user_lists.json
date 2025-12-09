@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-08T05:47:53.135863+00:00",
+    "fetched_at": "2025-12-09T05:46:01.417089+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/user_lists.json",
@@ -82,10 +82,10 @@
       "sort_by": "imdb_rating",
       "sort_how": "desc",
       "created_at": "2025-07-23T20:10:08.000Z",
-      "updated_at": "2025-11-20T21:52:24.000Z",
+      "updated_at": "2025-12-09T04:40:50.000Z",
       "item_count": 1807,
       "comment_count": 0,
-      "likes": 2,
+      "likes": 3,
       "ids": {
         "trakt": 31950590,
         "slug": "action-movies-archive"
