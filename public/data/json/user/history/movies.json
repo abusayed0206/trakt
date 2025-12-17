@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-16T05:48:21.812514+00:00",
+    "fetched_at": "2025-12-17T05:48:21.702277+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11848653176,
+      "watched_at": "2025-12-16T10:32:20.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Now You See Me: Now You Don't",
+        "year": 2025,
+        "ids": {
+          "trakt": 292275,
+          "slug": "now-you-see-me-now-you-don-t-2025",
+          "imdb": "tt4712810",
+          "tmdb": 425274
+        }
+      }
+    },
     {
       "id": 11676030455,
       "watched_at": "2025-11-22T07:49:30.000Z",
@@ -148,22 +164,6 @@
           "slug": "zootopia-2016",
           "imdb": "tt2948356",
           "tmdb": 269149
-        }
-      }
-    },
-    {
-      "id": 11470577591,
-      "watched_at": "2025-10-17T19:13:56.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Michael Clayton",
-        "year": 2007,
-        "ids": {
-          "trakt": 2691,
-          "slug": "michael-clayton-2007",
-          "imdb": "tt0465538",
-          "tmdb": 4566
         }
       }
     }
