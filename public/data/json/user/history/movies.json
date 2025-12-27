@@ -1,12 +1,60 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-26T05:48:04.649039+00:00",
+    "fetched_at": "2025-12-27T05:46:44.339624+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11886576723,
+      "watched_at": "2025-12-26T14:11:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "year": 2025,
+        "ids": {
+          "trakt": 646497,
+          "slug": "wake-up-dead-man-a-knives-out-mystery-2025",
+          "imdb": "tt14364480",
+          "tmdb": 812583
+        }
+      }
+    },
+    {
+      "id": 11886288653,
+      "watched_at": "2025-12-26T10:18:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Gifted",
+        "year": 2017,
+        "ids": {
+          "trakt": 243968,
+          "slug": "gifted-2017",
+          "imdb": "tt4481414",
+          "tmdb": 400928
+        }
+      }
+    },
+    {
+      "id": 11886288574,
+      "watched_at": "2025-12-26T10:18:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Revolver",
+        "year": 2024,
+        "ids": {
+          "trakt": 875416,
+          "slug": "revolver-2024-08-07",
+          "imdb": "tt28284984",
+          "tmdb": 1089223
+        }
+      }
+    },
     {
       "id": 11848653176,
       "watched_at": "2025-12-16T10:32:20.000Z",
@@ -116,54 +164,6 @@
           "slug": "nikita-1990",
           "imdb": "tt0100263",
           "tmdb": 9322
-        }
-      }
-    },
-    {
-      "id": 11626983541,
-      "watched_at": "2025-11-12T20:59:10.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Collateral",
-        "year": 2004,
-        "ids": {
-          "trakt": 998,
-          "slug": "collateral-2004",
-          "imdb": "tt0369339",
-          "tmdb": 1538
-        }
-      }
-    },
-    {
-      "id": 11607420130,
-      "watched_at": "2025-11-09T12:57:49.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Vikram",
-        "year": 2022,
-        "ids": {
-          "trakt": 584324,
-          "slug": "vikram-2022",
-          "imdb": "tt9179430",
-          "tmdb": 743563
-        }
-      }
-    },
-    {
-      "id": 11601238068,
-      "watched_at": "2025-11-07T21:40:02.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Zootopia",
-        "year": 2016,
-        "ids": {
-          "trakt": 167397,
-          "slug": "zootopia-2016",
-          "imdb": "tt2948356",
-          "tmdb": 269149
         }
       }
     }
