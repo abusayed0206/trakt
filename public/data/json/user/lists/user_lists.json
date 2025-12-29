@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-28T05:49:03.356705+00:00",
+    "fetched_at": "2025-12-29T05:52:44.391440+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/user_lists.json",
@@ -31,7 +31,7 @@
         "private": false,
         "deleted": false,
         "name": "SAYED | সাঈদ",
-        "vip": false,
+        "vip": true,
         "vip_ep": false,
         "director": false,
         "ids": {
@@ -63,7 +63,7 @@
         "private": false,
         "deleted": false,
         "name": "SAYED | সাঈদ",
-        "vip": false,
+        "vip": true,
         "vip_ep": false,
         "director": false,
         "ids": {
@@ -95,7 +95,7 @@
         "private": false,
         "deleted": false,
         "name": "SAYED | সাঈদ",
-        "vip": false,
+        "vip": true,
         "vip_ep": false,
         "director": false,
         "ids": {

@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-28T05:49:00.193446+00:00",
+    "fetched_at": "2025-12-29T05:52:42.333602+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11893336865,
+      "watched_at": "2025-12-28T18:53:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "City of God",
+        "year": 2002,
+        "ids": {
+          "trakt": 476,
+          "slug": "city-of-god-2002",
+          "imdb": "tt0317248",
+          "tmdb": 598
+        }
+      }
+    },
     {
       "id": 11886576723,
       "watched_at": "2025-12-26T14:11:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "star-wars-1977",
           "imdb": "tt0076759",
           "tmdb": 11
-        }
-      }
-    },
-    {
-      "id": 11629999118,
-      "watched_at": "2025-11-13T14:44:01.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Nikita",
-        "year": 1990,
-        "ids": {
-          "trakt": 4620,
-          "slug": "nikita-1990",
-          "imdb": "tt0100263",
-          "tmdb": 9322
         }
       }
     }
