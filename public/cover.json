@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "tmdb_id": 598,
+      "title": "City of God",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/598_poster.jpg",
+      "last_watched_at": "2025-12-28T18:53:00.000Z"
+    },
+    {
       "tmdb_id": 812583,
       "title": "Wake Up Dead Man: A Knives Out Mystery",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/812583_poster.jpg",
@@ -53,15 +59,20 @@
       "title": "Star Wars",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/11_poster.jpg",
       "last_watched_at": "2025-11-17T09:06:41.000Z"
-    },
-    {
-      "tmdb_id": 9322,
-      "title": "Nikita",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/9322_poster.jpg",
-      "last_watched_at": "2025-11-13T14:44:01.000Z"
     }
   ],
   "shows": [
+    {
+      "tmdb_id": 4057,
+      "title": "Criminal Minds",
+      "season": 2,
+      "available_seasons": [
+        1,
+        2
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/2/season_2_poster.jpg",
+      "last_watched_at": "2025-12-27T13:23:00.000Z"
+    },
     {
       "tmdb_id": 225171,
       "title": "Pluribus",
@@ -75,7 +86,7 @@
     {
       "tmdb_id": 66732,
       "title": "Stranger Things",
-      "season": 1,
+      "season": 4,
       "available_seasons": [
         1,
         2,
@@ -83,53 +94,42 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/4/season_4_poster.jpg",
       "last_watched_at": "2025-12-26T10:15:00.000Z"
-    },
-    {
-      "tmdb_id": 4057,
-      "title": "Criminal Minds",
-      "season": 1,
-      "available_seasons": [
-        1,
-        2
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/1/season_1_poster.jpg",
-      "last_watched_at": "2025-12-20T20:53:00.000Z"
     },
     {
       "tmdb_id": 1973,
       "title": "24",
-      "season": 1,
-      "available_seasons": [
-        1,
-        2,
-        3
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/1/season_1_poster.jpg",
-      "last_watched_at": "2025-12-20T20:34:00.000Z"
-    },
-    {
-      "tmdb_id": 110316,
-      "title": "Alice in Borderland",
       "season": 2,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/110316/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/2/season_2_poster.jpg",
+      "last_watched_at": "2025-12-20T20:34:00.000Z"
+    },
+    {
+      "tmdb_id": 110316,
+      "title": "Alice in Borderland",
+      "season": 1,
+      "available_seasons": [
+        1,
+        2,
+        3
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/110316/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-26T20:33:54.000Z"
     },
     {
       "tmdb_id": 1415,
       "title": "Elementary",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/2/season_2_poster.jpg",
       "last_watched_at": "2025-09-10T09:38:40.000Z"
     },
     {
@@ -166,7 +166,7 @@
     {
       "tmdb_id": 1425,
       "title": "House of Cards",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2,
@@ -175,7 +175,7 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1425/1/season_1_poster.jpg",
       "last_watched_at": "2025-08-03T12:13:47.000Z"
     }
   ]
