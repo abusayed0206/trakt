@@ -1,12 +1,222 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-29T05:52:42.635617+00:00",
+    "fetched_at": "2025-12-30T05:48:22.560910+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11896853023,
+      "watched_at": "2025-12-29T21:04:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 7,
+        "title": "Muse of Fire",
+        "ids": {
+          "trakt": 74764,
+          "tvdb": 4398273,
+          "imdb": "tt2395358",
+          "tmdb": 64117,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11896754800,
+      "watched_at": "2025-12-29T20:26:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 6,
+        "title": "Legacies",
+        "ids": {
+          "trakt": 74763,
+          "tvdb": 4386872,
+          "imdb": "tt2377368",
+          "tmdb": 64115,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11896665339,
+      "watched_at": "2025-12-29T19:54:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 5,
+        "title": "Damaged",
+        "ids": {
+          "trakt": 74762,
+          "tvdb": 4378737,
+          "imdb": "tt2338426",
+          "tmdb": 64114,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11896550690,
+      "watched_at": "2025-12-29T19:06:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 4,
+        "title": "An Innocent Man",
+        "ids": {
+          "trakt": 74761,
+          "tvdb": 4369897,
+          "imdb": "tt2319602",
+          "tmdb": 64116,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11896404010,
+      "watched_at": "2025-12-29T18:30:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 3,
+        "title": "Lone Gunmen",
+        "ids": {
+          "trakt": 74760,
+          "tvdb": 4365919,
+          "imdb": "tt2310914",
+          "tmdb": 64113,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11896318170,
+      "watched_at": "2025-12-29T17:48:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 2,
+        "title": "Honor Thy Father",
+        "ids": {
+          "trakt": 74759,
+          "tvdb": 4365918,
+          "imdb": "tt2310910",
+          "tmdb": 64112,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11895815132,
+      "watched_at": "2025-12-29T15:06:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 1,
+        "title": "Pilot",
+        "ids": {
+          "trakt": 74758,
+          "tvdb": 4325893,
+          "imdb": "tt2340185",
+          "tmdb": 64111,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11889494056,
       "watched_at": "2025-12-27T13:23:00.000Z",
@@ -93,216 +303,6 @@
           "tvdb": 305288,
           "imdb": "tt4574334",
           "tmdb": 66732,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11886284803,
-      "watched_at": "2025-12-26T10:15:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 6,
-        "title": "Chapter Six: Escape from Camazotz",
-        "ids": {
-          "trakt": 12291596,
-          "tvdb": 10788052,
-          "imdb": "tt21912386",
-          "tmdb": 5607049,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Stranger Things",
-        "year": 2016,
-        "ids": {
-          "trakt": 104439,
-          "slug": "stranger-things",
-          "tvdb": 305288,
-          "imdb": "tt4574334",
-          "tmdb": 66732,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11886284789,
-      "watched_at": "2025-12-26T10:15:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 5,
-        "title": "Chapter Five: Shock Jock",
-        "ids": {
-          "trakt": 12291595,
-          "tvdb": 10788051,
-          "imdb": "tt21912384",
-          "tmdb": 5607048,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Stranger Things",
-        "year": 2016,
-        "ids": {
-          "trakt": 104439,
-          "slug": "stranger-things",
-          "tvdb": 305288,
-          "imdb": "tt4574334",
-          "tmdb": 66732,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11873504126,
-      "watched_at": "2025-12-20T20:53:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 3,
-        "title": "The Perfect Storm",
-        "ids": {
-          "trakt": 291427,
-          "tvdb": 307950,
-          "imdb": "tt0831039",
-          "tmdb": 955073,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11873504039,
-      "watched_at": "2025-12-20T20:53:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 2,
-        "title": "P911",
-        "ids": {
-          "trakt": 291426,
-          "tvdb": 307949,
-          "imdb": "tt0842348",
-          "tmdb": 1005473,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11873463020,
-      "watched_at": "2025-12-20T20:34:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 22,
-        "title": "Day 3: 10:00 A.M.-11:00 A.M.",
-        "ids": {
-          "trakt": 146316,
-          "tvdb": 189324,
-          "imdb": "tt0502209",
-          "tmdb": 134513,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "24",
-        "year": 2001,
-        "ids": {
-          "trakt": 1960,
-          "slug": "24-2001",
-          "tvdb": 76290,
-          "imdb": "tt0285331",
-          "tmdb": 1973,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11844658069,
-      "watched_at": "2025-12-15T13:07:35.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 22,
-        "title": "Legacy",
-        "ids": {
-          "trakt": 291446,
-          "tvdb": 324879,
-          "imdb": "tt1012971",
-          "tmdb": 283173,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11827130628,
-      "watched_at": "2025-12-13T11:10:09.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 7,
-        "title": "The Gap",
-        "ids": {
-          "trakt": 12800274,
-          "tvdb": 11260080,
-          "imdb": "tt32777421",
-          "tmdb": 5964853,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Pluribus",
-        "year": 2025,
-        "ids": {
-          "trakt": 206790,
-          "slug": "pluribus",
-          "tvdb": 436457,
-          "imdb": "tt22202452",
-          "tmdb": 225171,
           "tvrage": null
         }
       }
