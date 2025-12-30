@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-29T05:52:43.861367+00:00",
+    "fetched_at": "2025-12-30T05:48:24.502632+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
-    "count": 138
+    "count": 139
   },
   "data": [
+    {
+      "plays": 7,
+      "last_watched_at": "2025-12-29T21:04:00.000Z",
+      "last_updated_at": "2025-12-29T21:04:05.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-12-29T15:06:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-12-29T17:48:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-12-29T18:30:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-12-29T19:06:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-12-29T19:54:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-12-29T20:26:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-12-29T21:04:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     {
       "plays": 45,
       "last_watched_at": "2025-12-27T13:23:00.000Z",
