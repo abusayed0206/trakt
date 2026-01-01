@@ -1,12 +1,132 @@
 {
   "metadata": {
-    "fetched_at": "2025-12-31T05:49:42.068829+00:00",
+    "fetched_at": "2026-01-01T05:51:32.050788+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11904669926,
+      "watched_at": "2025-12-31T18:29:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 17,
+        "title": "The Huntress Returns",
+        "ids": {
+          "trakt": 74774,
+          "tvdb": 4486516,
+          "imdb": "tt2654070",
+          "tmdb": 64127,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11904594637,
+      "watched_at": "2025-12-31T17:44:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 16,
+        "title": "Dead to Rights",
+        "ids": {
+          "trakt": 74773,
+          "tvdb": 4486515,
+          "imdb": "tt2633630",
+          "tmdb": 64126,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11904158207,
+      "watched_at": "2025-12-31T16:25:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 15,
+        "title": "Dodger",
+        "ids": {
+          "trakt": 74772,
+          "tvdb": 4457361,
+          "imdb": "tt2605292",
+          "tmdb": 64123,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11902083175,
+      "watched_at": "2025-12-31T09:41:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 14,
+        "title": "The Odyssey",
+        "ids": {
+          "trakt": 74771,
+          "tvdb": 4451617,
+          "imdb": "tt2561472",
+          "tmdb": 64122,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11900265296,
       "watched_at": "2025-12-30T20:49:00.000Z",
@@ -171,126 +291,6 @@
           "tvdb": 4398273,
           "imdb": "tt2395358",
           "tmdb": 64117,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11896754800,
-      "watched_at": "2025-12-29T20:26:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 6,
-        "title": "Legacies",
-        "ids": {
-          "trakt": 74763,
-          "tvdb": 4386872,
-          "imdb": "tt2377368",
-          "tmdb": 64115,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11896665339,
-      "watched_at": "2025-12-29T19:54:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 5,
-        "title": "Damaged",
-        "ids": {
-          "trakt": 74762,
-          "tvdb": 4378737,
-          "imdb": "tt2338426",
-          "tmdb": 64114,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11896550690,
-      "watched_at": "2025-12-29T19:06:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 4,
-        "title": "An Innocent Man",
-        "ids": {
-          "trakt": 74761,
-          "tvdb": 4369897,
-          "imdb": "tt2319602",
-          "tmdb": 64116,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11896404010,
-      "watched_at": "2025-12-29T18:30:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 3,
-        "title": "Lone Gunmen",
-        "ids": {
-          "trakt": 74760,
-          "tvdb": 4365919,
-          "imdb": "tt2310914",
-          "tmdb": 64113,
           "tvrage": null
         }
       },
