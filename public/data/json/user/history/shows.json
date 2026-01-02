@@ -1,12 +1,132 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-01T05:51:32.050788+00:00",
+    "fetched_at": "2026-01-02T05:50:35.089518+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11908102145,
+      "watched_at": "2026-01-01T22:35:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 19,
+        "title": "Unfinished Business",
+        "ids": {
+          "trakt": 74776,
+          "tvdb": 4506515,
+          "imdb": "tt2712930",
+          "tmdb": 64129,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11907971332,
+      "watched_at": "2026-01-01T21:58:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 18,
+        "title": "Salvation",
+        "ids": {
+          "trakt": 74775,
+          "tvdb": 4506514,
+          "imdb": "tt2698256",
+          "tmdb": 64128,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11906603933,
+      "watched_at": "2026-01-01T14:56:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 9,
+        "title": "La Chica o El Mundo",
+        "ids": {
+          "trakt": 12800278,
+          "tvdb": 11260082,
+          "imdb": "tt32777427",
+          "tmdb": 5964855,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Pluribus",
+        "year": 2025,
+        "ids": {
+          "trakt": 206790,
+          "slug": "pluribus",
+          "tvdb": 436457,
+          "imdb": "tt22202452",
+          "tmdb": 225171,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11906122228,
+      "watched_at": "2026-01-01T10:15:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 5,
+        "number": 8,
+        "title": "Chapter Eight: The Rightside Up",
+        "ids": {
+          "trakt": 12291598,
+          "tvdb": 10788054,
+          "imdb": "tt21914684",
+          "tmdb": 5607051,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Stranger Things",
+        "year": 2016,
+        "ids": {
+          "trakt": 104439,
+          "slug": "stranger-things",
+          "tvdb": 305288,
+          "imdb": "tt4574334",
+          "tmdb": 66732,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11904669926,
       "watched_at": "2025-12-31T18:29:00.000Z",
@@ -171,126 +291,6 @@
           "tvdb": 4442088,
           "imdb": "tt2519404",
           "tmdb": 64124,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11900101622,
-      "watched_at": "2025-12-30T19:28:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 11,
-        "title": "Trust But Verify",
-        "ids": {
-          "trakt": 74768,
-          "tvdb": 4430407,
-          "imdb": "tt2496078",
-          "tmdb": 64121,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11900016977,
-      "watched_at": "2025-12-30T18:49:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 10,
-        "title": "Burned",
-        "ids": {
-          "trakt": 74767,
-          "tvdb": 4421415,
-          "imdb": "tt2467064",
-          "tmdb": 64120,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11899686890,
-      "watched_at": "2025-12-30T17:43:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 9,
-        "title": "Year's End",
-        "ids": {
-          "trakt": 74766,
-          "tvdb": 4415147,
-          "imdb": "tt2448164",
-          "tmdb": 64119,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11896853023,
-      "watched_at": "2025-12-29T21:04:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 7,
-        "title": "Muse of Fire",
-        "ids": {
-          "trakt": 74764,
-          "tvdb": 4398273,
-          "imdb": "tt2395358",
-          "tmdb": 64117,
           "tvrage": null
         }
       },
