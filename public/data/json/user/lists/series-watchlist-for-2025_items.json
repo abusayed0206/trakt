@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-01T05:51:34.375943+00:00",
+    "fetched_at": "2026-01-02T05:50:37.618203+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
-    "count": 82
+    "count": 84
   },
   "data": [
     {
@@ -763,6 +763,25 @@
           "tvdb": 366524,
           "imdb": "tt2934286",
           "tmdb": 52814,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 83,
+      "id": 1400239794,
+      "listed_at": "2026-01-01T22:05:43.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Manifest",
+        "year": 2018,
+        "ids": {
+          "trakt": 133259,
+          "slug": "manifest",
+          "tvdb": 349271,
+          "imdb": "tt8421350",
+          "tmdb": 79696,
           "tvrage": null
         }
       }
@@ -1542,6 +1561,25 @@
           "tvdb": 75258,
           "imdb": "tt0056757",
           "tmdb": 10083,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 84,
+      "id": 1400239921,
+      "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "A Knight of the Seven Kingdoms",
+        "year": 2026,
+        "ids": {
+          "trakt": 204141,
+          "slug": "a-knight-of-the-seven-kingdoms",
+          "tvdb": 433631,
+          "imdb": "tt27497448",
+          "tmdb": 224372,
           "tvrage": null
         }
       }

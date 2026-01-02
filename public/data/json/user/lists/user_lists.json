@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-01T05:51:34.221679+00:00",
+    "fetched_at": "2026-01-02T05:50:37.349690+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/user_lists.json",
-    "count": 3
+    "count": 4
   },
   "data": [
     {
@@ -18,8 +18,8 @@
       "sort_by": "popularity",
       "sort_how": "desc",
       "created_at": "2024-01-18T16:02:04.000Z",
-      "updated_at": "2025-12-25T06:19:31.000Z",
-      "item_count": 82,
+      "updated_at": "2026-01-01T22:05:50.000Z",
+      "item_count": 84,
       "comment_count": 0,
       "likes": 0,
       "ids": {
@@ -50,13 +50,45 @@
       "sort_by": "popularity",
       "sort_how": "desc",
       "created_at": "2025-02-15T16:47:16.000Z",
-      "updated_at": "2025-09-04T12:10:20.000Z",
-      "item_count": 12,
+      "updated_at": "2026-01-01T22:06:35.000Z",
+      "item_count": 11,
       "comment_count": 0,
       "likes": 0,
       "ids": {
         "trakt": 30670410,
         "slug": "anticipated-movies"
+      },
+      "user": {
+        "username": "lrs",
+        "private": false,
+        "deleted": false,
+        "name": "SAYED | সাঈদ",
+        "vip": true,
+        "vip_ep": false,
+        "director": false,
+        "ids": {
+          "slug": "lrs"
+        }
+      }
+    },
+    {
+      "name": "MDBLIST",
+      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/mdblist\r\nUpdated at 2026-01-02 00:35:54",
+      "privacy": "public",
+      "share_link": "https://trakt.tv/lists/33418911",
+      "type": "personal",
+      "display_numbers": false,
+      "allow_comments": true,
+      "sort_by": "rank",
+      "sort_how": "asc",
+      "created_at": "2026-01-01T22:03:25.000Z",
+      "updated_at": "2026-01-01T22:35:54.000Z",
+      "item_count": 4073,
+      "comment_count": 0,
+      "likes": 0,
+      "ids": {
+        "trakt": 33418911,
+        "slug": "mdblist"
       },
       "user": {
         "username": "lrs",

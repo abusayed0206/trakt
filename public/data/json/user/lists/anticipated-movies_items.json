@@ -1,29 +1,12 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-01T05:51:34.473098+00:00",
+    "fetched_at": "2026-01-02T05:50:37.715435+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
-    "count": 12
+    "count": 11
   },
   "data": [
-    {
-      "rank": 8,
-      "id": 1174076338,
-      "listed_at": "2025-02-16T04:15:17.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Now You See Me: Now You Don't",
-        "year": 2025,
-        "ids": {
-          "trakt": 292275,
-          "slug": "now-you-see-me-now-you-don-t-2025",
-          "imdb": "tt4712810",
-          "tmdb": 425274
-        }
-      }
-    },
     {
       "rank": 3,
       "id": 1174076303,
@@ -112,7 +95,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "id": 1285064667,
       "listed_at": "2025-07-22T20:05:17.000Z",
       "notes": null,
@@ -163,7 +146,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": 1205938473,
       "listed_at": "2025-04-03T16:21:59.000Z",
       "notes": null,
@@ -180,7 +163,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": 1210621808,
       "listed_at": "2025-04-14T10:15:39.000Z",
       "notes": null,
@@ -197,7 +180,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": 1176832893,
       "listed_at": "2025-02-22T14:20:36.000Z",
       "notes": null,
