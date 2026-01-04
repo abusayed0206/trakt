@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-03T05:47:42.940380+00:00",
+    "fetched_at": "2026-01-04T05:50:38.921583+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/mdblist_items.json",
-    "count": 4072
+    "count": 4075
   },
   "data": [
     {
@@ -22590,7 +22590,7 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Sword Art Online: The Movie – Ordinal Scale",
+        "title": "Sword Art Online the Movie: Ordinal Scale",
         "year": 2017,
         "ids": {
           "trakt": 258811,
@@ -69228,6 +69228,57 @@
           "slug": "constable-1168831",
           "imdb": "tt28182053",
           "tmdb": 1428868
+        }
+      }
+    },
+    {
+      "rank": 4073,
+      "id": 1401585542,
+      "listed_at": "2026-01-03T23:51:04.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Phil Spector",
+        "year": 2013,
+        "ids": {
+          "trakt": 110015,
+          "slug": "phil-spector-2013",
+          "imdb": "tt1745862",
+          "tmdb": 173153
+        }
+      }
+    },
+    {
+      "rank": 4074,
+      "id": 1401585543,
+      "listed_at": "2026-01-03T23:51:04.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Kaantha",
+        "year": 2025,
+        "ids": {
+          "trakt": 1013273,
+          "slug": "kaantha-2025",
+          "imdb": "tt28508934",
+          "tmdb": 1250508
+        }
+      }
+    },
+    {
+      "rank": 4075,
+      "id": 1401585544,
+      "listed_at": "2026-01-03T23:51:04.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Ikkis",
+        "year": 2026,
+        "ids": {
+          "trakt": 965812,
+          "slug": "ikkis-2026",
+          "imdb": "tt15464188",
+          "tmdb": 1196946
         }
       }
     }
