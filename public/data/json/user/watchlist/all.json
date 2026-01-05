@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-04T05:50:36.179434+00:00",
+    "fetched_at": "2026-01-05T05:58:39.551816+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
-    "count": 20
+    "count": 19
   },
   "data": [
     {
@@ -281,23 +281,6 @@
     },
     {
       "rank": 17,
-      "id": 1285064977,
-      "listed_at": "2025-07-22T20:05:47.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "The Hobbit: An Unexpected Journey",
-        "year": 2012,
-        "ids": {
-          "trakt": 34097,
-          "slug": "the-hobbit-an-unexpected-journey-2012",
-          "imdb": "tt0903624",
-          "tmdb": 49051
-        }
-      }
-    },
-    {
-      "rank": 18,
       "id": 1290228070,
       "listed_at": "2025-07-28T13:19:02.000Z",
       "notes": null,
@@ -314,7 +297,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": 1285065122,
       "listed_at": "2025-07-22T20:06:09.000Z",
       "notes": null,
@@ -331,7 +314,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "id": 1285065712,
       "listed_at": "2025-07-22T20:07:01.000Z",
       "notes": null,
