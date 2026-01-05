@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-04T05:50:38.921583+00:00",
+    "fetched_at": "2026-01-05T05:58:41.802653+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/mdblist_items.json",
-    "count": 4075
+    "count": 4078
   },
   "data": [
     {
@@ -22573,11 +22573,11 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "T-34",
+        "title": "Т-34",
         "year": 2018,
         "ids": {
           "trakt": 353421,
-          "slug": "t-34-2018",
+          "slug": "34-2018",
           "imdb": "tt8820590",
           "tmdb": 505954
         }
@@ -69279,6 +69279,57 @@
           "slug": "ikkis-2026",
           "imdb": "tt15464188",
           "tmdb": 1196946
+        }
+      }
+    },
+    {
+      "rank": 4076,
+      "id": 1402268047,
+      "listed_at": "2026-01-05T00:41:50.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "The Shepherd",
+        "year": 2023,
+        "ids": {
+          "trakt": 898373,
+          "slug": "the-shepherd-2023",
+          "imdb": "tt10075766",
+          "tmdb": 1116488
+        }
+      }
+    },
+    {
+      "rank": 4077,
+      "id": 1402268048,
+      "listed_at": "2026-01-05T00:41:50.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Batman: The Doom That Came to Gotham",
+        "year": 2023,
+        "ids": {
+          "trakt": 806770,
+          "slug": "batman-the-doom-that-came-to-gotham-2023",
+          "imdb": "tt24223450",
+          "tmdb": 1003579
+        }
+      }
+    },
+    {
+      "rank": 4078,
+      "id": 1402268049,
+      "listed_at": "2026-01-05T00:41:50.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "One Piece Fan Letter",
+        "year": null,
+        "ids": {
+          "trakt": 1336850,
+          "slug": "one-piece-fan-letter",
+          "imdb": "tt33998607",
+          "tmdb": 1609019
         }
       }
     }
