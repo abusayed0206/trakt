@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-05T05:58:38.448518+00:00",
+    "fetched_at": "2026-01-06T05:50:32.102786+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11921091141,
+      "watched_at": "2026-01-05T19:59:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "The Hobbit: The Desolation of Smaug",
+        "year": 2013,
+        "ids": {
+          "trakt": 40808,
+          "slug": "the-hobbit-the-desolation-of-smaug-2013",
+          "imdb": "tt1170358",
+          "tmdb": 57158
+        }
+      }
+    },
     {
       "id": 11917147561,
       "watched_at": "2026-01-04T17:20:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "sinners-2025",
           "imdb": "tt31193180",
           "tmdb": 1233413
-        }
-      }
-    },
-    {
-      "id": 11657758842,
-      "watched_at": "2025-11-17T19:03:43.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Frankenstein",
-        "year": 2025,
-        "ids": {
-          "trakt": 854887,
-          "slug": "frankenstein-2025",
-          "imdb": "tt1312221",
-          "tmdb": 1062722
         }
       }
     }
