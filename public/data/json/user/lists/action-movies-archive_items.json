@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-06T05:50:35.411124+00:00",
+    "fetched_at": "2026-01-07T05:50:43.775413+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -16352,10 +16352,10 @@
       "type": "movie",
       "movie": {
         "title": "Love Exposure",
-        "year": 2009,
+        "year": 2008,
         "ids": {
           "trakt": 17718,
-          "slug": "love-exposure-2009",
+          "slug": "love-exposure-2008",
           "imdb": "tt1128075",
           "tmdb": 28422
         }
