@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-07T05:50:43.040306+00:00",
+    "fetched_at": "2026-01-08T05:50:53.143881+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/mdblist_items.json",
@@ -31805,10 +31805,10 @@
       "type": "movie",
       "movie": {
         "title": "Benny's Video",
-        "year": 1993,
+        "year": 1992,
         "ids": {
           "trakt": 1348,
-          "slug": "benny-s-video-1993",
+          "slug": "benny-s-video-1992",
           "imdb": "tt0103793",
           "tmdb": 1987
         }
