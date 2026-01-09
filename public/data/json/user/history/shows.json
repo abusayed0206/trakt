@@ -1,12 +1,162 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-08T05:50:43.498160+00:00",
+    "fetched_at": "2026-01-09T05:50:58.728763+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11928636190,
+      "watched_at": "2026-01-08T22:19:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 11,
+        "title": "Blind Spot",
+        "ids": {
+          "trakt": 74791,
+          "tvdb": 4701156,
+          "imdb": "tt3263826",
+          "tmdb": 970444,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11928539114,
+      "watched_at": "2026-01-08T21:44:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 10,
+        "title": "Blast Radius",
+        "ids": {
+          "trakt": 74790,
+          "tvdb": 4694375,
+          "imdb": "tt3229416",
+          "tmdb": 970267,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11928376284,
+      "watched_at": "2026-01-08T20:23:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 9,
+        "title": "Three Ghosts",
+        "ids": {
+          "trakt": 74789,
+          "tvdb": 4687571,
+          "imdb": "tt3229414",
+          "tmdb": 968872,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11928338461,
+      "watched_at": "2026-01-08T19:58:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 8,
+        "title": "The Scientist",
+        "ids": {
+          "trakt": 74788,
+          "tvdb": 4687568,
+          "imdb": "tt3229412",
+          "tmdb": 968620,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11928278468,
+      "watched_at": "2026-01-08T19:27:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 7,
+        "title": "State v. Queen",
+        "ids": {
+          "trakt": 74787,
+          "tvdb": 4645098,
+          "imdb": "tt3213864",
+          "tmdb": 64141,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11925964256,
       "watched_at": "2026-01-07T19:07:00.000Z",
@@ -141,156 +291,6 @@
           "tvdb": 4618306,
           "imdb": "tt3077106",
           "tmdb": 64136,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11924962169,
-      "watched_at": "2026-01-07T08:49:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 1,
-        "title": "City of Heroes",
-        "ids": {
-          "trakt": 74781,
-          "tvdb": 4599381,
-          "imdb": "tt2702698",
-          "tmdb": 64135,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11910125432,
-      "watched_at": "2026-01-02T14:19:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 23,
-        "title": "Sacrifice",
-        "ids": {
-          "trakt": 74780,
-          "tvdb": 4517951,
-          "imdb": "tt2761440",
-          "tmdb": 64133,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11909722541,
-      "watched_at": "2026-01-02T10:38:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 22,
-        "title": "Darkness on the Edge of Town",
-        "ids": {
-          "trakt": 74779,
-          "tvdb": 4517950,
-          "imdb": "tt2761434",
-          "tmdb": 64132,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11909665756,
-      "watched_at": "2026-01-02T10:01:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 21,
-        "title": "The Undertaking",
-        "ids": {
-          "trakt": 74778,
-          "tvdb": 4517949,
-          "imdb": "tt2761428",
-          "tmdb": 64131,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11909622680,
-      "watched_at": "2026-01-02T09:30:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 20,
-        "title": "Home Invasion",
-        "ids": {
-          "trakt": 74777,
-          "tvdb": 4517894,
-          "imdb": "tt2761432",
-          "tmdb": 64130,
           "tvrage": null
         }
       },
