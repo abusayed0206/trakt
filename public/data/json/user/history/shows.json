@@ -1,12 +1,162 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-09T05:50:58.728763+00:00",
+    "fetched_at": "2026-01-10T05:46:42.165986+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11929878899,
+      "watched_at": "2026-01-09T10:34:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 16,
+        "title": "Suicide Squad",
+        "ids": {
+          "trakt": 74796,
+          "tvdb": 4781052,
+          "imdb": "tt3337660",
+          "tmdb": 972713,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11929854300,
+      "watched_at": "2026-01-09T10:16:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 15,
+        "title": "The Promise",
+        "ids": {
+          "trakt": 74795,
+          "tvdb": 4762969,
+          "imdb": "tt3337658",
+          "tmdb": 972032,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11929835045,
+      "watched_at": "2026-01-09T09:56:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 14,
+        "title": "Time of Death",
+        "ids": {
+          "trakt": 74794,
+          "tvdb": 4725652,
+          "imdb": "tt3337656",
+          "tmdb": 971805,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11929809118,
+      "watched_at": "2026-01-09T09:26:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 13,
+        "title": "Heir to the Demon",
+        "ids": {
+          "trakt": 74793,
+          "tvdb": 4723661,
+          "imdb": "tt3263832",
+          "tmdb": 970941,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11929688421,
+      "watched_at": "2026-01-09T08:26:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 12,
+        "title": "Tremors",
+        "ids": {
+          "trakt": 74792,
+          "tvdb": 4723660,
+          "imdb": "tt3263824",
+          "tmdb": 970714,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11928636190,
       "watched_at": "2026-01-08T22:19:00.000Z",
@@ -141,156 +291,6 @@
           "tvdb": 4645098,
           "imdb": "tt3213864",
           "tmdb": 64141,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11925964256,
-      "watched_at": "2026-01-07T19:07:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 6,
-        "title": "Keep Your Enemies Closer",
-        "ids": {
-          "trakt": 74786,
-          "tvdb": 4644761,
-          "imdb": "tt3213782",
-          "tmdb": 64140,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11925542355,
-      "watched_at": "2026-01-07T15:05:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 5,
-        "title": "League of Assassins",
-        "ids": {
-          "trakt": 74785,
-          "tvdb": 4634985,
-          "imdb": "tt3128398",
-          "tmdb": 64139,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11925123206,
-      "watched_at": "2026-01-07T10:35:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 4,
-        "title": "Crucible",
-        "ids": {
-          "trakt": 74784,
-          "tvdb": 4626058,
-          "imdb": "tt3126168",
-          "tmdb": 64138,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11925091003,
-      "watched_at": "2026-01-07T10:04:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 3,
-        "title": "Broken Dolls",
-        "ids": {
-          "trakt": 74783,
-          "tvdb": 4621221,
-          "imdb": "tt3126166",
-          "tmdb": 64137,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11925015594,
-      "watched_at": "2026-01-07T09:36:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 2,
-        "title": "Identity",
-        "ids": {
-          "trakt": 74782,
-          "tvdb": 4618306,
-          "imdb": "tt3077106",
-          "tmdb": 64136,
           "tvrage": null
         }
       },

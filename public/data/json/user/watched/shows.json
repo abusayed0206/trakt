@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-09T05:51:00.140059+00:00",
+    "fetched_at": "2026-01-10T05:46:43.612067+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,9 @@
   },
   "data": [
     {
-      "plays": 33,
-      "last_watched_at": "2026-01-08T22:19:00.000Z",
-      "last_updated_at": "2026-01-08T22:19:43.000Z",
+      "plays": 38,
+      "last_watched_at": "2026-01-09T10:34:00.000Z",
+      "last_updated_at": "2026-01-09T10:34:33.000Z",
       "reset_at": null,
       "show": {
         "title": "Arrow",
@@ -197,6 +197,31 @@
               "number": 11,
               "plays": 1,
               "last_watched_at": "2026-01-08T22:19:00.000Z"
+            },
+            {
+              "number": 12,
+              "plays": 1,
+              "last_watched_at": "2026-01-09T08:26:00.000Z"
+            },
+            {
+              "number": 13,
+              "plays": 1,
+              "last_watched_at": "2026-01-09T09:26:00.000Z"
+            },
+            {
+              "number": 14,
+              "plays": 1,
+              "last_watched_at": "2026-01-09T09:56:00.000Z"
+            },
+            {
+              "number": 15,
+              "plays": 1,
+              "last_watched_at": "2026-01-09T10:16:00.000Z"
+            },
+            {
+              "number": 16,
+              "plays": 1,
+              "last_watched_at": "2026-01-09T10:34:00.000Z"
             }
           ]
         }
