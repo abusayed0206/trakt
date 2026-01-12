@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-11T05:49:57.669183+00:00",
+    "fetched_at": "2026-01-12T05:54:28.432076+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11935460687,
+      "watched_at": "2026-01-11T12:28:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "The Polar Express",
+        "year": 2004,
+        "ids": {
+          "trakt": 3051,
+          "slug": "the-polar-express-2004",
+          "imdb": "tt0338348",
+          "tmdb": 5255
+        }
+      }
+    },
     {
       "id": 11923165555,
       "watched_at": "2026-01-06T15:42:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "apollo-11-2019",
           "imdb": "tt8760684",
           "tmdb": 549559
-        }
-      }
-    },
-    {
-      "id": 11663701703,
-      "watched_at": "2025-11-19T18:26:33.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Law Abiding Citizen",
-        "year": 2009,
-        "ids": {
-          "trakt": 13852,
-          "slug": "law-abiding-citizen-2009",
-          "imdb": "tt1197624",
-          "tmdb": 22803
         }
       }
     }

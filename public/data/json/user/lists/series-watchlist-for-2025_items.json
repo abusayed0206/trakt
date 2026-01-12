@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-11T05:49:59.321277+00:00",
+    "fetched_at": "2026-01-12T05:54:31.889537+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -787,25 +787,6 @@
       }
     },
     {
-      "rank": 70,
-      "id": 1286151520,
-      "listed_at": "2025-07-23T21:00:34.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "The Last Ship",
-        "year": 2014,
-        "ids": {
-          "trakt": 60360,
-          "slug": "the-last-ship",
-          "tvdb": 269533,
-          "imdb": "tt2402207",
-          "tmdb": 60802,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 54,
       "id": 1285066962,
       "listed_at": "2025-07-22T20:09:52.000Z",
@@ -820,6 +801,25 @@
           "tvdb": 446831,
           "imdb": "tt31510819",
           "tmdb": 247718,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 70,
+      "id": 1286151520,
+      "listed_at": "2025-07-23T21:00:34.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "The Last Ship",
+        "year": 2014,
+        "ids": {
+          "trakt": 60360,
+          "slug": "the-last-ship",
+          "tvdb": 269533,
+          "imdb": "tt2402207",
+          "tmdb": 60802,
           "tvrage": null
         }
       }
