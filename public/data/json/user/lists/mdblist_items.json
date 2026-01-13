@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-12T05:54:36.878522+00:00",
+    "fetched_at": "2026-01-13T05:50:15.422214+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/mdblist_items.json",
-    "count": 4070
+    "count": 4074
   },
   "data": [
     {
@@ -69029,6 +69029,23 @@
     },
     {
       "rank": 4061,
+      "id": 1407613484,
+      "listed_at": "2026-01-13T05:16:18.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Battle for Sevastopol",
+        "year": 2015,
+        "ids": {
+          "trakt": 213136,
+          "slug": "battle-for-sevastopol-2015",
+          "imdb": "tt4084744",
+          "tmdb": 332270
+        }
+      }
+    },
+    {
+      "rank": 4062,
       "id": 1400257308,
       "listed_at": "2026-01-01T22:35:26.000Z",
       "notes": null,
@@ -69045,7 +69062,24 @@
       }
     },
     {
-      "rank": 4062,
+      "rank": 4063,
+      "id": 1407613485,
+      "listed_at": "2026-01-13T05:16:18.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Eko",
+        "year": 2025,
+        "ids": {
+          "trakt": 860804,
+          "slug": "eko-2025",
+          "imdb": "tt36616410",
+          "tmdb": 1070186
+        }
+      }
+    },
+    {
+      "rank": 4064,
       "id": 1400257309,
       "listed_at": "2026-01-01T22:35:26.000Z",
       "notes": null,
@@ -69062,7 +69096,7 @@
       }
     },
     {
-      "rank": 4063,
+      "rank": 4065,
       "id": 1401585542,
       "listed_at": "2026-01-03T23:51:04.000Z",
       "notes": null,
@@ -69079,7 +69113,7 @@
       }
     },
     {
-      "rank": 4064,
+      "rank": 4066,
       "id": 1405595051,
       "listed_at": "2026-01-10T04:08:42.000Z",
       "notes": null,
@@ -69096,7 +69130,24 @@
       }
     },
     {
-      "rank": 4065,
+      "rank": 4067,
+      "id": 1407613486,
+      "listed_at": "2026-01-13T05:16:18.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "12th Man",
+        "year": 2022,
+        "ids": {
+          "trakt": 677118,
+          "slug": "12th-man-2022",
+          "imdb": "tt14986012",
+          "tmdb": 847726
+        }
+      }
+    },
+    {
+      "rank": 4068,
       "id": 1401585543,
       "listed_at": "2026-01-03T23:51:04.000Z",
       "notes": null,
@@ -69113,7 +69164,24 @@
       }
     },
     {
-      "rank": 4066,
+      "rank": 4069,
+      "id": 1407613487,
+      "listed_at": "2026-01-13T05:16:18.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Parasakthi",
+        "year": 2026,
+        "ids": {
+          "trakt": 965476,
+          "slug": "parasakthi-2026",
+          "imdb": "tt35019998",
+          "tmdb": 965483
+        }
+      }
+    },
+    {
+      "rank": 4070,
       "id": 1401585544,
       "listed_at": "2026-01-03T23:51:04.000Z",
       "notes": null,
@@ -69130,7 +69198,7 @@
       }
     },
     {
-      "rank": 4067,
+      "rank": 4071,
       "id": 1402268047,
       "listed_at": "2026-01-05T00:41:50.000Z",
       "notes": null,
@@ -69147,7 +69215,7 @@
       }
     },
     {
-      "rank": 4068,
+      "rank": 4072,
       "id": 1402268048,
       "listed_at": "2026-01-05T00:41:50.000Z",
       "notes": null,
@@ -69164,7 +69232,7 @@
       }
     },
     {
-      "rank": 4069,
+      "rank": 4073,
       "id": 1402268049,
       "listed_at": "2026-01-05T00:41:50.000Z",
       "notes": null,
@@ -69195,7 +69263,7 @@
       }
     },
     {
-      "rank": 4070,
+      "rank": 4074,
       "id": 1402944020,
       "listed_at": "2026-01-06T01:28:10.000Z",
       "notes": null,
