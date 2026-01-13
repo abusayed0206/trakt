@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "tmdb_id": 5255,
+      "title": "The Polar Express",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/5255_poster.jpg",
+      "last_watched_at": "2026-01-11T12:28:00.000Z"
+    },
+    {
       "tmdb_id": 1389369,
       "title": "The Hobbit: The Battle of Five Armies (Extended Edition)",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1389369_poster.jpg",
@@ -53,12 +59,6 @@
       "title": "Apollo 11",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/549559_poster.jpg",
       "last_watched_at": "2025-11-22T07:49:30.000Z"
-    },
-    {
-      "tmdb_id": 22803,
-      "title": "Law Abiding Citizen",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/22803_poster.jpg",
-      "last_watched_at": "2025-11-19T18:26:33.000Z"
     }
   ],
   "shows": [
@@ -71,7 +71,7 @@
         2
       ],
       "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/1/season_1_poster.jpg",
-      "last_watched_at": "2026-01-09T10:34:00.000Z"
+      "last_watched_at": "2026-01-11T19:21:00.000Z"
     },
     {
       "tmdb_id": 225171,
@@ -86,7 +86,7 @@
     {
       "tmdb_id": 66732,
       "title": "Stranger Things",
-      "season": 5,
+      "season": 2,
       "available_seasons": [
         1,
         2,
@@ -94,30 +94,30 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/5/season_5_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/2/season_2_poster.jpg",
       "last_watched_at": "2026-01-01T10:15:00.000Z"
     },
     {
       "tmdb_id": 4057,
       "title": "Criminal Minds",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/1/season_1_poster.jpg",
       "last_watched_at": "2025-12-27T13:23:00.000Z"
     },
     {
       "tmdb_id": 1973,
       "title": "24",
-      "season": 2,
+      "season": 3,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/3/season_3_poster.jpg",
       "last_watched_at": "2025-12-20T20:34:00.000Z"
     },
     {
@@ -156,12 +156,12 @@
     {
       "tmdb_id": 119051,
       "title": "Wednesday",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
       "last_watched_at": "2025-09-04T08:28:14.000Z"
     },
     {
