@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-12T05:54:28.720733+00:00",
+    "fetched_at": "2026-01-13T05:50:08.080121+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11939437610,
+      "watched_at": "2026-01-12T20:47:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 1,
+        "title": "Doubt",
+        "ids": {
+          "trakt": 291448,
+          "tvdb": 336536,
+          "imdb": "tt1093934",
+          "tmdb": 283175,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11936372487,
       "watched_at": "2026-01-11T19:21:00.000Z",
@@ -261,36 +291,6 @@
           "tvdb": 4762969,
           "imdb": "tt3337658",
           "tmdb": 972032,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11929835045,
-      "watched_at": "2026-01-09T09:56:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 14,
-        "title": "Time of Death",
-        "ids": {
-          "trakt": 74794,
-          "tvdb": 4725652,
-          "imdb": "tt3337656",
-          "tmdb": 971805,
           "tvrage": null
         }
       },

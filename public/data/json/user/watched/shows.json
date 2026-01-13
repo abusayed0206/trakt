@@ -1,12 +1,272 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-12T05:54:30.839968+00:00",
+    "fetched_at": "2026-01-13T05:50:09.516433+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
     "count": 139
   },
   "data": [
+    {
+      "plays": 46,
+      "last_watched_at": "2026-01-12T20:47:00.000Z",
+      "last_updated_at": "2026-01-12T20:47:36.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 2,
+              "last_watched_at": "2025-10-16T09:49:15.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-10-16T10:43:27.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-10-18T09:28:45.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-10-21T08:41:28.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-10-21T18:26:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-10-21T19:21:13.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-10-22T16:13:44.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2025-10-23T15:30:36.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2025-10-23T16:35:03.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2025-10-24T19:04:49.000Z"
+            },
+            {
+              "number": 11,
+              "plays": 1,
+              "last_watched_at": "2025-10-24T20:16:30.000Z"
+            },
+            {
+              "number": 12,
+              "plays": 1,
+              "last_watched_at": "2025-10-24T20:55:42.000Z"
+            },
+            {
+              "number": 13,
+              "plays": 1,
+              "last_watched_at": "2025-10-27T07:51:41.000Z"
+            },
+            {
+              "number": 14,
+              "plays": 1,
+              "last_watched_at": "2025-10-27T08:31:03.000Z"
+            },
+            {
+              "number": 15,
+              "plays": 1,
+              "last_watched_at": "2025-10-28T11:33:00.000Z"
+            },
+            {
+              "number": 16,
+              "plays": 1,
+              "last_watched_at": "2025-10-29T09:05:37.000Z"
+            },
+            {
+              "number": 18,
+              "plays": 1,
+              "last_watched_at": "2025-11-03T09:50:27.000Z"
+            },
+            {
+              "number": 19,
+              "plays": 1,
+              "last_watched_at": "2025-11-03T10:40:49.000Z"
+            },
+            {
+              "number": 20,
+              "plays": 1,
+              "last_watched_at": "2025-11-06T16:55:04.000Z"
+            },
+            {
+              "number": 21,
+              "plays": 1,
+              "last_watched_at": "2025-11-06T18:20:59.000Z"
+            },
+            {
+              "number": 22,
+              "plays": 1,
+              "last_watched_at": "2025-11-06T19:09:24.000Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-11-09T19:27:30.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-12-20T20:53:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-12-20T20:53:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-11-18T16:36:13.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-11-18T17:31:11.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-11-18T19:17:46.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-11-18T19:55:30.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2025-11-18T21:26:55.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2025-11-19T11:17:14.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2025-11-23T09:52:15.000Z"
+            },
+            {
+              "number": 11,
+              "plays": 1,
+              "last_watched_at": "2025-11-26T12:55:00.000Z"
+            },
+            {
+              "number": 12,
+              "plays": 1,
+              "last_watched_at": "2025-11-26T17:26:15.000Z"
+            },
+            {
+              "number": 13,
+              "plays": 1,
+              "last_watched_at": "2025-11-28T10:49:20.000Z"
+            },
+            {
+              "number": 14,
+              "plays": 1,
+              "last_watched_at": "2025-11-30T15:48:00.000Z"
+            },
+            {
+              "number": 15,
+              "plays": 1,
+              "last_watched_at": "2025-11-30T16:24:10.000Z"
+            },
+            {
+              "number": 16,
+              "plays": 1,
+              "last_watched_at": "2025-12-02T09:28:35.000Z"
+            },
+            {
+              "number": 17,
+              "plays": 1,
+              "last_watched_at": "2025-12-06T19:09:18.000Z"
+            },
+            {
+              "number": 18,
+              "plays": 1,
+              "last_watched_at": "2025-12-06T19:56:15.000Z"
+            },
+            {
+              "number": 19,
+              "plays": 1,
+              "last_watched_at": "2025-12-06T20:38:54.000Z"
+            },
+            {
+              "number": 20,
+              "plays": 1,
+              "last_watched_at": "2025-12-12T15:45:06.000Z"
+            },
+            {
+              "number": 21,
+              "plays": 1,
+              "last_watched_at": "2025-12-13T10:42:03.000Z"
+            },
+            {
+              "number": 22,
+              "plays": 1,
+              "last_watched_at": "2025-12-15T13:07:35.000Z"
+            },
+            {
+              "number": 23,
+              "plays": 1,
+              "last_watched_at": "2025-12-27T13:23:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2026-01-12T20:47:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     {
       "plays": 45,
       "last_watched_at": "2026-01-11T19:21:00.000Z",
@@ -582,256 +842,6 @@
               "number": 8,
               "plays": 1,
               "last_watched_at": "2026-01-01T10:15:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 45,
-      "last_watched_at": "2025-12-27T13:23:00.000Z",
-      "last_updated_at": "2025-12-27T13:23:59.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 2,
-              "last_watched_at": "2025-10-16T09:49:15.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2025-10-16T10:43:27.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2025-10-18T09:28:45.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2025-10-21T08:41:28.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2025-10-21T18:26:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2025-10-21T19:21:13.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2025-10-22T16:13:44.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2025-10-23T15:30:36.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2025-10-23T16:35:03.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2025-10-24T19:04:49.000Z"
-            },
-            {
-              "number": 11,
-              "plays": 1,
-              "last_watched_at": "2025-10-24T20:16:30.000Z"
-            },
-            {
-              "number": 12,
-              "plays": 1,
-              "last_watched_at": "2025-10-24T20:55:42.000Z"
-            },
-            {
-              "number": 13,
-              "plays": 1,
-              "last_watched_at": "2025-10-27T07:51:41.000Z"
-            },
-            {
-              "number": 14,
-              "plays": 1,
-              "last_watched_at": "2025-10-27T08:31:03.000Z"
-            },
-            {
-              "number": 15,
-              "plays": 1,
-              "last_watched_at": "2025-10-28T11:33:00.000Z"
-            },
-            {
-              "number": 16,
-              "plays": 1,
-              "last_watched_at": "2025-10-29T09:05:37.000Z"
-            },
-            {
-              "number": 18,
-              "plays": 1,
-              "last_watched_at": "2025-11-03T09:50:27.000Z"
-            },
-            {
-              "number": 19,
-              "plays": 1,
-              "last_watched_at": "2025-11-03T10:40:49.000Z"
-            },
-            {
-              "number": 20,
-              "plays": 1,
-              "last_watched_at": "2025-11-06T16:55:04.000Z"
-            },
-            {
-              "number": 21,
-              "plays": 1,
-              "last_watched_at": "2025-11-06T18:20:59.000Z"
-            },
-            {
-              "number": 22,
-              "plays": 1,
-              "last_watched_at": "2025-11-06T19:09:24.000Z"
-            }
-          ]
-        },
-        {
-          "number": 2,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2025-11-09T19:27:30.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2025-12-20T20:53:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2025-12-20T20:53:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2025-11-18T16:36:13.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2025-11-18T17:31:11.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2025-11-18T19:17:46.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2025-11-18T19:55:30.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2025-11-18T21:26:55.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2025-11-19T11:17:14.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2025-11-23T09:52:15.000Z"
-            },
-            {
-              "number": 11,
-              "plays": 1,
-              "last_watched_at": "2025-11-26T12:55:00.000Z"
-            },
-            {
-              "number": 12,
-              "plays": 1,
-              "last_watched_at": "2025-11-26T17:26:15.000Z"
-            },
-            {
-              "number": 13,
-              "plays": 1,
-              "last_watched_at": "2025-11-28T10:49:20.000Z"
-            },
-            {
-              "number": 14,
-              "plays": 1,
-              "last_watched_at": "2025-11-30T15:48:00.000Z"
-            },
-            {
-              "number": 15,
-              "plays": 1,
-              "last_watched_at": "2025-11-30T16:24:10.000Z"
-            },
-            {
-              "number": 16,
-              "plays": 1,
-              "last_watched_at": "2025-12-02T09:28:35.000Z"
-            },
-            {
-              "number": 17,
-              "plays": 1,
-              "last_watched_at": "2025-12-06T19:09:18.000Z"
-            },
-            {
-              "number": 18,
-              "plays": 1,
-              "last_watched_at": "2025-12-06T19:56:15.000Z"
-            },
-            {
-              "number": 19,
-              "plays": 1,
-              "last_watched_at": "2025-12-06T20:38:54.000Z"
-            },
-            {
-              "number": 20,
-              "plays": 1,
-              "last_watched_at": "2025-12-12T15:45:06.000Z"
-            },
-            {
-              "number": 21,
-              "plays": 1,
-              "last_watched_at": "2025-12-13T10:42:03.000Z"
-            },
-            {
-              "number": 22,
-              "plays": 1,
-              "last_watched_at": "2025-12-15T13:07:35.000Z"
-            },
-            {
-              "number": 23,
-              "plays": 1,
-              "last_watched_at": "2025-12-27T13:23:00.000Z"
             }
           ]
         }
