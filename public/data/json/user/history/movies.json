@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-13T05:50:07.890109+00:00",
+    "fetched_at": "2026-01-14T05:51:22.609469+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11940908788,
+      "watched_at": "2026-01-13T11:18:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "One Battle After Another",
+        "year": 2025,
+        "ids": {
+          "trakt": 848797,
+          "slug": "one-battle-after-another-2025",
+          "imdb": "tt30144839",
+          "tmdb": 1054867
+        }
+      }
+    },
     {
       "id": 11935460687,
       "watched_at": "2026-01-11T12:28:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "now-you-see-me-now-you-don-t-2025",
           "imdb": "tt4712810",
           "tmdb": 425274
-        }
-      }
-    },
-    {
-      "id": 11676030455,
-      "watched_at": "2025-11-22T07:49:30.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Apollo 11",
-        "year": 2019,
-        "ids": {
-          "trakt": 399358,
-          "slug": "apollo-11-2019",
-          "imdb": "tt8760684",
-          "tmdb": 549559
         }
       }
     }
