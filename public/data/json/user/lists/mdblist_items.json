@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-13T05:50:15.422214+00:00",
+    "fetched_at": "2026-01-14T05:51:30.031433+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/mdblist_items.json",
@@ -69182,6 +69182,23 @@
     },
     {
       "rank": 4070,
+      "id": 1408289873,
+      "listed_at": "2026-01-14T05:41:21.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Paradox Effect",
+        "year": 2024,
+        "ids": {
+          "trakt": 856249,
+          "slug": "paradox-effect-2024",
+          "imdb": "tt14416430",
+          "tmdb": 1064375
+        }
+      }
+    },
+    {
+      "rank": 4071,
       "id": 1401585544,
       "listed_at": "2026-01-03T23:51:04.000Z",
       "notes": null,
@@ -69198,7 +69215,7 @@
       }
     },
     {
-      "rank": 4071,
+      "rank": 4072,
       "id": 1402268047,
       "listed_at": "2026-01-05T00:41:50.000Z",
       "notes": null,
@@ -69215,7 +69232,7 @@
       }
     },
     {
-      "rank": 4072,
+      "rank": 4073,
       "id": 1402268048,
       "listed_at": "2026-01-05T00:41:50.000Z",
       "notes": null,
@@ -69232,7 +69249,7 @@
       }
     },
     {
-      "rank": 4073,
+      "rank": 4074,
       "id": 1402268049,
       "listed_at": "2026-01-05T00:41:50.000Z",
       "notes": null,
@@ -69259,23 +69276,6 @@
           "imdb": "tt0388629",
           "tmdb": 37854,
           "tvrage": null
-        }
-      }
-    },
-    {
-      "rank": 4074,
-      "id": 1402944020,
-      "listed_at": "2026-01-06T01:28:10.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "City Hunter",
-        "year": 2024,
-        "ids": {
-          "trakt": 854287,
-          "slug": "city-hunter-2024",
-          "imdb": "tt24478470",
-          "tmdb": 1061990
         }
       }
     }
