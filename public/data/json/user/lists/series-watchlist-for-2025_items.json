@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-18T05:48:52.294944+00:00",
+    "fetched_at": "2026-01-19T05:56:31.074989+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -882,25 +882,6 @@
       }
     },
     {
-      "rank": 9,
-      "id": 1133528027,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "title": "Law & Order: Special Victims Unit",
-        "year": 1999,
-        "ids": {
-          "trakt": 2716,
-          "slug": "law-order-special-victims-unit",
-          "tvdb": 75692,
-          "imdb": "tt0203259",
-          "tmdb": 2734,
-          "tvrage": null
-        }
-      }
-    },
-    {
       "rank": 36,
       "id": 1273910724,
       "listed_at": "2025-07-08T19:03:09.000Z",
@@ -915,6 +896,25 @@
           "tvdb": 448176,
           "imdb": "tt31938062",
           "tmdb": 250307,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "rank": 9,
+      "id": 1133528027,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "title": "Law & Order: Special Victims Unit",
+        "year": 1999,
+        "ids": {
+          "trakt": 2716,
+          "slug": "law-order-special-victims-unit",
+          "tvdb": 75692,
+          "imdb": "tt0203259",
+          "tmdb": 2734,
           "tvrage": null
         }
       }
