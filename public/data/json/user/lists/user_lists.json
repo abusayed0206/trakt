@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-22T05:54:14.200499+00:00",
+    "fetched_at": "2026-01-23T05:52:27.984442+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/user_lists.json",
@@ -11,129 +11,193 @@
       "name": "Series Watchlist for 2025",
       "description": "I planned to watch these shows in 2025. some of them are planned for 2024 and moved to 2025.",
       "privacy": "public",
-      "share_link": "https://trakt.tv/lists/26841041",
+      "share_link": "",
       "type": "personal",
       "display_numbers": true,
       "allow_comments": true,
       "sort_by": "popularity",
-      "sort_how": "desc",
+      "sort_how": "asc",
       "created_at": "2024-01-18T16:02:04.000Z",
       "updated_at": "2026-01-01T22:05:50.000Z",
       "item_count": 84,
       "comment_count": 0,
       "likes": 0,
       "ids": {
-        "trakt": 26841041,
-        "slug": "series-watchlist-for-2025"
+        "slug": "series-watchlist-for-2025",
+        "trakt": 26841041
+      },
+      "images": {
+        "posters": []
       },
       "user": {
+        "ids": {
+          "slug": "lrs",
+          "trakt": 13040967
+        },
+        "images": {
+          "avatar": {
+            "full": "https://media.trakt.tv/images/users/013/040/967/avatars/medium/21e36e057f.webp"
+          }
+        },
         "username": "lrs",
         "private": false,
         "deleted": false,
+        "joined_at": "2023-09-17T16:45:25.000Z",
+        "location": "Bangladesh । বাংলাদেশ",
+        "about": "Movies and shows are my escape from life.",
         "name": "SAYED | সাঈদ",
+        "gender": "male",
+        "age": 26,
         "vip": true,
         "vip_ep": false,
-        "director": false,
-        "ids": {
-          "slug": "lrs"
-        }
-      }
+        "vip_cover_image": null,
+        "director": false
+      },
+      "total_count": 4
     },
     {
       "name": "Anticipated Movies",
       "description": "Just a list for anticipated movies and using it with radarr.",
       "privacy": "public",
-      "share_link": "https://trakt.tv/lists/30670410",
+      "share_link": "",
       "type": "personal",
       "display_numbers": true,
       "allow_comments": true,
       "sort_by": "popularity",
-      "sort_how": "desc",
+      "sort_how": "asc",
       "created_at": "2025-02-15T16:47:16.000Z",
       "updated_at": "2026-01-01T22:06:35.000Z",
       "item_count": 11,
       "comment_count": 0,
       "likes": 0,
       "ids": {
-        "trakt": 30670410,
-        "slug": "anticipated-movies"
+        "slug": "anticipated-movies",
+        "trakt": 30670410
+      },
+      "images": {
+        "posters": []
       },
       "user": {
+        "ids": {
+          "slug": "lrs",
+          "trakt": 13040967
+        },
+        "images": {
+          "avatar": {
+            "full": "https://media.trakt.tv/images/users/013/040/967/avatars/medium/21e36e057f.webp"
+          }
+        },
         "username": "lrs",
         "private": false,
         "deleted": false,
+        "joined_at": "2023-09-17T16:45:25.000Z",
+        "location": "Bangladesh । বাংলাদেশ",
+        "about": "Movies and shows are my escape from life.",
         "name": "SAYED | সাঈদ",
+        "gender": "male",
+        "age": 26,
         "vip": true,
         "vip_ep": false,
-        "director": false,
-        "ids": {
-          "slug": "lrs"
-        }
-      }
+        "vip_cover_image": null,
+        "director": false
+      },
+      "total_count": 4
     },
     {
       "name": "MDBLIST",
-      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/mdblist\r\nUpdated at 2026-01-20 11:16:34",
+      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/mdblist\r\nUpdated at 2026-01-22 09:57:12",
       "privacy": "public",
-      "share_link": "https://trakt.tv/lists/33418911",
+      "share_link": "",
       "type": "personal",
       "display_numbers": false,
       "allow_comments": true,
       "sort_by": "rank",
       "sort_how": "asc",
       "created_at": "2026-01-01T22:03:25.000Z",
-      "updated_at": "2026-01-20T09:16:35.000Z",
-      "item_count": 4078,
+      "updated_at": "2026-01-22T07:57:12.000Z",
+      "item_count": 3942,
       "comment_count": 0,
       "likes": 1,
       "ids": {
-        "trakt": 33418911,
-        "slug": "mdblist"
+        "slug": "mdblist",
+        "trakt": 33418911
+      },
+      "images": {
+        "posters": []
       },
       "user": {
+        "ids": {
+          "slug": "lrs",
+          "trakt": 13040967
+        },
+        "images": {
+          "avatar": {
+            "full": "https://media.trakt.tv/images/users/013/040/967/avatars/medium/21e36e057f.webp"
+          }
+        },
         "username": "lrs",
         "private": false,
         "deleted": false,
+        "joined_at": "2023-09-17T16:45:25.000Z",
+        "location": "Bangladesh । বাংলাদেশ",
+        "about": "Movies and shows are my escape from life.",
         "name": "SAYED | সাঈদ",
+        "gender": "male",
+        "age": 26,
         "vip": true,
         "vip_ep": false,
-        "director": false,
-        "ids": {
-          "slug": "lrs"
-        }
-      }
+        "vip_cover_image": null,
+        "director": false
+      },
+      "total_count": 4
     },
     {
       "name": "Action Movies Archive",
       "description": "",
       "privacy": "public",
-      "share_link": "https://trakt.tv/lists/31950590",
+      "share_link": "",
       "type": "personal",
       "display_numbers": false,
       "allow_comments": false,
       "sort_by": "imdb_rating",
-      "sort_how": "desc",
+      "sort_how": "asc",
       "created_at": "2025-07-23T20:10:08.000Z",
       "updated_at": "2025-12-31T09:13:21.000Z",
       "item_count": 1807,
       "comment_count": 0,
       "likes": 4,
       "ids": {
-        "trakt": 31950590,
-        "slug": "action-movies-archive"
+        "slug": "action-movies-archive",
+        "trakt": 31950590
+      },
+      "images": {
+        "posters": []
       },
       "user": {
+        "ids": {
+          "slug": "lrs",
+          "trakt": 13040967
+        },
+        "images": {
+          "avatar": {
+            "full": "https://media.trakt.tv/images/users/013/040/967/avatars/medium/21e36e057f.webp"
+          }
+        },
         "username": "lrs",
         "private": false,
         "deleted": false,
+        "joined_at": "2023-09-17T16:45:25.000Z",
+        "location": "Bangladesh । বাংলাদেশ",
+        "about": "Movies and shows are my escape from life.",
         "name": "SAYED | সাঈদ",
+        "gender": "male",
+        "age": 26,
         "vip": true,
         "vip_ep": false,
-        "director": false,
-        "ids": {
-          "slug": "lrs"
-        }
-      }
+        "vip_cover_image": null,
+        "director": false
+      },
+      "total_count": 4
     }
   ]
 }
