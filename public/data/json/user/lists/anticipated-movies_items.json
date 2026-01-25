@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-24T05:47:13.513276+00:00",
+    "fetched_at": "2026-01-25T05:52:18.601527+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -215,11 +215,11 @@
             "guid": null,
             "slug": null
           },
-          "slug": "the-beekeeper-2",
+          "slug": "the-beekeeper-2-2027",
           "tmdb": 1440769,
           "trakt": 1179070
         },
-        "year": null,
+        "year": 2027,
         "title": "The Beekeeper 2",
         "votes": 4,
         "colors": {
@@ -259,7 +259,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-01-20T08:36:20.000Z",
+        "updated_at": "2026-01-24T08:45:27.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -337,7 +337,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-01-23T08:32:32.000Z",
+        "updated_at": "2026-01-24T08:39:40.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -599,7 +599,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-01-23T08:32:20.000Z",
+        "updated_at": "2026-01-24T08:36:54.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 7,
@@ -738,7 +738,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2652,
+        "votes": 2655,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -770,7 +770,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.825791835784912,
+        "rating": 5.82598876953125,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -848,7 +848,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 4459,
+        "votes": 4513,
         "colors": {
           "poster": [
             "#CA9675",
@@ -880,7 +880,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.55976676940918,
+        "rating": 7.5610456466674805,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -894,11 +894,10 @@
           "en"
         ],
         "subgenres": [
-          "amused",
           "witch",
           "alien"
         ],
-        "updated_at": "2026-01-23T16:27:41.000Z",
+        "updated_at": "2026-01-24T08:37:39.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 117,
