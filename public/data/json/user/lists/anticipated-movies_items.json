@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-25T05:52:18.601527+00:00",
+    "fetched_at": "2026-01-26T05:56:29.120158+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -254,12 +254,12 @@
         "homepage": null,
         "language": "en",
         "overview": "The second installment in the franchise. Plot TBA.",
-        "released": null,
+        "released": "2027-01-15",
         "languages": [
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-01-24T08:45:27.000Z",
+        "updated_at": "2026-01-25T08:31:31.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -337,7 +337,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-01-24T08:39:40.000Z",
+        "updated_at": "2026-01-25T08:32:54.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -376,7 +376,7 @@
         },
         "year": 2026,
         "title": "Dune: Part Three",
-        "votes": 32,
+        "votes": 33,
         "colors": {
           "poster": [
             "#9D4921",
@@ -399,7 +399,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.6875,
+        "rating": 7.757575988769531,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -552,7 +552,7 @@
         },
         "year": 2026,
         "title": "Avengers: Doomsday",
-        "votes": 56,
+        "votes": 57,
         "colors": {
           "poster": [
             "#A4BF91",
@@ -581,7 +581,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.464285850524902,
+        "rating": 7.508771896362305,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -599,10 +599,10 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-01-24T08:36:54.000Z",
+        "updated_at": "2026-01-25T08:51:20.000Z",
         "after_credits": false,
         "certification": null,
-        "comment_count": 7,
+        "comment_count": 6,
         "during_credits": false,
         "original_title": "Avengers: Doomsday",
         "available_translations": [
@@ -738,7 +738,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2655,
+        "votes": 2659,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -770,7 +770,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.82598876953125,
+        "rating": 5.826626777648926,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -848,7 +848,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 4513,
+        "votes": 4562,
         "colors": {
           "poster": [
             "#CA9675",
@@ -880,7 +880,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.5610456466674805,
+        "rating": 7.557650089263916,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -897,7 +897,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-01-24T08:37:39.000Z",
+        "updated_at": "2026-01-25T08:31:38.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 117,
