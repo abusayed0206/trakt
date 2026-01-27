@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-26T05:56:27.586873+00:00",
+    "fetched_at": "2026-01-27T05:59:23.381435+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 11973786677,
+      "watched_at": "2026-01-26T08:44:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 9,
+        "title": "Penelope",
+        "ids": {
+          "trakt": 291456,
+          "tvdb": 341293,
+          "imdb": "tt1119944",
+          "tmdb": 283196,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 11973731775,
+      "watched_at": "2026-01-26T08:10:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 8,
+        "title": "Lucky",
+        "ids": {
+          "trakt": 291455,
+          "tvdb": 336544,
+          "imdb": "tt1104878",
+          "tmdb": 283195,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11964368185,
       "watched_at": "2026-01-22T15:30:00.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 4822560,
           "imdb": "tt3337674",
           "tmdb": 974441,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11936317781,
-      "watched_at": "2026-01-11T18:55:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 22,
-        "title": "Streets of Fire",
-        "ids": {
-          "trakt": 74802,
-          "tvdb": 4822559,
-          "imdb": "tt3337672",
-          "tmdb": 974440,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11936272013,
-      "watched_at": "2026-01-11T18:30:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 21,
-        "title": "City of Blood",
-        "ids": {
-          "trakt": 74801,
-          "tvdb": 4822558,
-          "imdb": "tt3337670",
-          "tmdb": 974439,
           "tvrage": null
         }
       },
