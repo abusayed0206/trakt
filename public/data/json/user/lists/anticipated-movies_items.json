@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-01-28T05:54:02.925562+00:00",
+    "fetched_at": "2026-01-29T06:06:41.538368+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -337,7 +337,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-01-25T08:32:54.000Z",
+        "updated_at": "2026-01-28T08:21:26.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -415,7 +415,7 @@
         "subgenres": [
           "science-fiction"
         ],
-        "updated_at": "2026-01-27T08:38:19.000Z",
+        "updated_at": "2026-01-28T08:23:02.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 2,
@@ -599,7 +599,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-01-27T08:28:48.000Z",
+        "updated_at": "2026-01-28T08:21:27.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -738,7 +738,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2663,
+        "votes": 2666,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -770,7 +770,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.8272624015808105,
+        "rating": 5.825956344604492,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -788,7 +788,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-01-17T15:24:05.000Z",
+        "updated_at": "2026-01-29T04:59:51.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 72,
@@ -848,7 +848,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 4624,
+        "votes": 4654,
         "colors": {
           "poster": [
             "#CA9675",
@@ -880,7 +880,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.554930686950684,
+        "rating": 7.556295871734619,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -897,7 +897,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-01-27T08:35:17.000Z",
+        "updated_at": "2026-01-28T08:18:47.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 120,
