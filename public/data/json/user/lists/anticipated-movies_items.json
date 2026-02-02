@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-01T06:12:54.179609+00:00",
+    "fetched_at": "2026-02-02T06:40:35.640526+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -259,7 +259,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-01-31T08:39:01.000Z",
+        "updated_at": "2026-02-01T08:38:02.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -291,7 +291,7 @@
         },
         "year": 2027,
         "title": "Untitled The Batman Sequel",
-        "votes": 22,
+        "votes": 23,
         "colors": {
           "poster": [
             "#F20632",
@@ -318,7 +318,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.454545497894287,
+        "rating": 7.5652174949646,
         "status": "planned",
         "country": "us",
         "runtime": null,
@@ -337,7 +337,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-01-31T08:26:37.000Z",
+        "updated_at": "2026-02-01T08:42:59.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -599,7 +599,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-01-31T08:34:59.000Z",
+        "updated_at": "2026-02-02T06:38:40.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -608,6 +608,7 @@
         "available_translations": [
           "ar",
           "bg",
+          "cs",
           "en",
           "es",
           "fa",
@@ -738,7 +739,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2679,
+        "votes": 2680,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -770,7 +771,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.826427936553955,
+        "rating": 5.8264923095703125,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -788,7 +789,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-01T05:31:51.000Z",
+        "updated_at": "2026-02-02T04:44:13.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 72,
@@ -848,7 +849,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 4742,
+        "votes": 4788,
         "colors": {
           "poster": [
             "#CC997A",
@@ -880,7 +881,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.549557209014893,
+        "rating": 7.549080848693848,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -897,7 +898,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-01-31T16:48:31.000Z",
+        "updated_at": "2026-02-01T08:28:37.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 122,
