@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-02T06:40:35.640526+00:00",
+    "fetched_at": "2026-02-03T06:11:36.122674+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -337,7 +337,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-02-01T08:42:59.000Z",
+        "updated_at": "2026-02-02T08:39:09.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -599,7 +599,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-02-02T06:38:40.000Z",
+        "updated_at": "2026-02-02T08:45:34.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -739,7 +739,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2680,
+        "votes": 2681,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -771,7 +771,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.8264923095703125,
+        "rating": 5.826557159423828,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -789,7 +789,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-02T04:44:13.000Z",
+        "updated_at": "2026-02-03T00:55:07.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 72,
@@ -849,7 +849,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 4788,
+        "votes": 4804,
         "colors": {
           "poster": [
             "#CC997A",
@@ -881,7 +881,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.549080848693848,
+        "rating": 7.548084735870361,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -898,7 +898,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-02-01T08:28:37.000Z",
+        "updated_at": "2026-02-02T08:56:55.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 122,
