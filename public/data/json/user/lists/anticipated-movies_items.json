@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-03T06:11:36.122674+00:00",
+    "fetched_at": "2026-02-04T06:09:59.219898+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -552,7 +552,7 @@
         },
         "year": 2026,
         "title": "Avengers: Doomsday",
-        "votes": 58,
+        "votes": 59,
         "colors": {
           "poster": [
             "#A4BF91",
@@ -581,7 +581,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.551723957061768,
+        "rating": 7.559321880340576,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -739,7 +739,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2681,
+        "votes": 2684,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -771,7 +771,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.826557159423828,
+        "rating": 5.826751232147217,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -789,7 +789,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-03T00:55:07.000Z",
+        "updated_at": "2026-02-03T19:22:28.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 72,
@@ -849,7 +849,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 4804,
+        "votes": 4822,
         "colors": {
           "poster": [
             "#CC997A",
@@ -881,7 +881,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.548084735870361,
+        "rating": 7.545831680297852,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -898,7 +898,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-02-02T08:56:55.000Z",
+        "updated_at": "2026-02-03T10:16:26.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 122,
