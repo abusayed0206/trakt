@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-04T06:09:59.219898+00:00",
+    "fetched_at": "2026-02-05T06:33:25.732800+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -739,7 +739,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2684,
+        "votes": 2686,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -771,7 +771,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.826751232147217,
+        "rating": 5.828741550445557,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -789,7 +789,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-03T19:22:28.000Z",
+        "updated_at": "2026-02-04T16:13:20.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 72,
@@ -849,7 +849,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 4822,
+        "votes": 4844,
         "colors": {
           "poster": [
             "#CC997A",
@@ -881,7 +881,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.545831680297852,
+        "rating": 7.546449184417725,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -898,7 +898,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-02-03T10:16:26.000Z",
+        "updated_at": "2026-02-04T08:55:56.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 122,
