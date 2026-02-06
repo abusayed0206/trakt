@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-05T06:33:25.732800+00:00",
+    "fetched_at": "2026-02-06T06:29:38.904778+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -337,7 +337,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-02-02T08:39:09.000Z",
+        "updated_at": "2026-02-05T08:41:43.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -415,7 +415,7 @@
         "subgenres": [
           "science-fiction"
         ],
-        "updated_at": "2026-01-29T08:37:17.000Z",
+        "updated_at": "2026-02-05T08:45:29.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 2,
@@ -552,7 +552,7 @@
         },
         "year": 2026,
         "title": "Avengers: Doomsday",
-        "votes": 59,
+        "votes": 60,
         "colors": {
           "poster": [
             "#A4BF91",
@@ -581,7 +581,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.559321880340576,
+        "rating": 7.599999904632568,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -599,7 +599,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-02-02T08:45:34.000Z",
+        "updated_at": "2026-02-05T08:45:30.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -739,7 +739,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2686,
+        "votes": 2688,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -771,7 +771,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.828741550445557,
+        "rating": 5.829613208770752,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -849,7 +849,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 4844,
+        "votes": 4864,
         "colors": {
           "poster": [
             "#CC997A",
@@ -881,7 +881,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.546449184417725,
+        "rating": 7.5460524559021,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -895,10 +895,11 @@
           "en"
         ],
         "subgenres": [
+          "amused",
           "witch",
           "alien"
         ],
-        "updated_at": "2026-02-04T08:55:56.000Z",
+        "updated_at": "2026-02-05T08:35:43.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 122,
