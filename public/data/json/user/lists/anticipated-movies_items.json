@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-07T06:04:46.698147+00:00",
+    "fetched_at": "2026-02-08T06:27:45.679779+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -65,7 +65,7 @@
           "hi"
         ],
         "subgenres": [],
-        "updated_at": "2026-01-05T08:27:49.000Z",
+        "updated_at": "2026-02-07T08:34:14.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -337,7 +337,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-02-06T08:30:00.000Z",
+        "updated_at": "2026-02-07T08:27:30.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -376,7 +376,7 @@
         },
         "year": 2026,
         "title": "Dune: Part Three",
-        "votes": 34,
+        "votes": 35,
         "colors": {
           "poster": [
             "#9D4921",
@@ -399,7 +399,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.823529243469238,
+        "rating": 7.885714054107666,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -415,7 +415,7 @@
         "subgenres": [
           "science-fiction"
         ],
-        "updated_at": "2026-02-06T08:34:15.000Z",
+        "updated_at": "2026-02-07T08:25:17.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 2,
@@ -599,7 +599,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-02-06T08:34:17.000Z",
+        "updated_at": "2026-02-07T08:38:48.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -739,7 +739,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2690,
+        "votes": 2691,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -771,7 +771,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.828624725341797,
+        "rating": 5.829059600830078,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -789,7 +789,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-04T16:13:20.000Z",
+        "updated_at": "2026-02-07T15:48:04.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 72,
@@ -849,7 +849,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 4882,
+        "votes": 4918,
         "colors": {
           "poster": [
             "#CC997A",
@@ -881,7 +881,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.543015003204346,
+        "rating": 7.5400567054748535,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -899,7 +899,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-02-06T08:34:45.000Z",
+        "updated_at": "2026-02-07T08:32:22.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 122,
