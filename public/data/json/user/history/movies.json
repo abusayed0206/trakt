@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-09T06:44:19.144610+00:00",
+    "fetched_at": "2026-02-10T06:44:46.916704+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12006653110,
+      "watched_at": "2026-02-09T15:49:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Black and Blue",
+        "year": 2019,
+        "ids": {
+          "trakt": 428286,
+          "slug": "black-and-blue-2019",
+          "imdb": "tt7390646",
+          "tmdb": 578189
+        }
+      }
+    },
+    {
+      "id": 12006201215,
+      "watched_at": "2026-02-09T08:23:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Rebel Ridge",
+        "year": 2024,
+        "ids": {
+          "trakt": 483193,
+          "slug": "rebel-ridge-2024",
+          "imdb": "tt11301886",
+          "tmdb": 646097
+        }
+      }
+    },
     {
       "id": 11946263933,
       "watched_at": "2026-01-15T13:13:00.000Z",
@@ -132,38 +164,6 @@
           "slug": "wake-up-dead-man-a-knives-out-mystery-2025",
           "imdb": "tt14364480",
           "tmdb": 812583
-        }
-      }
-    },
-    {
-      "id": 11886288653,
-      "watched_at": "2025-12-26T10:18:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Gifted",
-        "year": 2017,
-        "ids": {
-          "trakt": 243968,
-          "slug": "gifted-2017",
-          "imdb": "tt4481414",
-          "tmdb": 400928
-        }
-      }
-    },
-    {
-      "id": 11886288574,
-      "watched_at": "2025-12-26T10:18:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Revolver",
-        "year": 2024,
-        "ids": {
-          "trakt": 875416,
-          "slug": "revolver-2024-08-07",
-          "imdb": "tt28284984",
-          "tmdb": 1089223
         }
       }
     }
