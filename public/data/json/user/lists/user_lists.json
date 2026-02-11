@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-10T06:44:48.300770+00:00",
+    "fetched_at": "2026-02-11T06:41:34.842737+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/user_lists.json",
@@ -8,23 +8,23 @@
   },
   "data": [
     {
-      "name": "Series Watchlist for 2025",
-      "description": "I planned to watch these shows in 2025. some of them are planned for 2024 and moved to 2025.",
+      "name": "MDBLIST",
+      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/mdblist\r\nUpdated at 2026-02-10 05:50:45",
       "privacy": "public",
       "share_link": "",
       "type": "personal",
-      "display_numbers": true,
+      "display_numbers": false,
       "allow_comments": true,
-      "sort_by": "popularity",
+      "sort_by": "rank",
       "sort_how": "asc",
-      "created_at": "2024-01-18T16:02:04.000Z",
-      "updated_at": "2026-01-01T22:05:50.000Z",
-      "item_count": 84,
+      "created_at": "2026-01-01T22:03:25.000Z",
+      "updated_at": "2026-02-10T03:50:45.000Z",
+      "item_count": 4011,
       "comment_count": 0,
-      "likes": 0,
+      "likes": 1,
       "ids": {
-        "slug": "series-watchlist-for-2025",
-        "trakt": 26841041
+        "slug": "mdblist",
+        "trakt": 33418911
       },
       "images": {
         "posters": []
@@ -104,23 +104,23 @@
       "total_count": 4
     },
     {
-      "name": "MDBLIST",
-      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/mdblist\r\nUpdated at 2026-02-10 05:50:45",
+      "name": "Series Watchlist for 2025",
+      "description": "I planned to watch these shows in 2025. some of them are planned for 2024 and moved to 2025.",
       "privacy": "public",
       "share_link": "",
       "type": "personal",
-      "display_numbers": false,
+      "display_numbers": true,
       "allow_comments": true,
-      "sort_by": "rank",
+      "sort_by": "popularity",
       "sort_how": "asc",
-      "created_at": "2026-01-01T22:03:25.000Z",
-      "updated_at": "2026-02-10T03:50:45.000Z",
-      "item_count": 4011,
+      "created_at": "2024-01-18T16:02:04.000Z",
+      "updated_at": "2026-01-01T22:05:50.000Z",
+      "item_count": 84,
       "comment_count": 0,
-      "likes": 1,
+      "likes": 0,
       "ids": {
-        "slug": "mdblist",
-        "trakt": 33418911
+        "slug": "series-watchlist-for-2025",
+        "trakt": 26841041
       },
       "images": {
         "posters": []
