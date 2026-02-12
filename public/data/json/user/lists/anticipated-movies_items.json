@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-11T06:41:36.041899+00:00",
+    "fetched_at": "2026-02-12T06:41:13.517537+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -221,7 +221,7 @@
         },
         "year": 2027,
         "title": "The Beekeeper 2",
-        "votes": 4,
+        "votes": 5,
         "colors": {
           "poster": [
             "#E6E6E6",
@@ -245,7 +245,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.5,
+        "rating": 8,
         "status": "post production",
         "country": "gb",
         "runtime": null,
@@ -412,10 +412,8 @@
         "languages": [
           "en"
         ],
-        "subgenres": [
-          "science-fiction"
-        ],
-        "updated_at": "2026-02-10T08:58:01.000Z",
+        "subgenres": [],
+        "updated_at": "2026-02-11T15:41:26.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 2,
@@ -599,7 +597,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-02-10T08:49:30.000Z",
+        "updated_at": "2026-02-11T15:32:04.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -739,7 +737,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2697,
+        "votes": 2698,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -771,7 +769,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.825361728668213,
+        "rating": 5.82542610168457,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -789,7 +787,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-08T15:55:18.000Z",
+        "updated_at": "2026-02-11T21:55:34.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 72,
@@ -849,7 +847,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 4997,
+        "votes": 5001,
         "colors": {
           "poster": [
             "#CC997A",
@@ -881,7 +879,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.542525291442871,
+        "rating": 7.543091297149658,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -899,7 +897,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-02-10T08:56:06.000Z",
+        "updated_at": "2026-02-11T15:36:40.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 123,
