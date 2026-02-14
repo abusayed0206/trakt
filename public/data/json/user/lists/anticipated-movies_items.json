@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-13T06:37:15.117893+00:00",
+    "fetched_at": "2026-02-14T06:06:49.847165+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -550,7 +550,7 @@
         },
         "year": 2026,
         "title": "Avengers: Doomsday",
-        "votes": 60,
+        "votes": 61,
         "colors": {
           "poster": [
             "#A4BF91",
@@ -579,7 +579,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.599999904632568,
+        "rating": 7.622951030731201,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -737,7 +737,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2701,
+        "votes": 2702,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -769,7 +769,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.8222880363464355,
+        "rating": 5.822353839874268,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -787,7 +787,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-12T15:04:53.000Z",
+        "updated_at": "2026-02-13T11:21:55.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 72,
