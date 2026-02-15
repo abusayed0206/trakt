@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-14T06:06:49.847165+00:00",
+    "fetched_at": "2026-02-15T06:28:26.768925+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -337,7 +337,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-02-10T08:55:36.000Z",
+        "updated_at": "2026-02-14T08:16:34.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -737,7 +737,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2702,
+        "votes": 2705,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -769,7 +769,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.822353839874268,
+        "rating": 5.824399471282959,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -790,7 +790,7 @@
         "updated_at": "2026-02-13T11:21:55.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
-        "comment_count": 72,
+        "comment_count": 71,
         "aired_episodes": 6,
         "original_title": "Ironheart",
         "available_translations": [
@@ -848,7 +848,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5001,
+        "votes": 5078,
         "colors": {
           "poster": [
             "#CC997A",
@@ -880,7 +880,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.543091297149658,
+        "rating": 7.545884132385254,
         "status": "released",
         "country": "us",
         "runtime": 198,
