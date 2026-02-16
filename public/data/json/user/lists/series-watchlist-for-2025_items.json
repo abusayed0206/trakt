@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-15T06:28:27.318084+00:00",
+    "fetched_at": "2026-02-16T06:42:17.023855+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -73,7 +73,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-02-14T09:11:27.000Z",
+        "updated_at": "2026-02-15T18:53:22.000Z",
         "first_aired": "2008-12-23T05:00:00.000Z",
         "certification": "NR",
         "comment_count": 0,
@@ -355,7 +355,7 @@
           "treasure-hunt",
           "archeology"
         ],
-        "updated_at": "2026-02-14T08:51:28.000Z",
+        "updated_at": "2026-02-15T18:31:47.000Z",
         "first_aired": "1999-09-25T04:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 3,
@@ -512,7 +512,7 @@
         },
         "year": 2016,
         "title": "Hap and Leonard",
-        "votes": 520,
+        "votes": 522,
         "colors": {
           "poster": [
             "#A69455",
@@ -545,7 +545,7 @@
             "media.trakt.tv/images/shows/000/104/614/cleararts/medium/f9cd3d3b83.png.webp"
           ]
         },
-        "rating": 7.388461589813232,
+        "rating": 7.394636154174805,
         "status": "canceled",
         "country": "us",
         "network": "SundanceTV",
@@ -562,7 +562,7 @@
           "1980s",
           "vietnam-veteran"
         ],
-        "updated_at": "2026-02-14T15:44:04.000Z",
+        "updated_at": "2026-02-15T21:26:42.000Z",
         "first_aired": "2016-03-03T03:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 7,
@@ -663,7 +663,7 @@
           "fbi",
           "spin-off"
         ],
-        "updated_at": "2026-02-14T10:34:30.000Z",
+        "updated_at": "2026-02-15T20:47:55.000Z",
         "first_aired": "2016-03-17T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 12,
@@ -767,7 +767,7 @@
           "central-intelligence-agency-cia",
           "spy"
         ],
-        "updated_at": "2026-02-14T15:41:08.000Z",
+        "updated_at": "2026-02-15T20:59:03.000Z",
         "first_aired": "2016-10-17T00:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 9,
@@ -826,7 +826,7 @@
         },
         "year": 2024,
         "title": "Matlock",
-        "votes": 853,
+        "votes": 857,
         "colors": {
           "poster": [
             "#7E99B1",
@@ -853,7 +853,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.444314002990723,
+        "rating": 7.439906597137451,
         "status": "returning series",
         "country": "us",
         "network": "CBS",
@@ -869,7 +869,7 @@
         "subgenres": [
           "lawyer"
         ],
-        "updated_at": "2026-02-14T16:34:19.000Z",
+        "updated_at": "2026-02-16T00:39:49.000Z",
         "first_aired": "2024-09-23T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 20,
@@ -893,131 +893,6 @@
           "ru",
           "tr",
           "uk",
-          "zh"
-        ]
-      }
-    },
-    {
-      "rank": 84,
-      "id": 1400239921,
-      "listed_at": "2026-01-01T22:05:50.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt27497448",
-          "plex": {
-            "guid": "643cbf9ec1962a0897b7f6dd",
-            "slug": "a-knight-of-the-seven-kingdoms"
-          },
-          "slug": "a-knight-of-the-seven-kingdoms",
-          "tmdb": 224372,
-          "tvdb": 433631,
-          "trakt": 204141
-        },
-        "airs": {
-          "day": "Sunday",
-          "time": "22:00",
-          "timezone": "America/New_York"
-        },
-        "year": 2026,
-        "title": "A Knight of the Seven Kingdoms",
-        "votes": 860,
-        "colors": {
-          "poster": [
-            "#C6CFBD",
-            "#1F2017"
-          ]
-        },
-        "genres": [
-          "drama",
-          "fantasy",
-          "science-fiction",
-          "action",
-          "adventure"
-        ],
-        "images": {
-          "logo": [
-            "media.trakt.tv/images/shows/000/204/141/logos/medium/e4718bddda.png.webp"
-          ],
-          "thumb": [
-            "media.trakt.tv/images/shows/000/204/141/thumbs/medium/c87b3df539.jpg.webp"
-          ],
-          "banner": [
-            "media.trakt.tv/images/shows/000/204/141/banners/medium/9b40cea8b5.jpg.webp"
-          ],
-          "fanart": [
-            "media.trakt.tv/images/shows/000/204/141/fanarts/medium/e4d5748ba5.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/shows/000/204/141/posters/medium/833a1ded69.jpg.webp"
-          ],
-          "clearart": [
-            "media.trakt.tv/images/shows/000/204/141/cleararts/medium/e43be83cd1.png.webp"
-          ]
-        },
-        "rating": 8.127906799316406,
-        "status": "returning series",
-        "country": "us",
-        "network": "HBO",
-        "runtime": 35,
-        "tagline": "A tall tale that became legend.",
-        "trailer": "https://youtube.com/watch?v=sItUCKJQLTU",
-        "homepage": "https://www.hbo.com/content/a-knight-of-the-seven-kingdoms",
-        "language": "en",
-        "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-        "languages": [
-          "en"
-        ],
-        "subgenres": [
-          "spin-off"
-        ],
-        "updated_at": "2026-02-14T16:33:27.000Z",
-        "first_aired": "2026-01-19T03:00:00.000Z",
-        "certification": "TV-MA",
-        "comment_count": 28,
-        "aired_episodes": 4,
-        "original_title": "A Knight of the Seven Kingdoms",
-        "available_translations": [
-          "ar",
-          "bg",
-          "ca",
-          "cs",
-          "da",
-          "de",
-          "el",
-          "en",
-          "es",
-          "et",
-          "fa",
-          "fi",
-          "fr",
-          "he",
-          "hr",
-          "hu",
-          "id",
-          "it",
-          "ja",
-          "ka",
-          "ko",
-          "lt",
-          "lv",
-          "mk",
-          "ms",
-          "nl",
-          "no",
-          "pl",
-          "pt",
-          "ro",
-          "ru",
-          "sk",
-          "sl",
-          "sr",
-          "sv",
-          "th",
-          "tr",
-          "uk",
-          "vi",
           "zh"
         ]
       }
@@ -1047,7 +922,7 @@
         },
         "year": 2024,
         "title": "Criminal Record",
-        "votes": 886,
+        "votes": 885,
         "colors": {
           "poster": [
             "#AEA988",
@@ -1077,7 +952,7 @@
             "media.trakt.tv/images/shows/000/196/417/cleararts/medium/274e3eb0e9.png.webp"
           ]
         },
-        "rating": 6.945824146270752,
+        "rating": 6.946892738342285,
         "status": "returning series",
         "country": "gb",
         "network": "Apple TV",
@@ -1210,7 +1085,7 @@
           "medical-drama",
           "nurse"
         ],
-        "updated_at": "2026-02-14T10:22:35.000Z",
+        "updated_at": "2026-02-15T20:36:44.000Z",
         "first_aired": "2015-10-01T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 16,
@@ -1236,6 +1111,131 @@
           "sl",
           "th",
           "uk",
+          "zh"
+        ]
+      }
+    },
+    {
+      "rank": 84,
+      "id": 1400239921,
+      "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt27497448",
+          "plex": {
+            "guid": "643cbf9ec1962a0897b7f6dd",
+            "slug": "a-knight-of-the-seven-kingdoms"
+          },
+          "slug": "a-knight-of-the-seven-kingdoms",
+          "tmdb": 224372,
+          "tvdb": 433631,
+          "trakt": 204141
+        },
+        "airs": {
+          "day": "Sunday",
+          "time": "22:00",
+          "timezone": "America/New_York"
+        },
+        "year": 2026,
+        "title": "A Knight of the Seven Kingdoms",
+        "votes": 1002,
+        "colors": {
+          "poster": [
+            "#C6CFBD",
+            "#1F2017"
+          ]
+        },
+        "genres": [
+          "drama",
+          "fantasy",
+          "science-fiction",
+          "action",
+          "adventure"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/shows/000/204/141/logos/medium/e4718bddda.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/shows/000/204/141/thumbs/medium/c87b3df539.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/shows/000/204/141/banners/medium/9b40cea8b5.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/shows/000/204/141/fanarts/medium/e4d5748ba5.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/shows/000/204/141/posters/medium/833a1ded69.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/shows/000/204/141/cleararts/medium/e43be83cd1.png.webp"
+          ]
+        },
+        "rating": 8.23752498626709,
+        "status": "returning series",
+        "country": "us",
+        "network": "HBO",
+        "runtime": 35,
+        "tagline": "A tall tale that became legend.",
+        "trailer": "https://youtube.com/watch?v=sItUCKJQLTU",
+        "homepage": "https://www.hbo.com/content/a-knight-of-the-seven-kingdoms",
+        "language": "en",
+        "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "spin-off"
+        ],
+        "updated_at": "2026-02-15T16:49:08.000Z",
+        "first_aired": "2026-01-19T03:00:00.000Z",
+        "certification": "TV-MA",
+        "comment_count": 29,
+        "aired_episodes": 5,
+        "original_title": "A Knight of the Seven Kingdoms",
+        "available_translations": [
+          "ar",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hr",
+          "hu",
+          "id",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "mk",
+          "ms",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
           "zh"
         ]
       }
@@ -1314,7 +1314,7 @@
           "spin-off",
           "terrorism"
         ],
-        "updated_at": "2026-02-14T15:44:18.000Z",
+        "updated_at": "2026-02-15T20:59:45.000Z",
         "first_aired": "2017-02-06T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 13,
@@ -1376,7 +1376,7 @@
         },
         "year": 2024,
         "title": "Tracker",
-        "votes": 1711,
+        "votes": 1719,
         "colors": {
           "poster": [
             "#ADB49B",
@@ -1407,7 +1407,7 @@
             "media.trakt.tv/images/shows/000/198/575/cleararts/medium/f8e4e0b027.png.webp"
           ]
         },
-        "rating": 7.21858549118042,
+        "rating": 7.222804069519043,
         "status": "returning series",
         "country": "us",
         "network": "CBS",
@@ -1423,7 +1423,7 @@
         "subgenres": [
           "suspenseful"
         ],
-        "updated_at": "2026-02-14T16:21:28.000Z",
+        "updated_at": "2026-02-15T15:45:12.000Z",
         "first_aired": "2024-02-12T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 41,
@@ -1488,7 +1488,7 @@
         },
         "year": 2020,
         "title": "9-1-1: Lone Star",
-        "votes": 2008,
+        "votes": 2007,
         "colors": {
           "poster": [
             "#D53420",
@@ -1520,7 +1520,7 @@
             "media.trakt.tv/images/shows/000/147/906/cleararts/medium/86eb9b76eb.png.webp"
           ]
         },
-        "rating": 7.654382705688477,
+        "rating": 7.654210090637207,
         "status": "ended",
         "country": "us",
         "network": "FOX",
@@ -1645,7 +1645,7 @@
           "island",
           "submarine"
         ],
-        "updated_at": "2026-02-14T07:31:30.000Z",
+        "updated_at": "2026-02-15T13:56:45.000Z",
         "first_aired": "2012-09-28T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 23,
@@ -1697,7 +1697,7 @@
         },
         "year": 2015,
         "title": "Chicago Med",
-        "votes": 2245,
+        "votes": 2248,
         "colors": {
           "poster": [
             "#40A89A",
@@ -1727,7 +1727,7 @@
             "media.trakt.tv/images/shows/000/098/934/cleararts/medium/510b5a03b2.png.webp"
           ]
         },
-        "rating": 7.79554557800293,
+        "rating": 7.7927045822143555,
         "status": "returning series",
         "country": "us",
         "network": "NBC",
@@ -1747,7 +1747,7 @@
           "medical-drama",
           "nurse"
         ],
-        "updated_at": "2026-02-14T15:08:54.000Z",
+        "updated_at": "2026-02-16T02:37:27.000Z",
         "first_aired": "2015-11-18T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 14,
@@ -1812,7 +1812,7 @@
         },
         "year": 2010,
         "title": "Strike Back",
-        "votes": 2513,
+        "votes": 2514,
         "colors": {
           "poster": [
             "#E6E4E3",
@@ -1844,7 +1844,7 @@
             "media.trakt.tv/images/shows/000/032/433/cleararts/medium/0e52a6fc9a.png.webp"
           ]
         },
-        "rating": 8.197373390197754,
+        "rating": 8.198090553283691,
         "status": "ended",
         "country": "gb",
         "network": "Cinemax",
@@ -1860,7 +1860,7 @@
         "subgenres": [
           "soldier"
         ],
-        "updated_at": "2026-02-14T08:22:31.000Z",
+        "updated_at": "2026-02-15T14:48:19.000Z",
         "first_aired": "2010-05-05T20:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 48,
@@ -1922,7 +1922,7 @@
         },
         "year": 1994,
         "title": "ER",
-        "votes": 2516,
+        "votes": 2517,
         "colors": {
           "poster": [
             "#9AA099",
@@ -1952,7 +1952,7 @@
             "media.trakt.tv/images/shows/000/004/564/cleararts/medium/f5651b2cab.png.webp"
           ]
         },
-        "rating": 7.976152420043945,
+        "rating": 7.974573135375977,
         "status": "ended",
         "country": "us",
         "network": "NBC",
@@ -1970,7 +1970,7 @@
           "hospital",
           "medical-drama"
         ],
-        "updated_at": "2026-02-14T15:26:59.000Z",
+        "updated_at": "2026-02-15T14:01:22.000Z",
         "first_aired": "1994-09-20T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 7,
@@ -2034,7 +2034,7 @@
         },
         "year": 2015,
         "title": "Bloodline",
-        "votes": 2761,
+        "votes": 2763,
         "colors": {
           "poster": [
             "#EBF6C6",
@@ -2065,7 +2065,7 @@
             "media.trakt.tv/images/shows/000/081/282/cleararts/medium/ddc4cd3b65.png.webp"
           ]
         },
-        "rating": 7.529880523681641,
+        "rating": 7.529135227203369,
         "status": "ended",
         "country": "us",
         "network": "Netflix",
@@ -2087,7 +2087,7 @@
           "callous",
           "dark"
         ],
-        "updated_at": "2026-02-14T07:17:33.000Z",
+        "updated_at": "2026-02-15T13:46:41.000Z",
         "first_aired": "2015-03-20T16:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 21,
@@ -2148,7 +2148,7 @@
         },
         "year": 2016,
         "title": "Lethal Weapon",
-        "votes": 3060,
+        "votes": 3061,
         "colors": {
           "poster": [
             "#CDCAB4",
@@ -2182,7 +2182,7 @@
             "media.trakt.tv/images/shows/000/107/717/cleararts/medium/a096239252.png.webp"
           ]
         },
-        "rating": 7.77647066116333,
+        "rating": 7.776870250701904,
         "status": "canceled",
         "country": "us",
         "network": "FOX",
@@ -2199,7 +2199,7 @@
           "based-on-movie",
           "police-detective"
         ],
-        "updated_at": "2026-02-14T10:50:59.000Z",
+        "updated_at": "2026-02-15T21:29:45.000Z",
         "first_aired": "2016-09-22T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 51,
@@ -2321,7 +2321,7 @@
           "female-protagonist",
           "tragic"
         ],
-        "updated_at": "2026-02-14T06:47:07.000Z",
+        "updated_at": "2026-02-15T13:24:35.000Z",
         "first_aired": "2011-09-21T19:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 27,
@@ -2388,7 +2388,7 @@
         },
         "year": 2022,
         "title": "Vikings: Valhalla",
-        "votes": 3499,
+        "votes": 3510,
         "colors": {
           "poster": [
             "#9E9BA5",
@@ -2422,7 +2422,7 @@
             "media.trakt.tv/images/shows/000/155/511/cleararts/medium/76bc438acf.png.webp"
           ]
         },
-        "rating": 7.569591522216797,
+        "rating": 7.570655345916748,
         "status": "ended",
         "country": "us",
         "network": "Netflix",
@@ -2566,7 +2566,7 @@
           "racism",
           "experiment"
         ],
-        "updated_at": "2026-02-14T08:30:54.000Z",
+        "updated_at": "2026-02-15T15:00:52.000Z",
         "first_aired": "1997-07-13T01:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 27,
@@ -2624,7 +2624,7 @@
         },
         "year": 2009,
         "title": "FlashForward",
-        "votes": 3646,
+        "votes": 3647,
         "colors": {
           "poster": [
             "#CACBB6",
@@ -2657,7 +2657,7 @@
             "media.trakt.tv/images/shows/000/019/003/cleararts/medium/f149f6a0f2.png.webp"
           ]
         },
-        "rating": 7.243828773498535,
+        "rating": 7.2440361976623535,
         "status": "canceled",
         "country": "us",
         "network": "ABC",
@@ -2673,7 +2673,7 @@
         "subgenres": [
           "fbi"
         ],
-        "updated_at": "2026-02-14T06:48:04.000Z",
+        "updated_at": "2026-02-15T13:24:22.000Z",
         "first_aired": "2009-09-25T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 27,
@@ -2729,7 +2729,7 @@
         },
         "year": 2009,
         "title": "NCIS: Los Angeles",
-        "votes": 3712,
+        "votes": 3713,
         "colors": {
           "poster": [
             "#F3E8E6",
@@ -2763,7 +2763,7 @@
             "media.trakt.tv/images/shows/000/017/532/cleararts/medium/998d2de74a.png.webp"
           ]
         },
-        "rating": 7.518857955932617,
+        "rating": 7.518718242645264,
         "status": "ended",
         "country": "us",
         "network": "CBS",
@@ -2782,7 +2782,7 @@
           "crime-investigation",
           "undercover"
         ],
-        "updated_at": "2026-02-14T07:59:59.000Z",
+        "updated_at": "2026-02-15T14:38:55.000Z",
         "first_aired": "2009-09-23T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 14,
@@ -2846,7 +2846,7 @@
         },
         "year": 2015,
         "title": "Into the Badlands",
-        "votes": 3870,
+        "votes": 3872,
         "colors": {
           "poster": [
             "#FDF8F2",
@@ -2878,7 +2878,7 @@
             "media.trakt.tv/images/shows/000/082/217/cleararts/medium/8bb0907f14.png.webp"
           ]
         },
-        "rating": 7.827907085418701,
+        "rating": 7.827995777130127,
         "status": "canceled",
         "country": "us",
         "network": "AMC",
@@ -2895,7 +2895,7 @@
           "martial-arts",
           "post-apocalyptic-future"
         ],
-        "updated_at": "2026-02-14T10:14:43.000Z",
+        "updated_at": "2026-02-15T20:31:32.000Z",
         "first_aired": "2015-11-16T03:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 35,
@@ -2961,7 +2961,7 @@
         },
         "year": 2014,
         "title": "Chicago P.D.",
-        "votes": 3877,
+        "votes": 3879,
         "colors": {
           "poster": [
             "#3F82B3",
@@ -2992,7 +2992,7 @@
             "media.trakt.tv/images/shows/000/058/454/cleararts/medium/83a521d95a.png.webp"
           ]
         },
-        "rating": 8.175909042358398,
+        "rating": 8.176591873168945,
         "status": "returning series",
         "country": "us",
         "network": "NBC",
@@ -3010,7 +3010,7 @@
           "spin-off",
           "crime-investigation"
         ],
-        "updated_at": "2026-02-14T06:29:27.000Z",
+        "updated_at": "2026-02-16T02:55:16.000Z",
         "first_aired": "2014-01-09T03:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 28,
@@ -3080,7 +3080,7 @@
         },
         "year": 2000,
         "title": "CSI: Crime Scene Investigation",
-        "votes": 3978,
+        "votes": 3982,
         "colors": {
           "poster": [
             "#C09E89",
@@ -3112,7 +3112,7 @@
             "media.trakt.tv/images/shows/000/001/422/cleararts/medium/d7e7d4b155.png.webp"
           ]
         },
-        "rating": 7.671694278717041,
+        "rating": 7.672024250030518,
         "status": "ended",
         "country": "us",
         "network": "CBS",
@@ -3133,7 +3133,7 @@
           "murder-investigation",
           "police-procedural"
         ],
-        "updated_at": "2026-02-14T07:23:08.000Z",
+        "updated_at": "2026-02-15T13:52:42.000Z",
         "first_aired": "2000-10-07T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 19,
@@ -3256,7 +3256,7 @@
           "thief",
           "suspenseful"
         ],
-        "updated_at": "2026-02-14T07:54:10.000Z",
+        "updated_at": "2026-02-15T14:34:40.000Z",
         "first_aired": "2008-12-08T03:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 17,
@@ -3316,7 +3316,7 @@
         },
         "year": 2024,
         "title": "Dark Matter",
-        "votes": 4141,
+        "votes": 4158,
         "colors": {
           "poster": [
             "#B6D4D6",
@@ -3346,7 +3346,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.634387969970703,
+        "rating": 7.636844635009766,
         "status": "returning series",
         "country": "us",
         "network": "Apple TV",
@@ -3480,7 +3480,7 @@
         "subgenres": [
           "fbi"
         ],
-        "updated_at": "2026-02-14T10:18:58.000Z",
+        "updated_at": "2026-02-15T20:35:01.000Z",
         "first_aired": "2015-09-28T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 49,
@@ -3540,7 +3540,7 @@
         },
         "year": 2022,
         "title": "The Terminal List",
-        "votes": 4241,
+        "votes": 4247,
         "colors": {
           "poster": [
             "#A4B9C1",
@@ -3572,7 +3572,7 @@
             "media.trakt.tv/images/shows/000/170/081/cleararts/medium/25fbb4c30c.png.webp"
           ]
         },
-        "rating": 7.611412525177002,
+        "rating": 7.609606742858887,
         "status": "returning series",
         "country": "us",
         "network": "Prime Video",
@@ -3715,7 +3715,7 @@
           "alien",
           "alien-invasion"
         ],
-        "updated_at": "2026-02-14T06:40:24.000Z",
+        "updated_at": "2026-02-15T12:53:47.000Z",
         "first_aired": "2013-04-16T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 45,
@@ -3777,7 +3777,7 @@
         },
         "year": 2024,
         "title": "Agatha All Along",
-        "votes": 4557,
+        "votes": 4563,
         "colors": {
           "poster": [
             "#9D92C8",
@@ -3809,7 +3809,7 @@
             "media.trakt.tv/images/shows/000/191/186/cleararts/medium/6e800f2993.png.webp"
           ]
         },
-        "rating": 7.294053077697754,
+        "rating": 7.294323921203613,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -3831,7 +3831,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-14T15:36:47.000Z",
+        "updated_at": "2026-02-15T15:24:04.000Z",
         "first_aired": "2024-09-19T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 69,
@@ -3898,7 +3898,7 @@
         },
         "year": 2022,
         "title": "Black Bird",
-        "votes": 4846,
+        "votes": 4848,
         "colors": {
           "poster": [
             "#ADA48F",
@@ -3929,7 +3929,7 @@
             "media.trakt.tv/images/shows/000/180/817/cleararts/medium/f17c5f9db4.png.webp"
           ]
         },
-        "rating": 8.007635116577148,
+        "rating": 8.008044242858887,
         "status": "ended",
         "country": "us",
         "network": "Apple TV",
@@ -4022,7 +4022,7 @@
         },
         "year": 1999,
         "title": "Law & Order: Special Victims Unit",
-        "votes": 4923,
+        "votes": 4933,
         "colors": {
           "poster": [
             "#C4BBA5",
@@ -4054,7 +4054,7 @@
             "media.trakt.tv/images/shows/000/002/716/cleararts/medium/4b93e29fc2.png.webp"
           ]
         },
-        "rating": 7.94149923324585,
+        "rating": 7.94283390045166,
         "status": "returning series",
         "country": "us",
         "network": "NBC",
@@ -4073,7 +4073,7 @@
           "suspenseful",
           "dark"
         ],
-        "updated_at": "2026-02-15T05:00:55.000Z",
+        "updated_at": "2026-02-16T01:59:02.000Z",
         "first_aired": "1999-09-21T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 20,
@@ -4149,7 +4149,7 @@
         },
         "year": 2025,
         "title": "The Pitt",
-        "votes": 5176,
+        "votes": 5276,
         "colors": {
           "poster": [
             "#B3965E",
@@ -4179,7 +4179,7 @@
             "media.trakt.tv/images/shows/000/232/884/cleararts/medium/89a880ddb8.png.webp"
           ]
         },
-        "rating": 8.756182670593262,
+        "rating": 8.76478385925293,
         "status": "returning series",
         "country": "us",
         "network": "HBO Max",
@@ -4196,7 +4196,7 @@
           "hospital",
           "medical-drama"
         ],
-        "updated_at": "2026-02-15T04:45:09.000Z",
+        "updated_at": "2026-02-15T16:48:50.000Z",
         "first_aired": "2025-01-10T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 63,
@@ -4266,7 +4266,7 @@
         },
         "year": 2007,
         "title": "Burn Notice",
-        "votes": 5499,
+        "votes": 5500,
         "colors": {
           "poster": [
             "#C39B71",
@@ -4299,7 +4299,7 @@
             "media.trakt.tv/images/shows/000/002/900/cleararts/medium/415dca7990.png.webp"
           ]
         },
-        "rating": 7.978541374206543,
+        "rating": 7.978545665740967,
         "status": "ended",
         "country": "us",
         "network": "USA Network",
@@ -4317,7 +4317,7 @@
           "espionage",
           "informative"
         ],
-        "updated_at": "2026-02-14T07:17:18.000Z",
+        "updated_at": "2026-02-15T13:47:17.000Z",
         "first_aired": "2007-06-29T01:00:00.000Z",
         "certification": "TV-PG",
         "comment_count": 20,
@@ -4378,7 +4378,7 @@
         },
         "year": 2013,
         "title": "The Fall",
-        "votes": 5590,
+        "votes": 5593,
         "colors": {
           "poster": [
             "#E9EAED",
@@ -4410,7 +4410,7 @@
             "media.trakt.tv/images/shows/000/048/703/cleararts/medium/913b009ec7.png.webp"
           ]
         },
-        "rating": 7.978175163269043,
+        "rating": 7.97854471206665,
         "status": "ended",
         "country": "ie",
         "network": "RTÉ One",
@@ -4432,7 +4432,7 @@
           "psychological",
           "violence"
         ],
-        "updated_at": "2026-02-14T06:30:19.000Z",
+        "updated_at": "2026-02-15T12:42:29.000Z",
         "first_aired": "2013-05-12T20:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 48,
@@ -4543,7 +4543,7 @@
         "subgenres": [
           "autism"
         ],
-        "updated_at": "2026-02-14T07:43:45.000Z",
+        "updated_at": "2026-02-15T14:26:10.000Z",
         "first_aired": "2014-09-23T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 64,
@@ -4607,7 +4607,7 @@
         },
         "year": 2014,
         "title": "The Last Ship",
-        "votes": 5917,
+        "votes": 5916,
         "colors": {
           "poster": [
             "#CE0E13",
@@ -4641,7 +4641,7 @@
             "media.trakt.tv/images/shows/000/060/360/cleararts/medium/40bfbc039f.png.webp"
           ]
         },
-        "rating": 7.495014190673828,
+        "rating": 7.495266914367676,
         "status": "ended",
         "country": "us",
         "network": "TNT",
@@ -4660,7 +4660,7 @@
           "post-apocalyptic-future",
           "virus"
         ],
-        "updated_at": "2026-02-14T07:40:48.000Z",
+        "updated_at": "2026-02-15T16:34:21.000Z",
         "first_aired": "2014-06-23T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -4724,7 +4724,7 @@
         },
         "year": 2025,
         "title": "MobLand",
-        "votes": 5951,
+        "votes": 6013,
         "colors": {
           "poster": [
             "#C25F61",
@@ -4755,7 +4755,7 @@
             "media.trakt.tv/images/shows/000/228/595/cleararts/medium/b29a313363.png.webp"
           ]
         },
-        "rating": 8.355570793151855,
+        "rating": 8.355230331420898,
         "status": "returning series",
         "country": "us",
         "network": "Paramount+",
@@ -4842,7 +4842,7 @@
         },
         "year": 2022,
         "title": "Halo",
-        "votes": 6251,
+        "votes": 6255,
         "colors": {
           "poster": [
             "#A99368",
@@ -4875,7 +4875,7 @@
             "media.trakt.tv/images/shows/000/150/109/cleararts/medium/9544e9b576.png.webp"
           ]
         },
-        "rating": 7.329867362976074,
+        "rating": 7.330455780029297,
         "status": "canceled",
         "country": "us",
         "network": "Paramount+",
@@ -4893,7 +4893,7 @@
           "alien",
           "space-travel"
         ],
-        "updated_at": "2026-02-14T11:05:36.000Z",
+        "updated_at": "2026-02-15T21:41:23.000Z",
         "first_aired": "2022-03-24T07:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 95,
@@ -4962,7 +4962,7 @@
         },
         "year": 2018,
         "title": "Manifest",
-        "votes": 6310,
+        "votes": 6316,
         "colors": {
           "poster": [
             "#DDEDF4",
@@ -4994,7 +4994,7 @@
             "media.trakt.tv/images/shows/000/133/259/cleararts/medium/2e91f7299b.png.webp"
           ]
         },
-        "rating": 7.140095233917236,
+        "rating": 7.139803886413574,
         "status": "ended",
         "country": "us",
         "network": "Netflix",
@@ -5011,7 +5011,7 @@
           "investigation",
           "time-travel"
         ],
-        "updated_at": "2026-02-14T12:17:22.000Z",
+        "updated_at": "2026-02-15T23:59:10.000Z",
         "first_aired": "2018-09-24T07:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 76,
@@ -5080,7 +5080,7 @@
         },
         "year": 2011,
         "title": "The Killing",
-        "votes": 6455,
+        "votes": 6458,
         "colors": {
           "poster": [
             "#AFC3CF",
@@ -5112,7 +5112,7 @@
             "media.trakt.tv/images/shows/000/034/268/cleararts/medium/3fe1db96a6.png.webp"
           ]
         },
-        "rating": 8.16948127746582,
+        "rating": 8.170022010803223,
         "status": "ended",
         "country": "us",
         "network": "Netflix",
@@ -5136,7 +5136,7 @@
           "neo-noir",
           "female-protagonist"
         ],
-        "updated_at": "2026-02-14T15:51:12.000Z",
+        "updated_at": "2026-02-15T15:38:39.000Z",
         "first_aired": "2011-04-04T01:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 55,
@@ -5196,7 +5196,7 @@
         },
         "year": 2018,
         "title": "The Rookie",
-        "votes": 6579,
+        "votes": 6604,
         "colors": {
           "poster": [
             "#DDA94B",
@@ -5228,7 +5228,7 @@
             "media.trakt.tv/images/shows/000/134/421/cleararts/medium/061138686f.png.webp"
           ]
         },
-        "rating": 8.011551856994629,
+        "rating": 8.011962890625,
         "status": "returning series",
         "country": "us",
         "network": "ABC",
@@ -5247,7 +5247,7 @@
           "crime-investigation",
           "police-officer"
         ],
-        "updated_at": "2026-02-14T16:39:06.000Z",
+        "updated_at": "2026-02-16T04:55:52.000Z",
         "first_aired": "2018-10-17T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 58,
@@ -5320,7 +5320,7 @@
         },
         "year": 2023,
         "title": "ONE PIECE",
-        "votes": 6853,
+        "votes": 6861,
         "colors": {
           "poster": [
             "#B39D82",
@@ -5351,7 +5351,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.02553653717041,
+        "rating": 8.025215148925781,
         "status": "returning series",
         "country": "us",
         "network": "Netflix",
@@ -5372,7 +5372,7 @@
           "fighting",
           "ocean"
         ],
-        "updated_at": "2026-02-14T16:19:11.000Z",
+        "updated_at": "2026-02-15T17:34:47.000Z",
         "first_aired": "2023-08-31T07:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 77,
@@ -5493,7 +5493,7 @@
           "vampire",
           "virus"
         ],
-        "updated_at": "2026-02-14T07:27:30.000Z",
+        "updated_at": "2026-02-15T13:54:52.000Z",
         "first_aired": "2014-07-14T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 83,
@@ -5559,7 +5559,7 @@
         },
         "year": 2015,
         "title": "The Last Kingdom",
-        "votes": 7414,
+        "votes": 7422,
         "colors": {
           "poster": [
             "#BDA369",
@@ -5593,7 +5593,7 @@
             "media.trakt.tv/images/shows/000/100/688/cleararts/medium/9b49867854.png.webp"
           ]
         },
-        "rating": 8.203534126281738,
+        "rating": 8.203044891357422,
         "status": "ended",
         "country": "gb",
         "network": "BBC Two",
@@ -5616,7 +5616,7 @@
           "dark",
           "royalty"
         ],
-        "updated_at": "2026-02-14T15:09:14.000Z",
+        "updated_at": "2026-02-15T20:36:31.000Z",
         "first_aired": "2015-10-10T07:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 46,
@@ -5736,7 +5736,7 @@
           "future",
           "post-apocalyptic-future"
         ],
-        "updated_at": "2026-02-14T07:51:28.000Z",
+        "updated_at": "2026-02-15T14:32:34.000Z",
         "first_aired": "2012-09-18T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 82,
@@ -5798,7 +5798,7 @@
         },
         "year": 2018,
         "title": "Barry",
-        "votes": 7677,
+        "votes": 7680,
         "colors": {
           "poster": [
             "#C6CCD7",
@@ -5830,7 +5830,7 @@
             "media.trakt.tv/images/shows/000/122/709/cleararts/medium/d03142dc2e.png.webp"
           ]
         },
-        "rating": 8.141070365905762,
+        "rating": 8.141406059265137,
         "status": "ended",
         "country": "us",
         "network": "HBO",
@@ -5853,7 +5853,7 @@
           "show-business",
           "post-traumatic-stress-disorder-ptsd"
         ],
-        "updated_at": "2026-02-14T12:06:22.000Z",
+        "updated_at": "2026-02-15T23:00:22.000Z",
         "first_aired": "2018-03-26T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 65,
@@ -5917,7 +5917,7 @@
         },
         "year": 2017,
         "title": "Legion",
-        "votes": 7824,
+        "votes": 7826,
         "colors": {
           "poster": [
             "#C478A6",
@@ -5952,7 +5952,7 @@
             "media.trakt.tv/images/shows/000/113/656/cleararts/medium/b48ba981f3.png.webp"
           ]
         },
-        "rating": 7.8596625328063965,
+        "rating": 7.859570503234863,
         "status": "ended",
         "country": "us",
         "network": "FX",
@@ -5973,7 +5973,7 @@
           "memory",
           "based-on-comic"
         ],
-        "updated_at": "2026-02-14T15:49:56.000Z",
+        "updated_at": "2026-02-15T21:35:51.000Z",
         "first_aired": "2017-02-09T03:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 78,
@@ -6042,7 +6042,7 @@
         },
         "year": 2003,
         "title": "NCIS",
-        "votes": 8281,
+        "votes": 8284,
         "colors": {
           "poster": [
             "#B5A197",
@@ -6075,7 +6075,7 @@
             "media.trakt.tv/images/shows/000/004/590/cleararts/medium/7d51c98c2d.png.webp"
           ]
         },
-        "rating": 7.97705602645874,
+        "rating": 7.977184772491455,
         "status": "returning series",
         "country": "us",
         "network": "CBS",
@@ -6094,7 +6094,7 @@
           "police-procedural",
           "dramatic"
         ],
-        "updated_at": "2026-02-14T16:27:20.000Z",
+        "updated_at": "2026-02-15T18:40:22.000Z",
         "first_aired": "2003-09-24T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 49,
@@ -6164,7 +6164,7 @@
         },
         "year": 2010,
         "title": "Luther",
-        "votes": 8646,
+        "votes": 8649,
         "colors": {
           "poster": [
             "#B96961",
@@ -6197,7 +6197,7 @@
             "media.trakt.tv/images/shows/000/001/417/cleararts/medium/1a35580e5f.png.webp"
           ]
         },
-        "rating": 8.294471740722656,
+        "rating": 8.293675422668457,
         "status": "ended",
         "country": "gb",
         "network": "BBC One",
@@ -6222,7 +6222,7 @@
           "suspenseful",
           "psychological"
         ],
-        "updated_at": "2026-02-14T08:22:42.000Z",
+        "updated_at": "2026-02-15T14:48:11.000Z",
         "first_aired": "2010-05-04T20:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 51,
@@ -6292,7 +6292,7 @@
         },
         "year": 2014,
         "title": "Black Sails",
-        "votes": 8866,
+        "votes": 8869,
         "colors": {
           "poster": [
             "#BF7438",
@@ -6324,7 +6324,7 @@
             "media.trakt.tv/images/shows/000/047/374/cleararts/medium/93ff2c78d6.png.webp"
           ]
         },
-        "rating": 8.198172569274902,
+        "rating": 8.19821834564209,
         "status": "ended",
         "country": "us",
         "network": "STARZ",
@@ -6343,7 +6343,7 @@
           "period-drama",
           "pirate"
         ],
-        "updated_at": "2026-02-14T06:08:23.000Z",
+        "updated_at": "2026-02-15T12:00:21.000Z",
         "first_aired": "2014-01-26T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 51,
@@ -6416,7 +6416,7 @@
         },
         "year": 2018,
         "title": "Tom Clancy's Jack Ryan",
-        "votes": 9252,
+        "votes": 9261,
         "colors": {
           "poster": [
             "#B2B5AE",
@@ -6448,7 +6448,7 @@
             "media.trakt.tv/images/shows/000/124/381/cleararts/medium/fb2ff0d5b0.png.webp"
           ]
         },
-        "rating": 7.782641410827637,
+        "rating": 7.783176898956299,
         "status": "ended",
         "country": "us",
         "network": "Prime Video",
@@ -6472,7 +6472,7 @@
           "central-intelligence-agency-cia",
           "espionage"
         ],
-        "updated_at": "2026-02-14T12:06:43.000Z",
+        "updated_at": "2026-02-15T23:27:12.000Z",
         "first_aired": "2018-08-31T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 80,
@@ -6543,7 +6543,7 @@
         },
         "year": 2010,
         "title": "Boardwalk Empire",
-        "votes": 9610,
+        "votes": 9622,
         "colors": {
           "poster": [
             "#C5B98F",
@@ -6574,7 +6574,7 @@
             "media.trakt.tv/images/shows/000/001/610/cleararts/medium/55b8d8312a.png.webp"
           ]
         },
-        "rating": 8.379812240600586,
+        "rating": 8.379755020141602,
         "status": "ended",
         "country": "us",
         "network": "HBO",
@@ -6599,7 +6599,7 @@
           "political",
           "american-history"
         ],
-        "updated_at": "2026-02-14T07:07:45.000Z",
+        "updated_at": "2026-02-15T13:38:30.000Z",
         "first_aired": "2010-09-20T01:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 55,
@@ -6668,7 +6668,7 @@
         },
         "year": 2013,
         "title": "The Americans",
-        "votes": 9941,
+        "votes": 9943,
         "colors": {
           "poster": [
             "#9D6A5C",
@@ -6699,7 +6699,7 @@
             "media.trakt.tv/images/shows/000/046/263/cleararts/medium/43c8cac14b.png.webp"
           ]
         },
-        "rating": 8.33487606048584,
+        "rating": 8.334909439086914,
         "status": "ended",
         "country": "us",
         "network": "FX",
@@ -6722,7 +6722,7 @@
           "dramatic",
           "cold-war"
         ],
-        "updated_at": "2026-02-14T06:51:58.000Z",
+        "updated_at": "2026-02-15T13:28:47.000Z",
         "first_aired": "2013-01-31T03:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 62,
@@ -6788,7 +6788,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "votes": 10545,
+        "votes": 10547,
         "colors": {
           "poster": [
             "#D4BEB1",
@@ -6820,7 +6820,7 @@
             "media.trakt.tv/images/shows/000/004/033/cleararts/medium/f7dde58ac2.PNG.webp"
           ]
         },
-        "rating": 8.177999496459961,
+        "rating": 8.17824935913086,
         "status": "returning series",
         "country": "us",
         "network": "Paramount+",
@@ -6839,7 +6839,7 @@
           "police-procedural",
           "suspenseful"
         ],
-        "updated_at": "2026-02-14T06:37:42.000Z",
+        "updated_at": "2026-02-15T12:50:55.000Z",
         "first_aired": "2005-09-22T04:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 57,
@@ -6911,7 +6911,7 @@
         },
         "year": 2009,
         "title": "Castle",
-        "votes": 11997,
+        "votes": 11998,
         "colors": {
           "poster": [
             "#BCA593",
@@ -6942,7 +6942,7 @@
             "media.trakt.tv/images/shows/000/001/410/cleararts/medium/2848c06ea9.png.webp"
           ]
         },
-        "rating": 8.127864837646484,
+        "rating": 8.127854347229004,
         "status": "canceled",
         "country": "us",
         "network": "ABC",
@@ -6964,7 +6964,7 @@
           "police-procedural",
           "writer"
         ],
-        "updated_at": "2026-02-14T06:52:16.000Z",
+        "updated_at": "2026-02-15T13:29:17.000Z",
         "first_aired": "2009-03-10T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 68,
@@ -7032,7 +7032,7 @@
         },
         "year": 2010,
         "title": "Spartacus",
-        "votes": 12219,
+        "votes": 12238,
         "colors": {
           "poster": [
             "#D3BCA8",
@@ -7062,7 +7062,7 @@
             "media.trakt.tv/images/shows/000/046/038/cleararts/medium/240e607f71.png.webp"
           ]
         },
-        "rating": 8.390294075012207,
+        "rating": 8.390422821044922,
         "status": "ended",
         "country": "us",
         "network": "STARZ",
@@ -7078,7 +7078,7 @@
         "subgenres": [
           "ancient-rome"
         ],
-        "updated_at": "2026-02-14T08:25:29.000Z",
+        "updated_at": "2026-02-15T16:36:05.000Z",
         "first_aired": "2010-01-23T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 64,
@@ -7146,7 +7146,7 @@
         },
         "year": 2018,
         "title": "Succession",
-        "votes": 12234,
+        "votes": 12262,
         "colors": {
           "poster": [
             "#849AB0",
@@ -7177,7 +7177,7 @@
             "media.trakt.tv/images/shows/000/125/479/cleararts/medium/290848733d.png.webp"
           ]
         },
-        "rating": 8.649582862854004,
+        "rating": 8.649975776672363,
         "status": "ended",
         "country": "us",
         "network": "HBO",
@@ -7194,7 +7194,7 @@
           "dysfunctional-family",
           "sibling-relationship"
         ],
-        "updated_at": "2026-02-14T12:10:58.000Z",
+        "updated_at": "2026-02-15T23:40:43.000Z",
         "first_aired": "2018-06-04T01:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 79,
@@ -7266,7 +7266,7 @@
         },
         "year": 2001,
         "title": "24",
-        "votes": 12496,
+        "votes": 12502,
         "colors": {
           "poster": [
             "#ADAA9F",
@@ -7299,7 +7299,7 @@
             "media.trakt.tv/images/shows/000/001/960/cleararts/medium/d09f1bc368.png.webp"
           ]
         },
-        "rating": 8.161811828613281,
+        "rating": 8.16141414642334,
         "status": "ended",
         "country": "us",
         "network": "FOX",
@@ -7316,7 +7316,7 @@
           "revenge",
           "political-intrigue"
         ],
-        "updated_at": "2026-02-14T06:39:41.000Z",
+        "updated_at": "2026-02-15T12:51:34.000Z",
         "first_aired": "2001-11-07T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 69,
@@ -7383,7 +7383,7 @@
         },
         "year": 2012,
         "title": "Elementary",
-        "votes": 13060,
+        "votes": 13063,
         "colors": {
           "poster": [
             "#D1D3D7",
@@ -7415,7 +7415,7 @@
             "media.trakt.tv/images/shows/000/001/406/cleararts/medium/1db9d39b77.png.webp"
           ]
         },
-        "rating": 7.939662933349609,
+        "rating": 7.939906597137451,
         "status": "ended",
         "country": "us",
         "network": "CBS",
@@ -7432,7 +7432,7 @@
           "detective",
           "investigation"
         ],
-        "updated_at": "2026-02-14T06:26:47.000Z",
+        "updated_at": "2026-02-15T12:38:44.000Z",
         "first_aired": "2012-09-28T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 85,
@@ -7500,7 +7500,7 @@
         },
         "year": 1993,
         "title": "The X-Files",
-        "votes": 13877,
+        "votes": 13880,
         "colors": {
           "poster": [
             "#84A0A9",
@@ -7533,7 +7533,7 @@
             "media.trakt.tv/images/shows/000/004/063/cleararts/medium/a4a0db2c8d.png.webp"
           ]
         },
-        "rating": 8.463861465454102,
+        "rating": 8.46332836151123,
         "status": "ended",
         "country": "us",
         "network": "FOX",
@@ -7558,7 +7558,7 @@
           "paranormal-phenomena",
           "alien"
         ],
-        "updated_at": "2026-02-14T15:06:20.000Z",
+        "updated_at": "2026-02-15T14:33:10.000Z",
         "first_aired": "1993-09-11T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 48,
@@ -7629,7 +7629,7 @@
         },
         "year": 2004,
         "title": "Battlestar Galactica",
-        "votes": 14947,
+        "votes": 14949,
         "colors": {
           "poster": [
             "#AAA0A9",
@@ -7663,7 +7663,7 @@
             "media.trakt.tv/images/shows/000/001/959/cleararts/medium/14bf078155.png.webp"
           ]
         },
-        "rating": 8.792800903320312,
+        "rating": 8.792896270751953,
         "status": "ended",
         "country": "ca",
         "network": "Syfy",
@@ -7686,7 +7686,7 @@
           "spacecraft",
           "inspirational"
         ],
-        "updated_at": "2026-02-14T06:33:21.000Z",
+        "updated_at": "2026-02-15T16:28:56.000Z",
         "first_aired": "2004-10-19T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 60,
@@ -7806,7 +7806,7 @@
           "based-on-comic",
           "super-villain"
         ],
-        "updated_at": "2026-02-14T07:29:04.000Z",
+        "updated_at": "2026-02-15T13:56:07.000Z",
         "first_aired": "2014-09-23T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 112,
@@ -7880,7 +7880,7 @@
         },
         "year": 2005,
         "title": "Grey's Anatomy",
-        "votes": 16871,
+        "votes": 16896,
         "colors": {
           "poster": [
             "#EEF0F0",
@@ -7910,7 +7910,7 @@
             "media.trakt.tv/images/shows/000/001/407/cleararts/medium/54d0b6494e.png.webp"
           ]
         },
-        "rating": 7.866753578186035,
+        "rating": 7.865470886230469,
         "status": "returning series",
         "country": "us",
         "network": "ABC",
@@ -7930,7 +7930,7 @@
           "medical-drama",
           "trauma"
         ],
-        "updated_at": "2026-02-14T16:39:29.000Z",
+        "updated_at": "2026-02-15T16:52:16.000Z",
         "first_aired": "2005-03-28T03:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 93,
@@ -8010,7 +8010,7 @@
         },
         "year": 2009,
         "title": "The Vampire Diaries",
-        "votes": 17185,
+        "votes": 17186,
         "colors": {
           "poster": [
             "#B7ACA8",
@@ -8041,7 +8041,7 @@
             "media.trakt.tv/images/shows/000/018/083/cleararts/medium/87fb4a7e5d.png.webp"
           ]
         },
-        "rating": 7.8443989753723145,
+        "rating": 7.8443498611450195,
         "status": "ended",
         "country": "us",
         "network": "The CW",
@@ -8062,7 +8062,7 @@
           "interspecies-romance",
           "werewolf"
         ],
-        "updated_at": "2026-02-14T08:06:17.000Z",
+        "updated_at": "2026-02-15T14:45:34.000Z",
         "first_aired": "2009-09-11T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 120,
@@ -8134,7 +8134,7 @@
         },
         "year": 2014,
         "title": "Fargo",
-        "votes": 17721,
+        "votes": 17728,
         "colors": {
           "poster": [
             "#94978D",
@@ -8165,7 +8165,7 @@
             "media.trakt.tv/images/shows/000/060/203/cleararts/medium/e715b231ec.png.webp"
           ]
         },
-        "rating": 8.577675819396973,
+        "rating": 8.577730178833008,
         "status": "returning series",
         "country": "us",
         "network": "FX",
@@ -8189,7 +8189,7 @@
           "violence",
           "police-officer"
         ],
-        "updated_at": "2026-02-14T06:38:29.000Z",
+        "updated_at": "2026-02-15T12:51:03.000Z",
         "first_aired": "2014-04-16T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 74,
@@ -8264,7 +8264,7 @@
         },
         "year": 1999,
         "title": "The Sopranos",
-        "votes": 18763,
+        "votes": 18776,
         "colors": {
           "poster": [
             "#D5B6AD",
@@ -8295,7 +8295,7 @@
             "media.trakt.tv/images/shows/000/001/389/cleararts/medium/0ffd7060d4.png.webp"
           ]
         },
-        "rating": 9.108671188354492,
+        "rating": 9.109182357788086,
         "status": "ended",
         "country": "us",
         "network": "HBO",
@@ -8315,7 +8315,7 @@
           "drug-dealer",
           "mafia"
         ],
-        "updated_at": "2026-02-14T15:36:56.000Z",
+        "updated_at": "2026-02-15T15:24:24.000Z",
         "first_aired": "1999-01-11T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 82,
@@ -8387,7 +8387,7 @@
         },
         "year": 2001,
         "title": "Band of Brothers",
-        "votes": 18977,
+        "votes": 19003,
         "colors": {
           "poster": [
             "#BEBBB2",
@@ -8418,7 +8418,7 @@
             "media.trakt.tv/images/shows/000/004/589/cleararts/medium/868fb6f529.png.webp"
           ]
         },
-        "rating": 9.171523094177246,
+        "rating": 9.17128849029541,
         "status": "ended",
         "country": "us",
         "network": "HBO",
@@ -8444,7 +8444,7 @@
           "combat",
           "us-army"
         ],
-        "updated_at": "2026-02-14T07:14:23.000Z",
+        "updated_at": "2026-02-15T16:44:43.000Z",
         "first_aired": "2001-09-10T00:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 59,
@@ -8519,7 +8519,7 @@
         },
         "year": 2005,
         "title": "Doctor Who",
-        "votes": 19707,
+        "votes": 19710,
         "colors": {
           "poster": [
             "#67899C",
@@ -8552,7 +8552,7 @@
             "media.trakt.tv/images/shows/000/056/872/cleararts/medium/9ee95ac313.png.webp"
           ]
         },
-        "rating": 8.637895584106445,
+        "rating": 8.637798309326172,
         "status": "ended",
         "country": "gb",
         "network": "BBC One",
@@ -8569,7 +8569,7 @@
           "time-travel",
           "alien"
         ],
-        "updated_at": "2026-02-14T15:07:17.000Z",
+        "updated_at": "2026-02-15T12:44:22.000Z",
         "first_aired": "2005-03-26T18:30:00.000Z",
         "certification": "TV-PG",
         "comment_count": 184,
@@ -8641,7 +8641,7 @@
         },
         "year": 2013,
         "title": "Marvel's Agents of S.H.I.E.L.D.",
-        "votes": 21269,
+        "votes": 21271,
         "colors": {
           "poster": [
             "#E0B47B",
@@ -8676,7 +8676,7 @@
             "media.trakt.tv/images/shows/000/001/394/cleararts/medium/a384583c46.png.webp"
           ]
         },
-        "rating": 7.7590861320495605,
+        "rating": 7.75901460647583,
         "status": "ended",
         "country": "us",
         "network": "ABC",
@@ -8693,7 +8693,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-14T15:34:04.000Z",
+        "updated_at": "2026-02-15T17:32:05.000Z",
         "first_aired": "2013-09-25T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 137,
@@ -8766,7 +8766,7 @@
         },
         "year": 2019,
         "title": "The Witcher",
-        "votes": 26043,
+        "votes": 26053,
         "colors": {
           "poster": [
             "#B37A59",
@@ -8799,7 +8799,7 @@
             "media.trakt.tv/images/shows/000/138/163/cleararts/medium/0c51489b9f.png.webp"
           ]
         },
-        "rating": 7.731751441955566,
+        "rating": 7.731815814971924,
         "status": "returning series",
         "country": "us",
         "network": "Netflix",
@@ -8820,7 +8820,7 @@
           "mutant",
           "mutation"
         ],
-        "updated_at": "2026-02-14T11:46:16.000Z",
+        "updated_at": "2026-02-15T22:43:14.000Z",
         "first_aired": "2019-12-20T08:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 139,
@@ -8896,7 +8896,7 @@
         },
         "year": 2011,
         "title": "Suits",
-        "votes": 28379,
+        "votes": 28411,
         "colors": {
           "poster": [
             "#EAEBEB",
@@ -8926,7 +8926,7 @@
             "media.trakt.tv/images/shows/000/037/522/cleararts/medium/14babfb15f.png.webp"
           ]
         },
-        "rating": 8.324042320251465,
+        "rating": 8.323782920837402,
         "status": "ended",
         "country": "us",
         "network": "USA Network",
@@ -8942,7 +8942,7 @@
         "subgenres": [
           "lawyer"
         ],
-        "updated_at": "2026-02-14T08:54:20.000Z",
+        "updated_at": "2026-02-15T18:38:32.000Z",
         "first_aired": "2011-06-24T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 133,
@@ -9011,7 +9011,7 @@
         },
         "year": 2013,
         "title": "Brooklyn Nine-Nine",
-        "votes": 29995,
+        "votes": 30050,
         "colors": {
           "poster": [
             "#B4B38C",
@@ -9042,7 +9042,7 @@
             "media.trakt.tv/images/shows/000/048/587/cleararts/medium/772956fa23.png.webp"
           ]
         },
-        "rating": 8.372761726379395,
+        "rating": 8.372512817382812,
         "status": "ended",
         "country": "us",
         "network": "FOX",
@@ -9063,7 +9063,7 @@
           "workplace-comedy",
           "brooklyn-new-york-city"
         ],
-        "updated_at": "2026-02-14T15:07:51.000Z",
+        "updated_at": "2026-02-15T13:31:33.000Z",
         "first_aired": "2013-09-18T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 103,
@@ -9133,7 +9133,7 @@
         },
         "year": 2012,
         "title": "Arrow",
-        "votes": 33713,
+        "votes": 33716,
         "colors": {
           "poster": [
             "#C8CBC4",
@@ -9167,7 +9167,7 @@
             "media.trakt.tv/images/shows/000/001/403/cleararts/medium/b859003114.png.webp"
           ]
         },
-        "rating": 7.462640762329102,
+        "rating": 7.462777137756348,
         "status": "ended",
         "country": "us",
         "network": "The CW",
@@ -9184,7 +9184,7 @@
           "based-on-comic",
           "superhero-team"
         ],
-        "updated_at": "2026-02-14T07:19:59.000Z",
+        "updated_at": "2026-02-15T13:50:06.000Z",
         "first_aired": "2012-10-11T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 211,
@@ -9257,7 +9257,7 @@
         },
         "year": 2005,
         "title": "The Office",
-        "votes": 35742,
+        "votes": 35763,
         "colors": {
           "poster": [
             "#92AAC1",
@@ -9287,7 +9287,7 @@
             "media.trakt.tv/images/shows/000/002/302/cleararts/medium/c9a0c0c65a.png.webp"
           ]
         },
-        "rating": 8.634575843811035,
+        "rating": 8.634790420532227,
         "status": "ended",
         "country": "us",
         "network": "NBC",
@@ -9307,7 +9307,7 @@
           "workplace-comedy",
           "office"
         ],
-        "updated_at": "2026-02-14T16:23:06.000Z",
+        "updated_at": "2026-02-15T18:11:42.000Z",
         "first_aired": "2005-03-24T22:30:00.000Z",
         "certification": "TV-14",
         "comment_count": 129,
@@ -9381,7 +9381,7 @@
         },
         "year": 2004,
         "title": "Lost",
-        "votes": 37651,
+        "votes": 37662,
         "colors": {
           "poster": [
             "#7EB1AE",
@@ -9414,7 +9414,7 @@
             "media.trakt.tv/images/shows/000/004/583/cleararts/medium/f61af09aaf.png.webp"
           ]
         },
-        "rating": 8.07779312133789,
+        "rating": 8.077796936035156,
         "status": "ended",
         "country": "us",
         "network": "ABC",
@@ -9430,7 +9430,7 @@
         "subgenres": [
           "island"
         ],
-        "updated_at": "2026-02-14T15:08:01.000Z",
+        "updated_at": "2026-02-15T17:51:12.000Z",
         "first_aired": "2004-09-23T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 172,
@@ -9502,7 +9502,7 @@
         },
         "year": 1994,
         "title": "Friends",
-        "votes": 48243,
+        "votes": 48259,
         "colors": {
           "poster": [
             "#BB9782",
@@ -9532,7 +9532,7 @@
             "media.trakt.tv/images/shows/000/001/657/cleararts/medium/279f666cf5.png.webp"
           ]
         },
-        "rating": 8.412805557250977,
+        "rating": 8.41287612915039,
         "status": "ended",
         "country": "us",
         "network": "NBC",
@@ -9552,7 +9552,7 @@
           "searching-for-love",
           "young-adult"
         ],
-        "updated_at": "2026-02-14T08:38:20.000Z",
+        "updated_at": "2026-02-15T15:06:52.000Z",
         "first_aired": "1994-09-23T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 104,
@@ -9629,7 +9629,7 @@
         },
         "year": 2007,
         "title": "The Big Bang Theory",
-        "votes": 64838,
+        "votes": 64851,
         "colors": {
           "poster": [
             "#B89F8F",
@@ -9659,7 +9659,7 @@
             "media.trakt.tv/images/shows/000/001/409/cleararts/medium/f96dc7ae79.png.webp"
           ]
         },
-        "rating": 7.853141784667969,
+        "rating": 7.853263854980469,
         "status": "ended",
         "country": "us",
         "network": "CBS",
@@ -9677,10 +9677,10 @@
           "sitcom",
           "scientist"
         ],
-        "updated_at": "2026-02-14T19:59:33.000Z",
+        "updated_at": "2026-02-15T15:33:17.000Z",
         "first_aired": "2007-09-25T00:00:00.000Z",
         "certification": "TV-14",
-        "comment_count": 266,
+        "comment_count": 267,
         "aired_episodes": 279,
         "original_title": "The Big Bang Theory",
         "available_translations": [
@@ -9752,7 +9752,7 @@
         },
         "year": 2010,
         "title": "The Walking Dead",
-        "votes": 71015,
+        "votes": 71028,
         "colors": {
           "poster": [
             "#ABA579",
@@ -9786,7 +9786,7 @@
             "media.trakt.tv/images/shows/000/001/393/cleararts/medium/67608bba51.png.webp"
           ]
         },
-        "rating": 7.887558937072754,
+        "rating": 7.887551307678223,
         "status": "ended",
         "country": "us",
         "network": "AMC",
@@ -9806,7 +9806,7 @@
           "based-on-graphic-novel",
           "gore"
         ],
-        "updated_at": "2026-02-14T16:34:49.000Z",
+        "updated_at": "2026-02-15T16:50:30.000Z",
         "first_aired": "2010-11-01T01:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 370,
