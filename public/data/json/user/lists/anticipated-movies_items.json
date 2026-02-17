@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-16T06:42:16.777966+00:00",
+    "fetched_at": "2026-02-17T06:34:12.074769+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -337,7 +337,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-02-15T08:52:23.000Z",
+        "updated_at": "2026-02-16T08:32:51.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -597,7 +597,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-02-15T08:51:18.000Z",
+        "updated_at": "2026-02-16T08:39:52.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -737,7 +737,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2709,
+        "votes": 2712,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -769,7 +769,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.823182106018066,
+        "rating": 5.823746204376221,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -848,7 +848,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5105,
+        "votes": 5123,
         "colors": {
           "poster": [
             "#CC997A",
@@ -880,7 +880,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.546131134033203,
+        "rating": 7.546359539031982,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -898,7 +898,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-02-15T09:38:24.000Z",
+        "updated_at": "2026-02-16T08:34:19.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 125,
