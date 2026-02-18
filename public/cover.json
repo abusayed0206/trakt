@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "tmdb_id": 1291608,
+      "title": "Dhurandhar",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1291608_poster.jpg",
+      "last_watched_at": "2026-02-17T06:26:00.000Z"
+    },
+    {
       "tmdb_id": 1043565,
       "title": "Mindcage",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1043565_poster.jpg",
@@ -53,25 +59,19 @@
       "title": "The Hobbit: An Unexpected Journey",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/49051_poster.jpg",
       "last_watched_at": "2026-01-04T17:20:00.000Z"
-    },
-    {
-      "tmdb_id": 598,
-      "title": "City of God",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/598_poster.jpg",
-      "last_watched_at": "2025-12-28T18:53:00.000Z"
     }
   ],
   "shows": [
     {
       "tmdb_id": 4057,
       "title": "Criminal Minds",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/2/season_2_poster.jpg",
       "last_watched_at": "2026-01-26T08:44:00.000Z"
     },
     {
@@ -98,7 +98,7 @@
     {
       "tmdb_id": 66732,
       "title": "Stranger Things",
-      "season": 3,
+      "season": 4,
       "available_seasons": [
         1,
         2,
@@ -106,7 +106,7 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/4/season_4_poster.jpg",
       "last_watched_at": "2026-01-01T10:15:00.000Z"
     },
     {
@@ -124,13 +124,13 @@
     {
       "tmdb_id": 110316,
       "title": "Alice in Borderland",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/110316/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/110316/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-26T20:33:54.000Z"
     },
     {
@@ -157,12 +157,12 @@
     {
       "tmdb_id": 119051,
       "title": "Wednesday",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
       "last_watched_at": "2025-09-04T08:28:14.000Z"
     },
     {
