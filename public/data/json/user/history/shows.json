@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-17T06:34:10.126994+00:00",
+    "fetched_at": "2026-02-18T06:39:38.030752+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12030151964,
+      "watched_at": "2026-02-18T06:08:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 10,
+        "title": "True Night",
+        "ids": {
+          "trakt": 291457,
+          "tvdb": 341294,
+          "imdb": "tt1122161",
+          "tmdb": 283197,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 11973786677,
       "watched_at": "2026-01-26T08:44:00.000Z",
@@ -273,36 +303,6 @@
           "tvdb": 75710,
           "imdb": "tt0452046",
           "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11936372487,
-      "watched_at": "2026-01-11T19:21:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 23,
-        "title": "Unthinkable",
-        "ids": {
-          "trakt": 74803,
-          "tvdb": 4822560,
-          "imdb": "tt3337674",
-          "tmdb": 974441,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
           "tvrage": null
         }
       }
