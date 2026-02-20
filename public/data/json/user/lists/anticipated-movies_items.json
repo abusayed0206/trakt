@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-19T06:38:16.391375+00:00",
+    "fetched_at": "2026-02-20T06:30:41.356487+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -337,7 +337,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-02-18T08:36:21.000Z",
+        "updated_at": "2026-02-19T08:28:15.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -413,7 +413,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-02-18T08:33:17.000Z",
+        "updated_at": "2026-02-19T08:28:16.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 2,
@@ -737,7 +737,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2718,
+        "votes": 2720,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -769,7 +769,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.827078819274902,
+        "rating": 5.827573299407959,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -787,7 +787,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-18T15:47:02.000Z",
+        "updated_at": "2026-02-19T15:23:51.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -848,7 +848,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5150,
+        "votes": 5161,
         "colors": {
           "poster": [
             "#CC997A",
@@ -880,7 +880,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.545825004577637,
+        "rating": 7.545243263244629,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -898,7 +898,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-02-18T08:36:03.000Z",
+        "updated_at": "2026-02-19T08:35:26.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 125,
