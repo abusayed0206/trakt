@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-20T06:30:38.675996+00:00",
+    "fetched_at": "2026-02-21T06:04:11.919363+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12035336108,
+      "watched_at": "2026-02-20T14:17:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Ronaldo vs. Messi: Face Off!",
+        "year": 2017,
+        "ids": {
+          "trakt": 374179,
+          "slug": "ronaldo-vs-messi-face-off-2017",
+          "imdb": "tt7141228",
+          "tmdb": 525875
+        }
+      }
+    },
+    {
+      "id": 12035257551,
+      "watched_at": "2026-02-20T13:00:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Face/Off",
+        "year": 1997,
+        "ids": {
+          "trakt": 597,
+          "slug": "face-off-1997",
+          "imdb": "tt0119094",
+          "tmdb": 754
+        }
+      }
+    },
     {
       "id": 12028098851,
       "watched_at": "2026-02-17T06:26:00.000Z",
@@ -132,38 +164,6 @@
           "slug": "the-hobbit-the-battle-of-five-armies-extended-edition",
           "imdb": "tt21832076",
           "tmdb": 1389369
-        }
-      }
-    },
-    {
-      "id": 11921091141,
-      "watched_at": "2026-01-05T19:59:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "The Hobbit: The Desolation of Smaug",
-        "year": 2013,
-        "ids": {
-          "trakt": 40808,
-          "slug": "the-hobbit-the-desolation-of-smaug-2013",
-          "imdb": "tt1170358",
-          "tmdb": 57158
-        }
-      }
-    },
-    {
-      "id": 11917147561,
-      "watched_at": "2026-01-04T17:20:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "The Hobbit: An Unexpected Journey",
-        "year": 2012,
-        "ids": {
-          "trakt": 34097,
-          "slug": "the-hobbit-an-unexpected-journey-2012",
-          "imdb": "tt0903624",
-          "tmdb": 49051
         }
       }
     }
