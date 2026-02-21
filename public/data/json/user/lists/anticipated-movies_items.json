@@ -1,12 +1,822 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-20T06:30:41.356487+00:00",
+    "fetched_at": "2026-02-21T06:04:13.734629+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
     "count": 11
   },
   "data": [
+    {
+      "rank": 3,
+      "id": 1174076303,
+      "listed_at": "2025-02-16T04:14:41.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt1757678",
+          "plex": {
+            "guid": "5d7768cc9ab54400214eba10",
+            "slug": "avatar-fire-and-ash"
+          },
+          "slug": "avatar-fire-and-ash-2025",
+          "tmdb": 83533,
+          "trakt": 62544
+        },
+        "year": 2025,
+        "title": "Avatar: Fire and Ash",
+        "votes": 5179,
+        "colors": {
+          "poster": [
+            "#CC997A",
+            "#3C3037"
+          ]
+        },
+        "genres": [
+          "adventure",
+          "science-fiction",
+          "fantasy"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/062/544/logos/medium/6879bb24fb.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/062/544/thumbs/medium/99ca224626.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/062/544/banners/medium/e062315426.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/062/544/fanarts/medium/d5e410a965.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/062/544/posters/medium/53ba7ba809.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
+          ]
+        },
+        "rating": 7.545279026031494,
+        "status": "released",
+        "country": "us",
+        "runtime": 198,
+        "tagline": "The world of Pandora will change forever.",
+        "trailer": "https://youtube.com/watch?v=Ma1x7ikpid8",
+        "homepage": "https://www.avatar.com/movies/avatar-fire-and-ash",
+        "language": "en",
+        "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+        "released": "2025-12-19",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "amused",
+          "witch",
+          "alien"
+        ],
+        "updated_at": "2026-02-20T08:29:49.000Z",
+        "after_credits": false,
+        "certification": "PG-13",
+        "comment_count": 126,
+        "during_credits": false,
+        "original_title": "Avatar: Fire and Ash",
+        "available_translations": [
+          "ar",
+          "az",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "et",
+          "fa",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "kn",
+          "ko",
+          "lt",
+          "lv",
+          "ml",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "ta",
+          "te",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "id": 1174075727,
+      "listed_at": "2025-02-16T04:11:19.000Z",
+      "notes": null,
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt13623126",
+          "plex": {
+            "guid": "6089894473a4d4002cf5baa0",
+            "slug": "ironheart"
+          },
+          "slug": "ironheart",
+          "tmdb": 114471,
+          "tvdb": 393204,
+          "trakt": 170565
+        },
+        "airs": {
+          "day": "Tuesday",
+          "time": "21:00",
+          "timezone": "America/New_York"
+        },
+        "year": 2025,
+        "title": "Ironheart",
+        "votes": 2724,
+        "colors": {
+          "poster": [
+            "#B8AA8F",
+            "#1B1921"
+          ]
+        },
+        "genres": [
+          "fantasy",
+          "science-fiction",
+          "crime",
+          "action",
+          "adventure"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/shows/000/170/565/logos/medium/6739a141f8.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/shows/000/170/565/thumbs/medium/5b09068c93.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/shows/000/170/565/banners/medium/76b4dee446.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/shows/000/170/565/fanarts/medium/9c5eaaadb7.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/shows/000/170/565/posters/medium/e52558ea00.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 5.827826499938965,
+        "status": "ended",
+        "country": "us",
+        "network": "Disney+",
+        "runtime": 51,
+        "tagline": "Every dream has a cost.",
+        "trailer": "https://youtube.com/watch?v=r6j-wSIqJJ0",
+        "homepage": "https://www.disneyplus.com/browse/entity-b2b50b9a-a055-4b31-a609-8ec46f3add98",
+        "language": "en",
+        "overview": "After the events of Black Panther: Wakanda Forever, technology is pitted against magic when Riri Williams, a young, genius inventor determined to make her mark on the world, returns to her hometown of Chicago. Her unique take on building iron suits is brilliant, but in pursuit of her ambitions, she finds herself wrapped up with the mysterious yet charming Parker Robbins aka \"The Hood.\"",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "spin-off",
+          "based-on-comic",
+          "marvel-cinematic-universe-mcu"
+        ],
+        "updated_at": "2026-02-20T11:22:20.000Z",
+        "first_aired": "2025-06-25T01:00:00.000Z",
+        "certification": "TV-14",
+        "comment_count": 71,
+        "aired_episodes": 6,
+        "original_title": "Ironheart",
+        "available_translations": [
+          "ar",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "id": 1174076306,
+      "listed_at": "2025-02-16T04:14:44.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt3095356",
+          "plex": {
+            "guid": "5d776a4cad5437001f778f51",
+            "slug": "avatar-4"
+          },
+          "slug": "avatar-4-2029",
+          "tmdb": 216527,
+          "trakt": 133603
+        },
+        "year": 2029,
+        "title": "Avatar 4",
+        "votes": 89,
+        "colors": {
+          "poster": [
+            "#ADA4A8",
+            "#872841"
+          ]
+        },
+        "genres": [
+          "adventure",
+          "science-fiction",
+          "fantasy"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/133/603/logos/medium/d97cdb6ed4.png.webp"
+          ],
+          "thumb": [],
+          "banner": [],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/133/603/fanarts/medium/0e6ca24c05.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/133/603/posters/medium/2cf4fdc78f.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 7,
+        "status": "planned",
+        "country": "us",
+        "runtime": null,
+        "tagline": "",
+        "trailer": null,
+        "homepage": "https://www.avatar.com/movies",
+        "language": "en",
+        "overview": "The fourth installment of the franchise. Plot TBA.",
+        "released": "2029-12-21",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [],
+        "updated_at": "2026-02-10T08:57:37.000Z",
+        "after_credits": false,
+        "certification": null,
+        "comment_count": 4,
+        "during_credits": false,
+        "original_title": "Avatar 4",
+        "available_translations": [
+          "bg",
+          "en",
+          "es",
+          "fr",
+          "he",
+          "ja",
+          "ka",
+          "ko",
+          "pt",
+          "ru",
+          "uk",
+          "zh"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "id": 1174076317,
+      "listed_at": "2025-02-16T04:14:59.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt21357150",
+          "plex": {
+            "guid": "62deb8bf9576053a6b5c5ee7",
+            "slug": "avengers-doomsday"
+          },
+          "slug": "avengers-doomsday-2026",
+          "tmdb": 1003596,
+          "trakt": 806490
+        },
+        "year": 2026,
+        "title": "Avengers: Doomsday",
+        "votes": 61,
+        "colors": {
+          "poster": [
+            "#A4BF91",
+            "#172019"
+          ]
+        },
+        "genres": [
+          "science-fiction",
+          "superhero",
+          "action",
+          "adventure"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/806/490/logos/medium/1c077b6815.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/806/490/thumbs/medium/9ffc704adb.jpg.webp"
+          ],
+          "banner": [],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/806/490/fanarts/medium/af94d52c6e.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/806/490/posters/medium/b8f5a22c56.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 7.622951030731201,
+        "status": "post production",
+        "country": "us",
+        "runtime": null,
+        "tagline": "",
+        "trailer": null,
+        "homepage": "https://www.marvel.com/movies/avengers-doomsday",
+        "language": "en",
+        "overview": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
+        "released": "2026-12-18",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "based-on-comic",
+          "marvel-cinematic-universe-mcu",
+          "superhero-team"
+        ],
+        "updated_at": "2026-02-18T08:33:17.000Z",
+        "after_credits": false,
+        "certification": null,
+        "comment_count": 6,
+        "during_credits": false,
+        "original_title": "Avengers: Doomsday",
+        "available_translations": [
+          "ar",
+          "bg",
+          "cs",
+          "en",
+          "es",
+          "fa",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "hu",
+          "ja",
+          "ka",
+          "ko",
+          "ml",
+          "my",
+          "pt",
+          "ro",
+          "ru",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "id": 1174076315,
+      "listed_at": "2025-02-16T04:14:54.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt5637536",
+          "plex": {
+            "guid": "5d776c3596b655001fe2989e",
+            "slug": "avatar-5"
+          },
+          "slug": "avatar-5-2031",
+          "tmdb": 393209,
+          "trakt": 235669
+        },
+        "year": 2031,
+        "title": "Avatar 5",
+        "votes": 53,
+        "colors": {
+          "poster": [
+            "#ADA4AF",
+            "#87276C"
+          ]
+        },
+        "genres": [
+          "adventure",
+          "science-fiction",
+          "fantasy"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/235/669/logos/medium/4a4b62ecff.png.webp"
+          ],
+          "thumb": [],
+          "banner": [],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/235/669/fanarts/medium/2fa4a6e67c.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/235/669/posters/medium/19ab3fb134.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 6.226415157318115,
+        "status": "planned",
+        "country": "us",
+        "runtime": null,
+        "tagline": "",
+        "trailer": null,
+        "homepage": "https://www.avatar.com/movies",
+        "language": "en",
+        "overview": "The fifth installment of the franchise. Plot TBA.",
+        "released": "2031-12-19",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [],
+        "updated_at": "2026-01-20T08:34:07.000Z",
+        "after_credits": false,
+        "certification": null,
+        "comment_count": 6,
+        "during_credits": false,
+        "original_title": "Avatar 5",
+        "available_translations": [
+          "bg",
+          "en",
+          "es",
+          "fr",
+          "he",
+          "ja",
+          "ka",
+          "ko",
+          "pt",
+          "ru",
+          "uk",
+          "zh"
+        ]
+      }
+    },
+    {
+      "rank": 11,
+      "id": 1285064667,
+      "listed_at": "2025-07-22T20:05:17.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt31378509",
+          "plex": {
+            "guid": "65d514b7e0e20b8c84ece2f6",
+            "slug": "dune-messiah-2026"
+          },
+          "slug": "dune-part-three-2026",
+          "tmdb": 1170608,
+          "trakt": 943606
+        },
+        "year": 2026,
+        "title": "Dune: Part Three",
+        "votes": 37,
+        "colors": {
+          "poster": [
+            "#9D4921",
+            "#5B3A5D"
+          ]
+        },
+        "genres": [
+          "science-fiction",
+          "adventure"
+        ],
+        "images": {
+          "logo": [],
+          "thumb": [],
+          "banner": [],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/943/606/fanarts/medium/225e3e89a5.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/943/606/posters/medium/54780292f6.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 7.918919086456299,
+        "status": "post production",
+        "country": "us",
+        "runtime": null,
+        "tagline": "",
+        "trailer": null,
+        "homepage": null,
+        "language": "en",
+        "overview": "The third and final installment in Villeneuve's Dune trilogy. Based on Frank Herbert's novel Dune Messiah.",
+        "released": "2026-12-18",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [],
+        "updated_at": "2026-02-20T08:36:03.000Z",
+        "after_credits": false,
+        "certification": null,
+        "comment_count": 2,
+        "during_credits": false,
+        "original_title": "Dune: Part Three",
+        "available_translations": [
+          "ar",
+          "bg",
+          "cs",
+          "de",
+          "en",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hu",
+          "ja",
+          "ka",
+          "ko",
+          "lo",
+          "lt",
+          "lv",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sv",
+          "th",
+          "uk",
+          "vi",
+          "zh"
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 1174076320,
+      "listed_at": "2025-02-16T04:15:03.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt19850008",
+          "plex": {
+            "guid": "627b6fad4ff557b9d6566f44",
+            "slug": "the-batman-part-ii"
+          },
+          "slug": "untitled-the-batman-sequel-2027",
+          "tmdb": 806704,
+          "trakt": 640991
+        },
+        "year": 2027,
+        "title": "Untitled The Batman Sequel",
+        "votes": 23,
+        "colors": {
+          "poster": [
+            "#F20632",
+            "#030101"
+          ]
+        },
+        "genres": [
+          "crime",
+          "drama",
+          "superhero",
+          "mystery"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/640/991/logos/medium/4df08214b4.png.webp"
+          ],
+          "thumb": [],
+          "banner": [],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/640/991/fanarts/medium/93fac9cf0d.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/640/991/posters/medium/41c9a0d6a5.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 7.5652174949646,
+        "status": "planned",
+        "country": "us",
+        "runtime": null,
+        "tagline": "",
+        "trailer": null,
+        "homepage": null,
+        "language": "en",
+        "overview": "Sequel to the 2022 film The Batman.",
+        "released": "2027-10-01",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "based-on-comic",
+          "crime-fighter",
+          "masked-superhero",
+          "vigilante"
+        ],
+        "updated_at": "2026-02-20T08:34:18.000Z",
+        "after_credits": false,
+        "certification": null,
+        "comment_count": 0,
+        "during_credits": false,
+        "original_title": "Untitled The Batman Sequel",
+        "available_translations": [
+          "en",
+          "es",
+          "fr",
+          "ka",
+          "ko",
+          "pt",
+          "sv",
+          "uk",
+          "vi",
+          "zh"
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "id": 1210621808,
+      "listed_at": "2025-04-14T10:15:39.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt35935357",
+          "plex": {
+            "guid": null,
+            "slug": null
+          },
+          "slug": "the-beekeeper-2-2027",
+          "tmdb": 1440769,
+          "trakt": 1179070
+        },
+        "year": 2027,
+        "title": "The Beekeeper 2",
+        "votes": 5,
+        "colors": {
+          "poster": [
+            "#E6E6E6",
+            "#3A3528"
+          ]
+        },
+        "genres": [
+          "action",
+          "thriller",
+          "crime"
+        ],
+        "images": {
+          "logo": [],
+          "thumb": [],
+          "banner": [],
+          "fanart": [
+            "media.trakt.tv/images/movies/001/179/070/fanarts/medium/89046d70cc.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/001/179/070/posters/medium/5aed97a609.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 8,
+        "status": "post production",
+        "country": "gb",
+        "runtime": null,
+        "tagline": "",
+        "trailer": null,
+        "homepage": null,
+        "language": "en",
+        "overview": "The second installment in the franchise. Plot TBA.",
+        "released": "2027-01-15",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [],
+        "updated_at": "2026-02-01T08:38:02.000Z",
+        "after_credits": false,
+        "certification": null,
+        "comment_count": 0,
+        "during_credits": false,
+        "original_title": "The Beekeeper 2",
+        "available_translations": [
+          "en",
+          "ko",
+          "ru"
+        ]
+      }
+    },
+    {
+      "rank": 1,
+      "id": 1173832904,
+      "listed_at": "2025-02-15T16:49:19.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt13431644",
+          "plex": {
+            "guid": null,
+            "slug": null
+          },
+          "slug": "night-has-fallen",
+          "tmdb": 762409,
+          "trakt": 601208
+        },
+        "year": null,
+        "title": "Night Has Fallen",
+        "votes": 4,
+        "colors": {
+          "poster": []
+        },
+        "genres": [
+          "action",
+          "thriller"
+        ],
+        "images": {
+          "logo": [],
+          "thumb": [],
+          "banner": [],
+          "fanart": [],
+          "poster": [],
+          "clearart": []
+        },
+        "rating": 9.5,
+        "status": "canceled",
+        "country": "us",
+        "runtime": null,
+        "tagline": "",
+        "trailer": null,
+        "homepage": null,
+        "language": "en",
+        "overview": "The fourth entry in the \"... Has Fallen\" series, following the adventures of former Army Ranger and Secret Service Agent Mike Banning.",
+        "released": null,
+        "languages": [
+          "en"
+        ],
+        "subgenres": [],
+        "updated_at": "2026-01-23T08:32:25.000Z",
+        "after_credits": false,
+        "certification": null,
+        "comment_count": 0,
+        "during_credits": false,
+        "original_title": "Night Has Fallen",
+        "available_translations": [
+          "de",
+          "en",
+          "vi"
+        ]
+      }
+    },
     {
       "rank": 8,
       "id": 1176832893,
@@ -136,816 +946,6 @@
         "available_translations": [
           "en",
           "ko",
-          "zh"
-        ]
-      }
-    },
-    {
-      "rank": 1,
-      "id": 1173832904,
-      "listed_at": "2025-02-15T16:49:19.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt13431644",
-          "plex": {
-            "guid": null,
-            "slug": null
-          },
-          "slug": "night-has-fallen",
-          "tmdb": 762409,
-          "trakt": 601208
-        },
-        "year": null,
-        "title": "Night Has Fallen",
-        "votes": 4,
-        "colors": {
-          "poster": []
-        },
-        "genres": [
-          "action",
-          "thriller"
-        ],
-        "images": {
-          "logo": [],
-          "thumb": [],
-          "banner": [],
-          "fanart": [],
-          "poster": [],
-          "clearart": []
-        },
-        "rating": 9.5,
-        "status": "canceled",
-        "country": "us",
-        "runtime": null,
-        "tagline": "",
-        "trailer": null,
-        "homepage": null,
-        "language": "en",
-        "overview": "The fourth entry in the \"... Has Fallen\" series, following the adventures of former Army Ranger and Secret Service Agent Mike Banning.",
-        "released": null,
-        "languages": [
-          "en"
-        ],
-        "subgenres": [],
-        "updated_at": "2026-01-23T08:32:25.000Z",
-        "after_credits": false,
-        "certification": null,
-        "comment_count": 0,
-        "during_credits": false,
-        "original_title": "Night Has Fallen",
-        "available_translations": [
-          "de",
-          "en",
-          "vi"
-        ]
-      }
-    },
-    {
-      "rank": 10,
-      "id": 1210621808,
-      "listed_at": "2025-04-14T10:15:39.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt35935357",
-          "plex": {
-            "guid": null,
-            "slug": null
-          },
-          "slug": "the-beekeeper-2-2027",
-          "tmdb": 1440769,
-          "trakt": 1179070
-        },
-        "year": 2027,
-        "title": "The Beekeeper 2",
-        "votes": 5,
-        "colors": {
-          "poster": [
-            "#E6E6E6",
-            "#3A3528"
-          ]
-        },
-        "genres": [
-          "action",
-          "thriller",
-          "crime"
-        ],
-        "images": {
-          "logo": [],
-          "thumb": [],
-          "banner": [],
-          "fanart": [
-            "media.trakt.tv/images/movies/001/179/070/fanarts/medium/89046d70cc.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/movies/001/179/070/posters/medium/5aed97a609.jpg.webp"
-          ],
-          "clearart": []
-        },
-        "rating": 8,
-        "status": "post production",
-        "country": "gb",
-        "runtime": null,
-        "tagline": "",
-        "trailer": null,
-        "homepage": null,
-        "language": "en",
-        "overview": "The second installment in the franchise. Plot TBA.",
-        "released": "2027-01-15",
-        "languages": [
-          "en"
-        ],
-        "subgenres": [],
-        "updated_at": "2026-02-01T08:38:02.000Z",
-        "after_credits": false,
-        "certification": null,
-        "comment_count": 0,
-        "during_credits": false,
-        "original_title": "The Beekeeper 2",
-        "available_translations": [
-          "en",
-          "ko",
-          "ru"
-        ]
-      }
-    },
-    {
-      "rank": 7,
-      "id": 1174076320,
-      "listed_at": "2025-02-16T04:15:03.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt19850008",
-          "plex": {
-            "guid": "627b6fad4ff557b9d6566f44",
-            "slug": "the-batman-part-ii"
-          },
-          "slug": "untitled-the-batman-sequel-2027",
-          "tmdb": 806704,
-          "trakt": 640991
-        },
-        "year": 2027,
-        "title": "Untitled The Batman Sequel",
-        "votes": 23,
-        "colors": {
-          "poster": [
-            "#F20632",
-            "#030101"
-          ]
-        },
-        "genres": [
-          "crime",
-          "drama",
-          "superhero",
-          "mystery"
-        ],
-        "images": {
-          "logo": [
-            "media.trakt.tv/images/movies/000/640/991/logos/medium/4df08214b4.png.webp"
-          ],
-          "thumb": [],
-          "banner": [],
-          "fanart": [
-            "media.trakt.tv/images/movies/000/640/991/fanarts/medium/93fac9cf0d.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/movies/000/640/991/posters/medium/41c9a0d6a5.jpg.webp"
-          ],
-          "clearart": []
-        },
-        "rating": 7.5652174949646,
-        "status": "planned",
-        "country": "us",
-        "runtime": null,
-        "tagline": "",
-        "trailer": null,
-        "homepage": null,
-        "language": "en",
-        "overview": "Sequel to the 2022 film The Batman.",
-        "released": "2027-10-01",
-        "languages": [
-          "en"
-        ],
-        "subgenres": [
-          "based-on-comic",
-          "crime-fighter",
-          "masked-superhero",
-          "vigilante"
-        ],
-        "updated_at": "2026-02-19T08:28:15.000Z",
-        "after_credits": false,
-        "certification": null,
-        "comment_count": 0,
-        "during_credits": false,
-        "original_title": "Untitled The Batman Sequel",
-        "available_translations": [
-          "en",
-          "es",
-          "fr",
-          "ka",
-          "ko",
-          "pt",
-          "sv",
-          "uk",
-          "vi",
-          "zh"
-        ]
-      }
-    },
-    {
-      "rank": 11,
-      "id": 1285064667,
-      "listed_at": "2025-07-22T20:05:17.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt31378509",
-          "plex": {
-            "guid": "65d514b7e0e20b8c84ece2f6",
-            "slug": "dune-messiah-2026"
-          },
-          "slug": "dune-part-three-2026",
-          "tmdb": 1170608,
-          "trakt": 943606
-        },
-        "year": 2026,
-        "title": "Dune: Part Three",
-        "votes": 36,
-        "colors": {
-          "poster": [
-            "#9D4921",
-            "#5B3A5D"
-          ]
-        },
-        "genres": [
-          "science-fiction",
-          "adventure"
-        ],
-        "images": {
-          "logo": [],
-          "thumb": [],
-          "banner": [],
-          "fanart": [
-            "media.trakt.tv/images/movies/000/943/606/fanarts/medium/225e3e89a5.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/movies/000/943/606/posters/medium/54780292f6.jpg.webp"
-          ],
-          "clearart": []
-        },
-        "rating": 7.94444465637207,
-        "status": "post production",
-        "country": "us",
-        "runtime": null,
-        "tagline": "",
-        "trailer": null,
-        "homepage": null,
-        "language": "en",
-        "overview": "The third and final installment in Villeneuve's Dune trilogy. Based on Frank Herbert's novel Dune Messiah.",
-        "released": "2026-12-18",
-        "languages": [
-          "en"
-        ],
-        "subgenres": [],
-        "updated_at": "2026-02-19T08:28:16.000Z",
-        "after_credits": false,
-        "certification": null,
-        "comment_count": 2,
-        "during_credits": false,
-        "original_title": "Dune: Part Three",
-        "available_translations": [
-          "ar",
-          "bg",
-          "cs",
-          "de",
-          "en",
-          "es",
-          "et",
-          "fa",
-          "fi",
-          "fr",
-          "he",
-          "hu",
-          "ja",
-          "ka",
-          "ko",
-          "lo",
-          "lt",
-          "lv",
-          "pl",
-          "pt",
-          "ro",
-          "ru",
-          "sv",
-          "th",
-          "uk",
-          "vi",
-          "zh"
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "id": 1174076315,
-      "listed_at": "2025-02-16T04:14:54.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt5637536",
-          "plex": {
-            "guid": "5d776c3596b655001fe2989e",
-            "slug": "avatar-5"
-          },
-          "slug": "avatar-5-2031",
-          "tmdb": 393209,
-          "trakt": 235669
-        },
-        "year": 2031,
-        "title": "Avatar 5",
-        "votes": 53,
-        "colors": {
-          "poster": [
-            "#ADA4AF",
-            "#87276C"
-          ]
-        },
-        "genres": [
-          "adventure",
-          "science-fiction",
-          "fantasy"
-        ],
-        "images": {
-          "logo": [
-            "media.trakt.tv/images/movies/000/235/669/logos/medium/4a4b62ecff.png.webp"
-          ],
-          "thumb": [],
-          "banner": [],
-          "fanart": [
-            "media.trakt.tv/images/movies/000/235/669/fanarts/medium/2fa4a6e67c.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/movies/000/235/669/posters/medium/19ab3fb134.jpg.webp"
-          ],
-          "clearart": []
-        },
-        "rating": 6.226415157318115,
-        "status": "planned",
-        "country": "us",
-        "runtime": null,
-        "tagline": "",
-        "trailer": null,
-        "homepage": "https://www.avatar.com/movies",
-        "language": "en",
-        "overview": "The fifth installment of the franchise. Plot TBA.",
-        "released": "2031-12-19",
-        "languages": [
-          "en"
-        ],
-        "subgenres": [],
-        "updated_at": "2026-01-20T08:34:07.000Z",
-        "after_credits": false,
-        "certification": null,
-        "comment_count": 6,
-        "during_credits": false,
-        "original_title": "Avatar 5",
-        "available_translations": [
-          "bg",
-          "en",
-          "es",
-          "fr",
-          "he",
-          "ja",
-          "ka",
-          "ko",
-          "pt",
-          "ru",
-          "uk",
-          "zh"
-        ]
-      }
-    },
-    {
-      "rank": 6,
-      "id": 1174076317,
-      "listed_at": "2025-02-16T04:14:59.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt21357150",
-          "plex": {
-            "guid": "62deb8bf9576053a6b5c5ee7",
-            "slug": "avengers-doomsday"
-          },
-          "slug": "avengers-doomsday-2026",
-          "tmdb": 1003596,
-          "trakt": 806490
-        },
-        "year": 2026,
-        "title": "Avengers: Doomsday",
-        "votes": 61,
-        "colors": {
-          "poster": [
-            "#A4BF91",
-            "#172019"
-          ]
-        },
-        "genres": [
-          "science-fiction",
-          "superhero",
-          "action",
-          "adventure"
-        ],
-        "images": {
-          "logo": [
-            "media.trakt.tv/images/movies/000/806/490/logos/medium/1c077b6815.png.webp"
-          ],
-          "thumb": [
-            "media.trakt.tv/images/movies/000/806/490/thumbs/medium/9ffc704adb.jpg.webp"
-          ],
-          "banner": [],
-          "fanart": [
-            "media.trakt.tv/images/movies/000/806/490/fanarts/medium/af94d52c6e.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/movies/000/806/490/posters/medium/b8f5a22c56.jpg.webp"
-          ],
-          "clearart": []
-        },
-        "rating": 7.622951030731201,
-        "status": "post production",
-        "country": "us",
-        "runtime": null,
-        "tagline": "",
-        "trailer": null,
-        "homepage": "https://www.marvel.com/movies/avengers-doomsday",
-        "language": "en",
-        "overview": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
-        "released": "2026-12-18",
-        "languages": [
-          "en"
-        ],
-        "subgenres": [
-          "based-on-comic",
-          "marvel-cinematic-universe-mcu",
-          "superhero-team"
-        ],
-        "updated_at": "2026-02-18T08:33:17.000Z",
-        "after_credits": false,
-        "certification": null,
-        "comment_count": 6,
-        "during_credits": false,
-        "original_title": "Avengers: Doomsday",
-        "available_translations": [
-          "ar",
-          "bg",
-          "cs",
-          "en",
-          "es",
-          "fa",
-          "fr",
-          "he",
-          "hi",
-          "hr",
-          "hu",
-          "ja",
-          "ka",
-          "ko",
-          "ml",
-          "my",
-          "pt",
-          "ro",
-          "ru",
-          "th",
-          "tr",
-          "uk",
-          "vi",
-          "zh"
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "id": 1174076306,
-      "listed_at": "2025-02-16T04:14:44.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt3095356",
-          "plex": {
-            "guid": "5d776a4cad5437001f778f51",
-            "slug": "avatar-4"
-          },
-          "slug": "avatar-4-2029",
-          "tmdb": 216527,
-          "trakt": 133603
-        },
-        "year": 2029,
-        "title": "Avatar 4",
-        "votes": 89,
-        "colors": {
-          "poster": [
-            "#ADA4A8",
-            "#872841"
-          ]
-        },
-        "genres": [
-          "adventure",
-          "science-fiction",
-          "fantasy"
-        ],
-        "images": {
-          "logo": [
-            "media.trakt.tv/images/movies/000/133/603/logos/medium/d97cdb6ed4.png.webp"
-          ],
-          "thumb": [],
-          "banner": [],
-          "fanart": [
-            "media.trakt.tv/images/movies/000/133/603/fanarts/medium/0e6ca24c05.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/movies/000/133/603/posters/medium/2cf4fdc78f.jpg.webp"
-          ],
-          "clearart": []
-        },
-        "rating": 7,
-        "status": "planned",
-        "country": "us",
-        "runtime": null,
-        "tagline": "",
-        "trailer": null,
-        "homepage": "https://www.avatar.com/movies",
-        "language": "en",
-        "overview": "The fourth installment of the franchise. Plot TBA.",
-        "released": "2029-12-21",
-        "languages": [
-          "en"
-        ],
-        "subgenres": [],
-        "updated_at": "2026-02-10T08:57:37.000Z",
-        "after_credits": false,
-        "certification": null,
-        "comment_count": 4,
-        "during_credits": false,
-        "original_title": "Avatar 4",
-        "available_translations": [
-          "bg",
-          "en",
-          "es",
-          "fr",
-          "he",
-          "ja",
-          "ka",
-          "ko",
-          "pt",
-          "ru",
-          "uk",
-          "zh"
-        ]
-      }
-    },
-    {
-      "rank": 2,
-      "id": 1174075727,
-      "listed_at": "2025-02-16T04:11:19.000Z",
-      "notes": null,
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt13623126",
-          "plex": {
-            "guid": "6089894473a4d4002cf5baa0",
-            "slug": "ironheart"
-          },
-          "slug": "ironheart",
-          "tmdb": 114471,
-          "tvdb": 393204,
-          "trakt": 170565
-        },
-        "airs": {
-          "day": "Tuesday",
-          "time": "21:00",
-          "timezone": "America/New_York"
-        },
-        "year": 2025,
-        "title": "Ironheart",
-        "votes": 2720,
-        "colors": {
-          "poster": [
-            "#B8AA8F",
-            "#1B1921"
-          ]
-        },
-        "genres": [
-          "fantasy",
-          "science-fiction",
-          "crime",
-          "action",
-          "adventure"
-        ],
-        "images": {
-          "logo": [
-            "media.trakt.tv/images/shows/000/170/565/logos/medium/6739a141f8.png.webp"
-          ],
-          "thumb": [
-            "media.trakt.tv/images/shows/000/170/565/thumbs/medium/5b09068c93.jpg.webp"
-          ],
-          "banner": [
-            "media.trakt.tv/images/shows/000/170/565/banners/medium/76b4dee446.jpg.webp"
-          ],
-          "fanart": [
-            "media.trakt.tv/images/shows/000/170/565/fanarts/medium/9c5eaaadb7.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/shows/000/170/565/posters/medium/e52558ea00.jpg.webp"
-          ],
-          "clearart": []
-        },
-        "rating": 5.827573299407959,
-        "status": "ended",
-        "country": "us",
-        "network": "Disney+",
-        "runtime": 51,
-        "tagline": "Every dream has a cost.",
-        "trailer": "https://youtube.com/watch?v=r6j-wSIqJJ0",
-        "homepage": "https://www.disneyplus.com/browse/entity-b2b50b9a-a055-4b31-a609-8ec46f3add98",
-        "language": "en",
-        "overview": "After the events of Black Panther: Wakanda Forever, technology is pitted against magic when Riri Williams, a young, genius inventor determined to make her mark on the world, returns to her hometown of Chicago. Her unique take on building iron suits is brilliant, but in pursuit of her ambitions, she finds herself wrapped up with the mysterious yet charming Parker Robbins aka \"The Hood.\"",
-        "languages": [
-          "en"
-        ],
-        "subgenres": [
-          "spin-off",
-          "based-on-comic",
-          "marvel-cinematic-universe-mcu"
-        ],
-        "updated_at": "2026-02-19T15:23:51.000Z",
-        "first_aired": "2025-06-25T01:00:00.000Z",
-        "certification": "TV-14",
-        "comment_count": 71,
-        "aired_episodes": 6,
-        "original_title": "Ironheart",
-        "available_translations": [
-          "ar",
-          "bg",
-          "ca",
-          "cs",
-          "da",
-          "de",
-          "el",
-          "en",
-          "es",
-          "fa",
-          "fi",
-          "fr",
-          "he",
-          "hu",
-          "it",
-          "ja",
-          "ka",
-          "ko",
-          "lt",
-          "nl",
-          "no",
-          "pl",
-          "pt",
-          "ro",
-          "ru",
-          "sk",
-          "sv",
-          "th",
-          "tr",
-          "uk",
-          "vi",
-          "zh"
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "id": 1174076303,
-      "listed_at": "2025-02-16T04:14:41.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt1757678",
-          "plex": {
-            "guid": "5d7768cc9ab54400214eba10",
-            "slug": "avatar-fire-and-ash"
-          },
-          "slug": "avatar-fire-and-ash-2025",
-          "tmdb": 83533,
-          "trakt": 62544
-        },
-        "year": 2025,
-        "title": "Avatar: Fire and Ash",
-        "votes": 5161,
-        "colors": {
-          "poster": [
-            "#CC997A",
-            "#3C3037"
-          ]
-        },
-        "genres": [
-          "adventure",
-          "science-fiction",
-          "fantasy"
-        ],
-        "images": {
-          "logo": [
-            "media.trakt.tv/images/movies/000/062/544/logos/medium/6879bb24fb.png.webp"
-          ],
-          "thumb": [
-            "media.trakt.tv/images/movies/000/062/544/thumbs/medium/99ca224626.jpg.webp"
-          ],
-          "banner": [
-            "media.trakt.tv/images/movies/000/062/544/banners/medium/e062315426.jpg.webp"
-          ],
-          "fanart": [
-            "media.trakt.tv/images/movies/000/062/544/fanarts/medium/d5e410a965.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/movies/000/062/544/posters/medium/53ba7ba809.jpg.webp"
-          ],
-          "clearart": [
-            "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
-          ]
-        },
-        "rating": 7.545243263244629,
-        "status": "released",
-        "country": "us",
-        "runtime": 198,
-        "tagline": "The world of Pandora will change forever.",
-        "trailer": "https://youtube.com/watch?v=Ma1x7ikpid8",
-        "homepage": "https://www.avatar.com/movies/avatar-fire-and-ash",
-        "language": "en",
-        "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-        "released": "2025-12-19",
-        "languages": [
-          "en"
-        ],
-        "subgenres": [
-          "amused",
-          "witch",
-          "alien"
-        ],
-        "updated_at": "2026-02-19T08:35:26.000Z",
-        "after_credits": false,
-        "certification": "PG-13",
-        "comment_count": 125,
-        "during_credits": false,
-        "original_title": "Avatar: Fire and Ash",
-        "available_translations": [
-          "ar",
-          "az",
-          "bg",
-          "ca",
-          "cs",
-          "da",
-          "de",
-          "el",
-          "en",
-          "es",
-          "et",
-          "fa",
-          "fr",
-          "he",
-          "hi",
-          "hr",
-          "hu",
-          "it",
-          "ja",
-          "ka",
-          "kn",
-          "ko",
-          "lt",
-          "lv",
-          "ml",
-          "nl",
-          "no",
-          "pl",
-          "pt",
-          "ro",
-          "ru",
-          "sk",
-          "sl",
-          "sr",
-          "sv",
-          "ta",
-          "te",
-          "th",
-          "tr",
-          "uk",
-          "vi",
           "zh"
         ]
       }
