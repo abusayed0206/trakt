@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-21T06:04:13.734629+00:00",
+    "fetched_at": "2026-02-22T06:10:18.201012+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5179,
+        "votes": 5204,
         "colors": {
           "poster": [
             "#CC997A",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.545279026031494,
+        "rating": 7.544580936431885,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -76,10 +76,10 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-02-20T08:29:49.000Z",
+        "updated_at": "2026-02-21T08:30:47.000Z",
         "after_credits": false,
         "certification": "PG-13",
-        "comment_count": 126,
+        "comment_count": 127,
         "during_credits": false,
         "original_title": "Avatar: Fire and Ash",
         "available_translations": [
@@ -203,7 +203,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-20T11:22:20.000Z",
+        "updated_at": "2026-02-21T11:48:14.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -563,7 +563,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-02-20T08:36:03.000Z",
+        "updated_at": "2026-02-21T08:32:09.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 2,
@@ -665,7 +665,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-02-20T08:34:18.000Z",
+        "updated_at": "2026-02-21T08:30:13.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
