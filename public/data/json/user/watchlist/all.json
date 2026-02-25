@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-24T06:37:05.494442+00:00",
+    "fetched_at": "2026-02-25T06:41:15.789999+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
@@ -8,37 +8,205 @@
   },
   "data": [
     {
-      "rank": 1,
+      "rank": 2,
       "id": 1202044564,
       "listed_at": "2025-03-25T18:35:34.000Z",
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Zindagi Na Milegi Dobara",
-        "year": 2011,
         "ids": {
-          "trakt": 43899,
-          "slug": "zindagi-na-milegi-dobara-2011",
           "imdb": "tt1562872",
-          "tmdb": 61202
-        }
+          "plex": {
+            "guid": "5d7768a10ea56a001e2a811c",
+            "slug": "zindagi-na-milegi-dobara"
+          },
+          "slug": "zindagi-na-milegi-dobara-2011",
+          "tmdb": 61202,
+          "trakt": 43899
+        },
+        "year": 2011,
+        "title": "Zindagi Na Milegi Dobara",
+        "votes": 1161,
+        "colors": {
+          "poster": [
+            "#C5B79C",
+            "#413B33"
+          ]
+        },
+        "genres": [
+          "comedy",
+          "drama",
+          "romance"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/043/899/logos/medium/fcb67dd8d9.png.webp"
+          ],
+          "thumb": [],
+          "banner": [],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/043/899/fanarts/medium/e0f86ea669.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/043/899/posters/medium/b1d4b948c3.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/043/899/cleararts/medium/8d90c4806a.png.webp"
+          ]
+        },
+        "rating": 8.083548545837402,
+        "status": "released",
+        "country": "in",
+        "runtime": 154,
+        "tagline": "Lets Make This The Most Memorable Road Trip Ever",
+        "trailer": "https://youtube.com/watch?v=FJrpcDgC3zU",
+        "homepage": null,
+        "language": "hi",
+        "overview": "Three friends who were inseparable in childhood decide to go on a three-week-long bachelor road trip to Spain, in order to re-establish their bond and explore thrilling adventures, before one of them gets married. What will they learn of themselves and each other during the adventure?",
+        "released": "2011-07-15",
+        "languages": [
+          "hi"
+        ],
+        "subgenres": [
+          "friendship",
+          "travel",
+          "cheating",
+          "vacation",
+          "childhood-friends"
+        ],
+        "updated_at": "2026-02-24T17:34:16.000Z",
+        "after_credits": false,
+        "certification": null,
+        "comment_count": 5,
+        "during_credits": false,
+        "original_title": "ज़िन्दगी ना मिलेगी दोबारा",
+        "available_translations": [
+          "bg",
+          "cs",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fr",
+          "he",
+          "hu",
+          "it",
+          "ka",
+          "ko",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "th",
+          "tr",
+          "zh"
+        ]
       }
     },
     {
-      "rank": 2,
+      "rank": 1,
       "id": 1278771354,
       "listed_at": "2025-07-15T15:09:18.000Z",
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Ong-Bak",
-        "year": 2003,
         "ids": {
-          "trakt": 4614,
-          "slug": "ong-bak-2003",
           "imdb": "tt0368909",
-          "tmdb": 9316
-        }
+          "plex": {
+            "guid": "5d7768334de0ee001fccaf84",
+            "slug": "ong-bak-the-thai-warrior"
+          },
+          "slug": "ong-bak-2003",
+          "tmdb": 9316,
+          "trakt": 4614
+        },
+        "year": 2003,
+        "title": "Ong-Bak",
+        "votes": 2654,
+        "colors": {
+          "poster": [
+            "#C78E46",
+            "#3C2110"
+          ]
+        },
+        "genres": [
+          "action",
+          "crime"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/004/614/logos/medium/22ce42c942.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/004/614/thumbs/medium/295b6101d7.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/004/614/banners/medium/7f74ab1f62.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/004/614/fanarts/medium/019d0d7102.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/004/614/posters/medium/00e51674ce.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/004/614/cleararts/medium/b15a72c6a9.png.webp"
+          ]
+        },
+        "rating": 7.357950210571289,
+        "status": "released",
+        "country": "th",
+        "runtime": 105,
+        "tagline": "No computer graphics. No stunt doubles. No wires.",
+        "trailer": "https://youtube.com/watch?v=nTBm1FGTBps",
+        "homepage": null,
+        "language": "th",
+        "overview": "When the head of a statue sacred to a village is stolen, a young martial artist goes to the big city and finds himself taking on the underworld to retrieve it.",
+        "released": "2003-01-31",
+        "languages": [
+          "en",
+          "th"
+        ],
+        "subgenres": [
+          "martial-arts"
+        ],
+        "updated_at": "2026-02-24T17:28:15.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 6,
+        "during_credits": false,
+        "original_title": "องค์บาก",
+        "available_translations": [
+          "bg",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fa",
+          "fr",
+          "he",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ko",
+          "lt",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -48,82 +216,496 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Ong Bak 2",
-        "year": 2008,
         "ids": {
-          "trakt": 10067,
-          "slug": "ong-bak-2-2008",
           "imdb": "tt0785035",
-          "tmdb": 16353
-        }
+          "plex": {
+            "guid": "5d9f3524dfd12800208a03a3",
+            "slug": "ong-bak-2"
+          },
+          "slug": "ong-bak-2-2008",
+          "tmdb": 16353,
+          "trakt": 10067
+        },
+        "year": 2008,
+        "title": "Ong Bak 2",
+        "votes": 1130,
+        "colors": {
+          "poster": [
+            "#CCCAC6",
+            "#282F34"
+          ]
+        },
+        "genres": [
+          "action",
+          "adventure",
+          "thriller"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/010/067/logos/medium/716f79307b.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/010/067/thumbs/medium/389d9c130c.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/010/067/banners/medium/3894992c33.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/010/067/fanarts/medium/60ae6a42e6.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/010/067/posters/medium/c08d550910.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 6.644248008728027,
+        "status": "released",
+        "country": "th",
+        "runtime": 98,
+        "tagline": "Warrior. Conqueror. Legend.",
+        "trailer": "https://youtube.com/watch?v=Bx08Cumv-wc",
+        "homepage": "https://www.ongbak2themovie.com/",
+        "language": "th",
+        "overview": "Tien, the son of Lord Sihadecho — a murdered nobleman — is taken under the wing of Chernang, a renowned warrior and leader of the Pha Beek Krut.",
+        "released": "2008-12-04",
+        "languages": [
+          "th"
+        ],
+        "subgenres": [
+          "martial-arts",
+          "revenge"
+        ],
+        "updated_at": "2026-02-24T16:50:19.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 0,
+        "during_credits": false,
+        "original_title": "องค์บาก 2",
+        "available_translations": [
+          "bg",
+          "ca",
+          "cs",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fa",
+          "fr",
+          "he",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ko",
+          "lt",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sv",
+          "th",
+          "tr",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
       "rank": 4,
-      "id": 1186968821,
-      "listed_at": "2025-03-06T12:28:17.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "title": "Bhaje Vaayu Vegam",
-        "year": 2024,
-        "ids": {
-          "trakt": 773651,
-          "slug": "bhaje-vaayu-vegam-2024",
-          "imdb": "tt32118013",
-          "tmdb": 962108
-        }
-      }
-    },
-    {
-      "rank": 5,
       "id": 1217854846,
       "listed_at": "2025-05-01T18:10:36.000Z",
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Eternal Sunshine of the Spotless Mind",
-        "year": 2004,
         "ids": {
-          "trakt": 29,
-          "slug": "eternal-sunshine-of-the-spotless-mind-2004",
           "imdb": "tt0338013",
-          "tmdb": 38
-        }
+          "plex": {
+            "guid": "5d776824880197001ec901aa",
+            "slug": "eternal-sunshine-of-the-spotless-mind"
+          },
+          "slug": "eternal-sunshine-of-the-spotless-mind-2004",
+          "tmdb": 38,
+          "trakt": 29
+        },
+        "year": 2004,
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "votes": 28512,
+        "colors": {
+          "poster": [
+            "#D6DCE4",
+            "#384753"
+          ]
+        },
+        "genres": [
+          "drama",
+          "science-fiction",
+          "romance"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/000/029/logos/medium/807d601bc0.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/000/029/thumbs/medium/68435acc03.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/000/029/banners/medium/74a5154ed3.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/000/029/fanarts/medium/be374fc685.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/000/029/posters/medium/c08837549d.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/000/029/cleararts/medium/038c09dbb8.png.webp"
+          ]
+        },
+        "rating": 8.202441215515137,
+        "status": "released",
+        "country": "us",
+        "runtime": 108,
+        "tagline": "You can erase someone from your mind. Getting them out of your heart is another story.",
+        "trailer": "https://youtube.com/watch?v=c2e-bj6qy8Y",
+        "homepage": "https://www.focusfeatures.com/eternal_sunshine_of_the_spotless_mind",
+        "language": "en",
+        "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+        "released": "2004-03-19",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "jealousy",
+          "love",
+          "dreams",
+          "psychological-drama",
+          "heartbreak",
+          "relationship",
+          "amnesia",
+          "memory"
+        ],
+        "updated_at": "2026-02-24T17:19:23.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 91,
+        "during_credits": false,
+        "original_title": "Eternal Sunshine of the Spotless Mind",
+        "available_translations": [
+          "ar",
+          "be",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ko",
+          "lt",
+          "lv",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": 1262325571,
       "listed_at": "2025-06-26T08:19:18.000Z",
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "The Killer's Game",
-        "year": 2024,
         "ids": {
-          "trakt": 354420,
-          "slug": "the-killer-s-game-2024",
           "imdb": "tt0327785",
-          "tmdb": 507241
-        }
+          "plex": {
+            "guid": "5d77706931d95e001f1a0ce3",
+            "slug": "the-killers-game"
+          },
+          "slug": "the-killer-s-game-2024",
+          "tmdb": 507241,
+          "trakt": 354420
+        },
+        "year": 2024,
+        "title": "The Killer's Game",
+        "votes": 2913,
+        "colors": {
+          "poster": [
+            "#CF0F0B",
+            "#9D6521"
+          ]
+        },
+        "genres": [
+          "action",
+          "comedy",
+          "thriller"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/354/420/logos/medium/2c21dd82bb.png.webp"
+          ],
+          "thumb": [],
+          "banner": [],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/354/420/fanarts/medium/2161471b7e.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/354/420/posters/medium/5e0df6f829.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 6.609680652618408,
+        "status": "released",
+        "country": "us",
+        "runtime": 104,
+        "tagline": "Winning is all in the execution.",
+        "trailer": "https://youtube.com/watch?v=reQVL41DRmM",
+        "homepage": "https://www.thekillersgame.movie/",
+        "language": "en",
+        "overview": "When top hitman Joe Flood is diagnosed with a terminal illness, he decides to take matters into his own hands – by taking a hit out on himself. But when the very hitmen he hired also target his ex-girlfriend, he must fend off an army of assassin colleagues and win back the love of his life before it's too late.",
+        "released": "2024-09-13",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "hitman"
+        ],
+        "updated_at": "2026-02-24T17:52:26.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 40,
+        "during_credits": false,
+        "original_title": "The Killer's Game",
+        "available_translations": [
+          "ar",
+          "bg",
+          "ca",
+          "cs",
+          "de",
+          "en",
+          "es",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hr",
+          "hu",
+          "id",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sl",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": 1278771459,
       "listed_at": "2025-07-15T15:09:27.000Z",
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Ong Bak 3",
-        "year": 2010,
         "ids": {
-          "trakt": 29007,
-          "slug": "ong-bak-3-2010",
           "imdb": "tt1653690",
-          "tmdb": 43209
-        }
+          "plex": {
+            "guid": "5e397c06f2b1d9003feca857",
+            "slug": "ong-bak-3"
+          },
+          "slug": "ong-bak-3-2010",
+          "tmdb": 43209,
+          "trakt": 29007
+        },
+        "year": 2010,
+        "title": "Ong Bak 3",
+        "votes": 762,
+        "colors": {
+          "poster": [
+            "#BAC1B3",
+            "#292D2B"
+          ]
+        },
+        "genres": [
+          "action",
+          "adventure",
+          "history"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/029/007/logos/medium/e46640a3cb.png.webp"
+          ],
+          "thumb": [],
+          "banner": [
+            "media.trakt.tv/images/movies/000/029/007/banners/medium/e7de953505.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/029/007/fanarts/medium/5ff03ca7b9.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/029/007/posters/medium/66c8c2f9e4.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 6.200787544250488,
+        "status": "released",
+        "country": "th",
+        "runtime": 95,
+        "tagline": "The biggest fight of all is with himself.",
+        "trailer": "https://youtube.com/watch?v=beFriW40eho",
+        "homepage": "https://ongbak3film.com/",
+        "language": "th",
+        "overview": "Tien is captured and almost beaten to death before he is saved and brought back to the Kana Khone villagers. There he is taught meditation and how to deal with his Karma, but very soon his arch rival returns challenging Tien for a final duel.",
+        "released": "2010-05-05",
+        "languages": [
+          "it",
+          "th",
+          "zh"
+        ],
+        "subgenres": [
+          "martial-arts"
+        ],
+        "updated_at": "2026-02-24T17:21:11.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 2,
+        "during_credits": true,
+        "original_title": "องค์บาก 3",
+        "available_translations": [
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fa",
+          "fr",
+          "he",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ko",
+          "lt",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sv",
+          "th",
+          "tr",
+          "vi",
+          "zh"
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "id": 1186968821,
+      "listed_at": "2025-03-06T12:28:17.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt32118013",
+          "plex": {
+            "guid": "661efd526902ce206b735135",
+            "slug": "bhaje-vaayu-vegam"
+          },
+          "slug": "bhaje-vaayu-vegam-2024",
+          "tmdb": 962108,
+          "trakt": 773651
+        },
+        "year": 2024,
+        "title": "Bhaje Vaayu Vegam",
+        "votes": 31,
+        "colors": {
+          "poster": [
+            "#BB8C53",
+            "#3F1C0B"
+          ]
+        },
+        "genres": [
+          "action",
+          "drama"
+        ],
+        "images": {
+          "logo": [],
+          "thumb": [],
+          "banner": [],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/773/651/fanarts/medium/ef6821d731.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/773/651/posters/medium/c3b332df93.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 5.4193549156188965,
+        "status": "released",
+        "country": "in",
+        "runtime": 134,
+        "tagline": "",
+        "trailer": null,
+        "homepage": null,
+        "language": "te",
+        "overview": "Two brothers from village move to city to pursue their dreams, but situations land them in trouble as they inadvertently tangle with dangerous local kingpin, while desperately seeking the money to pay for their father’s life-saving surgery.",
+        "released": "2024-05-31",
+        "languages": [
+          "te"
+        ],
+        "subgenres": [],
+        "updated_at": "2026-02-21T16:39:15.000Z",
+        "after_credits": false,
+        "certification": null,
+        "comment_count": 0,
+        "during_credits": false,
+        "original_title": "భజే వాయు వేగం",
+        "available_translations": [
+          "en",
+          "pt",
+          "te",
+          "th",
+          "zh"
+        ]
       }
     },
     {
@@ -133,14 +715,121 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Final Destination Bloodlines",
-        "year": 2025,
         "ids": {
-          "trakt": 425097,
-          "slug": "final-destination-bloodlines-2025",
           "imdb": "tt9619824",
-          "tmdb": 574475
-        }
+          "plex": {
+            "guid": "5d7770b26afb3d002061fe13",
+            "slug": "final-destination-bloodlines"
+          },
+          "slug": "final-destination-bloodlines-2025",
+          "tmdb": 574475,
+          "trakt": 425097
+        },
+        "year": 2025,
+        "title": "Final Destination Bloodlines",
+        "votes": 11748,
+        "colors": {
+          "poster": [
+            "#D19560",
+            "#41241B"
+          ]
+        },
+        "genres": [
+          "horror",
+          "mystery"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/425/097/logos/medium/c10ae4601b.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/425/097/thumbs/medium/2ac2171d52.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/425/097/banners/medium/8f1894bcab.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/425/097/fanarts/medium/ff55e5087e.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/425/097/posters/medium/045dbd009c.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/425/097/cleararts/medium/8022b7920d.png.webp"
+          ]
+        },
+        "rating": 6.990381240844727,
+        "status": "released",
+        "country": "us",
+        "runtime": 110,
+        "tagline": "Death runs in the family.",
+        "trailer": "https://youtube.com/watch?v=xitSoRbHJ50",
+        "homepage": "https://www.finaldestinationmovie.com",
+        "language": "en",
+        "overview": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+        "released": "2025-05-16",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "death",
+          "1960s",
+          "paranoid",
+          "gore",
+          "supernatural-horror",
+          "callous",
+          "mocking",
+          "restaurant",
+          "taunting"
+        ],
+        "updated_at": "2026-02-24T17:53:26.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 154,
+        "during_credits": false,
+        "original_title": "Final Destination Bloodlines",
+        "available_translations": [
+          "ar",
+          "az",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "ta",
+          "te",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -150,14 +839,92 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Dragon",
-        "year": 2011,
         "ids": {
-          "trakt": 51251,
-          "slug": "dragon-2011",
           "imdb": "tt1718199",
-          "tmdb": 70057
-        }
+          "plex": {
+            "guid": "5d7768afad5437001f74d0a9",
+            "slug": "dragon-2011"
+          },
+          "slug": "dragon-2011",
+          "tmdb": 70057,
+          "trakt": 51251
+        },
+        "year": 2011,
+        "title": "Dragon",
+        "votes": 557,
+        "colors": {
+          "poster": [
+            "#BD3A2A",
+            "#220403"
+          ]
+        },
+        "genres": [
+          "action",
+          "drama",
+          "thriller"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/051/251/logos/medium/bf449695e9.png.webp"
+          ],
+          "thumb": [],
+          "banner": [
+            "media.trakt.tv/images/movies/000/051/251/banners/medium/0de16b08f4.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/051/251/fanarts/medium/28febcb18d.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/051/251/posters/medium/313e579730.jpg.webp"
+          ],
+          "clearart": []
+        },
+        "rating": 7.129263877868652,
+        "status": "released",
+        "country": "cn",
+        "runtime": 115,
+        "tagline": "Blood Always Leaves a Trail.",
+        "trailer": "https://youtube.com/watch?v=fe6xIOCbcR8",
+        "homepage": null,
+        "language": "zh",
+        "overview": "A sinful martial arts expert wants to start a new tranquil life, only to be hunted by a determined detective and his former master.",
+        "released": "2011-07-04",
+        "languages": [
+          "zh"
+        ],
+        "subgenres": [],
+        "updated_at": "2026-02-24T17:32:03.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 2,
+        "during_credits": false,
+        "original_title": "武俠",
+        "available_translations": [
+          "ar",
+          "bg",
+          "ca",
+          "cs",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fr",
+          "he",
+          "hu",
+          "it",
+          "ja",
+          "ko",
+          "nl",
+          "pl",
+          "pt",
+          "ru",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -167,14 +934,114 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Final Destination 3",
-        "year": 2006,
         "ids": {
-          "trakt": 4586,
-          "slug": "final-destination-3-2006",
           "imdb": "tt0414982",
-          "tmdb": 9286
-        }
+          "plex": {
+            "guid": "5d77683285719b001f3a31e0",
+            "slug": "final-destination-3"
+          },
+          "slug": "final-destination-3-2006",
+          "tmdb": 9286,
+          "trakt": 4586
+        },
+        "year": 2006,
+        "title": "Final Destination 3",
+        "votes": 9092,
+        "colors": {
+          "poster": [
+            "#B0C9D8",
+            "#121628"
+          ]
+        },
+        "genres": [
+          "horror",
+          "mystery"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/004/586/logos/medium/0974c583b7.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/004/586/thumbs/medium/444b9acf46.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/004/586/banners/medium/5be55dd06f.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/004/586/fanarts/medium/d4dd1f6610.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/004/586/posters/medium/5c3fcb334a.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/004/586/cleararts/medium/d659617ada.png.webp"
+          ]
+        },
+        "rating": 6.338649272918701,
+        "status": "released",
+        "country": "us",
+        "runtime": 92,
+        "tagline": "This ride will be the death of you.",
+        "trailer": "https://youtube.com/watch?v=ectjqGg92M8",
+        "homepage": null,
+        "language": "en",
+        "overview": "High school senior Wendy's premonition of a deadly rollercoaster ride saves her life and a lucky few, but not from death itself — which seeks out those who escaped their fate.",
+        "released": "2006-02-10",
+        "languages": [
+          "en",
+          "ru"
+        ],
+        "subgenres": [
+          "death",
+          "suspenseful",
+          "supernatural-horror"
+        ],
+        "updated_at": "2026-02-24T16:41:38.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 42,
+        "during_credits": false,
+        "original_title": "Final Destination 3",
+        "available_translations": [
+          "ar",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -184,14 +1051,113 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "The Final Destination",
-        "year": 2009,
         "ids": {
-          "trakt": 12223,
-          "slug": "the-final-destination-2009",
           "imdb": "tt1144884",
-          "tmdb": 19912
-        }
+          "plex": {
+            "guid": "5d7768446f4521001ea9f178",
+            "slug": "the-final-destination"
+          },
+          "slug": "the-final-destination-2009",
+          "tmdb": 19912,
+          "trakt": 12223
+        },
+        "year": 2009,
+        "title": "The Final Destination",
+        "votes": 7809,
+        "colors": {
+          "poster": [
+            "#A0C0C3",
+            "#0B1721"
+          ]
+        },
+        "genres": [
+          "horror",
+          "mystery"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/012/223/logos/medium/938ad7b5a8.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/012/223/thumbs/medium/efce240e32.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/012/223/banners/medium/ccc1c2d59b.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/012/223/fanarts/medium/21096c71c2.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/012/223/posters/medium/001a3cd25d.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/012/223/cleararts/medium/bd466fa889.png.webp"
+          ]
+        },
+        "rating": 5.743628978729248,
+        "status": "released",
+        "country": "us",
+        "runtime": 82,
+        "tagline": "Rest in pieces.",
+        "trailer": "https://youtube.com/watch?v=I3s-Ca73utM",
+        "homepage": "https://www.TheFinalDestinationMovie.com/",
+        "language": "en",
+        "overview": "A horrifying premonition saves a young man and his friends from death during a racetrack accident but terrible fates await them nonetheless.",
+        "released": "2009-08-28",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "death",
+          "gore",
+          "supernatural-horror"
+        ],
+        "updated_at": "2026-02-24T17:27:45.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 51,
+        "during_credits": false,
+        "original_title": "The Final Destination",
+        "available_translations": [
+          "ar",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -201,14 +1167,113 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Final Destination 5",
-        "year": 2011,
         "ids": {
-          "trakt": 39712,
-          "slug": "final-destination-5-2011",
           "imdb": "tt1622979",
-          "tmdb": 55779
-        }
+          "plex": {
+            "guid": "5d776898d11dd300202284a5",
+            "slug": "final-destination-5"
+          },
+          "slug": "final-destination-5-2011",
+          "tmdb": 55779,
+          "trakt": 39712
+        },
+        "year": 2011,
+        "title": "Final Destination 5",
+        "votes": 8027,
+        "colors": {
+          "poster": [
+            "#AABDC3",
+            "#0A0C0C"
+          ]
+        },
+        "genres": [
+          "horror",
+          "mystery"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/039/712/logos/medium/9b367c0ccb.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/039/712/thumbs/medium/3937439f30.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/039/712/banners/medium/7b9767b8c6.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/039/712/fanarts/medium/5c79dc0d17.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/039/712/posters/medium/3f7de6f23c.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/039/712/cleararts/medium/a3ac278fca.png.webp"
+          ]
+        },
+        "rating": 6.327394962310791,
+        "status": "released",
+        "country": "us",
+        "runtime": 91,
+        "tagline": "Death has never been closer.",
+        "trailer": "https://youtube.com/watch?v=24abND3yDq0",
+        "homepage": "https://finaldestinationmovie.warnerbros.com/index.html",
+        "language": "en",
+        "overview": "Death is just as omnipresent as ever, and is unleashed after one man’s premonition saves a group of coworkers from a terrifying suspension bridge collapse. But this group of unsuspecting souls was never supposed to survive, and, in a terrifying race against time, the ill-fated group frantically tries to discover a way to escape Death’s sinister agenda.",
+        "released": "2011-08-12",
+        "languages": [
+          "en",
+          "zh"
+        ],
+        "subgenres": [
+          "death",
+          "supernatural-horror"
+        ],
+        "updated_at": "2026-02-24T17:32:52.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 50,
+        "during_credits": true,
+        "original_title": "Final Destination 5",
+        "available_translations": [
+          "ar",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -218,14 +1283,113 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "M3GAN 2.0",
-        "year": 2025,
         "ids": {
-          "trakt": 861568,
-          "slug": "m3gan-2-0-2025",
           "imdb": "tt26342662",
-          "tmdb": 1071585
-        }
+          "plex": {
+            "guid": "63bc25bf8bef97055b4015d9",
+            "slug": "m3gan-2-0"
+          },
+          "slug": "m3gan-2-0-2025",
+          "tmdb": 1071585,
+          "trakt": 861568
+        },
+        "year": 2025,
+        "title": "M3GAN 2.0",
+        "votes": 5877,
+        "colors": {
+          "poster": [
+            "#A17F8E",
+            "#37202C"
+          ]
+        },
+        "genres": [
+          "science-fiction",
+          "action",
+          "thriller"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/861/568/logos/medium/40625e746b.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/861/568/thumbs/medium/22e8844128.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/861/568/banners/medium/8581636992.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/861/568/fanarts/medium/b7dc8189a5.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/861/568/posters/medium/bd1fd10ee3.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/861/568/cleararts/medium/e5ead4b780.png.webp"
+          ]
+        },
+        "rating": 6.697804927825928,
+        "status": "released",
+        "country": "us",
+        "runtime": 120,
+        "tagline": "Miss me?",
+        "trailer": "https://youtube.com/watch?v=1FeiTZMtwLA",
+        "homepage": "https://www.m3ganmovie.com",
+        "language": "en",
+        "overview": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
+        "released": "2025-06-27",
+        "languages": [
+          "en",
+          "nl"
+        ],
+        "subgenres": [
+          "fight",
+          "robot",
+          "artificial-intelligence-a-i",
+          "satirical",
+          "android"
+        ],
+        "updated_at": "2026-02-24T17:52:04.000Z",
+        "after_credits": false,
+        "certification": "PG-13",
+        "comment_count": 94,
+        "during_credits": false,
+        "original_title": "M3GAN 2.0",
+        "available_translations": [
+          "ar",
+          "az",
+          "bg",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sl",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -235,14 +1399,109 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Polar",
-        "year": 2019,
         "ids": {
-          "trakt": 331027,
-          "slug": "polar-2019",
           "imdb": "tt4139588",
-          "tmdb": 483906
-        }
+          "plex": {
+            "guid": "5d776efc51dd69001fe51059",
+            "slug": "polar-2019"
+          },
+          "slug": "polar-2019",
+          "tmdb": 483906,
+          "trakt": 331027
+        },
+        "year": 2019,
+        "title": "Polar",
+        "votes": 6884,
+        "colors": {
+          "poster": [
+            "#B98FB6",
+            "#26173B"
+          ]
+        },
+        "genres": [
+          "action",
+          "crime",
+          "drama"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/331/027/logos/medium/0c8cb75afe.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/331/027/thumbs/medium/04a534d850.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/331/027/banners/medium/7047ce482d.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/331/027/fanarts/medium/6592a50018.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/331/027/posters/medium/443d841496.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/331/027/cleararts/medium/037f7ebdd2.png.webp"
+          ]
+        },
+        "rating": 6.655287742614746,
+        "status": "released",
+        "country": "us",
+        "runtime": 118,
+        "tagline": "If the job doesn't kill you, retirement will.",
+        "trailer": "https://youtube.com/watch?v=oMHwRal-AR8",
+        "homepage": "https://www.netflix.com/title/80223052",
+        "language": "en",
+        "overview": "When a retiring assassin realizes that he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.",
+        "released": "2019-01-25",
+        "languages": [
+          "en",
+          "ru"
+        ],
+        "subgenres": [
+          "amused",
+          "assassin",
+          "hitman",
+          "neo-noir",
+          "based-on-graphic-novel"
+        ],
+        "updated_at": "2026-02-24T17:45:20.000Z",
+        "after_credits": false,
+        "certification": "NC-17",
+        "comment_count": 76,
+        "during_credits": false,
+        "original_title": "Polar",
+        "available_translations": [
+          "ar",
+          "bg",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -252,14 +1511,123 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "I Am Legend",
-        "year": 2007,
         "ids": {
-          "trakt": 3642,
-          "slug": "i-am-legend-2007",
           "imdb": "tt0480249",
-          "tmdb": 6479
-        }
+          "plex": {
+            "guid": "5d7768302ec6b5001f6bb366",
+            "slug": "i-am-legend"
+          },
+          "slug": "i-am-legend-2007",
+          "tmdb": 6479,
+          "trakt": 3642
+        },
+        "year": 2007,
+        "title": "I Am Legend",
+        "votes": 30420,
+        "colors": {
+          "poster": [
+            "#C09C67",
+            "#2E1F12"
+          ]
+        },
+        "genres": [
+          "drama",
+          "science-fiction",
+          "thriller"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/003/642/logos/medium/cb72179e6f.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/003/642/thumbs/medium/fdc0950484.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/003/642/banners/medium/c4dc9009b3.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/003/642/fanarts/medium/4827dd7feb.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/003/642/posters/medium/bb5cc5558d.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/003/642/cleararts/medium/75c13e4b44.png.webp"
+          ]
+        },
+        "rating": 7.4291911125183105,
+        "status": "released",
+        "country": "us",
+        "runtime": 101,
+        "tagline": "The last man on Earth is not alone",
+        "trailer": "https://youtube.com/watch?v=4uDU6SUpr8k",
+        "homepage": "https://iamlegend.warnerbros.com",
+        "language": "en",
+        "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
+        "released": "2007-12-14",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "dystopia",
+          "zombie",
+          "post-apocalyptic-future",
+          "pets",
+          "virus",
+          "end-of-the-world",
+          "saving-the-world"
+        ],
+        "updated_at": "2026-02-24T17:15:51.000Z",
+        "after_credits": false,
+        "certification": "PG-13",
+        "comment_count": 52,
+        "during_credits": false,
+        "original_title": "I Am Legend",
+        "available_translations": [
+          "ar",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "eo",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "hu",
+          "id",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "nb",
+          "nl",
+          "nn",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "uz",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -269,14 +1637,121 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Gattaca",
-        "year": 1997,
         "ids": {
-          "trakt": 625,
-          "slug": "gattaca-1997",
           "imdb": "tt0119177",
-          "tmdb": 782
-        }
+          "plex": {
+            "guid": "5d7768275af944001f1f6dcc",
+            "slug": "gattaca"
+          },
+          "slug": "gattaca-1997",
+          "tmdb": 782,
+          "trakt": 625
+        },
+        "year": 1997,
+        "title": "Gattaca",
+        "votes": 13612,
+        "colors": {
+          "poster": [
+            "#A0C7CE",
+            "#0F1F37"
+          ]
+        },
+        "genres": [
+          "mystery",
+          "science-fiction",
+          "thriller",
+          "romance"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/000/625/logos/medium/6b3c63c758.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/000/625/thumbs/medium/85a2508053.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/000/625/banners/medium/6ad73ab37f.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/000/625/fanarts/medium/2dfda2bfc5.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/000/625/posters/medium/b8c3b10df2.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/000/625/cleararts/medium/4ec5c2607f.png.webp"
+          ]
+        },
+        "rating": 7.9058918952941895,
+        "status": "released",
+        "country": "us",
+        "runtime": 107,
+        "tagline": "There is no gene for the human spirit.",
+        "trailer": "https://youtube.com/watch?v=NIIZ2P-fiyI",
+        "homepage": "https://www.sonypictures.com/movies/gattaca",
+        "language": "en",
+        "overview": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+        "released": "1997-10-24",
+        "languages": [
+          "en",
+          "eo"
+        ],
+        "subgenres": [
+          "dystopia",
+          "investigation",
+          "murder-investigation",
+          "authoritarian",
+          "cheating",
+          "astronaut",
+          "space",
+          "space-travel"
+        ],
+        "updated_at": "2026-02-24T17:35:52.000Z",
+        "after_credits": false,
+        "certification": "PG-13",
+        "comment_count": 40,
+        "during_credits": false,
+        "original_title": "Gattaca",
+        "available_translations": [
+          "ar",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "eo",
+          "es",
+          "et",
+          "fi",
+          "fr",
+          "he",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "my",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -286,14 +1761,116 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Seven Samurai",
-        "year": 1954,
         "ids": {
-          "trakt": 293,
-          "slug": "seven-samurai-1954",
           "imdb": "tt0047478",
-          "tmdb": 346
-        }
+          "plex": {
+            "guid": "5d7768254de0ee001fcc83a9",
+            "slug": "seven-samurai"
+          },
+          "slug": "seven-samurai-1954",
+          "tmdb": 346,
+          "trakt": 293
+        },
+        "year": 1954,
+        "title": "Seven Samurai",
+        "votes": 5884,
+        "colors": {
+          "poster": [
+            "#9E9995",
+            "#2C2A27"
+          ]
+        },
+        "genres": [
+          "action",
+          "drama"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/000/293/logos/medium/8fe5f5207a.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/000/293/thumbs/medium/dad5f13903.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/000/293/banners/medium/e4084e6696.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/000/293/fanarts/medium/b200cb71d4.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/000/293/posters/medium/fabf0d90bc.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/000/293/cleararts/medium/a7fdffa762.png.webp"
+          ]
+        },
+        "rating": 8.482495307922363,
+        "status": "released",
+        "country": "jp",
+        "runtime": 207,
+        "tagline": "Unmatched for suspense and spectacle!",
+        "trailer": "https://youtube.com/watch?v=RsRN65PlaIM",
+        "homepage": null,
+        "language": "ja",
+        "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+        "released": "1954-04-26",
+        "languages": [
+          "ja"
+        ],
+        "subgenres": [
+          "martial-arts",
+          "samurai",
+          "battle",
+          "sword",
+          "black-and-white",
+          "16th-century",
+          "jidaigeki",
+          "forbidden-love",
+          "violence",
+          "bandit"
+        ],
+        "updated_at": "2026-02-24T16:39:53.000Z",
+        "after_credits": false,
+        "certification": "NR",
+        "comment_count": 28,
+        "during_credits": false,
+        "original_title": "七人の侍",
+        "available_translations": [
+          "ar",
+          "az",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -303,14 +1880,118 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "M3GAN",
-        "year": 2022,
         "ids": {
-          "trakt": 388074,
-          "slug": "m3gan-2022",
           "imdb": "tt8760708",
-          "tmdb": 536554
-        }
+          "plex": {
+            "guid": "5d77706981ba41001faefb19",
+            "slug": "m3gan"
+          },
+          "slug": "m3gan-2022",
+          "tmdb": 536554,
+          "trakt": 388074
+        },
+        "year": 2022,
+        "title": "M3GAN",
+        "votes": 12217,
+        "colors": {
+          "poster": [
+            "#D0A884",
+            "#452E1A"
+          ]
+        },
+        "genres": [
+          "horror",
+          "science-fiction"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/388/074/logos/medium/bcd866eb17.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/388/074/thumbs/medium/aa124c170a.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/388/074/banners/medium/a716864bcb.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/388/074/fanarts/medium/8293b0539a.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/388/074/posters/medium/7ac5f17ed9.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/388/074/cleararts/medium/74b5ec3d75.png.webp"
+          ]
+        },
+        "rating": 6.6880574226379395,
+        "status": "released",
+        "country": "us",
+        "runtime": 102,
+        "tagline": "She's more than a toy. She's family.",
+        "trailer": "https://youtube.com/watch?v=9zvgGSTZlOY",
+        "homepage": "https://www.uphe.com/movies/m3gan",
+        "language": "en",
+        "overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+        "released": "2023-01-06",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "robot",
+          "orphan",
+          "artificial-intelligence-a-i",
+          "slasher",
+          "android",
+          "witty"
+        ],
+        "updated_at": "2026-02-24T17:48:50.000Z",
+        "after_credits": false,
+        "certification": "PG-13",
+        "comment_count": 140,
+        "during_credits": false,
+        "original_title": "M3GAN",
+        "available_translations": [
+          "ar",
+          "az",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "my",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sq",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -320,14 +2001,103 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "Hummingbird",
-        "year": 2013,
         "ids": {
-          "trakt": 91866,
-          "slug": "hummingbird-2013",
           "imdb": "tt1893256",
-          "tmdb": 136418
-        }
+          "plex": {
+            "guid": "5d7769a0fb0d55001f52b4e5",
+            "slug": "redemption-2013-1"
+          },
+          "slug": "hummingbird-2013",
+          "tmdb": 136418,
+          "trakt": 91866
+        },
+        "year": 2013,
+        "title": "Hummingbird",
+        "votes": 3566,
+        "colors": {
+          "poster": [
+            "#9A7EBF",
+            "#1A0931"
+          ]
+        },
+        "genres": [
+          "action",
+          "thriller"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/091/866/logos/medium/a54eace566.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/091/866/thumbs/medium/3c047d3075.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/091/866/banners/medium/36923ee916.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/091/866/fanarts/medium/1a1333b816.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/091/866/posters/medium/a5c591581e.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/091/866/cleararts/medium/5d05e6aaee.png.webp"
+          ]
+        },
+        "rating": 6.5586090087890625,
+        "status": "released",
+        "country": "us",
+        "runtime": 100,
+        "tagline": "All roads don't lead to salvation.",
+        "trailer": "https://youtube.com/watch?v=8c77ONP5QnM",
+        "homepage": "https://www.hummingbirdmovie.co.uk",
+        "language": "en",
+        "overview": "Homeless and on the run from a military court martial, a damaged ex-special forces soldier navigating London's criminal underworld seizes an opportunity to assume another man's identity, transforming into an avenging angel in the process.",
+        "released": "2013-06-28",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [],
+        "updated_at": "2026-02-24T17:31:45.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 23,
+        "during_credits": false,
+        "original_title": "Hummingbird",
+        "available_translations": [
+          "ar",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fi",
+          "fr",
+          "he",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -337,14 +2107,120 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "1917",
-        "year": 2019,
         "ids": {
-          "trakt": 382862,
-          "slug": "1917-2019",
           "imdb": "tt8579674",
-          "tmdb": 530915
-        }
+          "plex": {
+            "guid": "5d77705edd931c001e38bde2",
+            "slug": "1917"
+          },
+          "slug": "1917-2019",
+          "tmdb": 530915,
+          "trakt": 382862
+        },
+        "year": 2019,
+        "title": "1917",
+        "votes": 30037,
+        "colors": {
+          "poster": [
+            "#A7ABA8",
+            "#353739"
+          ]
+        },
+        "genres": [
+          "war",
+          "history",
+          "drama",
+          "action",
+          "adventure"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/382/862/logos/medium/65ff7b3986.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/382/862/thumbs/medium/798386df83.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/382/862/banners/medium/44cff431d9.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/382/862/fanarts/medium/99cc21b830.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/382/862/posters/medium/07b3679cb6.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/382/862/cleararts/medium/f6595c31cf.png.webp"
+          ]
+        },
+        "rating": 8.135565757751465,
+        "status": "released",
+        "country": "us",
+        "runtime": 119,
+        "tagline": "Time is the enemy.",
+        "trailer": "https://youtube.com/watch?v=gZjQROMAh_s",
+        "homepage": "https://www.1917.movie/",
+        "language": "en",
+        "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+        "released": "2019-12-25",
+        "languages": [
+          "en",
+          "fr",
+          "de"
+        ],
+        "subgenres": [
+          "soldier",
+          "1910s",
+          "world-war-i",
+          "british-army"
+        ],
+        "updated_at": "2026-02-24T17:44:08.000Z",
+        "after_credits": false,
+        "certification": "R",
+        "comment_count": 137,
+        "during_credits": false,
+        "original_title": "1917",
+        "available_translations": [
+          "ar",
+          "bg",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hr",
+          "hu",
+          "id",
+          "it",
+          "ja",
+          "ko",
+          "lt",
+          "lv",
+          "nb",
+          "nl",
+          "nn",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     },
     {
@@ -354,14 +2230,129 @@
       "notes": null,
       "type": "movie",
       "movie": {
-        "title": "The Hobbit: The Battle of the Five Armies",
-        "year": 2014,
         "ids": {
-          "trakt": 84900,
-          "slug": "the-hobbit-the-battle-of-the-five-armies-2014",
           "imdb": "tt2310332",
-          "tmdb": 122917
-        }
+          "plex": {
+            "guid": "5d77697d47dd6e001f6c6178",
+            "slug": "the-hobbit-the-battle-of-the-five-armies"
+          },
+          "slug": "the-hobbit-the-battle-of-the-five-armies-2014",
+          "tmdb": 122917,
+          "trakt": 84900
+        },
+        "year": 2014,
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "votes": 28803,
+        "colors": {
+          "poster": [
+            "#C0B09A",
+            "#2A3027"
+          ]
+        },
+        "genres": [
+          "adventure",
+          "fantasy",
+          "action"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/movies/000/084/900/logos/medium/30252c7ecb.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/movies/000/084/900/thumbs/medium/cea7575861.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/movies/000/084/900/banners/medium/6d9d78fd75.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/movies/000/084/900/fanarts/medium/4735f420ac.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/movies/000/084/900/posters/medium/30609014a0.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/movies/000/084/900/cleararts/medium/3a6bd30ecc.png.webp"
+          ]
+        },
+        "rating": 7.570287704467773,
+        "status": "released",
+        "country": "us",
+        "runtime": 144,
+        "tagline": "Will you follow me... one last time?",
+        "trailer": "https://youtube.com/watch?v=Y6Fv5StfAxA",
+        "homepage": "https://www.warnerbros.com/movies/hobbit-battle-five-armies/",
+        "language": "en",
+        "overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+        "released": "2014-12-17",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "corruption",
+          "fantasy-world",
+          "battle",
+          "dragon",
+          "live-action-and-animation",
+          "mountain",
+          "sword-and-sorcery",
+          "wizard",
+          "good-versus-evil",
+          "elves",
+          "gold"
+        ],
+        "updated_at": "2026-02-24T17:30:22.000Z",
+        "after_credits": false,
+        "certification": "PG-13",
+        "comment_count": 78,
+        "during_credits": false,
+        "original_title": "The Hobbit: The Battle of the Five Armies",
+        "available_translations": [
+          "ar",
+          "az",
+          "be",
+          "bg",
+          "bs",
+          "ca",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "eo",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hi",
+          "hr",
+          "hu",
+          "id",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "nb",
+          "nl",
+          "nn",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
       }
     }
   ]

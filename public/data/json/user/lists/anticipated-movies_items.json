@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-24T06:37:07.082532+00:00",
+    "fetched_at": "2026-02-25T06:41:17.586246+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5234,
+        "votes": 5250,
         "colors": {
           "poster": [
             "#CC997A",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.545472145080566,
+        "rating": 7.543809413909912,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -72,11 +72,10 @@
           "en"
         ],
         "subgenres": [
-          "amused",
           "witch",
           "alien"
         ],
-        "updated_at": "2026-02-23T08:31:01.000Z",
+        "updated_at": "2026-02-24T08:31:43.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 127,
@@ -153,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2729,
+        "votes": 2732,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -185,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.824477672576904,
+        "rating": 5.823572635650635,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -203,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-02-23T11:24:09.000Z",
+        "updated_at": "2026-02-24T16:15:13.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -392,7 +391,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-02-23T08:28:40.000Z",
+        "updated_at": "2026-02-24T08:32:03.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -563,7 +562,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-02-23T08:28:08.000Z",
+        "updated_at": "2026-02-24T08:40:05.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 2,
@@ -742,7 +741,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-02-23T08:35:26.000Z",
+        "updated_at": "2026-02-24T08:32:21.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
