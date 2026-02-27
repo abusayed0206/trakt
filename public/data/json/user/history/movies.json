@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-26T06:35:10.947877+00:00",
+    "fetched_at": "2026-02-27T06:12:15.851597+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12051275541,
+      "watched_at": "2026-02-26T19:54:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Rock Solid: 6 Building Blocks of Successful Wrestling Volume 1",
+        "year": null,
+        "ids": {
+          "trakt": 573306,
+          "slug": "rock-solid-6-building-blocks-of-successful-wrestling-volume-1",
+          "imdb": null,
+          "tmdb": 731630
+        }
+      }
+    },
     {
       "id": 12035336108,
       "watched_at": "2026-02-20T14:17:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "the-polar-express-2004",
           "imdb": "tt0338348",
           "tmdb": 5255
-        }
-      }
-    },
-    {
-      "id": 11923165555,
-      "watched_at": "2026-01-06T15:42:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "The Hobbit: The Battle of Five Armies (Extended Edition)",
-        "year": null,
-        "ids": {
-          "trakt": 1135455,
-          "slug": "the-hobbit-the-battle-of-five-armies-extended-edition",
-          "imdb": "tt21832076",
-          "tmdb": 1389369
         }
       }
     }

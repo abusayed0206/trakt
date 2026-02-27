@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-26T06:35:11.046186+00:00",
+    "fetched_at": "2026-02-27T06:12:16.114575+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12050766936,
+      "watched_at": "2026-02-26T14:38:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 14,
+        "title": "Damaged",
+        "ids": {
+          "trakt": 291461,
+          "tvdb": 353963,
+          "imdb": "tt1197560",
+          "tmdb": 283201,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12038570513,
       "watched_at": "2026-02-21T18:08:00.000Z",
@@ -261,36 +291,6 @@
           "tvdb": 336540,
           "imdb": "tt1110970",
           "tmdb": 283191,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 11946582295,
-      "watched_at": "2026-01-15T16:40:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 3,
-        "title": "Scared to Death",
-        "ids": {
-          "trakt": 291450,
-          "tvdb": 336537,
-          "imdb": "tt1115047",
-          "tmdb": 283187,
           "tvrage": null
         }
       },
