@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-28T05:58:00.263216+00:00",
+    "fetched_at": "2026-02-28T19:51:05.588443+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
@@ -8,18 +8,34 @@
   },
   "data": [
     {
-      "id": 12051275541,
-      "watched_at": "2026-02-26T19:54:00.000Z",
-      "action": "scrobble",
+      "id": 12055599230,
+      "watched_at": "2026-02-28T19:16:00.000Z",
+      "action": "watch",
       "type": "movie",
       "movie": {
-        "title": "Rock Solid: 6 Building Blocks of Successful Wrestling Volume 1",
-        "year": null,
+        "title": "Shelter",
+        "year": 2026,
         "ids": {
-          "trakt": 573306,
-          "slug": "rock-solid-6-building-blocks-of-successful-wrestling-volume-1",
-          "imdb": null,
-          "tmdb": 731630
+          "trakt": 1050424,
+          "slug": "shelter-2026",
+          "imdb": "tt32357218",
+          "tmdb": 1290821
+        }
+      }
+    },
+    {
+      "id": 12054679822,
+      "watched_at": "2026-02-27T09:58:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "16 Blocks",
+        "year": 2006,
+        "ids": {
+          "trakt": 1542,
+          "slug": "16-blocks-2006",
+          "imdb": "tt0450232",
+          "tmdb": 2207
         }
       }
     },
@@ -148,22 +164,6 @@
           "slug": "one-battle-after-another-2025",
           "imdb": "tt30144839",
           "tmdb": 1054867
-        }
-      }
-    },
-    {
-      "id": 11935460687,
-      "watched_at": "2026-01-11T12:28:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "The Polar Express",
-        "year": 2004,
-        "ids": {
-          "trakt": 3051,
-          "slug": "the-polar-express-2004",
-          "imdb": "tt0338348",
-          "tmdb": 5255
         }
       }
     }
