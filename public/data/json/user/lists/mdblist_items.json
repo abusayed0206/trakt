@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-28T19:51:10.326722+00:00",
+    "fetched_at": "2026-03-01T06:08:49.540648+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/mdblist_items.json",
@@ -133,7 +133,7 @@
             "media.trakt.tv/images/movies/000/000/293/cleararts/medium/a7fdffa762.png.webp"
           ]
         },
-        "rating": 8.481927871704102,
+        "rating": 8.481758117675781,
         "status": "released",
         "country": "jp",
         "runtime": 207,
@@ -221,7 +221,7 @@
         },
         "year": 1954,
         "title": "Rear Window",
-        "votes": 9570,
+        "votes": 9572,
         "colors": {
           "poster": [
             "#AC8151",
@@ -252,7 +252,7 @@
             "media.trakt.tv/images/movies/000/000/447/cleararts/medium/2522330b74.png.webp"
           ]
         },
-        "rating": 8.274189949035645,
+        "rating": 8.27413272857666,
         "status": "released",
         "country": "us",
         "runtime": 112,
@@ -335,7 +335,7 @@
         },
         "year": 1962,
         "title": "Harakiri",
-        "votes": 1975,
+        "votes": 1976,
         "colors": {
           "poster": [
             "#F7F4F1",
@@ -365,7 +365,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.570632934570312,
+        "rating": 8.570343971252441,
         "status": "released",
         "country": "jp",
         "runtime": 135,
@@ -539,7 +539,7 @@
         },
         "year": 1961,
         "title": "Yojimbo",
-        "votes": 2429,
+        "votes": 2430,
         "colors": {
           "poster": [
             "#BE9B58",
@@ -568,7 +568,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.081103324890137,
+        "rating": 8.081069946289062,
         "status": "released",
         "country": "jp",
         "runtime": 110,
@@ -646,7 +646,7 @@
         },
         "year": 1985,
         "title": "Ran",
-        "votes": 2609,
+        "votes": 2610,
         "colors": {
           "poster": [
             "#6C8EA5",
@@ -678,7 +678,7 @@
             "media.trakt.tv/images/movies/000/006/719/cleararts/medium/6d2a61146d.png.webp"
           ]
         },
-        "rating": 8.068991661071777,
+        "rating": 8.068965911865234,
         "status": "released",
         "country": "jp",
         "runtime": 160,
@@ -762,7 +762,7 @@
         },
         "year": 1958,
         "title": "Vertigo",
-        "votes": 8409,
+        "votes": 8411,
         "colors": {
           "poster": [
             "#DC4829",
@@ -794,7 +794,7 @@
             "media.trakt.tv/images/movies/000/000/338/cleararts/medium/f6142ea92b.png.webp"
           ]
         },
-        "rating": 8.033297538757324,
+        "rating": 8.033527374267578,
         "status": "released",
         "country": "us",
         "runtime": 128,
@@ -880,7 +880,7 @@
         },
         "year": 1944,
         "title": "Double Indemnity",
-        "votes": 2875,
+        "votes": 2876,
         "colors": {
           "poster": [
             "#DDCCC7",
@@ -911,7 +911,7 @@
             "media.trakt.tv/images/movies/000/000/826/cleararts/medium/d5d93d3afe.png.webp"
           ]
         },
-        "rating": 8.093217849731445,
+        "rating": 8.093185424804688,
         "status": "released",
         "country": "us",
         "runtime": 107,
@@ -1097,7 +1097,7 @@
         },
         "year": 2023,
         "title": "Spider-Man: Across the Spider-Verse",
-        "votes": 23200,
+        "votes": 23213,
         "colors": {
           "poster": [
             "#CB7061",
@@ -1132,7 +1132,7 @@
             "media.trakt.tv/images/movies/000/420/606/cleararts/medium/5aefb819e8.png.webp"
           ]
         },
-        "rating": 8.60586166381836,
+        "rating": 8.60509204864502,
         "status": "released",
         "country": "us",
         "runtime": 140,
@@ -1237,7 +1237,7 @@
         },
         "year": 1969,
         "title": "Army of Shadows",
-        "votes": 720,
+        "votes": 721,
         "colors": {
           "poster": [
             "#6C8CA0",
@@ -1263,7 +1263,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.83472204208374,
+        "rating": 7.836338520050049,
         "status": "released",
         "country": "fr",
         "runtime": 145,
@@ -1442,7 +1442,7 @@
         },
         "year": 1931,
         "title": "M",
-        "votes": 2701,
+        "votes": 2702,
         "colors": {
           "poster": [
             "#D68C58",
@@ -1474,7 +1474,7 @@
             "media.trakt.tv/images/movies/000/000/675/cleararts/medium/68c0539723.png.webp"
           ]
         },
-        "rating": 8.01443862915039,
+        "rating": 8.013693809509277,
         "status": "released",
         "country": "de",
         "runtime": 110,
@@ -1555,7 +1555,7 @@
         },
         "year": 1982,
         "title": "Fanny and Alexander",
-        "votes": 970,
+        "votes": 971,
         "colors": {
           "poster": [
             "#DCD8D4",
@@ -1585,7 +1585,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.750515460968018,
+        "rating": 7.746653079986572,
         "status": "released",
         "country": "de",
         "runtime": 188,
@@ -1697,7 +1697,7 @@
             "media.trakt.tv/images/movies/000/015/248/cleararts/medium/c4fd23dff0.png.webp"
           ]
         },
-        "rating": 8.2805757522583,
+        "rating": 8.279594421386719,
         "status": "released",
         "country": "su",
         "runtime": 142,
@@ -1879,7 +1879,7 @@
         },
         "year": 1967,
         "title": "Cool Hand Luke",
-        "votes": 3273,
+        "votes": 3274,
         "colors": {
           "poster": [
             "#DEE3DF",
@@ -1910,7 +1910,7 @@
             "media.trakt.tv/images/movies/000/000/746/cleararts/medium/5eaa4ea026.png.webp"
           ]
         },
-        "rating": 7.950809478759766,
+        "rating": 7.951129913330078,
         "status": "released",
         "country": "us",
         "runtime": 127,
@@ -2086,7 +2086,7 @@
         },
         "year": 1954,
         "title": "On the Waterfront",
-        "votes": 2348,
+        "votes": 2349,
         "colors": {
           "poster": [
             "#E3BAAF",
@@ -2118,7 +2118,7 @@
             "media.trakt.tv/images/movies/000/000/529/cleararts/medium/c5ea389606.png.webp"
           ]
         },
-        "rating": 7.720613479614258,
+        "rating": 7.721158027648926,
         "status": "released",
         "country": "us",
         "runtime": 108,
@@ -2196,7 +2196,7 @@
         },
         "year": 1955,
         "title": "Rififi",
-        "votes": 733,
+        "votes": 734,
         "colors": {
           "poster": [
             "#8F7948",
@@ -2226,7 +2226,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.892223834991455,
+        "rating": 7.892370700836182,
         "status": "released",
         "country": "fr",
         "runtime": 118,
@@ -2296,7 +2296,7 @@
         },
         "year": 1953,
         "title": "The Wages of Fear",
-        "votes": 1178,
+        "votes": 1179,
         "colors": {
           "poster": [
             "#DD9C74",
@@ -2322,7 +2322,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.830220699310303,
+        "rating": 7.829516410827637,
         "status": "released",
         "country": "fr",
         "runtime": 153,
@@ -2396,7 +2396,7 @@
         },
         "year": 1953,
         "title": "Ugetsu",
-        "votes": 588,
+        "votes": 589,
         "colors": {
           "poster": [
             "#AEA7A0",
@@ -2424,7 +2424,7 @@
             "media.trakt.tv/images/movies/000/008/882/cleararts/medium/c0a22e611e.png.webp"
           ]
         },
-        "rating": 7.887754917144775,
+        "rating": 7.887945652008057,
         "status": "released",
         "country": "jp",
         "runtime": 96,
@@ -2604,7 +2604,7 @@
         },
         "year": 2016,
         "title": "The Handmaiden",
-        "votes": 8030,
+        "votes": 8031,
         "colors": {
           "poster": [
             "#C0B3AC",
@@ -2634,7 +2634,7 @@
             "media.trakt.tv/images/movies/000/187/026/cleararts/medium/d67a123047.png.webp"
           ]
         },
-        "rating": 8.20423412322998,
+        "rating": 8.203959465026855,
         "status": "released",
         "country": "kr",
         "runtime": 145,
@@ -2723,7 +2723,7 @@
         },
         "year": 2018,
         "title": "Spider-Man: Into the Spider-Verse",
-        "votes": 45456,
+        "votes": 45464,
         "colors": {
           "poster": [
             "#8FB0D1",
@@ -2757,7 +2757,7 @@
             "media.trakt.tv/images/movies/000/205/404/cleararts/medium/d499c5975d.png.webp"
           ]
         },
-        "rating": 8.634679794311523,
+        "rating": 8.634876251220703,
         "status": "released",
         "country": "us",
         "runtime": 117,
@@ -2847,7 +2847,7 @@
         },
         "year": 1960,
         "title": "Le Trou",
-        "votes": 618,
+        "votes": 619,
         "colors": {
           "poster": [
             "#AFACBF",
@@ -2871,7 +2871,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.268608093261719,
+        "rating": 8.263327598571777,
         "status": "released",
         "country": "fr",
         "runtime": 132,
@@ -2941,7 +2941,7 @@
         },
         "year": 1959,
         "title": "The 400 Blows",
-        "votes": 2321,
+        "votes": 2322,
         "colors": {
           "poster": [
             "#B7B7B7",
@@ -2965,7 +2965,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.963377952575684,
+        "rating": 7.963393688201904,
         "status": "released",
         "country": "fr",
         "runtime": 99,
@@ -3041,7 +3041,7 @@
         },
         "year": 1949,
         "title": "The Third Man",
-        "votes": 3123,
+        "votes": 3124,
         "colors": {
           "poster": [
             "#83898F",
@@ -3072,7 +3072,7 @@
             "media.trakt.tv/images/movies/000/000/844/cleararts/medium/a80c66598e.png.webp"
           ]
         },
-        "rating": 7.832852840423584,
+        "rating": 7.832586288452148,
         "status": "released",
         "country": "gb",
         "runtime": 105,
@@ -3155,7 +3155,7 @@
         },
         "year": 1974,
         "title": "Chinatown",
-        "votes": 6490,
+        "votes": 6491,
         "colors": {
           "poster": [
             "#FCD03E",
@@ -3188,7 +3188,7 @@
             "media.trakt.tv/images/movies/000/000/672/cleararts/medium/2957cd5065.png.webp"
           ]
         },
-        "rating": 7.922496318817139,
+        "rating": 7.922354221343994,
         "status": "released",
         "country": "us",
         "runtime": 130,
@@ -3273,7 +3273,7 @@
         },
         "year": 2025,
         "title": "The Secret Agent",
-        "votes": 1373,
+        "votes": 1380,
         "colors": {
           "poster": [
             "#DAD4BE",
@@ -3301,7 +3301,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.359067916870117,
+        "rating": 7.357246398925781,
         "status": "released",
         "country": "br",
         "runtime": 161,
@@ -3495,7 +3495,7 @@
         },
         "year": 1958,
         "title": "Touch of Evil",
-        "votes": 1766,
+        "votes": 1767,
         "colors": {
           "poster": [
             "#EA6D2C",
@@ -3525,7 +3525,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.656851768493652,
+        "rating": 7.656479835510254,
         "status": "released",
         "country": "us",
         "runtime": 111,
@@ -3814,7 +3814,7 @@
         },
         "year": 1969,
         "title": "Z",
-        "votes": 580,
+        "votes": 581,
         "colors": {
           "poster": [
             "#CABAB0",
@@ -3840,7 +3840,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.837931156158447,
+        "rating": 7.838210105895996,
         "status": "released",
         "country": "dz",
         "runtime": 122,
@@ -3914,7 +3914,7 @@
         },
         "year": 1955,
         "title": "The Night of the Hunter",
-        "votes": 2250,
+        "votes": 2252,
         "colors": {
           "poster": [
             "#DAD4CA",
@@ -3944,7 +3944,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.772444248199463,
+        "rating": 7.772646427154541,
         "status": "released",
         "country": "us",
         "runtime": 93,
@@ -4025,7 +4025,7 @@
         },
         "year": 1941,
         "title": "The Maltese Falcon",
-        "votes": 2966,
+        "votes": 2967,
         "colors": {
           "poster": [
             "#E4EBE4",
@@ -4057,7 +4057,7 @@
             "media.trakt.tv/images/movies/000/000/799/cleararts/medium/6b585093e6.png.webp"
           ]
         },
-        "rating": 7.69993257522583,
+        "rating": 7.700707912445068,
         "status": "released",
         "country": "us",
         "runtime": 100,
@@ -4137,7 +4137,7 @@
         },
         "year": 1959,
         "title": "North by Northwest",
-        "votes": 6190,
+        "votes": 6192,
         "colors": {
           "poster": [
             "#C1CAC9",
@@ -4169,7 +4169,7 @@
             "media.trakt.tv/images/movies/000/000/172/cleararts/medium/46bc80b77b.png.webp"
           ]
         },
-        "rating": 8.067366600036621,
+        "rating": 8.06686019897461,
         "status": "released",
         "country": "us",
         "runtime": 136,
@@ -4253,7 +4253,7 @@
         },
         "year": 1970,
         "title": "Le Cercle Rouge",
-        "votes": 797,
+        "votes": 798,
         "colors": {
           "poster": [
             "#6885B9",
@@ -4278,7 +4278,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.693851947784424,
+        "rating": 7.694235801696777,
         "status": "released",
         "country": "fr",
         "runtime": 140,
@@ -4638,7 +4638,7 @@
         },
         "year": 2006,
         "title": "The Lives of Others",
-        "votes": 6574,
+        "votes": 6576,
         "colors": {
           "poster": [
             "#B7B291",
@@ -4669,7 +4669,7 @@
             "media.trakt.tv/images/movies/000/000/461/cleararts/medium/dbf4b4c58a.png.webp"
           ]
         },
-        "rating": 8.201247215270996,
+        "rating": 8.20149040222168,
         "status": "released",
         "country": "de",
         "runtime": 137,
@@ -4755,7 +4755,7 @@
         },
         "year": 1996,
         "title": "Fargo",
-        "votes": 19416,
+        "votes": 19422,
         "colors": {
           "poster": [
             "#E5E0E2",
@@ -4787,7 +4787,7 @@
             "media.trakt.tv/images/movies/000/000/231/cleararts/medium/b2fd2561c4.png.webp"
           ]
         },
-        "rating": 8.008601188659668,
+        "rating": 8.008598327636719,
         "status": "released",
         "country": "us",
         "runtime": 98,
@@ -4873,7 +4873,7 @@
         },
         "year": 2021,
         "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
-        "votes": 1635,
+        "votes": 1636,
         "colors": {
           "poster": [
             "#F7F6F7",
@@ -4906,7 +4906,7 @@
             "media.trakt.tv/images/movies/000/180/847/cleararts/medium/3934d38524.png.webp"
           ]
         },
-        "rating": 8.026299476623535,
+        "rating": 8.026894569396973,
         "status": "released",
         "country": "jp",
         "runtime": 155,
@@ -5185,7 +5185,7 @@
         },
         "year": 1962,
         "title": "The Manchurian Candidate",
-        "votes": 1244,
+        "votes": 1245,
         "colors": {
           "poster": [
             "#C78896",
@@ -5212,7 +5212,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.508038520812988,
+        "rating": 7.505220890045166,
         "status": "released",
         "country": "us",
         "runtime": 126,
@@ -5287,7 +5287,7 @@
         },
         "year": 1979,
         "title": "Stalker",
-        "votes": 3331,
+        "votes": 3333,
         "colors": {
           "poster": [
             "#ACBAA6",
@@ -5314,7 +5314,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.903032302856445,
+        "rating": 7.903690338134766,
         "status": "released",
         "country": "su",
         "runtime": 162,
@@ -5396,7 +5396,7 @@
         },
         "year": 1968,
         "title": "2001: A Space Odyssey",
-        "votes": 19895,
+        "votes": 19900,
         "colors": {
           "poster": [
             "#C0C0A8",
@@ -5428,7 +5428,7 @@
             "media.trakt.tv/images/movies/000/000/033/cleararts/medium/97d0cde1ab.png.webp"
           ]
         },
-        "rating": 7.979090213775635,
+        "rating": 7.978944778442383,
         "status": "released",
         "country": "us",
         "runtime": 149,
@@ -5610,7 +5610,7 @@
         },
         "year": 1943,
         "title": "Shadow of a Doubt",
-        "votes": 1414,
+        "votes": 1415,
         "colors": {
           "poster": [
             "#E6E6DB",
@@ -5639,7 +5639,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.4745402336120605,
+        "rating": 7.474205017089844,
         "status": "released",
         "country": "us",
         "runtime": 107,
@@ -5717,7 +5717,7 @@
         },
         "year": 1967,
         "title": "Le Samouraï",
-        "votes": 1683,
+        "votes": 1684,
         "colors": {
           "poster": [
             "#BFBEB5",
@@ -5745,7 +5745,7 @@
             "media.trakt.tv/images/movies/000/003/119/cleararts/medium/81d766d36e.png.webp"
           ]
         },
-        "rating": 7.857991695404053,
+        "rating": 7.857481956481934,
         "status": "released",
         "country": "fr",
         "runtime": 105,
@@ -5822,7 +5822,7 @@
         },
         "year": 1938,
         "title": "The Adventures of Robin Hood",
-        "votes": 1254,
+        "votes": 1255,
         "colors": {
           "poster": [
             "#F1E0A9",
@@ -5854,7 +5854,7 @@
             "media.trakt.tv/images/movies/000/006/060/cleararts/medium/979d5e7c16.png.webp"
           ]
         },
-        "rating": 7.629186630249023,
+        "rating": 7.628685474395752,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -6261,7 +6261,7 @@
         },
         "year": 1951,
         "title": "Strangers on a Train",
-        "votes": 2644,
+        "votes": 2643,
         "colors": {
           "poster": [
             "#F6F6F5",
@@ -6292,7 +6292,7 @@
             "media.trakt.tv/images/movies/000/000/688/cleararts/medium/d10054fabb.png.webp"
           ]
         },
-        "rating": 7.653555393218994,
+        "rating": 7.653802394866943,
         "status": "released",
         "country": "us",
         "runtime": 101,
@@ -6456,7 +6456,7 @@
         },
         "year": 2011,
         "title": "Kill Bill: The Whole Bloody Affair",
-        "votes": 1453,
+        "votes": 1454,
         "colors": {
           "poster": [
             "#EEDCAB",
@@ -6481,7 +6481,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.399173736572266,
+        "rating": 8.398900032043457,
         "status": "released",
         "country": "us",
         "runtime": 253,
@@ -6558,7 +6558,7 @@
         },
         "year": 2008,
         "title": "Dear Zachary: A Letter to a Son About His Father",
-        "votes": 1827,
+        "votes": 1828,
         "colors": {
           "poster": [
             "#ADB0A2",
@@ -6583,7 +6583,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.385331153869629,
+        "rating": 8.386214256286621,
         "status": "released",
         "country": "us",
         "runtime": 93,
@@ -6754,7 +6754,7 @@
         },
         "year": 2009,
         "title": "A Prophet",
-        "votes": 2241,
+        "votes": 2242,
         "colors": {
           "poster": [
             "#ECABAF",
@@ -6785,7 +6785,7 @@
             "media.trakt.tv/images/movies/000/013/203/cleararts/medium/e6d692711f.png.webp"
           ]
         },
-        "rating": 7.758143901824951,
+        "rating": 7.758251667022705,
         "status": "released",
         "country": "fr",
         "runtime": 155,
@@ -6864,7 +6864,7 @@
         },
         "year": 2016,
         "title": "13th",
-        "votes": 2516,
+        "votes": 2517,
         "colors": {
           "poster": [
             "#DDDEDD",
@@ -6888,7 +6888,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.172893524169922,
+        "rating": 8.17282485961914,
         "status": "released",
         "country": "us",
         "runtime": 100,
@@ -7063,7 +7063,7 @@
         },
         "year": 2000,
         "title": "Crouching Tiger, Hidden Dragon",
-        "votes": 7608,
+        "votes": 7611,
         "colors": {
           "poster": [
             "#F2C22F",
@@ -7096,7 +7096,7 @@
             "media.trakt.tv/images/movies/000/000/112/cleararts/medium/593d25267b.png.webp"
           ]
         },
-        "rating": 7.7112250328063965,
+        "rating": 7.711338996887207,
         "status": "released",
         "country": "hk",
         "runtime": 120,
@@ -7220,7 +7220,7 @@
             "media.trakt.tv/images/movies/000/000/635/cleararts/medium/122c733800.png.webp"
           ]
         },
-        "rating": 7.927702903747559,
+        "rating": 7.927593231201172,
         "status": "released",
         "country": "us",
         "runtime": 120,
@@ -7308,7 +7308,7 @@
         },
         "year": 2025,
         "title": "It Was Just an Accident",
-        "votes": 915,
+        "votes": 921,
         "colors": {
           "poster": [
             "#828B93",
@@ -7337,7 +7337,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.293989181518555,
+        "rating": 7.289902210235596,
         "status": "released",
         "country": "fr",
         "runtime": 104,
@@ -7410,7 +7410,7 @@
         },
         "year": 1958,
         "title": "The Hidden Fortress",
-        "votes": 872,
+        "votes": 873,
         "colors": {
           "poster": [
             "#C39C50",
@@ -7438,7 +7438,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.93692684173584,
+        "rating": 7.935853481292725,
         "status": "released",
         "country": "jp",
         "runtime": 139,
@@ -7511,7 +7511,7 @@
         },
         "year": 1960,
         "title": "Breathless",
-        "votes": 1882,
+        "votes": 1884,
         "colors": {
           "poster": [
             "#D7D6C3",
@@ -7536,7 +7536,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.419234752655029,
+        "rating": 7.420382022857666,
         "status": "released",
         "country": "fr",
         "runtime": 90,
@@ -7617,7 +7617,7 @@
         },
         "year": 1974,
         "title": "The Conversation",
-        "votes": 3127,
+        "votes": 3129,
         "colors": {
           "poster": [
             "#C8B7A2",
@@ -7649,7 +7649,7 @@
             "media.trakt.tv/images/movies/000/000/470/cleararts/medium/942f114163.png.webp"
           ]
         },
-        "rating": 7.494723320007324,
+        "rating": 7.494726657867432,
         "status": "released",
         "country": "us",
         "runtime": 114,
@@ -7758,7 +7758,7 @@
             "media.trakt.tv/images/movies/000/001/056/cleararts/medium/cd64b12e1a.png.webp"
           ]
         },
-        "rating": 7.971584320068359,
+        "rating": 7.970902442932129,
         "status": "released",
         "country": "us",
         "runtime": 121,
@@ -7842,7 +7842,7 @@
         },
         "year": 1945,
         "title": "Rome, Open City",
-        "votes": 645,
+        "votes": 646,
         "colors": {
           "poster": [
             "#C9D0D1",
@@ -7869,7 +7869,7 @@
             "media.trakt.tv/images/movies/000/000/258/cleararts/medium/263c8e12ad.png.webp"
           ]
         },
-        "rating": 7.958139419555664,
+        "rating": 7.95820426940918,
         "status": "released",
         "country": "it",
         "runtime": 103,
@@ -7943,7 +7943,7 @@
         },
         "year": 1963,
         "title": "The Great Escape",
-        "votes": 4972,
+        "votes": 4973,
         "colors": {
           "poster": [
             "#F7F5F4",
@@ -7975,7 +7975,7 @@
             "media.trakt.tv/images/movies/000/003/382/cleararts/medium/8a0d2a8f3f.png.webp"
           ]
         },
-        "rating": 8.063555717468262,
+        "rating": 8.063543319702148,
         "status": "released",
         "country": "us",
         "runtime": 173,
@@ -8065,7 +8065,7 @@
         },
         "year": 1947,
         "title": "Out of the Past",
-        "votes": 832,
+        "votes": 833,
         "colors": {
           "poster": [
             "#9FA288",
@@ -8094,7 +8094,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.710336685180664,
+        "rating": 7.708283424377441,
         "status": "released",
         "country": "us",
         "runtime": 97,
@@ -8275,7 +8275,7 @@
         },
         "year": 1950,
         "title": "In a Lonely Place",
-        "votes": 908,
+        "votes": 909,
         "colors": {
           "poster": [
             "#B89179",
@@ -8308,7 +8308,7 @@
             "media.trakt.tv/images/movies/000/010/439/cleararts/medium/904a96e78e.png.webp"
           ]
         },
-        "rating": 7.723568439483643,
+        "rating": 7.723872184753418,
         "status": "released",
         "country": "us",
         "runtime": 93,
@@ -8377,7 +8377,7 @@
         },
         "year": 1970,
         "title": "Investigation of a Citizen Above Suspicion",
-        "votes": 469,
+        "votes": 471,
         "colors": {
           "poster": [
             "#A8685C",
@@ -8404,7 +8404,7 @@
             "media.trakt.tv/images/movies/000/016/085/cleararts/medium/dd2415a8eb.png.webp"
           ]
         },
-        "rating": 7.936034202575684,
+        "rating": 7.934182643890381,
         "status": "released",
         "country": "it",
         "runtime": 111,
@@ -9165,7 +9165,7 @@
         },
         "year": 2010,
         "title": "Incendies",
-        "votes": 5563,
+        "votes": 5566,
         "colors": {
           "poster": [
             "#CF051B",
@@ -9197,7 +9197,7 @@
             "media.trakt.tv/images/movies/000/032/118/cleararts/medium/c884248653.png.webp"
           ]
         },
-        "rating": 8.249505996704102,
+        "rating": 8.249730110168457,
         "status": "released",
         "country": "ca",
         "runtime": 131,
@@ -9280,7 +9280,7 @@
         },
         "year": 1975,
         "title": "Dog Day Afternoon",
-        "votes": 5150,
+        "votes": 5154,
         "colors": {
           "poster": [
             "#EEECED",
@@ -9312,7 +9312,7 @@
             "media.trakt.tv/images/movies/000/000/804/cleararts/medium/f1a4df62b7.png.webp"
           ]
         },
-        "rating": 7.923300743103027,
+        "rating": 7.922390460968018,
         "status": "released",
         "country": "us",
         "runtime": 124,
@@ -9395,7 +9395,7 @@
         },
         "year": 2009,
         "title": "The Secret in Their Eyes",
-        "votes": 4290,
+        "votes": 4291,
         "colors": {
           "poster": [
             "#CAA759",
@@ -9421,7 +9421,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.104894638061523,
+        "rating": 8.104870796203613,
         "status": "released",
         "country": "es",
         "runtime": 130,
@@ -9505,7 +9505,7 @@
         },
         "year": 1984,
         "title": "Once Upon a Time in America",
-        "votes": 6631,
+        "votes": 6632,
         "colors": {
           "poster": [
             "#EAD7C2",
@@ -9536,7 +9536,7 @@
             "media.trakt.tv/images/movies/000/000/262/cleararts/medium/07f94746dd.png.webp"
           ]
         },
-        "rating": 8.124114036560059,
+        "rating": 8.124547958374023,
         "status": "released",
         "country": "us",
         "runtime": 229,
@@ -9633,7 +9633,7 @@
         },
         "year": 1999,
         "title": "The Iron Giant",
-        "votes": 11632,
+        "votes": 11635,
         "colors": {
           "poster": [
             "#B4A89E",
@@ -9666,7 +9666,7 @@
             "media.trakt.tv/images/movies/000/005/580/cleararts/medium/0ab154ffed.png.webp"
           ]
         },
-        "rating": 8.172025680541992,
+        "rating": 8.172066688537598,
         "status": "released",
         "country": "us",
         "runtime": 86,
@@ -9757,7 +9757,7 @@
         },
         "year": 2023,
         "title": "Monster",
-        "votes": 2052,
+        "votes": 2053,
         "colors": {
           "poster": [
             "#4C93B4",
@@ -9785,7 +9785,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.9332356452941895,
+        "rating": 7.9342427253723145,
         "status": "released",
         "country": "jp",
         "runtime": 125,
@@ -9972,7 +9972,7 @@
         },
         "year": 1964,
         "title": "Goldfinger",
-        "votes": 7563,
+        "votes": 7564,
         "colors": {
           "poster": [
             "#D2D9D8",
@@ -10004,7 +10004,7 @@
             "media.trakt.tv/images/movies/000/000/532/cleararts/medium/54da21067b.png.webp"
           ]
         },
-        "rating": 7.574110984802246,
+        "rating": 7.574034690856934,
         "status": "released",
         "country": "gb",
         "runtime": 110,
@@ -10199,7 +10199,7 @@
         },
         "year": 1970,
         "title": "The Confession",
-        "votes": 103,
+        "votes": 104,
         "colors": {
           "poster": [
             "#BB6746",
@@ -10226,7 +10226,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.640776634216309,
+        "rating": 7.653846263885498,
         "status": "released",
         "country": "fr",
         "runtime": 139,
@@ -10291,7 +10291,7 @@
         },
         "year": 2000,
         "title": "Amores Perros",
-        "votes": 3786,
+        "votes": 3788,
         "colors": {
           "poster": [
             "#E6E0D9",
@@ -10318,7 +10318,7 @@
             "media.trakt.tv/images/movies/000/000/030/cleararts/medium/580129d188.png.webp"
           ]
         },
-        "rating": 7.88748025894165,
+        "rating": 7.887539386749268,
         "status": "released",
         "country": "mx",
         "runtime": 154,
@@ -10498,7 +10498,7 @@
         },
         "year": 1976,
         "title": "All the President's Men",
-        "votes": 3640,
+        "votes": 3641,
         "colors": {
           "poster": [
             "#E4E4E0",
@@ -10528,7 +10528,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.8807692527771,
+        "rating": 7.880802154541016,
         "status": "released",
         "country": "us",
         "runtime": 138,
@@ -10802,7 +10802,7 @@
         },
         "year": 2001,
         "title": "Mulholland Drive",
-        "votes": 11038,
+        "votes": 11045,
         "colors": {
           "poster": [
             "#9F9B87",
@@ -10832,7 +10832,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.6811017990112305,
+        "rating": 7.680760383605957,
         "status": "released",
         "country": "us",
         "runtime": 147,
@@ -10923,7 +10923,7 @@
         },
         "year": 2020,
         "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-        "votes": 4625,
+        "votes": 4626,
         "colors": {
           "poster": [
             "#B59295",
@@ -10955,7 +10955,7 @@
             "media.trakt.tv/images/movies/000/474/745/cleararts/medium/5dff24c3a1.png.webp"
           ]
         },
-        "rating": 8.271567344665527,
+        "rating": 8.271292686462402,
         "status": "released",
         "country": "jp",
         "runtime": 117,
@@ -11042,7 +11042,7 @@
         },
         "year": 1964,
         "title": "Pale Flower",
-        "votes": 121,
+        "votes": 122,
         "colors": {
           "poster": [
             "#8EA4A3",
@@ -11067,7 +11067,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.611570358276367,
+        "rating": 7.6147541999816895,
         "status": "released",
         "country": "jp",
         "runtime": 96,
@@ -11215,7 +11215,7 @@
         },
         "year": 1954,
         "title": "Touchez Pas au Grisbi",
-        "votes": 192,
+        "votes": 193,
         "colors": {
           "poster": [
             "#F8F1EF",
@@ -11238,7 +11238,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.505208492279053,
+        "rating": 7.507771968841553,
         "status": "released",
         "country": "fr",
         "runtime": 95,
@@ -11495,7 +11495,7 @@
         },
         "year": 1958,
         "title": "Elevator to the Gallows",
-        "votes": 653,
+        "votes": 654,
         "colors": {
           "poster": [
             "#4B8ED6",
@@ -11521,7 +11521,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.8177642822265625,
+        "rating": 7.818042755126953,
         "status": "released",
         "country": "fr",
         "runtime": 92,
@@ -11697,7 +11697,7 @@
         },
         "year": 1938,
         "title": "The Lady Vanishes",
-        "votes": 1306,
+        "votes": 1307,
         "colors": {
           "poster": [
             "#C2481B",
@@ -11726,7 +11726,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.515314102172852,
+        "rating": 7.514919757843018,
         "status": "released",
         "country": "gb",
         "runtime": 96,
@@ -12097,7 +12097,7 @@
         },
         "year": 1991,
         "title": "Boyz n the Hood",
-        "votes": 4523,
+        "votes": 4524,
         "colors": {
           "poster": [
             "#7F8597",
@@ -12126,7 +12126,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.848109722137451,
+        "rating": 7.847922325134277,
         "status": "released",
         "country": "us",
         "runtime": 112,
@@ -12201,7 +12201,7 @@
         },
         "year": 2013,
         "title": "Justice League: The Flashpoint Paradox",
-        "votes": 4860,
+        "votes": 4861,
         "colors": {
           "poster": [
             "#C6986F",
@@ -12233,7 +12233,7 @@
             "media.trakt.tv/images/movies/000/114/899/cleararts/medium/3c2f33ed98.png.webp"
           ]
         },
-        "rating": 8.02839469909668,
+        "rating": 8.028800964355469,
         "status": "released",
         "country": "us",
         "runtime": 81,
@@ -12531,7 +12531,7 @@
         },
         "year": 2024,
         "title": "The Seed of the Sacred Fig",
-        "votes": 804,
+        "votes": 805,
         "colors": {
           "poster": [
             "#3A86AC",
@@ -12559,7 +12559,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.4813432693481445,
+        "rating": 7.480745315551758,
         "status": "released",
         "country": "fr",
         "runtime": 167,
@@ -12637,7 +12637,7 @@
         },
         "year": 2025,
         "title": "Chainsaw Man - The Movie: Reze Arc",
-        "votes": 2587,
+        "votes": 2590,
         "colors": {
           "poster": [
             "#C70A14",
@@ -12664,7 +12664,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.29416275024414,
+        "rating": 8.295367240905762,
         "status": "released",
         "country": "jp",
         "runtime": 99,
@@ -13084,7 +13084,7 @@
         },
         "year": 2021,
         "title": "Jujutsu Kaisen 0",
-        "votes": 4061,
+        "votes": 4063,
         "colors": {
           "poster": [
             "#BDA488",
@@ -13116,7 +13116,7 @@
             "media.trakt.tv/images/movies/000/644/629/cleararts/medium/8ff82f2b02.png.webp"
           ]
         },
-        "rating": 7.983501434326172,
+        "rating": 7.984002113342285,
         "status": "released",
         "country": "jp",
         "runtime": 105,
@@ -13583,7 +13583,7 @@
         },
         "year": 1982,
         "title": "E.T. the Extra-Terrestrial",
-        "votes": 19589,
+        "votes": 19590,
         "colors": {
           "poster": [
             "#8494AE",
@@ -13616,7 +13616,7 @@
             "media.trakt.tv/images/movies/000/000/479/cleararts/medium/59acbb216e.png.webp"
           ]
         },
-        "rating": 7.794374465942383,
+        "rating": 7.7943339347839355,
         "status": "released",
         "country": "us",
         "runtime": 115,
@@ -13934,7 +13934,7 @@
         },
         "year": 2019,
         "title": "The Irishman",
-        "votes": 16908,
+        "votes": 16907,
         "colors": {
           "poster": [
             "#9A7D83",
@@ -13966,7 +13966,7 @@
             "media.trakt.tv/images/movies/000/242/125/cleararts/medium/94f3a7b2d0.png.webp"
           ]
         },
-        "rating": 7.575881004333496,
+        "rating": 7.575678825378418,
         "status": "released",
         "country": "us",
         "runtime": 209,
@@ -14570,7 +14570,7 @@
         },
         "year": 1943,
         "title": "Meshes of the Afternoon",
-        "votes": 525,
+        "votes": 526,
         "colors": {
           "poster": [
             "#D3D6D7",
@@ -14593,7 +14593,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.624762058258057,
+        "rating": 7.621673107147217,
         "status": "released",
         "country": "us",
         "runtime": 14,
@@ -14755,7 +14755,7 @@
         },
         "year": 1961,
         "title": "Last Year at Marienbad",
-        "votes": 539,
+        "votes": 540,
         "colors": {
           "poster": [
             "#C8C8C8",
@@ -14780,7 +14780,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.4916510581970215,
+        "rating": 7.492592811584473,
         "status": "released",
         "country": "fr",
         "runtime": 95,
@@ -14849,7 +14849,7 @@
         },
         "year": 1952,
         "title": "High Noon",
-        "votes": 2023,
+        "votes": 2024,
         "colors": {
           "poster": [
             "#F9B82D",
@@ -14880,7 +14880,7 @@
             "media.trakt.tv/images/movies/000/000/242/cleararts/medium/5a25edaee8.png.webp"
           ]
         },
-        "rating": 7.569451332092285,
+        "rating": 7.569664001464844,
         "status": "released",
         "country": "us",
         "runtime": 85,
@@ -14961,7 +14961,7 @@
         },
         "year": 1967,
         "title": "Bonnie and Clyde",
-        "votes": 2362,
+        "votes": 2363,
         "colors": {
           "poster": [
             "#CBB1A9",
@@ -14990,7 +14990,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.469517230987549,
+        "rating": 7.469318866729736,
         "status": "released",
         "country": "us",
         "runtime": 111,
@@ -15073,7 +15073,7 @@
         },
         "year": 1954,
         "title": "Dial M for Murder",
-        "votes": 3801,
+        "votes": 3802,
         "colors": {
           "poster": [
             "#F3E9E0",
@@ -15102,7 +15102,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.087345123291016,
+        "rating": 8.087322235107422,
         "status": "released",
         "country": "us",
         "runtime": 105,
@@ -15185,7 +15185,7 @@
         },
         "year": 1989,
         "title": "Monsieur Hire",
-        "votes": 154,
+        "votes": 155,
         "colors": {
           "poster": [
             "#E4C0AC",
@@ -15208,7 +15208,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.246753215789795,
+        "rating": 7.232257843017578,
         "status": "released",
         "country": "fr",
         "runtime": 79,
@@ -15349,7 +15349,7 @@
         },
         "year": 1983,
         "title": "The Ballad of Narayama",
-        "votes": 196,
+        "votes": 197,
         "colors": {
           "poster": [
             "#A5B26B",
@@ -15371,7 +15371,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.357142925262451,
+        "rating": 7.355329990386963,
         "status": "released",
         "country": "jp",
         "runtime": 130,
@@ -15436,7 +15436,7 @@
         },
         "year": 1978,
         "title": "Blue Collar",
-        "votes": 315,
+        "votes": 316,
         "colors": {
           "poster": [
             "#F2F2F0",
@@ -15465,7 +15465,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.5714287757873535,
+        "rating": 7.566455841064453,
         "status": "released",
         "country": "us",
         "runtime": 114,
@@ -16012,7 +16012,7 @@
         },
         "year": 2009,
         "title": "Mother",
-        "votes": 2333,
+        "votes": 2334,
         "colors": {
           "poster": [
             "#BAA58F",
@@ -16040,7 +16040,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.693099021911621,
+        "rating": 7.692373752593994,
         "status": "released",
         "country": "kr",
         "runtime": 129,
@@ -16334,7 +16334,7 @@
         },
         "year": 2007,
         "title": "This Is England",
-        "votes": 2713,
+        "votes": 2714,
         "colors": {
           "poster": [
             "#F7F4F6",
@@ -16365,7 +16365,7 @@
             "media.trakt.tv/images/movies/000/006/824/cleararts/medium/9edc25ce6a.png.webp"
           ]
         },
-        "rating": 7.78879451751709,
+        "rating": 7.788504123687744,
         "status": "released",
         "country": "gb",
         "runtime": 101,
@@ -16435,7 +16435,7 @@
         },
         "year": 2013,
         "title": "Blackfish",
-        "votes": 3514,
+        "votes": 3515,
         "colors": {
           "poster": [
             "#C3C8CB",
@@ -16465,7 +16465,7 @@
             "media.trakt.tv/images/movies/000/102/987/cleararts/medium/71942b167f.png.webp"
           ]
         },
-        "rating": 8.010529518127441,
+        "rating": 8.009957313537598,
         "status": "released",
         "country": "us",
         "runtime": 83,
@@ -16651,7 +16651,7 @@
         },
         "year": 1977,
         "title": "Close Encounters of the Third Kind",
-        "votes": 7398,
+        "votes": 7399,
         "colors": {
           "poster": [
             "#8BBED8",
@@ -16682,7 +16682,7 @@
             "media.trakt.tv/images/movies/000/000/683/cleararts/medium/727a15ea58.png.webp"
           ]
         },
-        "rating": 7.556772232055664,
+        "rating": 7.556696891784668,
         "status": "released",
         "country": "us",
         "runtime": 137,
@@ -16768,7 +16768,7 @@
         },
         "year": 1995,
         "title": "Casino",
-        "votes": 12703,
+        "votes": 12705,
         "colors": {
           "poster": [
             "#CC8355",
@@ -16799,7 +16799,7 @@
             "media.trakt.tv/images/movies/000/000/409/cleararts/medium/6f52a72e65.png.webp"
           ]
         },
-        "rating": 8.154767036437988,
+        "rating": 8.155450820922852,
         "status": "released",
         "country": "us",
         "runtime": 179,
@@ -16889,7 +16889,7 @@
         },
         "year": 2016,
         "title": "Kubo and the Two Strings",
-        "votes": 13435,
+        "votes": 13437,
         "colors": {
           "poster": [
             "#C2B8AD",
@@ -16921,7 +16921,7 @@
             "media.trakt.tv/images/movies/000/192/866/cleararts/medium/a8755f483f.png.webp"
           ]
         },
-        "rating": 7.9363603591918945,
+        "rating": 7.936444282531738,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -17005,7 +17005,7 @@
         },
         "year": 1996,
         "title": "Trainspotting",
-        "votes": 17703,
+        "votes": 17708,
         "colors": {
           "poster": [
             "#CEA088",
@@ -17036,7 +17036,7 @@
             "media.trakt.tv/images/movies/000/000/503/cleararts/medium/af144bae80.png.webp"
           ]
         },
-        "rating": 8.100661277770996,
+        "rating": 8.100350379943848,
         "status": "released",
         "country": "gb",
         "runtime": 94,
@@ -17122,7 +17122,7 @@
         },
         "year": 2015,
         "title": "Creed",
-        "votes": 18357,
+        "votes": 18358,
         "colors": {
           "poster": [
             "#DDDAD8",
@@ -17152,7 +17152,7 @@
             "media.trakt.tv/images/movies/000/218/281/cleararts/medium/bbce029998.png.webp"
           ]
         },
-        "rating": 7.56294584274292,
+        "rating": 7.563078880310059,
         "status": "released",
         "country": "us",
         "runtime": 133,
@@ -17240,7 +17240,7 @@
         },
         "year": 2004,
         "title": "The Incredibles",
-        "votes": 41965,
+        "votes": 41970,
         "colors": {
           "poster": [
             "#CF6E4A",
@@ -17274,7 +17274,7 @@
             "media.trakt.tv/images/movies/000/005/065/cleararts/medium/1ee2b2f6fe.png.webp"
           ]
         },
-        "rating": 8.043059349060059,
+        "rating": 8.042983055114746,
         "status": "released",
         "country": "us",
         "runtime": 115,
@@ -17956,7 +17956,7 @@
         },
         "year": 1970,
         "title": "The Butcher",
-        "votes": 208,
+        "votes": 209,
         "colors": {
           "poster": [
             "#E0C6B7",
@@ -17980,7 +17980,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.052884578704834,
+        "rating": 7.0574164390563965,
         "status": "released",
         "country": "fr",
         "runtime": 93,
@@ -18043,7 +18043,7 @@
         },
         "year": 1973,
         "title": "Lady Snowblood",
-        "votes": 696,
+        "votes": 697,
         "colors": {
           "poster": [
             "#F5F3F0",
@@ -18075,7 +18075,7 @@
             "media.trakt.tv/images/movies/000/001/733/cleararts/medium/04eb9b4120.png.webp"
           ]
         },
-        "rating": 7.636494159698486,
+        "rating": 7.6370158195495605,
         "status": "released",
         "country": "jp",
         "runtime": 97,
@@ -18169,7 +18169,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.34624719619751,
+        "rating": 7.348668098449707,
         "status": "released",
         "country": "gb",
         "runtime": 125,
@@ -18344,7 +18344,7 @@
         },
         "year": 2006,
         "title": "United 93",
-        "votes": 2803,
+        "votes": 2804,
         "colors": {
           "poster": [
             "#BCDCEE",
@@ -18372,7 +18372,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.230823993682861,
+        "rating": 7.2303853034973145,
         "status": "released",
         "country": "us",
         "runtime": 111,
@@ -18558,7 +18558,7 @@
         },
         "year": 1973,
         "title": "Mean Streets",
-        "votes": 2613,
+        "votes": 2614,
         "colors": {
           "poster": [
             "#DFD8BD",
@@ -18589,7 +18589,7 @@
             "media.trakt.tv/images/movies/000/000/165/cleararts/medium/e31467f60c.png.webp"
           ]
         },
-        "rating": 7.023344993591309,
+        "rating": 7.022188186645508,
         "status": "released",
         "country": "us",
         "runtime": 111,
@@ -18664,7 +18664,7 @@
         },
         "year": 2000,
         "title": "Traffic",
-        "votes": 4218,
+        "votes": 4219,
         "colors": {
           "poster": [
             "#D6A861",
@@ -18696,7 +18696,7 @@
             "media.trakt.tv/images/movies/000/001/274/cleararts/medium/856e115e2e.png.webp"
           ]
         },
-        "rating": 7.3947367668151855,
+        "rating": 7.394880294799805,
         "status": "released",
         "country": "us",
         "runtime": 147,
@@ -18890,7 +18890,7 @@
         },
         "year": 1983,
         "title": "Return of the Jedi",
-        "votes": 37719,
+        "votes": 37724,
         "colors": {
           "poster": [
             "#A5D8BC",
@@ -18922,7 +18922,7 @@
             "media.trakt.tv/images/movies/000/001/267/cleararts/medium/85a472d851.png.webp"
           ]
         },
-        "rating": 8.351812362670898,
+        "rating": 8.351765632629395,
         "status": "released",
         "country": "us",
         "runtime": 132,
@@ -19313,7 +19313,7 @@
         },
         "year": 1969,
         "title": "This Man Must Die",
-        "votes": 89,
+        "votes": 90,
         "colors": {
           "poster": [
             "#F7F8F9",
@@ -19337,7 +19337,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.101123809814453,
+        "rating": 7.099999904632568,
         "status": "released",
         "country": "fr",
         "runtime": 113,
@@ -19397,7 +19397,7 @@
         },
         "year": 1962,
         "title": "Le Doulos",
-        "votes": 244,
+        "votes": 245,
         "colors": {
           "poster": [
             "#F2F1F1",
@@ -19421,7 +19421,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.5409836769104,
+        "rating": 7.5428571701049805,
         "status": "released",
         "country": "fr",
         "runtime": 108,
@@ -19488,7 +19488,7 @@
         },
         "year": 1956,
         "title": "Bob le Flambeur",
-        "votes": 272,
+        "votes": 273,
         "colors": {
           "poster": [
             "#C48A56",
@@ -19512,7 +19512,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.305147171020508,
+        "rating": 7.300366401672363,
         "status": "released",
         "country": "fr",
         "runtime": 103,
@@ -19577,7 +19577,7 @@
         },
         "year": 1945,
         "title": "Scarlet Street",
-        "votes": 450,
+        "votes": 451,
         "colors": {
           "poster": [
             "#93B297",
@@ -19600,7 +19600,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.668889045715332,
+        "rating": 7.669622898101807,
         "status": "released",
         "country": "us",
         "runtime": 103,
@@ -19667,7 +19667,7 @@
         },
         "year": 1962,
         "title": "The Trial",
-        "votes": 590,
+        "votes": 591,
         "colors": {
           "poster": [
             "#E5E5E5",
@@ -19697,7 +19697,7 @@
             "media.trakt.tv/images/movies/000/001/994/cleararts/medium/ab46ec3590.png.webp"
           ]
         },
-        "rating": 7.225423812866211,
+        "rating": 7.226734161376953,
         "status": "released",
         "country": "us",
         "runtime": 119,
@@ -19868,7 +19868,7 @@
         },
         "year": 1967,
         "title": "In Cold Blood",
-        "votes": 543,
+        "votes": 544,
         "colors": {
           "poster": [
             "#E2D3D3",
@@ -19897,7 +19897,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.462246894836426,
+        "rating": 7.463235378265381,
         "status": "released",
         "country": "us",
         "runtime": 134,
@@ -20073,7 +20073,7 @@
         },
         "year": 1945,
         "title": "Mildred Pierce",
-        "votes": 646,
+        "votes": 647,
         "colors": {
           "poster": [
             "#D0B859",
@@ -20102,7 +20102,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.746129989624023,
+        "rating": 7.744976997375488,
         "status": "released",
         "country": "us",
         "runtime": 111,
@@ -20280,7 +20280,7 @@
         },
         "year": 1967,
         "title": "In the Heat of the Night",
-        "votes": 1802,
+        "votes": 1803,
         "colors": {
           "poster": [
             "#EEEEEE",
@@ -20311,7 +20311,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.779134273529053,
+        "rating": 7.778702259063721,
         "status": "released",
         "country": "us",
         "runtime": 109,
@@ -20536,7 +20536,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.387086391448975,
+        "rating": 7.387722492218018,
         "status": "released",
         "country": "us",
         "runtime": 153,
@@ -20972,7 +20972,7 @@
         },
         "year": 1988,
         "title": "The Vanishing",
-        "votes": 1677,
+        "votes": 1678,
         "colors": {
           "poster": [
             "#AE9168",
@@ -21001,7 +21001,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.351818561553955,
+        "rating": 7.349225044250488,
         "status": "released",
         "country": "nl",
         "runtime": 106,
@@ -21173,7 +21173,7 @@
         },
         "year": 2013,
         "title": "The Past",
-        "votes": 800,
+        "votes": 801,
         "colors": {
           "poster": [
             "#D0B6A8",
@@ -21198,7 +21198,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.394999980926514,
+        "rating": 7.395755290985107,
         "status": "released",
         "country": "fr",
         "runtime": 130,
@@ -21378,7 +21378,7 @@
         },
         "year": 2000,
         "title": "Nine Queens",
-        "votes": 1349,
+        "votes": 1350,
         "colors": {
           "poster": [
             "#7CB6BC",
@@ -21406,7 +21406,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.064492225646973,
+        "rating": 8.064444541931152,
         "status": "released",
         "country": "ar",
         "runtime": 114,
@@ -21477,7 +21477,7 @@
         },
         "year": 1992,
         "title": "Hard Boiled",
-        "votes": 1619,
+        "votes": 1620,
         "colors": {
           "poster": [
             "#B46F4E",
@@ -21507,7 +21507,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.7010498046875,
+        "rating": 7.70061731338501,
         "status": "released",
         "country": "hk",
         "runtime": 126,
@@ -21792,7 +21792,7 @@
         },
         "year": 2009,
         "title": "The White Ribbon",
-        "votes": 1427,
+        "votes": 1428,
         "colors": {
           "poster": [
             "#C6C7C9",
@@ -21819,7 +21819,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.566222667694092,
+        "rating": 7.566526412963867,
         "status": "released",
         "country": "de",
         "runtime": 144,
@@ -21894,7 +21894,7 @@
         },
         "year": 2014,
         "title": "Leviathan",
-        "votes": 1399,
+        "votes": 1400,
         "colors": {
           "poster": [
             "#7795A7",
@@ -21923,7 +21923,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.235882759094238,
+        "rating": 7.235714435577393,
         "status": "released",
         "country": "ru",
         "runtime": 141,
@@ -22206,7 +22206,7 @@
         },
         "year": 2002,
         "title": "Infernal Affairs",
-        "votes": 2783,
+        "votes": 2784,
         "colors": {
           "poster": [
             "#9EBEBE",
@@ -22238,7 +22238,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.966582775115967,
+        "rating": 7.966594696044922,
         "status": "released",
         "country": "hk",
         "runtime": 101,
@@ -22431,7 +22431,7 @@
         },
         "year": 1991,
         "title": "Thelma & Louise",
-        "votes": 4951,
+        "votes": 4952,
         "colors": {
           "poster": [
             "#EEEAE5",
@@ -22463,7 +22463,7 @@
             "media.trakt.tv/images/movies/000/001/001/cleararts/medium/bbbdb914d1.png.webp"
           ]
         },
-        "rating": 7.6233086585998535,
+        "rating": 7.623182773590088,
         "status": "released",
         "country": "us",
         "runtime": 130,
@@ -22678,7 +22678,7 @@
         },
         "year": 2007,
         "title": "The Man from Earth",
-        "votes": 7416,
+        "votes": 7418,
         "colors": {
           "poster": [
             "#95A9DA",
@@ -22709,7 +22709,7 @@
             "media.trakt.tv/images/movies/000/007/848/cleararts/medium/1235c65dd7.png.webp"
           ]
         },
-        "rating": 7.804746627807617,
+        "rating": 7.804934024810791,
         "status": "released",
         "country": "us",
         "runtime": 87,
@@ -22788,7 +22788,7 @@
         },
         "year": 1988,
         "title": "Akira",
-        "votes": 10960,
+        "votes": 10963,
         "colors": {
           "poster": [
             "#E6EDF1",
@@ -22820,7 +22820,7 @@
             "media.trakt.tv/images/movies/000/000/115/cleararts/medium/c95b6df5b0.png.webp"
           ]
         },
-        "rating": 8.119616508483887,
+        "rating": 8.119766235351562,
         "status": "released",
         "country": "jp",
         "runtime": 124,
@@ -22935,7 +22935,7 @@
             "media.trakt.tv/images/movies/000/002/913/cleararts/medium/7e91099b72.png.webp"
           ]
         },
-        "rating": 7.830076217651367,
+        "rating": 7.8304266929626465,
         "status": "released",
         "country": "us",
         "runtime": 157,
@@ -23028,7 +23028,7 @@
         },
         "year": 2000,
         "title": "Requiem for a Dream",
-        "votes": 18859,
+        "votes": 18863,
         "colors": {
           "poster": [
             "#C4C0C8",
@@ -23059,7 +23059,7 @@
             "media.trakt.tv/images/movies/000/000/517/cleararts/medium/2be29fc82e.png.webp"
           ]
         },
-        "rating": 8.10377025604248,
+        "rating": 8.103800773620605,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -24318,7 +24318,7 @@
         },
         "year": 1964,
         "title": "The Train",
-        "votes": 484,
+        "votes": 486,
         "colors": {
           "poster": [
             "#E6DBC8",
@@ -24349,7 +24349,7 @@
             "media.trakt.tv/images/movies/000/002/223/cleararts/medium/b8bc4082ed.png.webp"
           ]
         },
-        "rating": 7.580578327178955,
+        "rating": 7.58230447769165,
         "status": "released",
         "country": "us",
         "runtime": 133,
@@ -24425,7 +24425,7 @@
         },
         "year": 1950,
         "title": "Winchester '73",
-        "votes": 550,
+        "votes": 551,
         "colors": {
           "poster": [
             "#EFDEBA",
@@ -24451,7 +24451,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.425454616546631,
+        "rating": 7.426497459411621,
         "status": "released",
         "country": "us",
         "runtime": 92,
@@ -24911,7 +24911,7 @@
             "media.trakt.tv/images/movies/000/566/825/cleararts/medium/3999e92650.png.webp"
           ]
         },
-        "rating": 7.361377239227295,
+        "rating": 7.361573219299316,
         "status": "released",
         "country": "us",
         "runtime": 135,
@@ -25093,7 +25093,7 @@
         },
         "year": 2019,
         "title": "Article 15",
-        "votes": 634,
+        "votes": 635,
         "colors": {
           "poster": [
             "#B49A81",
@@ -25117,7 +25117,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.787066459655762,
+        "rating": 7.79055118560791,
         "status": "released",
         "country": "in",
         "runtime": 130,
@@ -25171,7 +25171,7 @@
         },
         "year": 2018,
         "title": "The Guilty",
-        "votes": 3356,
+        "votes": 3357,
         "colors": {
           "poster": [
             "#B0A090",
@@ -25201,7 +25201,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.343563556671143,
+        "rating": 7.34316349029541,
         "status": "released",
         "country": "dk",
         "runtime": 85,
@@ -25561,7 +25561,7 @@
         },
         "year": 1935,
         "title": "Captain Blood",
-        "votes": 400,
+        "votes": 401,
         "colors": {
           "poster": [
             "#FCE6CD",
@@ -25587,7 +25587,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.554999828338623,
+        "rating": 7.553616046905518,
         "status": "released",
         "country": "us",
         "runtime": 119,
@@ -25955,7 +25955,7 @@
         },
         "year": 1951,
         "title": "The Day the Earth Stood Still",
-        "votes": 2229,
+        "votes": 2230,
         "colors": {
           "poster": [
             "#92927E",
@@ -25987,7 +25987,7 @@
             "media.trakt.tv/images/movies/000/000/671/cleararts/medium/9b6ecf311d.png.webp"
           ]
         },
-        "rating": 7.572902679443359,
+        "rating": 7.573094367980957,
         "status": "released",
         "country": "us",
         "runtime": 92,
@@ -26415,7 +26415,7 @@
         },
         "year": 1977,
         "title": "3 Women",
-        "votes": 476,
+        "votes": 477,
         "colors": {
           "poster": [
             "#D9DCE7",
@@ -26439,7 +26439,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.457983016967773,
+        "rating": 7.4591193199157715,
         "status": "released",
         "country": "us",
         "runtime": 124,
@@ -26505,7 +26505,7 @@
         },
         "year": 1988,
         "title": "A Short Film About Killing",
-        "votes": 415,
+        "votes": 416,
         "colors": {
           "poster": [
             "#B9B55B",
@@ -26530,7 +26530,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.715662479400635,
+        "rating": 7.711538314819336,
         "status": "released",
         "country": "pl",
         "runtime": 85,
@@ -27241,7 +27241,7 @@
         },
         "year": 2005,
         "title": "Caché",
-        "votes": 1670,
+        "votes": 1671,
         "colors": {
           "poster": [
             "#F7EFED",
@@ -27267,7 +27267,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.110778331756592,
+        "rating": 7.108318328857422,
         "status": "released",
         "country": "fr",
         "runtime": 118,
@@ -27662,7 +27662,7 @@
         },
         "year": 1992,
         "title": "Glengarry Glen Ross",
-        "votes": 2990,
+        "votes": 2991,
         "colors": {
           "poster": [
             "#C7E4FA",
@@ -27690,7 +27690,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.483612060546875,
+        "rating": 7.484118938446045,
         "status": "released",
         "country": "us",
         "runtime": 100,
@@ -27770,7 +27770,7 @@
         },
         "year": 1973,
         "title": "Serpico",
-        "votes": 3035,
+        "votes": 3039,
         "colors": {
           "poster": [
             "#B9C888",
@@ -27801,7 +27801,7 @@
             "media.trakt.tv/images/movies/000/004/493/cleararts/medium/e1d7b7bb2f.png.webp"
           ]
         },
-        "rating": 7.632289886474609,
+        "rating": 7.631786823272705,
         "status": "released",
         "country": "us",
         "runtime": 130,
@@ -28028,7 +28028,7 @@
             "media.trakt.tv/images/movies/000/002/909/cleararts/medium/87e7d234c8.png.webp"
           ]
         },
-        "rating": 7.834385871887207,
+        "rating": 7.834024906158447,
         "status": "released",
         "country": "jp",
         "runtime": 90,
@@ -28224,7 +28224,7 @@
         },
         "year": 1995,
         "title": "Ghost in the Shell",
-        "votes": 9690,
+        "votes": 9691,
         "colors": {
           "poster": [
             "#D8DCD9",
@@ -28256,7 +28256,7 @@
             "media.trakt.tv/images/movies/000/004/621/cleararts/medium/16b295a55e.png.webp"
           ]
         },
-        "rating": 8.065428733825684,
+        "rating": 8.065421104431152,
         "status": "released",
         "country": "jp",
         "runtime": 83,
@@ -28339,7 +28339,7 @@
         },
         "year": 1993,
         "title": "Jurassic Park",
-        "votes": 40426,
+        "votes": 40432,
         "colors": {
           "poster": [
             "#EB8667",
@@ -28370,7 +28370,7 @@
             "media.trakt.tv/images/movies/000/000/276/cleararts/medium/29045638c4.png.webp"
           ]
         },
-        "rating": 8.263766288757324,
+        "rating": 8.263775825500488,
         "status": "released",
         "country": "us",
         "runtime": 127,
@@ -28455,7 +28455,7 @@
         },
         "year": 2025,
         "title": "Predator: Badlands",
-        "votes": 10589,
+        "votes": 10638,
         "colors": {
           "poster": [
             "#B1654C",
@@ -28487,7 +28487,7 @@
             "media.trakt.tv/images/movies/001/006/226/cleararts/medium/d7748a88e4.png.webp"
           ]
         },
-        "rating": 7.518368244171143,
+        "rating": 7.5207743644714355,
         "status": "released",
         "country": "us",
         "runtime": 107,
@@ -28863,7 +28863,7 @@
         },
         "year": 2008,
         "title": "Hunger",
-        "votes": 1726,
+        "votes": 1727,
         "colors": {
           "poster": [
             "#B19686",
@@ -28892,7 +28892,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.35283899307251,
+        "rating": 7.350318431854248,
         "status": "released",
         "country": "ie",
         "runtime": 96,
@@ -28963,7 +28963,7 @@
         },
         "year": 1965,
         "title": "Pierrot le Fou",
-        "votes": 836,
+        "votes": 837,
         "colors": {
           "poster": [
             "#E0DFDD",
@@ -28989,7 +28989,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.346889972686768,
+        "rating": 7.347670078277588,
         "status": "released",
         "country": "fr",
         "runtime": 110,
@@ -29405,7 +29405,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.456298351287842,
+        "rating": 7.4511566162109375,
         "status": "released",
         "country": "dk",
         "runtime": 100,
@@ -29478,7 +29478,7 @@
         },
         "year": 2003,
         "title": "The Return",
-        "votes": 640,
+        "votes": 641,
         "colors": {
           "poster": [
             "#A0AA99",
@@ -29501,7 +29501,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.6484375,
+        "rating": 7.64430570602417,
         "status": "released",
         "country": "ru",
         "runtime": 111,
@@ -29570,7 +29570,7 @@
         },
         "year": 1988,
         "title": "Mississippi Burning",
-        "votes": 3028,
+        "votes": 3030,
         "colors": {
           "poster": [
             "#EEF0F1",
@@ -29601,7 +29601,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.788639545440674,
+        "rating": 7.788118839263916,
         "status": "released",
         "country": "us",
         "runtime": 128,
@@ -29686,7 +29686,7 @@
         },
         "year": 1964,
         "title": "Zulu",
-        "votes": 1014,
+        "votes": 1016,
         "colors": {
           "poster": [
             "#F5F3EF",
@@ -29719,7 +29719,7 @@
             "media.trakt.tv/images/movies/000/008/678/cleararts/medium/173bc40a82.png.webp"
           ]
         },
-        "rating": 7.546350955963135,
+        "rating": 7.545275688171387,
         "status": "released",
         "country": "gb",
         "runtime": 138,
@@ -29793,7 +29793,7 @@
         },
         "year": 1994,
         "title": "Speed",
-        "votes": 13296,
+        "votes": 13298,
         "colors": {
           "poster": [
             "#D46E3D",
@@ -29824,7 +29824,7 @@
             "media.trakt.tv/images/movies/000/001/083/cleararts/medium/2ca04a1ad7.png.webp"
           ]
         },
-        "rating": 7.443667411804199,
+        "rating": 7.443375110626221,
         "status": "released",
         "country": "us",
         "runtime": 116,
@@ -30000,7 +30000,7 @@
         },
         "year": 1979,
         "title": "Escape from Alcatraz",
-        "votes": 4821,
+        "votes": 4822,
         "colors": {
           "poster": [
             "#AFA195",
@@ -30031,7 +30031,7 @@
             "media.trakt.tv/images/movies/000/005/901/cleararts/medium/b6afb6d552.png.webp"
           ]
         },
-        "rating": 7.6575398445129395,
+        "rating": 7.657196044921875,
         "status": "released",
         "country": "us",
         "runtime": 113,
@@ -30545,7 +30545,7 @@
         },
         "year": 2017,
         "title": "War for the Planet of the Apes",
-        "votes": 27089,
+        "votes": 27090,
         "colors": {
           "poster": [
             "#B5ACB7",
@@ -30577,7 +30577,7 @@
             "media.trakt.tv/images/movies/000/178/749/cleararts/medium/3899acb18a.png.webp"
           ]
         },
-        "rating": 7.479936599731445,
+        "rating": 7.479955673217773,
         "status": "released",
         "country": "us",
         "runtime": 140,
@@ -30708,7 +30708,7 @@
             "media.trakt.tv/images/movies/000/266/273/cleararts/medium/b1385f0b2d.png.webp"
           ]
         },
-        "rating": 7.342566967010498,
+        "rating": 7.341643810272217,
         "status": "released",
         "country": "us",
         "runtime": 115,
@@ -30779,7 +30779,7 @@
         },
         "year": 2019,
         "title": "1917",
-        "votes": 30071,
+        "votes": 30074,
         "colors": {
           "poster": [
             "#A7ABA8",
@@ -30813,7 +30813,7 @@
             "media.trakt.tv/images/movies/000/382/862/cleararts/medium/f6595c31cf.png.webp"
           ]
         },
-        "rating": 8.135811805725098,
+        "rating": 8.13589859008789,
         "status": "released",
         "country": "us",
         "runtime": 119,
@@ -31089,7 +31089,7 @@
         },
         "year": 2018,
         "title": "The Hate U Give",
-        "votes": 3166,
+        "votes": 3167,
         "colors": {
           "poster": [
             "#F4ECEA",
@@ -31120,7 +31120,7 @@
             "media.trakt.tv/images/movies/000/317/344/cleararts/medium/057fc02fe7.png.webp"
           ]
         },
-        "rating": 8.0739107131958,
+        "rating": 8.07388687133789,
         "status": "released",
         "country": "us",
         "runtime": 133,
@@ -31551,7 +31551,7 @@
         },
         "year": 1960,
         "title": "Purple Noon",
-        "votes": 475,
+        "votes": 476,
         "colors": {
           "poster": [
             "#E7E3DD",
@@ -31579,7 +31579,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.5326313972473145,
+        "rating": 7.533613681793213,
         "status": "released",
         "country": "fr",
         "runtime": 118,
@@ -31651,7 +31651,7 @@
         },
         "year": 1955,
         "title": "Kiss Me Deadly",
-        "votes": 491,
+        "votes": 492,
         "colors": {
           "poster": [
             "#E8D942",
@@ -31679,7 +31679,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.389001846313477,
+        "rating": 7.382113933563232,
         "status": "released",
         "country": "us",
         "runtime": 106,
@@ -31745,7 +31745,7 @@
         },
         "year": 1946,
         "title": "The Killers",
-        "votes": 559,
+        "votes": 560,
         "colors": {
           "poster": [
             "#D6B5B2",
@@ -31771,7 +31771,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.53130578994751,
+        "rating": 7.533928394317627,
         "status": "released",
         "country": "us",
         "runtime": 103,
@@ -31842,7 +31842,7 @@
         },
         "year": 1966,
         "title": "Blow-Up",
-        "votes": 1294,
+        "votes": 1295,
         "colors": {
           "poster": [
             "#F3EFDC",
@@ -31870,7 +31870,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.15455961227417,
+        "rating": 7.154439926147461,
         "status": "released",
         "country": "gb",
         "runtime": 111,
@@ -31941,7 +31941,7 @@
         },
         "year": 1968,
         "title": "Planet of the Apes",
-        "votes": 6998,
+        "votes": 7000,
         "colors": {
           "poster": [
             "#B5A99D",
@@ -31974,7 +31974,7 @@
             "media.trakt.tv/images/movies/000/000/714/cleararts/medium/fe32338291.png.webp"
           ]
         },
-        "rating": 7.683338165283203,
+        "rating": 7.683428764343262,
         "status": "released",
         "country": "us",
         "runtime": 112,
@@ -32802,7 +32802,7 @@
         },
         "year": 2011,
         "title": "Once Upon a Time in Anatolia",
-        "votes": 767,
+        "votes": 768,
         "colors": {
           "poster": [
             "#A79787",
@@ -32827,7 +32827,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.548892021179199,
+        "rating": 7.541666507720947,
         "status": "released",
         "country": "tr",
         "runtime": 163,
@@ -33312,7 +33312,7 @@
         },
         "year": 2006,
         "title": "Tell No One",
-        "votes": 1650,
+        "votes": 1651,
         "colors": {
           "poster": [
             "#E0E0E0",
@@ -33341,7 +33341,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.486666679382324,
+        "rating": 7.485766410827637,
         "status": "released",
         "country": "fr",
         "runtime": 131,
@@ -33627,7 +33627,7 @@
         },
         "year": 2012,
         "title": "Justice League: Doom",
-        "votes": 2617,
+        "votes": 2618,
         "colors": {
           "poster": [
             "#BF9D9A",
@@ -33660,7 +33660,7 @@
             "media.trakt.tv/images/movies/000/056/569/cleararts/medium/64908a649e.png.webp"
           ]
         },
-        "rating": 7.5750861167907715,
+        "rating": 7.57486629486084,
         "status": "released",
         "country": "us",
         "runtime": 77,
@@ -33829,7 +33829,7 @@
         },
         "year": 1973,
         "title": "Enter the Dragon",
-        "votes": 4130,
+        "votes": 4132,
         "colors": {
           "poster": [
             "#D0884A",
@@ -33859,7 +33859,7 @@
             "media.trakt.tv/images/movies/000/004/748/cleararts/medium/6a469ea48b.png.webp"
           ]
         },
-        "rating": 7.718886375427246,
+        "rating": 7.718296051025391,
         "status": "released",
         "country": "hk",
         "runtime": 102,
@@ -33974,7 +33974,7 @@
             "media.trakt.tv/images/movies/000/000/814/cleararts/medium/de475c89ee.png.webp"
           ]
         },
-        "rating": 7.584298133850098,
+        "rating": 7.583709716796875,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -34066,7 +34066,7 @@
         },
         "year": 1997,
         "title": "Donnie Brasco",
-        "votes": 6956,
+        "votes": 6957,
         "colors": {
           "poster": [
             "#D7B37A",
@@ -34098,7 +34098,7 @@
             "media.trakt.tv/images/movies/000/004/657/cleararts/medium/09c06eb409.png.webp"
           ]
         },
-        "rating": 7.72843599319458,
+        "rating": 7.728187561035156,
         "status": "released",
         "country": "us",
         "runtime": 127,
@@ -34182,7 +34182,7 @@
         },
         "year": 1990,
         "title": "Misery",
-        "votes": 8168,
+        "votes": 8173,
         "colors": {
           "poster": [
             "#9BABC3",
@@ -34213,7 +34213,7 @@
             "media.trakt.tv/images/movies/000/001/137/cleararts/medium/72575f7e34.png.webp"
           ]
         },
-        "rating": 7.836802005767822,
+        "rating": 7.837024211883545,
         "status": "released",
         "country": "us",
         "runtime": 107,
@@ -34298,7 +34298,7 @@
         },
         "year": 1981,
         "title": "Mad Max 2",
-        "votes": 8434,
+        "votes": 8435,
         "colors": {
           "poster": [
             "#B35712",
@@ -34331,7 +34331,7 @@
             "media.trakt.tv/images/movies/000/004/314/cleararts/medium/29a392e07b.png.webp"
           ]
         },
-        "rating": 7.495968818664551,
+        "rating": 7.495909690856934,
         "status": "released",
         "country": "au",
         "runtime": 96,
@@ -34448,7 +34448,7 @@
             "media.trakt.tv/images/movies/000/056/931/cleararts/medium/494d02f2b4.png.webp"
           ]
         },
-        "rating": 7.6224775314331055,
+        "rating": 7.622125625610352,
         "status": "released",
         "country": "us",
         "runtime": 109,
@@ -34769,7 +34769,7 @@
         },
         "year": 2025,
         "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-        "votes": 2509,
+        "votes": 2512,
         "colors": {
           "poster": [
             "#9C8E98",
@@ -34797,7 +34797,7 @@
             "media.trakt.tv/images/movies/001/071/058/cleararts/medium/f6482d3e7e.png.webp"
           ]
         },
-        "rating": 8.338780403137207,
+        "rating": 8.33837604522705,
         "status": "released",
         "country": "jp",
         "runtime": 156,
@@ -35052,7 +35052,7 @@
         },
         "year": 2022,
         "title": "The Night of the 12th",
-        "votes": 747,
+        "votes": 748,
         "colors": {
           "poster": [
             "#9398B8",
@@ -35080,7 +35080,7 @@
             "media.trakt.tv/images/movies/000/741/094/cleararts/medium/0b122891f5.png.webp"
           ]
         },
-        "rating": 7.054886341094971,
+        "rating": 7.052138805389404,
         "status": "released",
         "country": "be",
         "runtime": 114,
@@ -35256,7 +35256,7 @@
         },
         "year": 2021,
         "title": "7 Prisoners",
-        "votes": 624,
+        "votes": 625,
         "colors": {
           "poster": [
             "#C28D4B",
@@ -35281,7 +35281,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.128205299377441,
+        "rating": 7.127999782562256,
         "status": "released",
         "country": "br",
         "runtime": 93,
@@ -35840,7 +35840,7 @@
         },
         "year": 1978,
         "title": "The 36th Chamber of Shaolin",
-        "votes": 854,
+        "votes": 857,
         "colors": {
           "poster": [
             "#ECB6B8",
@@ -35869,7 +35869,7 @@
             "media.trakt.tv/images/movies/000/006/864/cleararts/medium/9e3e083c45.png.webp"
           ]
         },
-        "rating": 7.661592483520508,
+        "rating": 7.663943767547607,
         "status": "released",
         "country": "hk",
         "runtime": 116,
@@ -36024,7 +36024,7 @@
         },
         "year": 1963,
         "title": "From Russia with Love",
-        "votes": 6436,
+        "votes": 6437,
         "colors": {
           "poster": [
             "#F2F0E3",
@@ -36056,7 +36056,7 @@
             "media.trakt.tv/images/movies/000/000/531/cleararts/medium/45dce34d8b.png.webp"
           ]
         },
-        "rating": 7.31432580947876,
+        "rating": 7.314276695251465,
         "status": "released",
         "country": "us",
         "runtime": 115,
@@ -36177,7 +36177,7 @@
             "media.trakt.tv/images/movies/000/000/034/cleararts/medium/ed8c165369.png.webp"
           ]
         },
-        "rating": 7.910366058349609,
+        "rating": 7.910629749298096,
         "status": "released",
         "country": "us",
         "runtime": 129,
@@ -36283,7 +36283,7 @@
         },
         "year": 1993,
         "title": "True Romance",
-        "votes": 6112,
+        "votes": 6113,
         "colors": {
           "poster": [
             "#A18280",
@@ -36315,7 +36315,7 @@
             "media.trakt.tv/images/movies/000/000/270/cleararts/medium/d68cfeaa81.png.webp"
           ]
         },
-        "rating": 7.850294589996338,
+        "rating": 7.849828243255615,
         "status": "released",
         "country": "us",
         "runtime": 121,
@@ -36500,7 +36500,7 @@
         },
         "year": 2007,
         "title": "Before the Devil Knows You're Dead",
-        "votes": 2780,
+        "votes": 2781,
         "colors": {
           "poster": [
             "#D59995",
@@ -36530,7 +36530,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.085971355438232,
+        "rating": 7.085580825805664,
         "status": "released",
         "country": "us",
         "runtime": 117,
@@ -36609,7 +36609,7 @@
         },
         "year": 2000,
         "title": "Battle Royale",
-        "votes": 7568,
+        "votes": 7570,
         "colors": {
           "poster": [
             "#C93D3E",
@@ -36642,7 +36642,7 @@
             "media.trakt.tv/images/movies/000/002/134/cleararts/medium/be0b3d7400.png.webp"
           ]
         },
-        "rating": 7.477405071258545,
+        "rating": 7.477146625518799,
         "status": "released",
         "country": "jp",
         "runtime": 113,
@@ -36734,7 +36734,7 @@
         },
         "year": 1995,
         "title": "Braveheart",
-        "votes": 22815,
+        "votes": 22817,
         "colors": {
           "poster": [
             "#D0905B",
@@ -36767,7 +36767,7 @@
             "media.trakt.tv/images/movies/000/000/160/cleararts/medium/faf2528ca3.png.webp"
           ]
         },
-        "rating": 8.20622444152832,
+        "rating": 8.206206321716309,
         "status": "released",
         "country": "us",
         "runtime": 178,
@@ -36855,7 +36855,7 @@
         },
         "year": 1995,
         "title": "La Cérémonie",
-        "votes": 354,
+        "votes": 355,
         "colors": {
           "poster": [
             "#D69D70",
@@ -36878,7 +36878,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.353107452392578,
+        "rating": 7.349295616149902,
         "status": "released",
         "country": "fr",
         "runtime": 112,
@@ -36942,7 +36942,7 @@
         },
         "year": 1975,
         "title": "The Passenger",
-        "votes": 447,
+        "votes": 448,
         "colors": {
           "poster": [
             "#ECEAE6",
@@ -36968,7 +36968,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.2147650718688965,
+        "rating": 7.2120537757873535,
         "status": "released",
         "country": "it",
         "runtime": 126,
@@ -37042,7 +37042,7 @@
         },
         "year": 1997,
         "title": "Open Your Eyes",
-        "votes": 1715,
+        "votes": 1716,
         "colors": {
           "poster": [
             "#D1E1E6",
@@ -37074,7 +37074,7 @@
             "media.trakt.tv/images/movies/000/001/276/cleararts/medium/a87a38c6c4.png.webp"
           ]
         },
-        "rating": 7.575510025024414,
+        "rating": 7.5757575035095215,
         "status": "released",
         "country": "es",
         "runtime": 117,
@@ -37148,7 +37148,7 @@
         },
         "year": 1960,
         "title": "The Magnificent Seven",
-        "votes": 3066,
+        "votes": 3067,
         "colors": {
           "poster": [
             "#EBE9E6",
@@ -37180,7 +37180,7 @@
             "media.trakt.tv/images/movies/000/000/802/cleararts/medium/0ad73f6077.png.webp"
           ]
         },
-        "rating": 7.661774158477783,
+        "rating": 7.6612324714660645,
         "status": "released",
         "country": "us",
         "runtime": 127,
@@ -37391,7 +37391,7 @@
         },
         "year": 2021,
         "title": "Shang-Chi and the Legend of the Ten Rings",
-        "votes": 26200,
+        "votes": 26202,
         "colors": {
           "poster": [
             "#7A9FB2",
@@ -37424,7 +37424,7 @@
             "media.trakt.tv/images/movies/000/416/151/cleararts/medium/d01b1c5aa4.png.webp"
           ]
         },
-        "rating": 7.40041971206665,
+        "rating": 7.400084018707275,
         "status": "released",
         "country": "us",
         "runtime": 132,
@@ -37721,7 +37721,7 @@
         },
         "year": 2018,
         "title": "The Witch: Part 1. The Subversion",
-        "votes": 1766,
+        "votes": 1767,
         "colors": {
           "poster": [
             "#A48C6C",
@@ -37747,7 +37747,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.693657875061035,
+        "rating": 7.694397449493408,
         "status": "released",
         "country": "kr",
         "runtime": 126,
@@ -37826,7 +37826,7 @@
         },
         "year": 2019,
         "title": "Uncut Gems",
-        "votes": 14357,
+        "votes": 14360,
         "colors": {
           "poster": [
             "#DBD6CA",
@@ -37858,7 +37858,7 @@
             "media.trakt.tv/images/movies/000/328/678/cleararts/medium/fd8ad5aee9.png.webp"
           ]
         },
-        "rating": 7.323605060577393,
+        "rating": 7.323607444763184,
         "status": "released",
         "country": "us",
         "runtime": 136,
@@ -38141,7 +38141,7 @@
         },
         "year": 2018,
         "title": "Incredibles 2",
-        "votes": 27096,
+        "votes": 27100,
         "colors": {
           "poster": [
             "#D5723F",
@@ -38175,7 +38175,7 @@
             "media.trakt.tv/images/movies/000/159/626/cleararts/medium/d731873af1.png.webp"
           ]
         },
-        "rating": 7.656148433685303,
+        "rating": 7.655977725982666,
         "status": "released",
         "country": "us",
         "runtime": 118,
@@ -38502,7 +38502,7 @@
         },
         "year": 1931,
         "title": "The Public Enemy",
-        "votes": 449,
+        "votes": 450,
         "colors": {
           "poster": [
             "#E2B470",
@@ -38529,7 +38529,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.340757369995117,
+        "rating": 7.337777614593506,
         "status": "released",
         "country": "us",
         "runtime": 84,
@@ -38601,7 +38601,7 @@
         },
         "year": 1962,
         "title": "Cape Fear",
-        "votes": 654,
+        "votes": 655,
         "colors": {
           "poster": [
             "#D5AA83",
@@ -38628,7 +38628,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.58562707901001,
+        "rating": 7.586259365081787,
         "status": "released",
         "country": "us",
         "runtime": 105,
@@ -38700,7 +38700,7 @@
         },
         "year": 1946,
         "title": "Gilda",
-        "votes": 790,
+        "votes": 791,
         "colors": {
           "poster": [
             "#B8C4C2",
@@ -38730,7 +38730,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.49620246887207,
+        "rating": 7.493046760559082,
         "status": "released",
         "country": "us",
         "runtime": 110,
@@ -38804,7 +38804,7 @@
         },
         "year": 1962,
         "title": "The Longest Day",
-        "votes": 1656,
+        "votes": 1657,
         "colors": {
           "poster": [
             "#D3D3D3",
@@ -38836,7 +38836,7 @@
             "media.trakt.tv/images/movies/000/004/589/cleararts/medium/a3e6d66443.png.webp"
           ]
         },
-        "rating": 7.804347991943359,
+        "rating": 7.805673122406006,
         "status": "released",
         "country": "us",
         "runtime": 178,
@@ -38915,7 +38915,7 @@
         },
         "year": 1955,
         "title": "To Catch a Thief",
-        "votes": 2090,
+        "votes": 2091,
         "colors": {
           "poster": [
             "#C3B39F",
@@ -38947,7 +38947,7 @@
             "media.trakt.tv/images/movies/000/000/305/cleararts/medium/15ffc79a69.png.webp"
           ]
         },
-        "rating": 7.424880504608154,
+        "rating": 7.4251556396484375,
         "status": "released",
         "country": "us",
         "runtime": 106,
@@ -39210,7 +39210,7 @@
         },
         "year": 1991,
         "title": "One False Move",
-        "votes": 421,
+        "votes": 422,
         "colors": {
           "poster": [
             "#AB657C",
@@ -39234,7 +39234,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.004750728607178,
+        "rating": 7.0023698806762695,
         "status": "released",
         "country": "us",
         "runtime": 105,
@@ -39301,7 +39301,7 @@
         },
         "year": 2001,
         "title": "Read My Lips",
-        "votes": 235,
+        "votes": 236,
         "colors": {
           "poster": [
             "#D9CCC3",
@@ -39328,7 +39328,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.302127838134766,
+        "rating": 7.30084753036499,
         "status": "released",
         "country": "fr",
         "runtime": 115,
@@ -40117,7 +40117,7 @@
         },
         "year": 1975,
         "title": "Picnic at Hanging Rock",
-        "votes": 1006,
+        "votes": 1008,
         "colors": {
           "poster": [
             "#B39296",
@@ -40144,7 +40144,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.990059852600098,
+        "rating": 6.989087104797363,
         "status": "released",
         "country": "au",
         "runtime": 107,
@@ -40309,7 +40309,7 @@
         },
         "year": 1974,
         "title": "The Taking of Pelham One Two Three",
-        "votes": 1159,
+        "votes": 1160,
         "colors": {
           "poster": [
             "#CC8368",
@@ -40335,7 +40335,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.591026782989502,
+        "rating": 7.591379165649414,
         "status": "released",
         "country": "us",
         "runtime": 104,
@@ -40408,7 +40408,7 @@
         },
         "year": 1972,
         "title": "Jeremiah Johnson",
-        "votes": 1060,
+        "votes": 1061,
         "colors": {
           "poster": [
             "#DDD9D4",
@@ -40439,7 +40439,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.642452716827393,
+        "rating": 7.641847133636475,
         "status": "released",
         "country": "us",
         "runtime": 108,
@@ -40513,7 +40513,7 @@
         },
         "year": 1973,
         "title": "Fantastic Planet",
-        "votes": 1658,
+        "votes": 1659,
         "colors": {
           "poster": [
             "#D0A328",
@@ -40538,7 +40538,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.66525936126709,
+        "rating": 7.663050174713135,
         "status": "released",
         "country": "fr",
         "runtime": 72,
@@ -40714,7 +40714,7 @@
         },
         "year": 1996,
         "title": "Bound",
-        "votes": 1994,
+        "votes": 1995,
         "colors": {
           "poster": [
             "#E6362E",
@@ -40746,7 +40746,7 @@
             "media.trakt.tv/images/movies/000/004/603/cleararts/medium/ffed5da8b2.png.webp"
           ]
         },
-        "rating": 7.329989910125732,
+        "rating": 7.330325603485107,
         "status": "released",
         "country": "us",
         "runtime": 105,
@@ -41033,7 +41033,7 @@
         },
         "year": 2008,
         "title": "The Chaser",
-        "votes": 2394,
+        "votes": 2396,
         "colors": {
           "poster": [
             "#D6A4A3",
@@ -41063,7 +41063,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.774853706359863,
+        "rating": 7.773372173309326,
         "status": "released",
         "country": "kr",
         "runtime": 125,
@@ -41140,7 +41140,7 @@
         },
         "year": 1985,
         "title": "Witness",
-        "votes": 2558,
+        "votes": 2559,
         "colors": {
           "poster": [
             "#CD4824",
@@ -41172,7 +41172,7 @@
             "media.trakt.tv/images/movies/000/004/581/cleararts/medium/56fdad6551.png.webp"
           ]
         },
-        "rating": 7.268178462982178,
+        "rating": 7.2676825523376465,
         "status": "released",
         "country": "us",
         "runtime": 112,
@@ -41248,7 +41248,7 @@
         },
         "year": 1993,
         "title": "A Perfect World",
-        "votes": 2114,
+        "votes": 2115,
         "colors": {
           "poster": [
             "#D6DEE6",
@@ -41278,7 +41278,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.514191150665283,
+        "rating": 7.513002395629883,
         "status": "released",
         "country": "us",
         "runtime": 138,
@@ -41690,7 +41690,7 @@
         },
         "year": 2017,
         "title": "Good Time",
-        "votes": 6312,
+        "votes": 6314,
         "colors": {
           "poster": [
             "#B07653",
@@ -41722,7 +41722,7 @@
             "media.trakt.tv/images/movies/000/298/542/cleararts/medium/4d59f1b431.png.webp"
           ]
         },
-        "rating": 7.319233417510986,
+        "rating": 7.319448947906494,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -41806,7 +41806,7 @@
         },
         "year": 1999,
         "title": "The Talented Mr. Ripley",
-        "votes": 6621,
+        "votes": 6625,
         "colors": {
           "poster": [
             "#CE975D",
@@ -41836,7 +41836,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.321099758148193,
+        "rating": 7.321207523345947,
         "status": "released",
         "country": "us",
         "runtime": 140,
@@ -41919,7 +41919,7 @@
         },
         "year": 1983,
         "title": "WarGames",
-        "votes": 6232,
+        "votes": 6234,
         "colors": {
           "poster": [
             "#98768E",
@@ -41951,7 +41951,7 @@
             "media.trakt.tv/images/movies/000/000/703/cleararts/medium/388ce2c811.png.webp"
           ]
         },
-        "rating": 7.65388298034668,
+        "rating": 7.653833866119385,
         "status": "released",
         "country": "us",
         "runtime": 114,
@@ -42145,7 +42145,7 @@
         },
         "year": 1994,
         "title": "The Crow",
-        "votes": 8639,
+        "votes": 8642,
         "colors": {
           "poster": [
             "#E5D0CE",
@@ -42179,7 +42179,7 @@
             "media.trakt.tv/images/movies/000/004/778/cleararts/medium/2c0e8f2eb5.png.webp"
           ]
         },
-        "rating": 7.659566879272461,
+        "rating": 7.65864372253418,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -42270,7 +42270,7 @@
         },
         "year": 1997,
         "title": "Jackie Brown",
-        "votes": 10458,
+        "votes": 10461,
         "colors": {
           "poster": [
             "#D6D0B1",
@@ -42302,7 +42302,7 @@
             "media.trakt.tv/images/movies/000/000/148/cleararts/medium/799d08d697.png.webp"
           ]
         },
-        "rating": 7.550200939178467,
+        "rating": 7.550234317779541,
         "status": "released",
         "country": "us",
         "runtime": 154,
@@ -42383,7 +42383,7 @@
         },
         "year": 2012,
         "title": "The Impossible",
-        "votes": 9423,
+        "votes": 9424,
         "colors": {
           "poster": [
             "#E6E2D4",
@@ -42415,7 +42415,7 @@
             "media.trakt.tv/images/movies/000/059/757/cleararts/medium/1a3d7c4aeb.png.webp"
           ]
         },
-        "rating": 7.622307300567627,
+        "rating": 7.622347354888916,
         "status": "released",
         "country": "us",
         "runtime": 113,
@@ -42616,7 +42616,7 @@
         },
         "year": 2013,
         "title": "American Hustle",
-        "votes": 14417,
+        "votes": 14419,
         "colors": {
           "poster": [
             "#DCAB50",
@@ -42647,7 +42647,7 @@
             "media.trakt.tv/images/movies/000/107/776/cleararts/medium/04f70e2574.png.webp"
           ]
         },
-        "rating": 7.089338779449463,
+        "rating": 7.089395999908447,
         "status": "released",
         "country": "us",
         "runtime": 138,
@@ -42732,7 +42732,7 @@
         },
         "year": 2016,
         "title": "Hell or High Water",
-        "votes": 16138,
+        "votes": 16139,
         "colors": {
           "poster": [
             "#E9DAB9",
@@ -42764,7 +42764,7 @@
             "media.trakt.tv/images/movies/000/230/569/cleararts/medium/07d766e635.png.webp"
           ]
         },
-        "rating": 7.562585353851318,
+        "rating": 7.562488555908203,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -42848,7 +42848,7 @@
         },
         "year": 2009,
         "title": "District 9",
-        "votes": 24403,
+        "votes": 24404,
         "colors": {
           "poster": [
             "#C0C5C5",
@@ -42878,7 +42878,7 @@
             "media.trakt.tv/images/movies/000/010/803/cleararts/medium/af36948841.png.webp"
           ]
         },
-        "rating": 7.730770587921143,
+        "rating": 7.730986595153809,
         "status": "released",
         "country": "us",
         "runtime": 112,
@@ -42970,7 +42970,7 @@
         },
         "year": 2015,
         "title": "Star Wars: The Force Awakens",
-        "votes": 55597,
+        "votes": 55602,
         "colors": {
           "poster": [
             "#AC7F7F",
@@ -43002,7 +43002,7 @@
             "media.trakt.tv/images/movies/000/094/024/cleararts/medium/a31ab70d60.png.webp"
           ]
         },
-        "rating": 7.700631141662598,
+        "rating": 7.700604438781738,
         "status": "released",
         "country": "us",
         "runtime": 136,
@@ -43091,7 +43091,7 @@
         },
         "year": 2025,
         "title": "Predator: Killer of Killers",
-        "votes": 4736,
+        "votes": 4739,
         "colors": {
           "poster": [
             "#BFB7A5",
@@ -43124,7 +43124,7 @@
             "media.trakt.tv/images/movies/001/124/448/cleararts/medium/c58c2182f0.png.webp"
           ]
         },
-        "rating": 7.547086238861084,
+        "rating": 7.5465288162231445,
         "status": "released",
         "country": "us",
         "runtime": 85,
@@ -43212,7 +43212,7 @@
         },
         "year": 2025,
         "title": "Sisu: Road to Revenge",
-        "votes": 3509,
+        "votes": 3516,
         "colors": {
           "poster": [
             "#D8A757",
@@ -43237,7 +43237,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.1530351638793945,
+        "rating": 7.153299331665039,
         "status": "released",
         "country": "fi",
         "runtime": 89,
@@ -43992,7 +43992,7 @@
         },
         "year": 2003,
         "title": "Monster",
-        "votes": 4210,
+        "votes": 4211,
         "colors": {
           "poster": [
             "#BB9877",
@@ -44023,7 +44023,7 @@
             "media.trakt.tv/images/movies/000/000/396/cleararts/medium/0467574a68.png.webp"
           ]
         },
-        "rating": 7.305938243865967,
+        "rating": 7.306103229522705,
         "status": "released",
         "country": "us",
         "runtime": 109,
@@ -44110,7 +44110,7 @@
         },
         "year": 2000,
         "title": "Joint Security Area",
-        "votes": 1242,
+        "votes": 1243,
         "colors": {
           "poster": [
             "#BD5528",
@@ -44140,7 +44140,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.7487921714782715,
+        "rating": 7.749798774719238,
         "status": "released",
         "country": "kr",
         "runtime": 108,
@@ -44331,7 +44331,7 @@
         },
         "year": 1987,
         "title": "RoboCop",
-        "votes": 12596,
+        "votes": 12599,
         "colors": {
           "poster": [
             "#A6A0AF",
@@ -44363,7 +44363,7 @@
             "media.trakt.tv/images/movies/000/003/138/cleararts/medium/6c2a50fa39.png.webp"
           ]
         },
-        "rating": 7.610114097595215,
+        "rating": 7.609889507293701,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -44656,7 +44656,7 @@
         },
         "year": 1948,
         "title": "Rope",
-        "votes": 3701,
+        "votes": 3702,
         "colors": {
           "poster": [
             "#7F6B87",
@@ -44688,7 +44688,7 @@
             "media.trakt.tv/images/movies/000/001/036/cleararts/medium/f80b40fa32.png.webp"
           ]
         },
-        "rating": 7.839232444763184,
+        "rating": 7.838465690612793,
         "status": "released",
         "country": "us",
         "runtime": 81,
@@ -44764,7 +44764,7 @@
         },
         "year": 2005,
         "title": "Match Point",
-        "votes": 4435,
+        "votes": 4436,
         "colors": {
           "poster": [
             "#F4EEE7",
@@ -44796,7 +44796,7 @@
             "media.trakt.tv/images/movies/000/000/085/cleararts/medium/93df0bc59b.png.webp"
           ]
         },
-        "rating": 7.3456597328186035,
+        "rating": 7.345581531524658,
         "status": "released",
         "country": "us",
         "runtime": 124,
@@ -45075,7 +45075,7 @@
         },
         "year": 2017,
         "title": "Wind River",
-        "votes": 17207,
+        "votes": 17208,
         "colors": {
           "poster": [
             "#CBCFD4",
@@ -45108,7 +45108,7 @@
             "media.trakt.tv/images/movies/000/238/651/cleararts/medium/807a955b7a.png.webp"
           ]
         },
-        "rating": 7.697506904602051,
+        "rating": 7.697408199310303,
         "status": "released",
         "country": "us",
         "runtime": 107,
@@ -45715,7 +45715,7 @@
         },
         "year": 2018,
         "title": "Dragon Ball Super: Broly",
-        "votes": 3736,
+        "votes": 3737,
         "colors": {
           "poster": [
             "#8B998E",
@@ -45747,7 +45747,7 @@
             "media.trakt.tv/images/movies/000/350/802/cleararts/medium/de04c9697c.png.webp"
           ]
         },
-        "rating": 7.813704490661621,
+        "rating": 7.813486576080322,
         "status": "released",
         "country": "jp",
         "runtime": 101,
@@ -45987,7 +45987,7 @@
         },
         "year": 1953,
         "title": "Pickup on South Street",
-        "votes": 357,
+        "votes": 358,
         "colors": {
           "poster": [
             "#F8F4E4",
@@ -46012,7 +46012,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.4285712242126465,
+        "rating": 7.4301676750183105,
         "status": "released",
         "country": "us",
         "runtime": 80,
@@ -46682,7 +46682,7 @@
         },
         "year": 1969,
         "title": "Butch Cassidy and the Sundance Kid",
-        "votes": 3789,
+        "votes": 3790,
         "colors": {
           "poster": [
             "#CEB66C",
@@ -46716,7 +46716,7 @@
             "media.trakt.tv/images/movies/000/000/518/cleararts/medium/7debcfc210.png.webp"
           ]
         },
-        "rating": 7.790445804595947,
+        "rating": 7.790501117706299,
         "status": "released",
         "country": "us",
         "runtime": 111,
@@ -47440,7 +47440,7 @@
         },
         "year": 2018,
         "title": "Transit",
-        "votes": 434,
+        "votes": 435,
         "colors": {
           "poster": [
             "#DAE4D1",
@@ -47465,7 +47465,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.023041248321533,
+        "rating": 7.022988319396973,
         "status": "released",
         "country": "de",
         "runtime": 102,
@@ -48312,7 +48312,7 @@
         },
         "year": 1977,
         "title": "Sorcerer",
-        "votes": 1426,
+        "votes": 1427,
         "colors": {
           "poster": [
             "#B2BAA8",
@@ -48342,7 +48342,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.7166900634765625,
+        "rating": 7.715487003326416,
         "status": "released",
         "country": "us",
         "runtime": 122,
@@ -48700,7 +48700,7 @@
         },
         "year": 2012,
         "title": "A Hijacking",
-        "votes": 552,
+        "votes": 553,
         "colors": {
           "poster": [
             "#90B19C",
@@ -48729,7 +48729,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.125,
+        "rating": 7.1229658126831055,
         "status": "released",
         "country": "dk",
         "runtime": 103,
@@ -49000,7 +49000,7 @@
         },
         "year": 2008,
         "title": "Gomorrah",
-        "votes": 1294,
+        "votes": 1295,
         "colors": {
           "poster": [
             "#DD0A1E",
@@ -49027,7 +49027,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.022411346435547,
+        "rating": 7.023166179656982,
         "status": "released",
         "country": "be",
         "runtime": 137,
@@ -49292,7 +49292,7 @@
         },
         "year": 2016,
         "title": "Tickled",
-        "votes": 1742,
+        "votes": 1743,
         "colors": {
           "poster": [
             "#E1DDE0",
@@ -49318,7 +49318,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.490815162658691,
+        "rating": 7.490533351898193,
         "status": "released",
         "country": "nz",
         "runtime": 92,
@@ -49641,7 +49641,7 @@
             "media.trakt.tv/images/movies/000/000/303/cleararts/medium/bc93c5f517.png.webp"
           ]
         },
-        "rating": 7.595180511474609,
+        "rating": 7.594492435455322,
         "status": "released",
         "country": "us",
         "runtime": 115,
@@ -49935,7 +49935,7 @@
         },
         "year": 2017,
         "title": "A Ghost Story",
-        "votes": 4603,
+        "votes": 4604,
         "colors": {
           "poster": [
             "#A8A49E",
@@ -49968,7 +49968,7 @@
             "media.trakt.tv/images/movies/000/272/554/cleararts/medium/595800cd61.png.webp"
           ]
         },
-        "rating": 6.79817533493042,
+        "rating": 6.798436164855957,
         "status": "released",
         "country": "us",
         "runtime": 93,
@@ -50199,7 +50199,7 @@
             "media.trakt.tv/images/movies/000/004/653/cleararts/medium/2058212c64.png.webp"
           ]
         },
-        "rating": 7.609978675842285,
+        "rating": 7.610157489776611,
         "status": "released",
         "country": "us",
         "runtime": 112,
@@ -50639,7 +50639,7 @@
         },
         "year": 1997,
         "title": "Gattaca",
-        "votes": 13625,
+        "votes": 13629,
         "colors": {
           "poster": [
             "#A0C7CE",
@@ -50672,7 +50672,7 @@
             "media.trakt.tv/images/movies/000/000/625/cleararts/medium/4ec5c2607f.png.webp"
           ]
         },
-        "rating": 7.905247688293457,
+        "rating": 7.9051289558410645,
         "status": "released",
         "country": "us",
         "runtime": 107,
@@ -50763,7 +50763,7 @@
         },
         "year": 2025,
         "title": "The Perfect Neighbor",
-        "votes": 1852,
+        "votes": 1855,
         "colors": {
           "poster": [
             "#77809C",
@@ -50788,7 +50788,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.373110294342041,
+        "rating": 7.373045921325684,
         "status": "released",
         "country": "us",
         "runtime": 97,
@@ -50866,7 +50866,7 @@
         },
         "year": 2025,
         "title": "Warfare",
-        "votes": 7032,
+        "votes": 7038,
         "colors": {
           "poster": [
             "#CAAB91",
@@ -50897,7 +50897,7 @@
             "media.trakt.tv/images/movies/001/004/891/cleararts/medium/2dbe7ae869.png.webp"
           ]
         },
-        "rating": 7.1999430656433105,
+        "rating": 7.199772834777832,
         "status": "released",
         "country": "us",
         "runtime": 95,
@@ -50979,7 +50979,7 @@
         },
         "year": 2025,
         "title": "Black Bag",
-        "votes": 6165,
+        "votes": 6169,
         "colors": {
           "poster": [
             "#D7B590",
@@ -51011,7 +51011,7 @@
             "media.trakt.tv/images/movies/000/997/729/cleararts/medium/b6df87f12e.png.webp"
           ]
         },
-        "rating": 6.70932674407959,
+        "rating": 6.70919132232666,
         "status": "released",
         "country": "us",
         "runtime": 94,
@@ -51726,7 +51726,7 @@
         },
         "year": 2021,
         "title": "Old Henry",
-        "votes": 2954,
+        "votes": 2955,
         "colors": {
           "poster": [
             "#CAA580",
@@ -51758,7 +51758,7 @@
             "media.trakt.tv/images/movies/000/622/177/cleararts/medium/d41de9dfa6.png.webp"
           ]
         },
-        "rating": 7.490521430969238,
+        "rating": 7.491032123565674,
         "status": "released",
         "country": "us",
         "runtime": 99,
@@ -51914,7 +51914,7 @@
         },
         "year": 2023,
         "title": "Creed III",
-        "votes": 6075,
+        "votes": 6077,
         "colors": {
           "poster": [
             "#ADACB2",
@@ -51945,7 +51945,7 @@
             "media.trakt.tv/images/movies/000/512/258/cleararts/medium/9f05bb2159.png.webp"
           ]
         },
-        "rating": 7.019588470458984,
+        "rating": 7.019252777099609,
         "status": "released",
         "country": "us",
         "runtime": 116,
@@ -52412,7 +52412,7 @@
         },
         "year": 2005,
         "title": "Sophie Scholl: The Final Days",
-        "votes": 525,
+        "votes": 526,
         "colors": {
           "poster": [
             "#B03B3D",
@@ -52437,7 +52437,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.491428375244141,
+        "rating": 7.484790802001953,
         "status": "released",
         "country": "de",
         "runtime": 117,
@@ -52510,7 +52510,7 @@
         },
         "year": 2002,
         "title": "25th Hour",
-        "votes": 3683,
+        "votes": 3684,
         "colors": {
           "poster": [
             "#C51915",
@@ -52539,7 +52539,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.440673351287842,
+        "rating": 7.439739227294922,
         "status": "released",
         "country": "us",
         "runtime": 135,
@@ -52618,7 +52618,7 @@
         },
         "year": 2008,
         "title": "Frozen River",
-        "votes": 529,
+        "votes": 530,
         "colors": {
           "poster": [
             "#E7F3F7",
@@ -52643,7 +52643,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.858222961425781,
+        "rating": 6.858490467071533,
         "status": "released",
         "country": "us",
         "runtime": 97,
@@ -52933,7 +52933,7 @@
         },
         "year": 1956,
         "title": "The Man Who Knew Too Much",
-        "votes": 1804,
+        "votes": 1805,
         "colors": {
           "poster": [
             "#F7E8DC",
@@ -52962,7 +52962,7 @@
             "media.trakt.tv/images/movies/000/000/453/cleararts/medium/c45aaf37bc.png.webp"
           ]
         },
-        "rating": 7.322062015533447,
+        "rating": 7.322437763214111,
         "status": "released",
         "country": "us",
         "runtime": 120,
@@ -53240,7 +53240,7 @@
         },
         "year": 1960,
         "title": "Shoot the Piano Player",
-        "votes": 378,
+        "votes": 379,
         "colors": {
           "poster": [
             "#F4AD2D",
@@ -53270,7 +53270,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.2486772537231445,
+        "rating": 7.248021125793457,
         "status": "released",
         "country": "fr",
         "runtime": 85,
@@ -53472,7 +53472,7 @@
             "media.trakt.tv/images/movies/000/001/394/cleararts/medium/09fecc5060.png.webp"
           ]
         },
-        "rating": 7.818868160247803,
+        "rating": 7.818717002868652,
         "status": "released",
         "country": "us",
         "runtime": 122,
@@ -53660,7 +53660,7 @@
         },
         "year": 2021,
         "title": "Little Fish",
-        "votes": 600,
+        "votes": 601,
         "colors": {
           "poster": [
             "#7A8E8D",
@@ -53686,7 +53686,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.329999923706055,
+        "rating": 7.3327789306640625,
         "status": "released",
         "country": "us",
         "runtime": 101,
@@ -53850,7 +53850,7 @@
         },
         "year": 2019,
         "title": "Just Mercy",
-        "votes": 5071,
+        "votes": 5072,
         "colors": {
           "poster": [
             "#B5763C",
@@ -53882,7 +53882,7 @@
             "media.trakt.tv/images/movies/000/370/437/cleararts/medium/3350a8253b.png.webp"
           ]
         },
-        "rating": 7.945572853088379,
+        "rating": 7.9457807540893555,
         "status": "released",
         "country": "us",
         "runtime": 137,
@@ -54145,7 +54145,7 @@
         },
         "year": 2017,
         "title": "Okja",
-        "votes": 7794,
+        "votes": 7796,
         "colors": {
           "poster": [
             "#ABA399",
@@ -54177,7 +54177,7 @@
             "media.trakt.tv/images/movies/000/229/330/cleararts/medium/d5425c4690.png.webp"
           ]
         },
-        "rating": 7.378880977630615,
+        "rating": 7.378655910491943,
         "status": "released",
         "country": "us",
         "runtime": 120,
@@ -54550,7 +54550,7 @@
         },
         "year": 2019,
         "title": "Better Days",
-        "votes": 787,
+        "votes": 788,
         "colors": {
           "poster": [
             "#B0B5AB",
@@ -54576,7 +54576,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.866581916809082,
+        "rating": 7.864212989807129,
         "status": "released",
         "country": "cn",
         "runtime": 135,
@@ -54834,7 +54834,7 @@
         },
         "year": 1933,
         "title": "The Testament of Dr. Mabuse",
-        "votes": 273,
+        "votes": 274,
         "colors": {
           "poster": [
             "#BA321B",
@@ -54860,7 +54860,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.4468865394592285,
+        "rating": 7.445255279541016,
         "status": "released",
         "country": "de",
         "runtime": 122,
@@ -54926,7 +54926,7 @@
         },
         "year": 1950,
         "title": "Night and the City",
-        "votes": 296,
+        "votes": 297,
         "colors": {
           "poster": [
             "#B8926D",
@@ -54951,7 +54951,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.645270347595215,
+        "rating": 7.646464824676514,
         "status": "released",
         "country": "gb",
         "runtime": 95,
@@ -55198,7 +55198,7 @@
         },
         "year": 1950,
         "title": "Gun Crazy",
-        "votes": 389,
+        "votes": 390,
         "colors": {
           "poster": [
             "#CF8666",
@@ -55229,7 +55229,7 @@
             "media.trakt.tv/images/movies/000/011/457/cleararts/medium/18c39465b8.png.webp"
           ]
         },
-        "rating": 7.511568069458008,
+        "rating": 7.512820720672607,
         "status": "released",
         "country": "us",
         "runtime": 87,
@@ -55879,7 +55879,7 @@
         },
         "year": 1966,
         "title": "Django",
-        "votes": 1076,
+        "votes": 1077,
         "colors": {
           "poster": [
             "#CF8163",
@@ -55910,7 +55910,7 @@
             "media.trakt.tv/images/movies/000/005/934/cleararts/medium/3a5a71a543.png.webp"
           ]
         },
-        "rating": 7.276951789855957,
+        "rating": 7.276694297790527,
         "status": "released",
         "country": "it",
         "runtime": 93,
@@ -55982,7 +55982,7 @@
         },
         "year": 1968,
         "title": "Where Eagles Dare",
-        "votes": 1673,
+        "votes": 1674,
         "colors": {
           "poster": [
             "#F7F3E9",
@@ -56012,7 +56012,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.779438018798828,
+        "rating": 7.780764579772949,
         "status": "released",
         "country": "us",
         "runtime": 155,
@@ -56519,7 +56519,7 @@
         },
         "year": 1970,
         "title": "A Touch of Zen",
-        "votes": 258,
+        "votes": 259,
         "colors": {
           "poster": [
             "#B5B59D",
@@ -56547,7 +56547,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.515503883361816,
+        "rating": 7.517374515533447,
         "status": "released",
         "country": "tw",
         "runtime": 180,
@@ -56887,7 +56887,7 @@
         },
         "year": 1988,
         "title": "Running on Empty",
-        "votes": 352,
+        "votes": 353,
         "colors": {
           "poster": [
             "#D2BBBC",
@@ -56911,7 +56911,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.588068008422852,
+        "rating": 7.583569526672363,
         "status": "released",
         "country": "us",
         "runtime": 116,
@@ -57411,7 +57411,7 @@
         },
         "year": 1985,
         "title": "Angel's Egg",
-        "votes": 837,
+        "votes": 838,
         "colors": {
           "poster": [
             "#D6C4BA",
@@ -57437,7 +57437,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.407407283782959,
+        "rating": 7.405727863311768,
         "status": "released",
         "country": "jp",
         "runtime": 71,
@@ -57612,7 +57612,7 @@
         },
         "year": 1993,
         "title": "Red Rock West",
-        "votes": 666,
+        "votes": 667,
         "colors": {
           "poster": [
             "#B0867B",
@@ -57642,7 +57642,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.993993759155273,
+        "rating": 6.992503643035889,
         "status": "released",
         "country": "us",
         "runtime": 98,
@@ -58086,7 +58086,7 @@
         },
         "year": 2008,
         "title": "Mesrine: Public Enemy #1",
-        "votes": 875,
+        "votes": 876,
         "colors": {
           "poster": [
             "#D06E6D",
@@ -58117,7 +58117,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.41942834854126,
+        "rating": 7.418949604034424,
         "status": "released",
         "country": "ca",
         "runtime": 133,
@@ -58291,7 +58291,7 @@
         },
         "year": 2008,
         "title": "Mesrine: Killer Instinct",
-        "votes": 986,
+        "votes": 987,
         "colors": {
           "poster": [
             "#E3E9E0",
@@ -58322,7 +58322,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.434077262878418,
+        "rating": 7.4336371421813965,
         "status": "released",
         "country": "ca",
         "runtime": 113,
@@ -58601,7 +58601,7 @@
         },
         "year": 1973,
         "title": "High Plains Drifter",
-        "votes": 2042,
+        "votes": 2043,
         "colors": {
           "poster": [
             "#BE480E",
@@ -58633,7 +58633,7 @@
             "media.trakt.tv/images/movies/000/006/919/cleararts/medium/cfe3b5fc96.png.webp"
           ]
         },
-        "rating": 7.407933235168457,
+        "rating": 7.4082231521606445,
         "status": "released",
         "country": "us",
         "runtime": 105,
@@ -58708,7 +58708,7 @@
         },
         "year": 2009,
         "title": "Evangelion: 2.0 You Can (Not) Advance",
-        "votes": 2398,
+        "votes": 2399,
         "colors": {
           "poster": [
             "#D29251",
@@ -58741,7 +58741,7 @@
             "media.trakt.tv/images/movies/000/013/878/cleararts/medium/b0fbe7a7b0.png.webp"
           ]
         },
-        "rating": 8.040867805480957,
+        "rating": 8.0416841506958,
         "status": "released",
         "country": "jp",
         "runtime": 112,
@@ -58819,7 +58819,7 @@
         },
         "year": 2001,
         "title": "The Man Who Wasn't There",
-        "votes": 2219,
+        "votes": 2220,
         "colors": {
           "poster": [
             "#B2B183",
@@ -58850,7 +58850,7 @@
             "media.trakt.tv/images/movies/000/005/939/cleararts/medium/3fca31d2a6.png.webp"
           ]
         },
-        "rating": 7.3970255851745605,
+        "rating": 7.397297382354736,
         "status": "released",
         "country": "us",
         "runtime": 116,
@@ -59153,7 +59153,7 @@
         },
         "year": 2001,
         "title": "Cowboy Bebop: The Movie",
-        "votes": 2664,
+        "votes": 2665,
         "colors": {
           "poster": [
             "#CC8569",
@@ -59185,7 +59185,7 @@
             "media.trakt.tv/images/movies/000/006/398/cleararts/medium/06d955ef9c.png.webp"
           ]
         },
-        "rating": 7.976726531982422,
+        "rating": 7.976360321044922,
         "status": "released",
         "country": "jp",
         "runtime": 115,
@@ -59595,7 +59595,7 @@
         },
         "year": 1980,
         "title": "Superman II",
-        "votes": 4894,
+        "votes": 4895,
         "colors": {
           "poster": [
             "#C88672",
@@ -59628,7 +59628,7 @@
             "media.trakt.tv/images/movies/000/004/231/cleararts/medium/0365c82854.png.webp"
           ]
         },
-        "rating": 6.9928483963012695,
+        "rating": 6.993462562561035,
         "status": "released",
         "country": "us",
         "runtime": 127,
@@ -59712,7 +59712,7 @@
         },
         "year": 1984,
         "title": "The Karate Kid",
-        "votes": 11857,
+        "votes": 11859,
         "colors": {
           "poster": [
             "#A86543",
@@ -59745,7 +59745,7 @@
             "media.trakt.tv/images/movies/000/001/261/cleararts/medium/10ba5f7401.png.webp"
           ]
         },
-        "rating": 7.540187358856201,
+        "rating": 7.54026460647583,
         "status": "released",
         "country": "us",
         "runtime": 127,
@@ -59831,7 +59831,7 @@
         },
         "year": 2010,
         "title": "The Town",
-        "votes": 12328,
+        "votes": 12331,
         "colors": {
           "poster": [
             "#A89996",
@@ -59863,7 +59863,7 @@
             "media.trakt.tv/images/movies/000/014/027/cleararts/medium/41a07b2a0a.png.webp"
           ]
         },
-        "rating": 7.506165027618408,
+        "rating": 7.505393028259277,
         "status": "released",
         "country": "us",
         "runtime": 125,
@@ -59954,7 +59954,7 @@
         },
         "year": 2013,
         "title": "Rush",
-        "votes": 15581,
+        "votes": 15583,
         "colors": {
           "poster": [
             "#C38575",
@@ -59985,7 +59985,7 @@
             "media.trakt.tv/images/movies/000/070/421/cleararts/medium/8f6233bc60.png.webp"
           ]
         },
-        "rating": 7.9827351570129395,
+        "rating": 7.9827375411987305,
         "status": "released",
         "country": "us",
         "runtime": 123,
@@ -60071,7 +60071,7 @@
         },
         "year": 2001,
         "title": "Ocean's Eleven",
-        "votes": 26825,
+        "votes": 26828,
         "colors": {
           "poster": [
             "#F7F7F7",
@@ -60102,7 +60102,7 @@
             "media.trakt.tv/images/movies/000/000/126/cleararts/medium/e16d6ea754.png.webp"
           ]
         },
-        "rating": 7.915004730224609,
+        "rating": 7.914977073669434,
         "status": "released",
         "country": "us",
         "runtime": 116,
@@ -60186,7 +60186,7 @@
         },
         "year": 2025,
         "title": "The Shadow's Edge",
-        "votes": 893,
+        "votes": 895,
         "colors": {
           "poster": [
             "#9B999A",
@@ -60211,7 +60211,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.359462261199951,
+        "rating": 7.363128662109375,
         "status": "released",
         "country": "cn",
         "runtime": 142,
@@ -60280,7 +60280,7 @@
         },
         "year": 2025,
         "title": "Mahavatar Narsimha",
-        "votes": 231,
+        "votes": 232,
         "colors": {
           "poster": [
             "#BF7447",
@@ -60305,7 +60305,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.9783549308776855,
+        "rating": 7.974137783050537,
         "status": "released",
         "country": "in",
         "runtime": 131,
@@ -60475,7 +60475,7 @@
         },
         "year": 2024,
         "title": "September 5",
-        "votes": 2278,
+        "votes": 2279,
         "colors": {
           "poster": [
             "#976D6A",
@@ -60505,7 +60505,7 @@
             "media.trakt.tv/images/movies/000/976/687/cleararts/medium/bca504229f.png.webp"
           ]
         },
-        "rating": 7.14135217666626,
+        "rating": 7.14172887802124,
         "status": "released",
         "country": "us",
         "runtime": 94,
@@ -61285,7 +61285,7 @@
         },
         "year": 2021,
         "title": "Zack Snyder's Justice League",
-        "votes": 20193,
+        "votes": 20196,
         "colors": {
           "poster": [
             "#BFBFBF",
@@ -61318,7 +61318,7 @@
             "media.trakt.tv/images/movies/000/627/088/cleararts/medium/dc2167bb60.png.webp"
           ]
         },
-        "rating": 7.704848289489746,
+        "rating": 7.704892158508301,
         "status": "released",
         "country": "us",
         "runtime": 242,
@@ -61757,7 +61757,7 @@
         },
         "year": 1969,
         "title": "The Swimming Pool",
-        "votes": 460,
+        "votes": 461,
         "colors": {
           "poster": [
             "#B99D65",
@@ -61786,7 +61786,7 @@
             "media.trakt.tv/images/movies/000/002/880/cleararts/medium/3ac4a27c4e.png.webp"
           ]
         },
-        "rating": 7.08695650100708,
+        "rating": 7.088937282562256,
         "status": "released",
         "country": "fr",
         "runtime": 123,
@@ -62236,7 +62236,7 @@
         },
         "year": 2002,
         "title": "Gangs of New York",
-        "votes": 11779,
+        "votes": 11781,
         "colors": {
           "poster": [
             "#BEAB68",
@@ -62268,7 +62268,7 @@
             "media.trakt.tv/images/movies/000/002/100/cleararts/medium/f5e92e906c.png.webp"
           ]
         },
-        "rating": 7.5250020027160645,
+        "rating": 7.524658203125,
         "status": "released",
         "country": "us",
         "runtime": 168,
@@ -62727,7 +62727,7 @@
         },
         "year": 2004,
         "title": "2046",
-        "votes": 1302,
+        "votes": 1303,
         "colors": {
           "poster": [
             "#C0742B",
@@ -62757,7 +62757,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.323348522186279,
+        "rating": 7.323100566864014,
         "status": "released",
         "country": "hk",
         "runtime": 128,
@@ -62937,7 +62937,7 @@
         },
         "year": 2006,
         "title": "Notes on a Scandal",
-        "votes": 1367,
+        "votes": 1368,
         "colors": {
           "poster": [
             "#C16B1F",
@@ -62968,7 +62968,7 @@
             "media.trakt.tv/images/movies/000/000/874/cleararts/medium/f6459cf339.png.webp"
           ]
         },
-        "rating": 7.194586753845215,
+        "rating": 7.192251682281494,
         "status": "released",
         "country": "gb",
         "runtime": 92,
@@ -63215,7 +63215,7 @@
         },
         "year": 2019,
         "title": "The Vast of Night",
-        "votes": 3179,
+        "votes": 3180,
         "colors": {
           "poster": [
             "#5477C2",
@@ -63246,7 +63246,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.592324733734131,
+        "rating": 6.592767238616943,
         "status": "released",
         "country": "us",
         "runtime": 91,
@@ -64243,7 +64243,7 @@
         },
         "year": 1937,
         "title": "Pépé le Moko",
-        "votes": 137,
+        "votes": 138,
         "colors": {
           "poster": [
             "#B19A94",
@@ -64267,7 +64267,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.321167945861816,
+        "rating": 7.32608699798584,
         "status": "released",
         "country": "fr",
         "runtime": 94,
@@ -64422,7 +64422,7 @@
         },
         "year": 1968,
         "title": "The Bride Wore Black",
-        "votes": 167,
+        "votes": 168,
         "colors": {
           "poster": [
             "#C0A497",
@@ -64448,7 +64448,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.86227560043335,
+        "rating": 6.863095283508301,
         "status": "released",
         "country": "fr",
         "runtime": 107,
@@ -64895,7 +64895,7 @@
             "media.trakt.tv/images/movies/000/012/516/cleararts/medium/5a6be74d08.png.webp"
           ]
         },
-        "rating": 7.361764907836914,
+        "rating": 7.3470587730407715,
         "status": "released",
         "country": "us",
         "runtime": 176,
@@ -65065,7 +65065,7 @@
         },
         "year": 1949,
         "title": "Twelve O'Clock High",
-        "votes": 295,
+        "votes": 296,
         "colors": {
           "poster": [
             "#F8F1DA",
@@ -65091,7 +65091,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.498305320739746,
+        "rating": 7.5,
         "status": "released",
         "country": "us",
         "runtime": 132,
@@ -65250,7 +65250,7 @@
         },
         "year": 1951,
         "title": "A Place in the Sun",
-        "votes": 404,
+        "votes": 405,
         "colors": {
           "poster": [
             "#F8ECD0",
@@ -65274,7 +65274,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.368812084197998,
+        "rating": 7.370370388031006,
         "status": "released",
         "country": "us",
         "runtime": 122,
@@ -65344,7 +65344,7 @@
         },
         "year": 1946,
         "title": "The Postman Always Rings Twice",
-        "votes": 437,
+        "votes": 438,
         "colors": {
           "poster": [
             "#EAB988",
@@ -65373,7 +65373,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.290617942810059,
+        "rating": 7.28995418548584,
         "status": "released",
         "country": "us",
         "runtime": 113,
@@ -65444,7 +65444,7 @@
         },
         "year": 1947,
         "title": "Dark Passage",
-        "votes": 435,
+        "votes": 436,
         "colors": {
           "poster": [
             "#F6F0DB",
@@ -65471,7 +65471,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.572413921356201,
+        "rating": 7.57110071182251,
         "status": "released",
         "country": "us",
         "runtime": 106,
@@ -65742,7 +65742,7 @@
         },
         "year": 1962,
         "title": "Dr. No",
-        "votes": 7716,
+        "votes": 7717,
         "colors": {
           "poster": [
             "#F7F5EF",
@@ -65774,7 +65774,7 @@
             "media.trakt.tv/images/movies/000/000/521/cleararts/medium/dd46df267b.png.webp"
           ]
         },
-        "rating": 7.268144130706787,
+        "rating": 7.267979621887207,
         "status": "released",
         "country": "gb",
         "runtime": 110,
@@ -65947,7 +65947,7 @@
         },
         "year": 1976,
         "title": "Mr. Klein",
-        "votes": 221,
+        "votes": 222,
         "colors": {
           "poster": [
             "#EFEDE9",
@@ -65979,7 +65979,7 @@
             "media.trakt.tv/images/movies/000/042/189/cleararts/medium/5ef4b257cc.png.webp"
           ]
         },
-        "rating": 7.466063499450684,
+        "rating": 7.463963985443115,
         "status": "released",
         "country": "fr",
         "runtime": 123,
@@ -66579,7 +66579,7 @@
         },
         "year": 1991,
         "title": "Europa",
-        "votes": 332,
+        "votes": 333,
         "colors": {
           "poster": [
             "#D8D2CD",
@@ -66603,7 +66603,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.268072128295898,
+        "rating": 7.270270347595215,
         "status": "released",
         "country": "dk",
         "runtime": 113,
@@ -66953,7 +66953,7 @@
         },
         "year": 1971,
         "title": "Wake in Fright",
-        "votes": 523,
+        "votes": 524,
         "colors": {
           "poster": [
             "#E59609",
@@ -66978,7 +66978,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.388145446777344,
+        "rating": 7.379770755767822,
         "status": "released",
         "country": "au",
         "runtime": 109,
@@ -67958,7 +67958,7 @@
         },
         "year": 1995,
         "title": "Citizen X",
-        "votes": 712,
+        "votes": 713,
         "colors": {
           "poster": [
             "#C0B3B4",
@@ -67983,7 +67983,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.457865238189697,
+        "rating": 7.458625316619873,
         "status": "released",
         "country": "us",
         "runtime": 105,
@@ -68526,7 +68526,7 @@
         },
         "year": 1971,
         "title": "Get Carter",
-        "votes": 918,
+        "votes": 919,
         "colors": {
           "poster": [
             "#FDFDFE",
@@ -68557,7 +68557,7 @@
             "media.trakt.tv/images/movies/000/000/980/cleararts/medium/6f775ec1df.png.webp"
           ]
         },
-        "rating": 7.126361846923828,
+        "rating": 7.127312183380127,
         "status": "released",
         "country": "gb",
         "runtime": 112,
@@ -68719,7 +68719,7 @@
         },
         "year": 1997,
         "title": "Hard Eight",
-        "votes": 1467,
+        "votes": 1468,
         "colors": {
           "poster": [
             "#E2663D",
@@ -68748,7 +68748,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.014315128326416,
+        "rating": 7.01362419128418,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -69030,7 +69030,7 @@
         },
         "year": 1975,
         "title": "Three Days of the Condor",
-        "votes": 2092,
+        "votes": 2093,
         "colors": {
           "poster": [
             "#C07D67",
@@ -69061,7 +69061,7 @@
             "media.trakt.tv/images/movies/000/006/976/cleararts/medium/7d668b4cde.png.webp"
           ]
         },
-        "rating": 7.399617671966553,
+        "rating": 7.398948669433594,
         "status": "released",
         "country": "us",
         "runtime": 117,
@@ -69144,7 +69144,7 @@
         },
         "year": 1978,
         "title": "Midnight Express",
-        "votes": 2011,
+        "votes": 2012,
         "colors": {
           "poster": [
             "#A46060",
@@ -69175,7 +69175,7 @@
             "media.trakt.tv/images/movies/000/006/424/cleararts/medium/3520391a44.png.webp"
           ]
         },
-        "rating": 7.471407413482666,
+        "rating": 7.470179080963135,
         "status": "released",
         "country": "gb",
         "runtime": 121,
@@ -69258,7 +69258,7 @@
         },
         "year": 2004,
         "title": "Friday Night Lights",
-        "votes": 1869,
+        "votes": 1870,
         "colors": {
           "poster": [
             "#C4C8C7",
@@ -69288,7 +69288,7 @@
             "media.trakt.tv/images/movies/000/007/894/cleararts/medium/d2003b7bfb.png.webp"
           ]
         },
-        "rating": 7.316211700439453,
+        "rating": 7.315507888793945,
         "status": "released",
         "country": "us",
         "runtime": 118,
@@ -69576,7 +69576,7 @@
         },
         "year": 1999,
         "title": "Ghost Dog: The Way of the Samurai",
-        "votes": 2504,
+        "votes": 2505,
         "colors": {
           "poster": [
             "#777F97",
@@ -69607,7 +69607,7 @@
             "media.trakt.tv/images/movies/000/002/809/cleararts/medium/78b251d302.png.webp"
           ]
         },
-        "rating": 7.3997602462768555,
+        "rating": 7.399201393127441,
         "status": "released",
         "country": "us",
         "runtime": 116,
@@ -69783,7 +69783,7 @@
         },
         "year": 2011,
         "title": "Jane Eyre",
-        "votes": 2077,
+        "votes": 2079,
         "colors": {
           "poster": [
             "#E7D9D7",
@@ -69814,7 +69814,7 @@
             "media.trakt.tv/images/movies/000/025/026/cleararts/medium/fd5c0d91ba.png.webp"
           ]
         },
-        "rating": 7.269138336181641,
+        "rating": 7.267917156219482,
         "status": "released",
         "country": "gb",
         "runtime": 120,
@@ -69894,7 +69894,7 @@
         },
         "year": 2003,
         "title": "Open Range",
-        "votes": 2272,
+        "votes": 2273,
         "colors": {
           "poster": [
             "#C27438",
@@ -69926,7 +69926,7 @@
             "media.trakt.tv/images/movies/000/001/409/cleararts/medium/c7e9fc59f2.png.webp"
           ]
         },
-        "rating": 7.494718074798584,
+        "rating": 7.494940757751465,
         "status": "released",
         "country": "us",
         "runtime": 139,
@@ -70011,7 +70011,7 @@
         },
         "year": 2009,
         "title": "Summer Wars",
-        "votes": 2160,
+        "votes": 2161,
         "colors": {
           "poster": [
             "#D2D9D0",
@@ -70042,7 +70042,7 @@
             "media.trakt.tv/images/movies/000/018/089/cleararts/medium/771bacd72b.png.webp"
           ]
         },
-        "rating": 7.739351749420166,
+        "rating": 7.739009857177734,
         "status": "released",
         "country": "jp",
         "runtime": 114,
@@ -70117,7 +70117,7 @@
         },
         "year": 2014,
         "title": "When Marnie Was There",
-        "votes": 2933,
+        "votes": 2934,
         "colors": {
           "poster": [
             "#B9D6D5",
@@ -70150,7 +70150,7 @@
             "media.trakt.tv/images/movies/000/147/870/cleararts/medium/dbda60df23.png.webp"
           ]
         },
-        "rating": 7.78622579574585,
+        "rating": 7.7859578132629395,
         "status": "released",
         "country": "jp",
         "runtime": 103,
@@ -70557,7 +70557,7 @@
         },
         "year": 2010,
         "title": "The Ghost Writer",
-        "votes": 3751,
+        "votes": 3752,
         "colors": {
           "poster": [
             "#AB8F8C",
@@ -70588,7 +70588,7 @@
             "media.trakt.tv/images/movies/000/006/527/cleararts/medium/9f04da88cd.png.webp"
           ]
         },
-        "rating": 6.966408729553223,
+        "rating": 6.966684341430664,
         "status": "released",
         "country": "gb",
         "runtime": 128,
@@ -70670,7 +70670,7 @@
         },
         "year": 2004,
         "title": "Layer Cake",
-        "votes": 5732,
+        "votes": 5733,
         "colors": {
           "poster": [
             "#DBAB5F",
@@ -70702,7 +70702,7 @@
             "media.trakt.tv/images/movies/000/002/819/cleararts/medium/36e7542879.png.webp"
           ]
         },
-        "rating": 7.349267482757568,
+        "rating": 7.349031925201416,
         "status": "released",
         "country": "gb",
         "runtime": 105,
@@ -70890,7 +70890,7 @@
         },
         "year": 1999,
         "title": "Eyes Wide Shut",
-        "votes": 10615,
+        "votes": 10620,
         "colors": {
           "poster": [
             "#B99073",
@@ -70922,7 +70922,7 @@
             "media.trakt.tv/images/movies/000/000/292/cleararts/medium/b1c78b875e.png.webp"
           ]
         },
-        "rating": 7.318605899810791,
+        "rating": 7.3189263343811035,
         "status": "released",
         "country": "gb",
         "runtime": 159,
@@ -71047,7 +71047,7 @@
             "media.trakt.tv/images/movies/000/000/907/cleararts/medium/0a4f06496a.png.webp"
           ]
         },
-        "rating": 7.702922821044922,
+        "rating": 7.702560901641846,
         "status": "released",
         "country": "us",
         "runtime": 93,
@@ -71248,7 +71248,7 @@
         },
         "year": 2001,
         "title": "Donnie Darko",
-        "votes": 25007,
+        "votes": 25014,
         "colors": {
           "poster": [
             "#5FAAD0",
@@ -71280,7 +71280,7 @@
             "media.trakt.tv/images/movies/000/000/107/cleararts/medium/19639beee2.png.webp"
           ]
         },
-        "rating": 7.909665107727051,
+        "rating": 7.90933084487915,
         "status": "released",
         "country": "us",
         "runtime": 114,
@@ -71368,7 +71368,7 @@
         },
         "year": 2024,
         "title": "Kishkindha Kaandam",
-        "votes": 347,
+        "votes": 348,
         "colors": {
           "poster": [
             "#A9AF94",
@@ -71393,7 +71393,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.9884724617004395,
+        "rating": 7.994252681732178,
         "status": "released",
         "country": "in",
         "runtime": 125,
@@ -71540,7 +71540,7 @@
         },
         "year": 2024,
         "title": "Love Lies Bleeding",
-        "votes": 3832,
+        "votes": 3834,
         "colors": {
           "poster": [
             "#C1554B",
@@ -71572,7 +71572,7 @@
             "media.trakt.tv/images/movies/000/762/235/cleararts/medium/7b999d42ac.png.webp"
           ]
         },
-        "rating": 6.605949878692627,
+        "rating": 6.60641622543335,
         "status": "released",
         "country": "us",
         "runtime": 104,
@@ -71657,7 +71657,7 @@
         },
         "year": 2024,
         "title": "Civil War",
-        "votes": 16243,
+        "votes": 16244,
         "colors": {
           "poster": [
             "#BAB288",
@@ -71689,7 +71689,7 @@
             "media.trakt.tv/images/movies/000/745/438/cleararts/medium/dc5b03c8aa.png.webp"
           ]
         },
-        "rating": 6.846949577331543,
+        "rating": 6.846835613250732,
         "status": "released",
         "country": "gb",
         "runtime": 109,
@@ -72026,7 +72026,7 @@
         },
         "year": 2021,
         "title": "Drishyam 2",
-        "votes": 438,
+        "votes": 440,
         "colors": {
           "poster": [
             "#E3E5DA",
@@ -72050,7 +72050,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.148402214050293,
+        "rating": 8.156818389892578,
         "status": "released",
         "country": "in",
         "runtime": 153,
@@ -72404,7 +72404,7 @@
         },
         "year": 2011,
         "title": "Rise of the Planet of the Apes",
-        "votes": 24631,
+        "votes": 24632,
         "colors": {
           "poster": [
             "#79A0AF",
@@ -72437,7 +72437,7 @@
             "media.trakt.tv/images/movies/000/044/345/cleararts/medium/5106018612.png.webp"
           ]
         },
-        "rating": 7.669440746307373,
+        "rating": 7.669332504272461,
         "status": "released",
         "country": "us",
         "runtime": 105,
@@ -72524,7 +72524,7 @@
         },
         "year": 2002,
         "title": "Better Luck Tomorrow",
-        "votes": 256,
+        "votes": 257,
         "colors": {
           "poster": [
             "#73CDE0",
@@ -72552,7 +72552,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.92578125,
+        "rating": 6.926070213317871,
         "status": "released",
         "country": "us",
         "runtime": 101,
@@ -72609,7 +72609,7 @@
         },
         "year": 1970,
         "title": "Colossus: The Forbin Project",
-        "votes": 594,
+        "votes": 595,
         "colors": {
           "poster": [
             "#D2CDCA",
@@ -72634,7 +72634,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.222222328186035,
+        "rating": 7.220168113708496,
         "status": "released",
         "country": "us",
         "runtime": 100,
@@ -72698,7 +72698,7 @@
         },
         "year": 1903,
         "title": "The Great Train Robbery",
-        "votes": 744,
+        "votes": 745,
         "colors": {
           "poster": [
             "#BCBDBC",
@@ -72723,7 +72723,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.8521504402160645,
+        "rating": 6.852348804473877,
         "status": "released",
         "country": "us",
         "runtime": 12,
@@ -73479,7 +73479,7 @@
             "media.trakt.tv/images/movies/000/370/291/cleararts/medium/487b310fe8.png.webp"
           ]
         },
-        "rating": 7.25262451171875,
+        "rating": 7.252843379974365,
         "status": "released",
         "country": "us",
         "runtime": 112,
@@ -73563,7 +73563,7 @@
         },
         "year": 2025,
         "title": "The Fantastic 4: First Steps",
-        "votes": 16246,
+        "votes": 16261,
         "colors": {
           "poster": [
             "#DDD6C6",
@@ -73596,7 +73596,7 @@
             "media.trakt.tv/images/movies/000/460/087/cleararts/medium/2350b8023a.png.webp"
           ]
         },
-        "rating": 6.980179786682129,
+        "rating": 6.980628490447998,
         "status": "released",
         "country": "us",
         "runtime": 115,
@@ -73687,7 +73687,7 @@
         },
         "year": 2005,
         "title": "Jack-Jack Attack",
-        "votes": 1794,
+        "votes": 1796,
         "colors": {
           "poster": [
             "#F6E2C5",
@@ -73720,7 +73720,7 @@
             "media.trakt.tv/images/movies/000/008/304/cleararts/medium/a35767a88c.png.webp"
           ]
         },
-        "rating": 7.508918762207031,
+        "rating": 7.510022163391113,
         "status": "released",
         "country": "us",
         "runtime": 5,
@@ -73998,7 +73998,7 @@
         },
         "year": 2019,
         "title": "Only the Animals",
-        "votes": 477,
+        "votes": 478,
         "colors": {
           "poster": [
             "#FAF9FD",
@@ -74023,7 +74023,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.050314426422119,
+        "rating": 7.050209045410156,
         "status": "released",
         "country": "fr",
         "runtime": 116,
@@ -74504,7 +74504,7 @@
         },
         "year": 2019,
         "title": "Kaithi",
-        "votes": 556,
+        "votes": 557,
         "colors": {
           "poster": [
             "#E5DDDD",
@@ -74528,7 +74528,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.955036163330078,
+        "rating": 7.958707332611084,
         "status": "released",
         "country": "in",
         "runtime": 147,
@@ -74580,7 +74580,7 @@
         },
         "year": 1953,
         "title": "Él",
-        "votes": 123,
+        "votes": 124,
         "colors": {
           "poster": [
             "#A77132",
@@ -74603,7 +74603,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.544715404510498,
+        "rating": 7.532258033752441,
         "status": "released",
         "country": "mx",
         "runtime": 92,
@@ -74667,7 +74667,7 @@
         },
         "year": 1947,
         "title": "Jenny Lamour",
-        "votes": 115,
+        "votes": 116,
         "colors": {
           "poster": [
             "#BF925F",
@@ -74691,7 +74691,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.486956596374512,
+        "rating": 7.482758522033691,
         "status": "released",
         "country": "fr",
         "runtime": 108,
@@ -74754,7 +74754,7 @@
         },
         "year": 1968,
         "title": "Targets",
-        "votes": 334,
+        "votes": 335,
         "colors": {
           "poster": [
             "#A82B1D",
@@ -74780,7 +74780,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.260478973388672,
+        "rating": 7.259701728820801,
         "status": "released",
         "country": "us",
         "runtime": 90,
@@ -74844,7 +74844,7 @@
         },
         "year": 1938,
         "title": "Port of Shadows",
-        "votes": 193,
+        "votes": 194,
         "colors": {
           "poster": [
             "#E4E5DF",
@@ -74868,7 +74868,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.388600826263428,
+        "rating": 7.39175271987915,
         "status": "released",
         "country": "fr",
         "runtime": 93,
@@ -75018,7 +75018,7 @@
         },
         "year": 1948,
         "title": "The Naked City",
-        "votes": 399,
+        "votes": 400,
         "colors": {
           "poster": [
             "#F3CB93",
@@ -75042,7 +75042,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.283207893371582,
+        "rating": 7.28249979019165,
         "status": "released",
         "country": "us",
         "runtime": 96,
@@ -75296,7 +75296,7 @@
         },
         "year": 1965,
         "title": "The Ipcress File",
-        "votes": 556,
+        "votes": 557,
         "colors": {
           "poster": [
             "#A8B9C6",
@@ -75324,7 +75324,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.199640274047852,
+        "rating": 7.197486400604248,
         "status": "released",
         "country": "gb",
         "runtime": 109,
@@ -75395,7 +75395,7 @@
         },
         "year": 1974,
         "title": "The Gambler",
-        "votes": 194,
+        "votes": 195,
         "colors": {
           "poster": [
             "#E1BD9F",
@@ -75418,7 +75418,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.020618438720703,
+        "rating": 7.025640964508057,
         "status": "released",
         "country": "us",
         "runtime": 111,
@@ -75479,7 +75479,7 @@
         },
         "year": 1994,
         "title": "Torment",
-        "votes": 203,
+        "votes": 204,
         "colors": {
           "poster": [
             "#DDD4DB",
@@ -75502,7 +75502,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.886699676513672,
+        "rating": 6.88725471496582,
         "status": "released",
         "country": "fr",
         "runtime": 102,
@@ -76931,7 +76931,7 @@
         },
         "year": 1994,
         "title": "Death and the Maiden",
-        "votes": 549,
+        "votes": 550,
         "colors": {
           "poster": [
             "#9B99A5",
@@ -76956,7 +76956,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.20218563079834,
+        "rating": 7.198181629180908,
         "status": "released",
         "country": "fr",
         "runtime": 103,
@@ -77031,7 +77031,7 @@
         },
         "year": 1998,
         "title": "Croupier",
-        "votes": 655,
+        "votes": 657,
         "colors": {
           "poster": [
             "#ACB2AC",
@@ -77058,7 +77058,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.99083948135376,
+        "rating": 6.978691101074219,
         "status": "released",
         "country": "gb",
         "runtime": 94,
@@ -77122,7 +77122,7 @@
         },
         "year": 2005,
         "title": "The Beat That My Heart Skipped",
-        "votes": 393,
+        "votes": 394,
         "colors": {
           "poster": [
             "#D5B9B4",
@@ -77147,7 +77147,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.221374034881592,
+        "rating": 7.2208123207092285,
         "status": "released",
         "country": "fr",
         "runtime": 107,
@@ -77497,7 +77497,7 @@
         },
         "year": 1971,
         "title": "Play Misty for Me",
-        "votes": 718,
+        "votes": 719,
         "colors": {
           "poster": [
             "#C43D35",
@@ -77522,7 +77522,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.972145080566406,
+        "rating": 6.972183704376221,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -77685,7 +77685,7 @@
         },
         "year": 2015,
         "title": "Dheepan",
-        "votes": 508,
+        "votes": 509,
         "colors": {
           "poster": [
             "#B25149",
@@ -77712,7 +77712,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.2303147315979,
+        "rating": 7.231827259063721,
         "status": "released",
         "country": "fr",
         "runtime": 115,
@@ -78062,7 +78062,7 @@
         },
         "year": 1998,
         "title": "The Red Violin",
-        "votes": 768,
+        "votes": 769,
         "colors": {
           "poster": [
             "#D34531",
@@ -78094,7 +78094,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.604166507720947,
+        "rating": 7.6072821617126465,
         "status": "released",
         "country": "ca",
         "runtime": 130,
@@ -78458,7 +78458,7 @@
         },
         "year": 2011,
         "title": "Polisse",
-        "votes": 688,
+        "votes": 689,
         "colors": {
           "poster": [
             "#839696",
@@ -78483,7 +78483,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.577034950256348,
+        "rating": 7.571843147277832,
         "status": "released",
         "country": "fr",
         "runtime": 123,
@@ -79599,7 +79599,7 @@
         },
         "year": 2007,
         "title": "Evangelion: 1.0 You Are (Not) Alone",
-        "votes": 2604,
+        "votes": 2605,
         "colors": {
           "poster": [
             "#C08962",
@@ -79633,7 +79633,7 @@
             "media.trakt.tv/images/movies/000/009/186/cleararts/medium/ce4ace3ae6.png.webp"
           ]
         },
-        "rating": 7.793010711669922,
+        "rating": 7.792706489562988,
         "status": "released",
         "country": "jp",
         "runtime": 101,
@@ -79733,7 +79733,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.658012390136719,
+        "rating": 7.655326843261719,
         "status": "released",
         "country": "es",
         "runtime": 107,
@@ -79816,7 +79816,7 @@
         },
         "year": 2006,
         "title": "Fearless",
-        "votes": 2224,
+        "votes": 2226,
         "colors": {
           "poster": [
             "#F4EAC9",
@@ -79847,7 +79847,7 @@
             "media.trakt.tv/images/movies/000/003/946/cleararts/medium/a8174257a4.png.webp"
           ]
         },
-        "rating": 7.532373905181885,
+        "rating": 7.532344818115234,
         "status": "released",
         "country": "cn",
         "runtime": 103,
@@ -80351,7 +80351,7 @@
         },
         "year": 2007,
         "title": "The Assassination of Jesse James by the Coward Robert Ford",
-        "votes": 4756,
+        "votes": 4758,
         "colors": {
           "poster": [
             "#C3AE80",
@@ -80382,7 +80382,7 @@
             "media.trakt.tv/images/movies/000/002/647/cleararts/medium/f5de29becf.png.webp"
           ]
         },
-        "rating": 7.185660362243652,
+        "rating": 7.18516206741333,
         "status": "released",
         "country": "us",
         "runtime": 160,
@@ -80458,7 +80458,7 @@
         },
         "year": 2002,
         "title": "The Count of Monte Cristo",
-        "votes": 4623,
+        "votes": 4624,
         "colors": {
           "poster": [
             "#D58264",
@@ -80492,7 +80492,7 @@
             "media.trakt.tv/images/movies/000/006/458/cleararts/medium/c8cbf53dfb.png.webp"
           ]
         },
-        "rating": 7.85312557220459,
+        "rating": 7.852508544921875,
         "status": "released",
         "country": "us",
         "runtime": 131,
@@ -80576,7 +80576,7 @@
         },
         "year": 2011,
         "title": "Melancholia",
-        "votes": 5122,
+        "votes": 5124,
         "colors": {
           "poster": [
             "#A4A99A",
@@ -80607,7 +80607,7 @@
             "media.trakt.tv/images/movies/000/044/682/cleararts/medium/79047ec541.png.webp"
           ]
         },
-        "rating": 7.057204246520996,
+        "rating": 7.05679178237915,
         "status": "released",
         "country": "dk",
         "runtime": 130,
@@ -80687,7 +80687,7 @@
         },
         "year": 2003,
         "title": "21 Grams",
-        "votes": 4716,
+        "votes": 4717,
         "colors": {
           "poster": [
             "#D46D35",
@@ -80719,7 +80719,7 @@
             "media.trakt.tv/images/movies/000/000/372/cleararts/medium/4c3da8d59b.png.webp"
           ]
         },
-        "rating": 7.390585422515869,
+        "rating": 7.390926361083984,
         "status": "released",
         "country": "us",
         "runtime": 124,
@@ -80828,7 +80828,7 @@
             "media.trakt.tv/images/movies/000/006/982/cleararts/medium/c1405547be.png.webp"
           ]
         },
-        "rating": 7.943164825439453,
+        "rating": 7.942716121673584,
         "status": "released",
         "country": "us",
         "runtime": 130,
@@ -80910,7 +80910,7 @@
         },
         "year": 2014,
         "title": "Coherence",
-        "votes": 9745,
+        "votes": 9749,
         "colors": {
           "poster": [
             "#A34835",
@@ -80941,7 +80941,7 @@
             "media.trakt.tv/images/movies/000/135/581/cleararts/medium/ecb3c57c02.png.webp"
           ]
         },
-        "rating": 7.417957782745361,
+        "rating": 7.418299198150635,
         "status": "released",
         "country": "us",
         "runtime": 89,
@@ -81017,7 +81017,7 @@
         },
         "year": 2005,
         "title": "Star Wars: Episode III - Revenge of the Sith",
-        "votes": 32695,
+        "votes": 32696,
         "colors": {
           "poster": [
             "#DFA093",
@@ -81050,7 +81050,7 @@
             "media.trakt.tv/images/movies/000/001/270/cleararts/medium/3ca7a74bf1.png.webp"
           ]
         },
-        "rating": 7.727083683013916,
+        "rating": 7.7270002365112305,
         "status": "released",
         "country": "us",
         "runtime": 140,
@@ -81139,7 +81139,7 @@
         },
         "year": 2025,
         "title": "40 Acres",
-        "votes": 625,
+        "votes": 627,
         "colors": {
           "poster": [
             "#AEA7A4",
@@ -81166,7 +81166,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.086400032043457,
+        "rating": 7.084529399871826,
         "status": "released",
         "country": "ca",
         "runtime": 113,
@@ -81315,7 +81315,7 @@
         },
         "year": 2025,
         "title": "The Lost Bus",
-        "votes": 4232,
+        "votes": 4237,
         "colors": {
           "poster": [
             "#B66432",
@@ -81342,7 +81342,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.146975517272949,
+        "rating": 7.146093845367432,
         "status": "released",
         "country": "us",
         "runtime": 130,
@@ -81423,7 +81423,7 @@
         },
         "year": 2024,
         "title": "Undercover",
-        "votes": 2380,
+        "votes": 2382,
         "colors": {
           "poster": [
             "#ABA49F",
@@ -81447,7 +81447,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.684874057769775,
+        "rating": 7.686817646026611,
         "status": "released",
         "country": "es",
         "runtime": 119,
@@ -81511,7 +81511,7 @@
         },
         "year": 2024,
         "title": "Kill",
-        "votes": 1682,
+        "votes": 1685,
         "colors": {
           "poster": [
             "#62A89A",
@@ -81542,7 +81542,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.2181925773620605,
+        "rating": 7.213056564331055,
         "status": "released",
         "country": "in",
         "runtime": 105,
@@ -81717,7 +81717,7 @@
         },
         "year": 2023,
         "title": "How to Blow Up a Pipeline",
-        "votes": 927,
+        "votes": 928,
         "colors": {
           "poster": [
             "#9F9C9D",
@@ -81747,7 +81747,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.704422950744629,
+        "rating": 6.704741477966309,
         "status": "released",
         "country": "us",
         "runtime": 104,
@@ -81815,7 +81815,7 @@
         },
         "year": 2023,
         "title": "Reality",
-        "votes": 2018,
+        "votes": 2019,
         "colors": {
           "poster": [
             "#F5EAE9",
@@ -81844,7 +81844,7 @@
             "media.trakt.tv/images/movies/000/792/165/cleararts/medium/6efdc22d3f.png.webp"
           ]
         },
-        "rating": 6.682854175567627,
+        "rating": 6.682516098022461,
         "status": "released",
         "country": "fr",
         "runtime": 83,
@@ -81914,7 +81914,7 @@
         },
         "year": 2022,
         "title": "The Tinder Swindler",
-        "votes": 4068,
+        "votes": 4069,
         "colors": {
           "poster": [
             "#1EC0BE",
@@ -81943,7 +81943,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.101769924163818,
+        "rating": 7.101007461547852,
         "status": "released",
         "country": "gb",
         "runtime": 114,
@@ -82185,7 +82185,7 @@
         },
         "year": 2024,
         "title": "Woman of the Hour",
-        "votes": 5023,
+        "votes": 5025,
         "colors": {
           "poster": [
             "#D49162",
@@ -82217,7 +82217,7 @@
             "media.trakt.tv/images/movies/000/666/902/cleararts/medium/a26a7d20d3.png.webp"
           ]
         },
-        "rating": 6.788771629333496,
+        "rating": 6.788656711578369,
         "status": "released",
         "country": "us",
         "runtime": 95,
@@ -82298,7 +82298,7 @@
         },
         "year": 2024,
         "title": "Monkey Man",
-        "votes": 7222,
+        "votes": 7223,
         "colors": {
           "poster": [
             "#CD0811",
@@ -82329,7 +82329,7 @@
             "media.trakt.tv/images/movies/000/525/826/cleararts/medium/cfc8e2bfcf.png.webp"
           ]
         },
-        "rating": 7.045693874359131,
+        "rating": 7.045825958251953,
         "status": "released",
         "country": "us",
         "runtime": 122,
@@ -82640,7 +82640,7 @@
             "media.trakt.tv/images/movies/000/488/476/cleararts/medium/f7bf6c0feb.png.webp"
           ]
         },
-        "rating": 7.1340742111206055,
+        "rating": 7.134444236755371,
         "status": "released",
         "country": "us",
         "runtime": 139,
@@ -83198,7 +83198,7 @@
         },
         "year": 2005,
         "title": "Lord of War",
-        "votes": 11988,
+        "votes": 11991,
         "colors": {
           "poster": [
             "#F9F5F0",
@@ -83230,7 +83230,7 @@
             "media.trakt.tv/images/movies/000/001/210/cleararts/medium/ee2c1b00a9.png.webp"
           ]
         },
-        "rating": 7.633049488067627,
+        "rating": 7.632974624633789,
         "status": "released",
         "country": "us",
         "runtime": 122,
@@ -83619,7 +83619,7 @@
         },
         "year": 1995,
         "title": "Strange Days",
-        "votes": 3384,
+        "votes": 3386,
         "colors": {
           "poster": [
             "#D28A50",
@@ -83652,7 +83652,7 @@
             "media.trakt.tv/images/movies/000/000/237/cleararts/medium/1d300004d8.png.webp"
           ]
         },
-        "rating": 7.220448970794678,
+        "rating": 7.219728469848633,
         "status": "released",
         "country": "us",
         "runtime": 145,
@@ -84150,7 +84150,7 @@
         },
         "year": 1960,
         "title": "The Time Machine",
-        "votes": 1512,
+        "votes": 1513,
         "colors": {
           "poster": [
             "#D19C63",
@@ -84184,7 +84184,7 @@
             "media.trakt.tv/images/movies/000/001/477/cleararts/medium/e396ff8001.png.webp"
           ]
         },
-        "rating": 7.55555534362793,
+        "rating": 7.555188179016113,
         "status": "released",
         "country": "us",
         "runtime": 103,
@@ -84259,7 +84259,7 @@
         },
         "year": 1999,
         "title": "Bringing Out the Dead",
-        "votes": 1645,
+        "votes": 1646,
         "colors": {
           "poster": [
             "#D71A21",
@@ -84289,7 +84289,7 @@
             "media.trakt.tv/images/movies/000/004/254/cleararts/medium/a77e3f87f8.png.webp"
           ]
         },
-        "rating": 6.792097091674805,
+        "rating": 6.792830944061279,
         "status": "released",
         "country": "us",
         "runtime": 121,
@@ -85232,7 +85232,7 @@
         },
         "year": 1966,
         "title": "Tokyo Drifter",
-        "votes": 294,
+        "votes": 295,
         "colors": {
           "poster": [
             "#B57138",
@@ -85258,7 +85258,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.387754917144775,
+        "rating": 7.3694915771484375,
         "status": "released",
         "country": "jp",
         "runtime": 83,
@@ -85322,7 +85322,7 @@
         },
         "year": 1952,
         "title": "Bend of the River",
-        "votes": 253,
+        "votes": 254,
         "colors": {
           "poster": [
             "#EBDAC7",
@@ -85353,7 +85353,7 @@
             "media.trakt.tv/images/movies/000/025/065/cleararts/medium/572803132a.png.webp"
           ]
         },
-        "rating": 7.596837997436523,
+        "rating": 7.594488143920898,
         "status": "released",
         "country": "us",
         "runtime": 91,
@@ -85513,7 +85513,7 @@
         },
         "year": 1968,
         "title": "Theorem",
-        "votes": 317,
+        "votes": 318,
         "colors": {
           "poster": [
             "#D5D9DF",
@@ -85538,7 +85538,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.801261901855469,
+        "rating": 6.795597553253174,
         "status": "released",
         "country": "it",
         "runtime": 95,
@@ -87561,7 +87561,7 @@
         },
         "year": 1981,
         "title": "The Professional",
-        "votes": 520,
+        "votes": 521,
         "colors": {
           "poster": [
             "#FAF9F7",
@@ -87593,7 +87593,7 @@
             "media.trakt.tv/images/movies/000/001/113/cleararts/medium/b5692693fa.png.webp"
           ]
         },
-        "rating": 7.359615325927734,
+        "rating": 7.3589253425598145,
         "status": "released",
         "country": "fr",
         "runtime": 108,
@@ -88742,7 +88742,7 @@
         },
         "year": 2011,
         "title": "Bullhead",
-        "votes": 551,
+        "votes": 552,
         "colors": {
           "poster": [
             "#D9C3B4",
@@ -88771,7 +88771,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.245008945465088,
+        "rating": 7.240942001342773,
         "status": "released",
         "country": "be",
         "runtime": 129,
@@ -89051,7 +89051,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.44499397277832,
+        "rating": 7.446229934692383,
         "status": "released",
         "country": "us",
         "runtime": 123,
@@ -89119,7 +89119,7 @@
         },
         "year": 2016,
         "title": "Closet Monster",
-        "votes": 651,
+        "votes": 652,
         "colors": {
           "poster": [
             "#ED1A5A",
@@ -89145,7 +89145,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.337941646575928,
+        "rating": 7.337423324584961,
         "status": "released",
         "country": "ca",
         "runtime": 90,
@@ -91001,7 +91001,7 @@
         },
         "year": 2013,
         "title": "Dragon Ball Z: Battle of Gods",
-        "votes": 2599,
+        "votes": 2600,
         "colors": {
           "poster": [
             "#A89E7A",
@@ -91033,7 +91033,7 @@
             "media.trakt.tv/images/movies/000/087/037/cleararts/medium/c36ac162ac.png.webp"
           ]
         },
-        "rating": 7.157368183135986,
+        "rating": 7.1576924324035645,
         "status": "released",
         "country": "jp",
         "runtime": 85,
@@ -91105,7 +91105,7 @@
         },
         "year": 1979,
         "title": "The Warriors",
-        "votes": 3868,
+        "votes": 3871,
         "colors": {
           "poster": [
             "#C97C69",
@@ -91136,7 +91136,7 @@
             "media.trakt.tv/images/movies/000/006/560/cleararts/medium/86c9e22e93.png.webp"
           ]
         },
-        "rating": 7.599276065826416,
+        "rating": 7.599844932556152,
         "status": "released",
         "country": "us",
         "runtime": 94,
@@ -91212,7 +91212,7 @@
         },
         "year": 2013,
         "title": "Disconnect",
-        "votes": 2642,
+        "votes": 2644,
         "colors": {
           "poster": [
             "#AB9379",
@@ -91241,7 +91241,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.453823089599609,
+        "rating": 7.452723026275635,
         "status": "released",
         "country": "us",
         "runtime": 116,
@@ -91434,7 +91434,7 @@
         },
         "year": 1991,
         "title": "Cape Fear",
-        "votes": 5297,
+        "votes": 5298,
         "colors": {
           "poster": [
             "#7390AF",
@@ -91466,7 +91466,7 @@
             "media.trakt.tv/images/movies/000/001/053/cleararts/medium/4b84d595fc.png.webp"
           ]
         },
-        "rating": 7.349442958831787,
+        "rating": 7.3495659828186035,
         "status": "released",
         "country": "us",
         "runtime": 128,
@@ -91549,7 +91549,7 @@
         },
         "year": 1987,
         "title": "Wall Street",
-        "votes": 4332,
+        "votes": 4333,
         "colors": {
           "poster": [
             "#BAACA6",
@@ -91580,7 +91580,7 @@
             "media.trakt.tv/images/movies/000/005/845/cleararts/medium/1bf7e63460.png.webp"
           ]
         },
-        "rating": 7.416435718536377,
+        "rating": 7.417032241821289,
         "status": "released",
         "country": "us",
         "runtime": 126,
@@ -91657,7 +91657,7 @@
         },
         "year": 1998,
         "title": "The Negotiator",
-        "votes": 4903,
+        "votes": 4905,
         "colors": {
           "poster": [
             "#CF321B",
@@ -91690,7 +91690,7 @@
             "media.trakt.tv/images/movies/000/004/907/cleararts/medium/c5e0dc557b.png.webp"
           ]
         },
-        "rating": 7.475015163421631,
+        "rating": 7.474413871765137,
         "status": "released",
         "country": "us",
         "runtime": 140,
@@ -91769,7 +91769,7 @@
         },
         "year": 1981,
         "title": "Escape from New York",
-        "votes": 6371,
+        "votes": 6372,
         "colors": {
           "poster": [
             "#A4BCCF",
@@ -91800,7 +91800,7 @@
             "media.trakt.tv/images/movies/000/000/846/cleararts/medium/bcffea8d28.png.webp"
           ]
         },
-        "rating": 7.188667297363281,
+        "rating": 7.188637733459473,
         "status": "released",
         "country": "us",
         "runtime": 99,
@@ -91887,7 +91887,7 @@
         },
         "year": 2008,
         "title": "Changeling",
-        "votes": 5884,
+        "votes": 5885,
         "colors": {
           "poster": [
             "#BBA28A",
@@ -91919,7 +91919,7 @@
             "media.trakt.tv/images/movies/000/002/287/cleararts/medium/5993f1366c.png.webp"
           ]
         },
-        "rating": 7.548946380615234,
+        "rating": 7.548852920532227,
         "status": "released",
         "country": "us",
         "runtime": 141,
@@ -92001,7 +92001,7 @@
         },
         "year": 1994,
         "title": "Natural Born Killers",
-        "votes": 6801,
+        "votes": 6803,
         "colors": {
           "poster": [
             "#E1E1E1",
@@ -92033,7 +92033,7 @@
             "media.trakt.tv/images/movies/000/000/199/cleararts/medium/a8a8c2d8bb.png.webp"
           ]
         },
-        "rating": 7.3011322021484375,
+        "rating": 7.299426555633545,
         "status": "released",
         "country": "us",
         "runtime": 119,
@@ -92114,7 +92114,7 @@
         },
         "year": 2011,
         "title": "The Lincoln Lawyer",
-        "votes": 7742,
+        "votes": 7743,
         "colors": {
           "poster": [
             "#AFAE97",
@@ -92146,7 +92146,7 @@
             "media.trakt.tv/images/movies/000/035/197/cleararts/medium/1c73ac99e4.png.webp"
           ]
         },
-        "rating": 7.546241283416748,
+        "rating": 7.545912265777588,
         "status": "released",
         "country": "us",
         "runtime": 119,
@@ -92229,7 +92229,7 @@
         },
         "year": 1997,
         "title": "Contact",
-        "votes": 11161,
+        "votes": 11164,
         "colors": {
           "poster": [
             "#67A2C8",
@@ -92261,7 +92261,7 @@
             "media.trakt.tv/images/movies/000/000/558/cleararts/medium/2e93191e9c.png.webp"
           ]
         },
-        "rating": 7.747065544128418,
+        "rating": 7.747402191162109,
         "status": "released",
         "country": "us",
         "runtime": 150,
@@ -92347,7 +92347,7 @@
         },
         "year": 2012,
         "title": "Chronicle",
-        "votes": 10692,
+        "votes": 10694,
         "colors": {
           "poster": [
             "#BEC8DC",
@@ -92379,7 +92379,7 @@
             "media.trakt.tv/images/movies/000/056/686/cleararts/medium/faf607ec59.png.webp"
           ]
         },
-        "rating": 7.166386127471924,
+        "rating": 7.166074275970459,
         "status": "released",
         "country": "us",
         "runtime": 84,
@@ -92462,7 +92462,7 @@
         },
         "year": 2008,
         "title": "Hellboy II: The Golden Army",
-        "votes": 10975,
+        "votes": 10976,
         "colors": {
           "poster": [
             "#ABAA9D",
@@ -92494,7 +92494,7 @@
             "media.trakt.tv/images/movies/000/006/375/cleararts/medium/ecd3405bc4.png.webp"
           ]
         },
-        "rating": 7.088473796844482,
+        "rating": 7.088192462921143,
         "status": "released",
         "country": "us",
         "runtime": 120,
@@ -92577,7 +92577,7 @@
         },
         "year": 2011,
         "title": "Super 8",
-        "votes": 13540,
+        "votes": 13542,
         "colors": {
           "poster": [
             "#8996AC",
@@ -92609,7 +92609,7 @@
             "media.trakt.tv/images/movies/000/024/185/cleararts/medium/2f43b27459.png.webp"
           ]
         },
-        "rating": 7.180649757385254,
+        "rating": 7.18047571182251,
         "status": "released",
         "country": "us",
         "runtime": 112,
@@ -92695,7 +92695,7 @@
         },
         "year": 1997,
         "title": "The Fifth Element",
-        "votes": 28754,
+        "votes": 28755,
         "colors": {
           "poster": [
             "#86A07E",
@@ -92727,7 +92727,7 @@
             "media.trakt.tv/images/movies/000/000/014/cleararts/medium/789336c1f3.png.webp"
           ]
         },
-        "rating": 8.114627838134766,
+        "rating": 8.114762306213379,
         "status": "released",
         "country": "fr",
         "runtime": 126,
@@ -92828,7 +92828,7 @@
         },
         "year": 2013,
         "title": "Pacific Rim",
-        "votes": 29212,
+        "votes": 29216,
         "colors": {
           "poster": [
             "#ACC2B8",
@@ -92860,7 +92860,7 @@
             "media.trakt.tv/images/movies/000/050/139/cleararts/medium/6c03cc436d.png.webp"
           ]
         },
-        "rating": 7.271258354187012,
+        "rating": 7.271186828613281,
         "status": "released",
         "country": "us",
         "runtime": 131,
@@ -93052,7 +93052,7 @@
         },
         "year": 2025,
         "title": "She Rides Shotgun",
-        "votes": 1292,
+        "votes": 1293,
         "colors": {
           "poster": [
             "#D2DBCD",
@@ -93082,7 +93082,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.960526466369629,
+        "rating": 6.959010124206543,
         "status": "released",
         "country": "us",
         "runtime": 120,
@@ -93159,7 +93159,7 @@
         },
         "year": 2025,
         "title": "Sirāt",
-        "votes": 1464,
+        "votes": 1471,
         "colors": {
           "poster": [
             "#D6C5B2",
@@ -93187,7 +93187,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.181694030761719,
+        "rating": 6.181509017944336,
         "status": "released",
         "country": "es",
         "runtime": 115,
@@ -93257,7 +93257,7 @@
         },
         "year": 2023,
         "title": "The Childe",
-        "votes": 401,
+        "votes": 402,
         "colors": {
           "poster": [
             "#BA968B",
@@ -93281,7 +93281,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.12967586517334,
+        "rating": 7.126865863800049,
         "status": "released",
         "country": "kr",
         "runtime": 118,
@@ -93352,7 +93352,7 @@
         },
         "year": 2023,
         "title": "Guy Ritchie's The Covenant",
-        "votes": 10005,
+        "votes": 10007,
         "colors": {
           "poster": [
             "#B6B08F",
@@ -93384,7 +93384,7 @@
             "media.trakt.tv/images/movies/000/706/755/cleararts/medium/99c28e14fb.png.webp"
           ]
         },
-        "rating": 7.677660942077637,
+        "rating": 7.677125930786133,
         "status": "released",
         "country": "us",
         "runtime": 123,
@@ -94123,7 +94123,7 @@
         },
         "year": 2024,
         "title": "Kingdom of the Planet of the Apes",
-        "votes": 13578,
+        "votes": 13580,
         "colors": {
           "poster": [
             "#B8B9A5",
@@ -94155,7 +94155,7 @@
             "media.trakt.tv/images/movies/000/488/280/cleararts/medium/1d2a9d44e2.png.webp"
           ]
         },
-        "rating": 7.057740688323975,
+        "rating": 7.057732105255127,
         "status": "released",
         "country": "us",
         "runtime": 145,
@@ -95000,7 +95000,7 @@
         },
         "year": 2003,
         "title": "Dogville",
-        "votes": 3030,
+        "votes": 3032,
         "colors": {
           "poster": [
             "#F9F8F8",
@@ -95030,7 +95030,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.6768975257873535,
+        "rating": 7.676451206207275,
         "status": "released",
         "country": "dk",
         "runtime": 178,
@@ -95222,7 +95222,7 @@
         },
         "year": 2011,
         "title": "The Adventures of Tintin",
-        "votes": 10981,
+        "votes": 10982,
         "colors": {
           "poster": [
             "#A5BAA6",
@@ -95254,7 +95254,7 @@
             "media.trakt.tv/images/movies/000/010/752/cleararts/medium/78720a9265.png.webp"
           ]
         },
-        "rating": 7.338493824005127,
+        "rating": 7.3385539054870605,
         "status": "released",
         "country": "us",
         "runtime": 107,
@@ -95339,7 +95339,7 @@
         },
         "year": 1973,
         "title": "Papillon",
-        "votes": 2799,
+        "votes": 2801,
         "colors": {
           "poster": [
             "#F7F5F2",
@@ -95370,7 +95370,7 @@
             "media.trakt.tv/images/movies/000/003/381/cleararts/medium/89e7b5e8a0.png.webp"
           ]
         },
-        "rating": 7.824223041534424,
+        "rating": 7.823634624481201,
         "status": "released",
         "country": "us",
         "runtime": 151,
@@ -95393,7 +95393,7 @@
         "updated_at": "2026-02-28T18:20:54.000Z",
         "after_credits": false,
         "certification": "PG",
-        "comment_count": 7,
+        "comment_count": 8,
         "during_credits": false,
         "original_title": "Papillon",
         "available_translations": [
@@ -95449,7 +95449,7 @@
         },
         "year": 1948,
         "title": "The Snake Pit",
-        "votes": 160,
+        "votes": 161,
         "colors": {
           "poster": [
             "#44B3BD",
@@ -95474,7 +95474,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.4375,
+        "rating": 7.440993785858154,
         "status": "released",
         "country": "us",
         "runtime": 108,
@@ -95533,7 +95533,7 @@
         },
         "year": 1996,
         "title": "Sleepers",
-        "votes": 4956,
+        "votes": 4960,
         "colors": {
           "poster": [
             "#D5B691",
@@ -95565,7 +95565,7 @@
             "media.trakt.tv/images/movies/000/000/662/cleararts/medium/b3f675aa85.png.webp"
           ]
         },
-        "rating": 7.676553726196289,
+        "rating": 7.677217960357666,
         "status": "released",
         "country": "us",
         "runtime": 147,
@@ -95642,7 +95642,7 @@
         },
         "year": 1953,
         "title": "The War of the Worlds",
-        "votes": 1280,
+        "votes": 1282,
         "colors": {
           "poster": [
             "#629E79",
@@ -95673,7 +95673,7 @@
             "media.trakt.tv/images/movies/000/004/440/cleararts/medium/aad03aa8c4.png.webp"
           ]
         },
-        "rating": 7.106249809265137,
+        "rating": 7.107644081115723,
         "status": "released",
         "country": "us",
         "runtime": 85,
@@ -97241,7 +97241,7 @@
         },
         "year": 2018,
         "title": "Creed II",
-        "votes": 10634,
+        "votes": 10635,
         "colors": {
           "poster": [
             "#C2C7BD",
@@ -97272,7 +97272,7 @@
             "media.trakt.tv/images/movies/000/331/682/cleararts/medium/09920126ea.png.webp"
           ]
         },
-        "rating": 7.377750396728516,
+        "rating": 7.377715110778809,
         "status": "released",
         "country": "us",
         "runtime": 130,
@@ -97659,7 +97659,7 @@
         },
         "year": 1939,
         "title": "Daybreak",
-        "votes": 155,
+        "votes": 156,
         "colors": {
           "poster": [
             "#B7C3C1",
@@ -97683,7 +97683,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.522580623626709,
+        "rating": 7.525640964508057,
         "status": "released",
         "country": "fr",
         "runtime": 93,
@@ -100546,7 +100546,7 @@
         },
         "year": 1971,
         "title": "The Beguiled",
-        "votes": 480,
+        "votes": 481,
         "colors": {
           "poster": [
             "#F3EDE7",
@@ -100574,7 +100574,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.1229166984558105,
+        "rating": 7.122661113739014,
         "status": "released",
         "country": "us",
         "runtime": 105,
@@ -100645,7 +100645,7 @@
         },
         "year": 1990,
         "title": "State of Grace",
-        "votes": 654,
+        "votes": 655,
         "colors": {
           "poster": [
             "#9097AF",
@@ -100669,7 +100669,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.1284403800964355,
+        "rating": 7.128244400024414,
         "status": "released",
         "country": "us",
         "runtime": 135,
@@ -100736,7 +100736,7 @@
         },
         "year": 1991,
         "title": "Dead Again",
-        "votes": 611,
+        "votes": 612,
         "colors": {
           "poster": [
             "#CBC8BA",
@@ -100766,7 +100766,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.901800155639648,
+        "rating": 6.900326728820801,
         "status": "released",
         "country": "us",
         "runtime": 107,

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-28T19:51:09.137426+00:00",
+    "fetched_at": "2026-03-01T06:08:48.724264+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5284,
+        "votes": 5290,
         "colors": {
           "poster": [
             "#CC997A",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.544852256774902,
+        "rating": 7.544990539550781,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2746,
+        "votes": 2747,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.821922779083252,
+        "rating": 5.822715759277344,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -344,7 +344,7 @@
         },
         "year": 2026,
         "title": "Avengers: Doomsday",
-        "votes": 64,
+        "votes": 65,
         "colors": {
           "poster": [
             "#A4BF91",
@@ -373,7 +373,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.578125,
+        "rating": 7.615384578704834,
         "status": "post production",
         "country": "us",
         "runtime": null,

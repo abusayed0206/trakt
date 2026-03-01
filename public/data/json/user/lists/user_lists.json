@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-02-28T19:51:08.403610+00:00",
+    "fetched_at": "2026-03-01T06:08:47.983317+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/user_lists.json",
@@ -105,7 +105,7 @@
     },
     {
       "name": "MDBLIST",
-      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/mdblist\r\nUpdated at 2026-02-28 01:09:34",
+      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/mdblist\r\nUpdated at 2026-03-01 07:29:55",
       "privacy": "public",
       "share_link": "",
       "type": "personal",
@@ -114,8 +114,8 @@
       "sort_by": "rank",
       "sort_how": "asc",
       "created_at": "2026-01-01T22:03:25.000Z",
-      "updated_at": "2026-02-27T23:09:34.000Z",
-      "item_count": 4001,
+      "updated_at": "2026-03-01T05:29:56.000Z",
+      "item_count": 3997,
       "comment_count": 0,
       "likes": 1,
       "ids": {
