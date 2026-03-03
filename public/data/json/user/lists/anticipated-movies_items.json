@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-02T06:12:30.324339+00:00",
+    "fetched_at": "2026-03-03T06:09:39.457341+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5306,
+        "votes": 5312,
         "colors": {
           "poster": [
             "#CC997A",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.54768180847168,
+        "rating": 7.5464982986450195,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-01T09:20:20.000Z",
+        "updated_at": "2026-03-02T08:42:13.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 127,
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-01T14:42:49.000Z",
+        "updated_at": "2026-03-02T13:54:56.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -391,7 +391,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-03-01T09:19:35.000Z",
+        "updated_at": "2026-03-02T08:41:23.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -664,7 +664,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-03-01T09:18:42.000Z",
+        "updated_at": "2026-03-02T08:40:26.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
