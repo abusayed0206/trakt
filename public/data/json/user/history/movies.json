@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-03T06:09:36.620829+00:00",
+    "fetched_at": "2026-03-04T06:06:34.763927+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12061803765,
+      "watched_at": "2026-03-03T14:30:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Mercy",
+        "year": 2026,
+        "ids": {
+          "trakt": 1000015,
+          "slug": "mercy-2026",
+          "imdb": "tt31050594",
+          "tmdb": 1236153
+        }
+      }
+    },
     {
       "id": 12055599230,
       "watched_at": "2026-02-28T19:16:00.000Z",
@@ -104,6 +120,22 @@
       }
     },
     {
+      "id": 12061874627,
+      "watched_at": "2026-02-10T15:37:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Max Payne",
+        "year": 2008,
+        "ids": {
+          "trakt": 7608,
+          "slug": "max-payne-2008",
+          "imdb": "tt0467197",
+          "tmdb": 13051
+        }
+      }
+    },
+    {
       "id": 12006653110,
       "watched_at": "2026-02-09T15:49:00.000Z",
       "action": "watch",
@@ -132,38 +164,6 @@
           "slug": "rebel-ridge-2024",
           "imdb": "tt11301886",
           "tmdb": 646097
-        }
-      }
-    },
-    {
-      "id": 11946263933,
-      "watched_at": "2026-01-15T13:13:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Paycheck",
-        "year": 2003,
-        "ids": {
-          "trakt": 4896,
-          "slug": "paycheck-2003",
-          "imdb": "tt0338337",
-          "tmdb": 9620
-        }
-      }
-    },
-    {
-      "id": 11940908788,
-      "watched_at": "2026-01-13T11:18:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "One Battle After Another",
-        "year": 2025,
-        "ids": {
-          "trakt": 848797,
-          "slug": "one-battle-after-another-2025",
-          "imdb": "tt30144839",
-          "tmdb": 1054867
         }
       }
     }
