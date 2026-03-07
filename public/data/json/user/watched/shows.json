@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-06T06:07:09.577691+00:00",
+    "fetched_at": "2026-03-07T06:01:00.340398+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,9 @@
   },
   "data": [
     {
-      "plays": 58,
-      "last_watched_at": "2026-02-26T14:38:00.000Z",
-      "last_updated_at": "2026-02-26T14:38:11.000Z",
+      "plays": 60,
+      "last_watched_at": "2026-03-06T15:49:00.000Z",
+      "last_updated_at": "2026-03-06T15:49:00.000Z",
       "reset_at": null,
       "show": {
         "title": "Criminal Minds",
@@ -322,6 +322,16 @@
               "number": 14,
               "plays": 1,
               "last_watched_at": "2026-02-26T14:38:00.000Z"
+            },
+            {
+              "number": 15,
+              "plays": 1,
+              "last_watched_at": "2026-03-06T13:46:00.000Z"
+            },
+            {
+              "number": 16,
+              "plays": 1,
+              "last_watched_at": "2026-03-06T15:49:00.000Z"
             }
           ]
         }
@@ -2384,7 +2394,7 @@
     },
     {
       "plays": 6,
-      "last_watched_at": "2025-07-08T19:32:21.000Z",
+      "last_watched_at": "2025-07-08T19:32:00.000Z",
       "last_updated_at": "2025-07-08T19:32:21.000Z",
       "reset_at": null,
       "show": {
@@ -2406,32 +2416,32 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2025-07-08T16:10:22.000Z"
+              "last_watched_at": "2025-07-08T16:10:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2025-07-08T16:44:03.000Z"
+              "last_watched_at": "2025-07-08T16:44:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2025-07-08T18:08:23.000Z"
+              "last_watched_at": "2025-07-08T18:08:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2025-07-08T18:31:51.000Z"
+              "last_watched_at": "2025-07-08T18:31:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2025-07-08T19:01:44.000Z"
+              "last_watched_at": "2025-07-08T19:01:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2025-07-08T19:32:21.000Z"
+              "last_watched_at": "2025-07-08T19:32:00.000Z"
             }
           ]
         }
@@ -2494,7 +2504,7 @@
     },
     {
       "plays": 14,
-      "last_watched_at": "2025-07-07T15:43:45.000Z",
+      "last_watched_at": "2025-07-07T15:43:00.000Z",
       "last_updated_at": "2025-07-07T15:43:45.000Z",
       "reset_at": null,
       "show": {
@@ -2516,72 +2526,72 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2025-07-06T07:13:43.000Z"
+              "last_watched_at": "2025-07-06T07:13:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2025-07-06T08:53:40.000Z"
+              "last_watched_at": "2025-07-06T08:53:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2025-07-06T09:53:55.000Z"
+              "last_watched_at": "2025-07-06T09:53:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2025-07-06T10:28:14.000Z"
+              "last_watched_at": "2025-07-06T10:28:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2025-07-06T15:45:42.000Z"
+              "last_watched_at": "2025-07-06T15:45:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2025-07-06T19:35:55.000Z"
+              "last_watched_at": "2025-07-06T19:35:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2025-07-07T05:38:25.000Z"
+              "last_watched_at": "2025-07-07T05:38:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2025-07-07T11:07:42.000Z"
+              "last_watched_at": "2025-07-07T11:07:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2025-07-07T11:55:05.000Z"
+              "last_watched_at": "2025-07-07T11:55:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2025-07-07T12:44:05.000Z"
+              "last_watched_at": "2025-07-07T12:44:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2025-07-07T13:28:39.000Z"
+              "last_watched_at": "2025-07-07T13:28:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2025-07-07T13:57:31.000Z"
+              "last_watched_at": "2025-07-07T13:57:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2025-07-07T14:11:58.000Z"
+              "last_watched_at": "2025-07-07T14:11:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2025-07-07T15:43:45.000Z"
+              "last_watched_at": "2025-07-07T15:43:00.000Z"
             }
           ]
         }
@@ -2619,7 +2629,7 @@
     },
     {
       "plays": 168,
-      "last_watched_at": "2025-07-03T14:17:57.000Z",
+      "last_watched_at": "2025-07-03T14:17:00.000Z",
       "last_updated_at": "2025-07-03T14:17:57.000Z",
       "reset_at": null,
       "show": {
@@ -2641,117 +2651,117 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-12-20T09:47:23.000Z"
+              "last_watched_at": "2024-12-20T09:47:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-12-20T11:04:16.000Z"
+              "last_watched_at": "2024-12-20T11:04:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-12-20T13:08:47.000Z"
+              "last_watched_at": "2024-12-20T13:08:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-12-20T15:44:57.000Z"
+              "last_watched_at": "2024-12-20T15:44:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-12-20T16:39:57.000Z"
+              "last_watched_at": "2024-12-20T16:39:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-12-20T17:28:47.000Z"
+              "last_watched_at": "2024-12-20T17:28:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-12-21T05:13:36.000Z"
+              "last_watched_at": "2024-12-21T05:13:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-12-21T05:52:57.000Z"
+              "last_watched_at": "2024-12-21T05:52:00.000Z"
             },
             {
               "number": 9,
               "plays": 2,
-              "last_watched_at": "2024-12-21T07:18:41.000Z"
+              "last_watched_at": "2024-12-21T07:18:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-12-21T08:00:27.000Z"
+              "last_watched_at": "2024-12-21T08:00:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2024-12-21T09:01:27.000Z"
+              "last_watched_at": "2024-12-21T09:01:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2025-01-14T16:58:16.000Z"
+              "last_watched_at": "2025-01-14T16:58:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2025-01-14T18:02:38.000Z"
+              "last_watched_at": "2025-01-14T18:02:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2025-01-15T16:02:28.000Z"
+              "last_watched_at": "2025-01-15T16:02:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2025-01-17T17:09:18.000Z"
+              "last_watched_at": "2025-01-17T17:09:00.000Z"
             },
             {
               "number": 16,
               "plays": 1,
-              "last_watched_at": "2025-01-27T05:22:45.000Z"
+              "last_watched_at": "2025-01-27T05:22:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2025-01-27T06:52:30.000Z"
+              "last_watched_at": "2025-01-27T06:52:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2025-01-27T07:52:45.000Z"
+              "last_watched_at": "2025-01-27T07:52:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2025-01-28T08:06:21.000Z"
+              "last_watched_at": "2025-01-28T08:06:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2025-01-30T17:42:40.000Z"
+              "last_watched_at": "2025-01-30T17:42:00.000Z"
             },
             {
               "number": 21,
               "plays": 1,
-              "last_watched_at": "2025-02-02T14:49:35.000Z"
+              "last_watched_at": "2025-02-02T14:49:00.000Z"
             },
             {
               "number": 22,
               "plays": 1,
-              "last_watched_at": "2025-02-02T16:01:02.000Z"
+              "last_watched_at": "2025-02-02T16:01:00.000Z"
             },
             {
               "number": 23,
               "plays": 1,
-              "last_watched_at": "2025-02-02T16:39:37.000Z"
+              "last_watched_at": "2025-02-02T16:39:00.000Z"
             }
           ]
         },
@@ -2761,17 +2771,17 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2025-02-03T15:54:28.000Z"
+              "last_watched_at": "2025-02-03T15:54:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2025-02-04T16:14:48.000Z"
+              "last_watched_at": "2025-02-04T16:14:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2025-02-05T07:30:22.000Z"
+              "last_watched_at": "2025-02-05T07:30:00.000Z"
             },
             {
               "number": 4,
@@ -2781,97 +2791,97 @@
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2025-02-06T11:54:35.000Z"
+              "last_watched_at": "2025-02-06T11:54:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2025-02-06T12:29:56.000Z"
+              "last_watched_at": "2025-02-06T12:29:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2025-02-06T12:56:52.000Z"
+              "last_watched_at": "2025-02-06T12:56:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2025-02-07T16:07:23.000Z"
+              "last_watched_at": "2025-02-07T16:07:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2025-02-08T07:44:54.000Z"
+              "last_watched_at": "2025-02-08T07:44:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2025-02-08T09:16:49.000Z"
+              "last_watched_at": "2025-02-08T09:16:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2025-02-08T12:18:02.000Z"
+              "last_watched_at": "2025-02-08T12:18:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2025-02-08T13:57:10.000Z"
+              "last_watched_at": "2025-02-08T13:57:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2025-02-08T14:45:33.000Z"
+              "last_watched_at": "2025-02-08T14:45:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2025-02-08T15:27:44.000Z"
+              "last_watched_at": "2025-02-08T15:27:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2025-02-08T16:17:54.000Z"
+              "last_watched_at": "2025-02-08T16:17:00.000Z"
             },
             {
               "number": 16,
               "plays": 1,
-              "last_watched_at": "2025-02-08T16:55:26.000Z"
+              "last_watched_at": "2025-02-08T16:55:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2025-02-10T08:47:41.000Z"
+              "last_watched_at": "2025-02-10T08:47:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2025-02-10T17:33:17.000Z"
+              "last_watched_at": "2025-02-10T17:33:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2025-02-10T18:20:03.000Z"
+              "last_watched_at": "2025-02-10T18:20:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2025-02-10T19:01:38.000Z"
+              "last_watched_at": "2025-02-10T19:01:00.000Z"
             },
             {
               "number": 21,
               "plays": 1,
-              "last_watched_at": "2025-02-10T19:44:12.000Z"
+              "last_watched_at": "2025-02-10T19:44:00.000Z"
             },
             {
               "number": 22,
               "plays": 1,
-              "last_watched_at": "2025-02-10T20:24:56.000Z"
+              "last_watched_at": "2025-02-10T20:24:00.000Z"
             },
             {
               "number": 23,
               "plays": 1,
-              "last_watched_at": "2025-02-10T20:48:27.000Z"
+              "last_watched_at": "2025-02-10T20:48:00.000Z"
             }
           ]
         },
@@ -2881,122 +2891,122 @@
             {
               "number": 1,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 2,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 3,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 4,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 5,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 6,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 7,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 8,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 9,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 10,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 11,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 12,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 13,
               "plays": 2,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 14,
               "plays": 3,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 16,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 21,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 22,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 23,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             },
             {
               "number": 24,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:24:55.000Z"
+              "last_watched_at": "2025-06-19T06:24:00.000Z"
             }
           ]
         },
@@ -3006,122 +3016,122 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:25:34.000Z"
+              "last_watched_at": "2025-06-19T06:25:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:25:35.000Z"
+              "last_watched_at": "2025-06-19T06:25:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2025-06-19T06:25:29.000Z"
+              "last_watched_at": "2025-06-19T06:25:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2025-06-21T18:50:15.000Z"
+              "last_watched_at": "2025-06-21T18:50:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2025-06-21T18:50:16.000Z"
+              "last_watched_at": "2025-06-21T18:50:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2025-06-21T18:50:17.000Z"
+              "last_watched_at": "2025-06-21T18:50:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2025-06-21T18:50:18.000Z"
+              "last_watched_at": "2025-06-21T18:50:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2025-06-21T18:50:21.000Z"
+              "last_watched_at": "2025-06-21T18:50:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2025-06-21T18:50:22.000Z"
+              "last_watched_at": "2025-06-21T18:50:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2025-06-21T18:50:23.000Z"
+              "last_watched_at": "2025-06-21T18:50:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2025-06-21T18:50:23.000Z"
+              "last_watched_at": "2025-06-21T18:50:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2025-06-21T18:50:26.000Z"
+              "last_watched_at": "2025-06-21T18:50:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2025-06-26T06:10:04.000Z"
+              "last_watched_at": "2025-06-26T06:10:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2025-07-03T05:05:58.000Z"
+              "last_watched_at": "2025-07-03T05:05:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2025-06-26T07:06:15.000Z"
+              "last_watched_at": "2025-06-26T07:06:00.000Z"
             },
             {
               "number": 16,
               "plays": 2,
-              "last_watched_at": "2025-06-26T15:49:01.000Z"
+              "last_watched_at": "2025-06-26T15:49:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2025-06-26T18:16:15.000Z"
+              "last_watched_at": "2025-06-26T18:16:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2025-07-03T05:06:04.000Z"
+              "last_watched_at": "2025-07-03T05:06:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2025-06-27T12:27:03.000Z"
+              "last_watched_at": "2025-06-27T12:27:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2025-06-27T14:32:28.000Z"
+              "last_watched_at": "2025-06-27T14:32:00.000Z"
             },
             {
               "number": 21,
               "plays": 1,
-              "last_watched_at": "2025-06-27T16:02:19.000Z"
+              "last_watched_at": "2025-06-27T16:02:00.000Z"
             },
             {
               "number": 22,
               "plays": 1,
-              "last_watched_at": "2025-06-27T16:45:29.000Z"
+              "last_watched_at": "2025-06-27T16:45:00.000Z"
             },
             {
               "number": 23,
               "plays": 1,
-              "last_watched_at": "2025-06-27T17:31:01.000Z"
+              "last_watched_at": "2025-06-27T17:31:00.000Z"
             },
             {
               "number": 24,
               "plays": 1,
-              "last_watched_at": "2025-06-27T18:13:45.000Z"
+              "last_watched_at": "2025-06-27T18:13:00.000Z"
             }
           ]
         },
@@ -3131,112 +3141,112 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2025-06-28T12:58:14.000Z"
+              "last_watched_at": "2025-06-28T12:58:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2025-06-28T13:39:50.000Z"
+              "last_watched_at": "2025-06-28T13:39:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2025-06-28T14:20:40.000Z"
+              "last_watched_at": "2025-06-28T14:20:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2025-06-28T15:00:12.000Z"
+              "last_watched_at": "2025-06-28T15:00:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2025-06-28T15:49:20.000Z"
+              "last_watched_at": "2025-06-28T15:49:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2025-06-28T18:00:53.000Z"
+              "last_watched_at": "2025-06-28T18:00:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2025-06-28T18:40:26.000Z"
+              "last_watched_at": "2025-06-28T18:40:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2025-06-28T19:14:32.000Z"
+              "last_watched_at": "2025-06-28T19:14:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2025-06-28T20:03:41.000Z"
+              "last_watched_at": "2025-06-28T20:03:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2025-06-28T20:45:25.000Z"
+              "last_watched_at": "2025-06-28T20:45:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2025-06-29T09:24:07.000Z"
+              "last_watched_at": "2025-06-29T09:24:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2025-06-29T10:05:39.000Z"
+              "last_watched_at": "2025-06-29T10:05:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2025-06-29T11:11:48.000Z"
+              "last_watched_at": "2025-06-29T11:11:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2025-06-29T11:52:56.000Z"
+              "last_watched_at": "2025-06-29T11:52:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2025-06-29T12:40:31.000Z"
+              "last_watched_at": "2025-06-29T12:40:00.000Z"
             },
             {
               "number": 16,
               "plays": 1,
-              "last_watched_at": "2025-06-29T15:08:08.000Z"
+              "last_watched_at": "2025-06-29T15:08:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2025-06-29T15:49:15.000Z"
+              "last_watched_at": "2025-06-29T15:49:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2025-06-30T11:50:19.000Z"
+              "last_watched_at": "2025-06-30T11:50:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2025-06-30T12:04:57.000Z"
+              "last_watched_at": "2025-06-30T12:04:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2025-06-30T12:17:47.000Z"
+              "last_watched_at": "2025-06-30T12:17:00.000Z"
             },
             {
               "number": 21,
               "plays": 1,
-              "last_watched_at": "2025-06-30T12:36:15.000Z"
+              "last_watched_at": "2025-06-30T12:36:00.000Z"
             },
             {
               "number": 22,
               "plays": 1,
-              "last_watched_at": "2025-06-30T16:14:42.000Z"
+              "last_watched_at": "2025-06-30T16:14:00.000Z"
             }
           ]
         },
@@ -3246,112 +3256,112 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2025-06-30T16:50:39.000Z"
+              "last_watched_at": "2025-06-30T16:50:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2025-06-30T17:16:55.000Z"
+              "last_watched_at": "2025-06-30T17:16:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2025-06-30T17:44:23.000Z"
+              "last_watched_at": "2025-06-30T17:44:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2025-06-30T18:25:22.000Z"
+              "last_watched_at": "2025-06-30T18:25:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2025-06-30T18:55:16.000Z"
+              "last_watched_at": "2025-06-30T18:55:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2025-06-30T19:26:09.000Z"
+              "last_watched_at": "2025-06-30T19:26:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2025-06-30T19:48:04.000Z"
+              "last_watched_at": "2025-06-30T19:48:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2025-06-30T20:06:32.000Z"
+              "last_watched_at": "2025-06-30T20:06:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2025-06-30T20:21:46.000Z"
+              "last_watched_at": "2025-06-30T20:21:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2025-06-30T20:46:16.000Z"
+              "last_watched_at": "2025-06-30T20:46:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2025-07-01T07:25:32.000Z"
+              "last_watched_at": "2025-07-01T07:25:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2025-07-01T17:07:51.000Z"
+              "last_watched_at": "2025-07-01T17:07:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2025-07-01T17:48:49.000Z"
+              "last_watched_at": "2025-07-01T17:48:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2025-07-01T18:19:55.000Z"
+              "last_watched_at": "2025-07-01T18:19:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2025-07-02T07:28:24.000Z"
+              "last_watched_at": "2025-07-02T07:28:00.000Z"
             },
             {
               "number": 16,
               "plays": 1,
-              "last_watched_at": "2025-07-02T08:07:23.000Z"
+              "last_watched_at": "2025-07-02T08:07:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2025-07-02T08:48:55.000Z"
+              "last_watched_at": "2025-07-02T08:48:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2025-07-02T09:28:42.000Z"
+              "last_watched_at": "2025-07-02T09:28:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2025-07-02T10:01:24.000Z"
+              "last_watched_at": "2025-07-02T10:01:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2025-07-02T10:39:31.000Z"
+              "last_watched_at": "2025-07-02T10:39:00.000Z"
             },
             {
               "number": 21,
               "plays": 1,
-              "last_watched_at": "2025-07-02T11:15:51.000Z"
+              "last_watched_at": "2025-07-02T11:15:00.000Z"
             },
             {
               "number": 22,
               "plays": 1,
-              "last_watched_at": "2025-07-02T11:51:24.000Z"
+              "last_watched_at": "2025-07-02T11:51:00.000Z"
             }
           ]
         },
@@ -3361,67 +3371,67 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2025-07-02T12:14:46.000Z"
+              "last_watched_at": "2025-07-02T12:14:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2025-07-02T15:04:47.000Z"
+              "last_watched_at": "2025-07-02T15:04:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2025-07-02T16:33:51.000Z"
+              "last_watched_at": "2025-07-02T16:33:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2025-07-02T17:03:11.000Z"
+              "last_watched_at": "2025-07-02T17:03:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2025-07-02T17:22:52.000Z"
+              "last_watched_at": "2025-07-02T17:22:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2025-07-02T17:47:57.000Z"
+              "last_watched_at": "2025-07-02T17:47:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2025-07-02T18:31:43.000Z"
+              "last_watched_at": "2025-07-02T18:31:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2025-07-02T19:10:40.000Z"
+              "last_watched_at": "2025-07-02T19:10:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2025-07-02T19:42:43.000Z"
+              "last_watched_at": "2025-07-02T19:42:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2025-07-02T20:09:15.000Z"
+              "last_watched_at": "2025-07-02T20:09:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2025-07-03T13:16:53.000Z"
+              "last_watched_at": "2025-07-03T13:16:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2025-07-03T13:56:40.000Z"
+              "last_watched_at": "2025-07-03T13:56:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2025-07-03T14:17:57.000Z"
+              "last_watched_at": "2025-07-03T14:17:00.000Z"
             }
           ]
         }
@@ -4444,7 +4454,7 @@
     },
     {
       "plays": 29,
-      "last_watched_at": "2025-02-03T16:19:46.000Z",
+      "last_watched_at": "2025-02-03T16:19:00.000Z",
       "last_updated_at": "2025-02-03T16:19:47.000Z",
       "reset_at": null,
       "show": {
@@ -4546,7 +4556,7 @@
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2025-02-03T16:19:46.000Z"
+              "last_watched_at": "2025-02-03T16:19:00.000Z"
             }
           ]
         }
@@ -4664,7 +4674,7 @@
     },
     {
       "plays": 14,
-      "last_watched_at": "2025-01-31T07:27:27.000Z",
+      "last_watched_at": "2025-01-31T07:27:00.000Z",
       "last_updated_at": "2025-01-31T07:27:27.000Z",
       "reset_at": null,
       "show": {
@@ -4686,67 +4696,67 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2025-01-21T09:20:23.000Z"
+              "last_watched_at": "2025-01-21T09:20:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2025-01-21T09:48:19.000Z"
+              "last_watched_at": "2025-01-21T09:48:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2025-01-21T10:21:39.000Z"
+              "last_watched_at": "2025-01-21T10:21:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2025-01-21T10:38:55.000Z"
+              "last_watched_at": "2025-01-21T10:38:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2025-01-21T13:36:06.000Z"
+              "last_watched_at": "2025-01-21T13:36:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2025-01-21T14:12:49.000Z"
+              "last_watched_at": "2025-01-21T14:12:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2025-01-22T08:00:24.000Z"
+              "last_watched_at": "2025-01-22T08:00:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2025-01-23T08:06:56.000Z"
+              "last_watched_at": "2025-01-23T08:06:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2025-01-23T08:49:06.000Z"
+              "last_watched_at": "2025-01-23T08:49:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2025-01-24T13:03:59.000Z"
+              "last_watched_at": "2025-01-24T13:03:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2025-01-24T09:22:46.000Z"
+              "last_watched_at": "2025-01-24T09:22:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2025-01-24T10:49:03.000Z"
+              "last_watched_at": "2025-01-24T10:49:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2025-01-24T10:06:06.000Z"
+              "last_watched_at": "2025-01-24T10:06:00.000Z"
             }
           ]
         },
@@ -4756,7 +4766,7 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2025-01-31T07:27:27.000Z"
+              "last_watched_at": "2025-01-31T07:27:00.000Z"
             }
           ]
         }
@@ -6124,7 +6134,7 @@
     },
     {
       "plays": 63,
-      "last_watched_at": "2024-12-08T19:04:24.000Z",
+      "last_watched_at": "2024-12-08T19:04:00.000Z",
       "last_updated_at": "2024-12-08T19:04:24.000Z",
       "reset_at": null,
       "show": {
@@ -6146,52 +6156,52 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:29.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:29.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:29.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:29.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:29.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:29.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:29.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:29.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:29.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:29.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             }
           ]
         },
@@ -6201,52 +6211,52 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:32.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:32.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:32.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:32.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:32.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:32.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:32.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:32.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:32.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:32.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             }
           ]
         },
@@ -6256,52 +6266,52 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:37.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:37.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:37.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:37.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:37.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:37.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:37.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:37.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:37.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:50:37.000Z"
+              "last_watched_at": "2024-12-07T07:50:00.000Z"
             }
           ]
         },
@@ -6311,52 +6321,52 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:51:02.000Z"
+              "last_watched_at": "2024-12-07T07:51:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:51:03.000Z"
+              "last_watched_at": "2024-12-07T07:51:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:51:04.000Z"
+              "last_watched_at": "2024-12-07T07:51:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-12-07T07:51:07.000Z"
+              "last_watched_at": "2024-12-07T07:51:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-12-07T08:37:48.000Z"
+              "last_watched_at": "2024-12-07T08:37:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-12-07T09:21:09.000Z"
+              "last_watched_at": "2024-12-07T09:21:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-12-07T10:19:56.000Z"
+              "last_watched_at": "2024-12-07T10:19:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-12-07T10:45:01.000Z"
+              "last_watched_at": "2024-12-07T10:45:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-12-07T11:07:53.000Z"
+              "last_watched_at": "2024-12-07T11:07:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-12-07T11:38:37.000Z"
+              "last_watched_at": "2024-12-07T11:38:00.000Z"
             }
           ]
         },
@@ -6366,37 +6376,37 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-12-07T16:24:32.000Z"
+              "last_watched_at": "2024-12-07T16:24:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-12-07T16:55:27.000Z"
+              "last_watched_at": "2024-12-07T16:55:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-12-07T18:01:39.000Z"
+              "last_watched_at": "2024-12-07T18:01:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-12-07T17:30:46.000Z"
+              "last_watched_at": "2024-12-07T17:30:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-12-07T18:39:48.000Z"
+              "last_watched_at": "2024-12-07T18:39:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-12-08T08:58:12.000Z"
+              "last_watched_at": "2024-12-08T08:58:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-12-08T10:39:56.000Z"
+              "last_watched_at": "2024-12-08T10:39:00.000Z"
             },
             {
               "number": 8,
@@ -6406,12 +6416,12 @@
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-12-08T11:29:30.000Z"
+              "last_watched_at": "2024-12-08T11:29:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-12-08T11:57:58.000Z"
+              "last_watched_at": "2024-12-08T11:57:00.000Z"
             }
           ]
         },
@@ -6421,47 +6431,47 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-12-08T12:17:39.000Z"
+              "last_watched_at": "2024-12-08T12:17:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-12-08T12:48:33.000Z"
+              "last_watched_at": "2024-12-08T12:48:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-12-08T13:37:03.000Z"
+              "last_watched_at": "2024-12-08T13:37:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-12-08T14:05:56.000Z"
+              "last_watched_at": "2024-12-08T14:05:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-12-08T14:35:26.000Z"
+              "last_watched_at": "2024-12-08T14:35:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-12-08T14:55:19.000Z"
+              "last_watched_at": "2024-12-08T14:55:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-12-08T15:45:38.000Z"
+              "last_watched_at": "2024-12-08T15:45:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-12-08T16:28:35.000Z"
+              "last_watched_at": "2024-12-08T16:28:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-12-08T16:49:02.000Z"
+              "last_watched_at": "2024-12-08T16:49:00.000Z"
             },
             {
               "number": 10,
@@ -6471,17 +6481,17 @@
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2024-12-08T17:43:28.000Z"
+              "last_watched_at": "2024-12-08T17:43:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2024-12-08T18:18:10.000Z"
+              "last_watched_at": "2024-12-08T18:18:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2024-12-08T19:04:24.000Z"
+              "last_watched_at": "2024-12-08T19:04:00.000Z"
             }
           ]
         }
@@ -6874,7 +6884,7 @@
     },
     {
       "plays": 9,
-      "last_watched_at": "2024-11-21T20:23:46.000Z",
+      "last_watched_at": "2024-11-21T20:23:00.000Z",
       "last_updated_at": "2024-11-21T20:23:46.000Z",
       "reset_at": null,
       "show": {
@@ -6896,42 +6906,42 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-11-20T12:27:55.000Z"
+              "last_watched_at": "2024-11-20T12:27:00.000Z"
             },
             {
               "number": 2,
               "plays": 2,
-              "last_watched_at": "2024-11-20T15:57:46.000Z"
+              "last_watched_at": "2024-11-20T15:57:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-11-20T16:28:14.000Z"
+              "last_watched_at": "2024-11-20T16:28:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-11-21T18:27:56.000Z"
+              "last_watched_at": "2024-11-21T18:27:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-11-21T19:01:46.000Z"
+              "last_watched_at": "2024-11-21T19:01:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-11-21T19:39:24.000Z"
+              "last_watched_at": "2024-11-21T19:39:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-11-21T20:12:21.000Z"
+              "last_watched_at": "2024-11-21T20:12:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-11-21T20:23:46.000Z"
+              "last_watched_at": "2024-11-21T20:23:00.000Z"
             }
           ]
         }
@@ -10774,7 +10784,7 @@
     },
     {
       "plays": 10,
-      "last_watched_at": "2024-04-30T15:23:43.000Z",
+      "last_watched_at": "2024-04-30T15:23:00.000Z",
       "last_updated_at": "2024-04-30T15:23:54.000Z",
       "reset_at": null,
       "show": {
@@ -10796,52 +10806,52 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2023-12-09T08:05:14.000Z"
+              "last_watched_at": "2023-12-09T08:05:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2023-12-09T08:05:14.000Z"
+              "last_watched_at": "2023-12-09T08:05:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2023-12-09T08:05:14.000Z"
+              "last_watched_at": "2023-12-09T08:05:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2023-12-09T08:05:14.000Z"
+              "last_watched_at": "2023-12-09T08:05:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2023-12-09T08:05:14.000Z"
+              "last_watched_at": "2023-12-09T08:05:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2023-12-09T08:05:14.000Z"
+              "last_watched_at": "2023-12-09T08:05:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2023-12-09T08:05:14.000Z"
+              "last_watched_at": "2023-12-09T08:05:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2023-12-09T08:05:14.000Z"
+              "last_watched_at": "2023-12-09T08:05:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2023-12-09T08:05:14.000Z"
+              "last_watched_at": "2023-12-09T08:05:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-04-30T15:23:43.000Z"
+              "last_watched_at": "2024-04-30T15:23:00.000Z"
             }
           ]
         }
@@ -11639,8 +11649,8 @@
     },
     {
       "plays": 100,
-      "last_watched_at": "2024-03-15T15:09:02.000Z",
-      "last_updated_at": "2024-03-15T15:09:02.000Z",
+      "last_watched_at": "2024-03-15T15:09:00.000Z",
+      "last_updated_at": "2024-03-15T15:09:00.000Z",
       "reset_at": null,
       "show": {
         "title": "Fringe",
@@ -11661,102 +11671,102 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-03-08T14:19:22.000Z"
+              "last_watched_at": "2024-03-08T14:19:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-03-08T15:01:06.000Z"
+              "last_watched_at": "2024-03-08T15:01:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-03-08T16:19:24.000Z"
+              "last_watched_at": "2024-03-08T16:19:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-03-08T17:05:08.000Z"
+              "last_watched_at": "2024-03-08T17:05:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-03-08T17:43:53.000Z"
+              "last_watched_at": "2024-03-08T17:43:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-03-08T18:18:12.000Z"
+              "last_watched_at": "2024-03-08T18:18:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-03-08T19:11:35.000Z"
+              "last_watched_at": "2024-03-08T19:11:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-03-09T06:13:22.000Z"
+              "last_watched_at": "2024-03-09T06:13:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-03-09T07:32:26.000Z"
+              "last_watched_at": "2024-03-09T07:32:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-03-09T08:24:14.000Z"
+              "last_watched_at": "2024-03-09T08:24:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2024-03-09T09:03:24.000Z"
+              "last_watched_at": "2024-03-09T09:03:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2024-03-09T10:10:36.000Z"
+              "last_watched_at": "2024-03-09T10:10:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2024-03-09T10:49:57.000Z"
+              "last_watched_at": "2024-03-09T10:49:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2024-03-09T11:35:43.000Z"
+              "last_watched_at": "2024-03-09T11:35:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2024-03-09T12:19:53.000Z"
+              "last_watched_at": "2024-03-09T12:19:00.000Z"
             },
             {
               "number": 16,
               "plays": 1,
-              "last_watched_at": "2024-03-09T12:52:35.000Z"
+              "last_watched_at": "2024-03-09T12:52:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2024-03-09T13:30:10.000Z"
+              "last_watched_at": "2024-03-09T13:30:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2024-03-09T16:12:39.000Z"
+              "last_watched_at": "2024-03-09T16:12:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2024-03-09T16:55:24.000Z"
+              "last_watched_at": "2024-03-09T16:55:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2024-03-09T17:41:34.000Z"
+              "last_watched_at": "2024-03-09T17:41:00.000Z"
             }
           ]
         },
@@ -11766,117 +11776,117 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-03-09T19:38:31.000Z"
+              "last_watched_at": "2024-03-09T19:38:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-03-10T04:27:25.000Z"
+              "last_watched_at": "2024-03-10T04:27:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-03-10T05:06:22.000Z"
+              "last_watched_at": "2024-03-10T05:06:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-03-10T05:44:06.000Z"
+              "last_watched_at": "2024-03-10T05:44:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-03-10T06:24:02.000Z"
+              "last_watched_at": "2024-03-10T06:24:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-03-10T07:21:14.000Z"
+              "last_watched_at": "2024-03-10T07:21:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-03-10T08:15:03.000Z"
+              "last_watched_at": "2024-03-10T08:15:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-03-10T08:56:25.000Z"
+              "last_watched_at": "2024-03-10T08:56:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-03-10T09:27:31.000Z"
+              "last_watched_at": "2024-03-10T09:27:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-03-10T11:23:45.000Z"
+              "last_watched_at": "2024-03-10T11:23:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2024-03-10T11:56:15.000Z"
+              "last_watched_at": "2024-03-10T11:56:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2024-03-10T17:06:49.000Z"
+              "last_watched_at": "2024-03-10T17:06:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2024-03-10T17:33:50.000Z"
+              "last_watched_at": "2024-03-10T17:33:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2024-03-10T18:06:08.000Z"
+              "last_watched_at": "2024-03-10T18:06:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2024-03-10T18:41:54.000Z"
+              "last_watched_at": "2024-03-10T18:41:00.000Z"
             },
             {
               "number": 16,
               "plays": 1,
-              "last_watched_at": "2024-03-10T19:16:24.000Z"
+              "last_watched_at": "2024-03-10T19:16:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2024-03-11T05:35:06.000Z"
+              "last_watched_at": "2024-03-11T05:35:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2024-03-11T06:16:16.000Z"
+              "last_watched_at": "2024-03-11T06:16:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2024-03-11T07:28:21.000Z"
+              "last_watched_at": "2024-03-11T07:28:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2024-03-11T07:58:44.000Z"
+              "last_watched_at": "2024-03-11T07:58:00.000Z"
             },
             {
               "number": 21,
               "plays": 1,
-              "last_watched_at": "2024-03-11T08:18:21.000Z"
+              "last_watched_at": "2024-03-11T08:18:00.000Z"
             },
             {
               "number": 22,
               "plays": 1,
-              "last_watched_at": "2024-03-11T08:41:01.000Z"
+              "last_watched_at": "2024-03-11T08:41:00.000Z"
             },
             {
               "number": 23,
               "plays": 1,
-              "last_watched_at": "2024-03-11T12:01:17.000Z"
+              "last_watched_at": "2024-03-11T12:01:00.000Z"
             }
           ]
         },
@@ -11886,112 +11896,112 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-03-11T12:36:26.000Z"
+              "last_watched_at": "2024-03-11T12:36:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-03-11T13:02:06.000Z"
+              "last_watched_at": "2024-03-11T13:02:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-03-11T17:18:14.000Z"
+              "last_watched_at": "2024-03-11T17:18:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-03-11T17:34:54.000Z"
+              "last_watched_at": "2024-03-11T17:34:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-03-12T03:28:23.000Z"
+              "last_watched_at": "2024-03-12T03:28:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-03-12T06:38:51.000Z"
+              "last_watched_at": "2024-03-12T06:38:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-03-12T07:13:11.000Z"
+              "last_watched_at": "2024-03-12T07:13:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-03-12T07:39:05.000Z"
+              "last_watched_at": "2024-03-12T07:39:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-03-12T10:29:49.000Z"
+              "last_watched_at": "2024-03-12T10:29:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-03-12T12:32:03.000Z"
+              "last_watched_at": "2024-03-12T12:32:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2024-03-12T13:01:34.000Z"
+              "last_watched_at": "2024-03-12T13:01:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2024-03-12T13:39:42.000Z"
+              "last_watched_at": "2024-03-12T13:39:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2024-03-12T14:12:37.000Z"
+              "last_watched_at": "2024-03-12T14:12:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2024-03-12T15:00:58.000Z"
+              "last_watched_at": "2024-03-12T15:00:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2024-03-12T16:44:53.000Z"
+              "last_watched_at": "2024-03-12T16:44:00.000Z"
             },
             {
               "number": 16,
               "plays": 1,
-              "last_watched_at": "2024-03-12T17:08:47.000Z"
+              "last_watched_at": "2024-03-12T17:08:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2024-03-12T17:27:39.000Z"
+              "last_watched_at": "2024-03-12T17:27:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2024-03-13T05:33:38.000Z"
+              "last_watched_at": "2024-03-13T05:33:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2024-03-13T06:04:02.000Z"
+              "last_watched_at": "2024-03-13T06:04:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2024-03-13T06:28:49.000Z"
+              "last_watched_at": "2024-03-13T06:28:00.000Z"
             },
             {
               "number": 21,
               "plays": 1,
-              "last_watched_at": "2024-03-13T07:06:20.000Z"
+              "last_watched_at": "2024-03-13T07:06:00.000Z"
             },
             {
               "number": 22,
               "plays": 1,
-              "last_watched_at": "2024-03-13T07:32:02.000Z"
+              "last_watched_at": "2024-03-13T07:32:00.000Z"
             }
           ]
         },
@@ -12001,112 +12011,112 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-03-13T08:03:09.000Z"
+              "last_watched_at": "2024-03-13T08:03:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-03-13T11:03:34.000Z"
+              "last_watched_at": "2024-03-13T11:03:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-03-13T14:56:37.000Z"
+              "last_watched_at": "2024-03-13T14:56:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-03-13T15:21:31.000Z"
+              "last_watched_at": "2024-03-13T15:21:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-03-13T15:48:25.000Z"
+              "last_watched_at": "2024-03-13T15:48:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-03-13T16:11:41.000Z"
+              "last_watched_at": "2024-03-13T16:11:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-03-13T16:57:52.000Z"
+              "last_watched_at": "2024-03-13T16:57:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-03-14T06:13:37.000Z"
+              "last_watched_at": "2024-03-14T06:13:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-03-14T06:37:06.000Z"
+              "last_watched_at": "2024-03-14T06:37:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-03-14T06:59:23.000Z"
+              "last_watched_at": "2024-03-14T06:59:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2024-03-14T07:18:15.000Z"
+              "last_watched_at": "2024-03-14T07:18:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2024-03-14T07:28:05.000Z"
+              "last_watched_at": "2024-03-14T07:28:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2024-03-14T07:56:35.000Z"
+              "last_watched_at": "2024-03-14T07:56:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2024-03-14T11:31:31.000Z"
+              "last_watched_at": "2024-03-14T11:31:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2024-03-14T11:47:11.000Z"
+              "last_watched_at": "2024-03-14T11:47:00.000Z"
             },
             {
               "number": 16,
               "plays": 1,
-              "last_watched_at": "2024-03-14T12:37:45.000Z"
+              "last_watched_at": "2024-03-14T12:37:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2024-03-14T13:14:42.000Z"
+              "last_watched_at": "2024-03-14T13:14:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2024-03-14T13:35:46.000Z"
+              "last_watched_at": "2024-03-14T13:35:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2024-03-14T14:25:20.000Z"
+              "last_watched_at": "2024-03-14T14:25:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2024-03-14T15:01:27.000Z"
+              "last_watched_at": "2024-03-14T15:01:00.000Z"
             },
             {
               "number": 21,
               "plays": 1,
-              "last_watched_at": "2024-03-14T16:04:16.000Z"
+              "last_watched_at": "2024-03-14T16:04:00.000Z"
             },
             {
               "number": 22,
               "plays": 1,
-              "last_watched_at": "2024-03-14T16:40:58.000Z"
+              "last_watched_at": "2024-03-14T16:40:00.000Z"
             }
           ]
         },
@@ -12116,67 +12126,67 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-03-14T17:17:35.000Z"
+              "last_watched_at": "2024-03-14T17:17:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-03-15T04:05:18.000Z"
+              "last_watched_at": "2024-03-15T04:05:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-03-15T09:38:12.000Z"
+              "last_watched_at": "2024-03-15T09:38:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-03-15T10:08:31.000Z"
+              "last_watched_at": "2024-03-15T10:08:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-03-15T10:37:26.000Z"
+              "last_watched_at": "2024-03-15T10:37:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-03-15T11:33:02.000Z"
+              "last_watched_at": "2024-03-15T11:33:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-03-15T12:22:02.000Z"
+              "last_watched_at": "2024-03-15T12:22:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-03-15T12:56:09.000Z"
+              "last_watched_at": "2024-03-15T12:56:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-03-15T13:28:53.000Z"
+              "last_watched_at": "2024-03-15T13:28:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-03-15T14:12:37.000Z"
+              "last_watched_at": "2024-03-15T14:12:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2024-03-15T14:31:54.000Z"
+              "last_watched_at": "2024-03-15T14:31:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2024-03-15T14:49:21.000Z"
+              "last_watched_at": "2024-03-15T14:49:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2024-03-15T15:09:02.000Z"
+              "last_watched_at": "2024-03-15T15:09:00.000Z"
             }
           ]
         }
@@ -12634,8 +12644,8 @@
     },
     {
       "plays": 20,
-      "last_watched_at": "2024-01-12T14:25:23.000Z",
-      "last_updated_at": "2024-01-12T14:25:23.000Z",
+      "last_watched_at": "2024-01-12T14:25:00.000Z",
+      "last_updated_at": "2024-01-12T14:25:00.000Z",
       "reset_at": null,
       "show": {
         "title": "Moving",
@@ -12656,102 +12666,102 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 16,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2024-01-12T14:25:23.000Z"
+              "last_watched_at": "2024-01-12T14:25:00.000Z"
             }
           ]
         }
@@ -13464,8 +13474,8 @@
     },
     {
       "plays": 13,
-      "last_watched_at": "2023-11-25T16:39:02.000Z",
-      "last_updated_at": "2023-11-25T16:39:02.000Z",
+      "last_watched_at": "2023-11-25T16:39:00.000Z",
+      "last_updated_at": "2023-11-25T16:39:00.000Z",
       "reset_at": null,
       "show": {
         "title": "Top of the Lake",
@@ -13486,37 +13496,37 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             }
           ]
         },
@@ -13526,32 +13536,32 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2023-11-25T16:39:02.000Z"
+              "last_watched_at": "2023-11-25T16:39:00.000Z"
             }
           ]
         }
@@ -15694,8 +15704,8 @@
     },
     {
       "plays": 20,
-      "last_watched_at": "2023-10-23T14:29:41.000Z",
-      "last_updated_at": "2023-10-23T14:29:41.000Z",
+      "last_watched_at": "2023-10-23T14:29:00.000Z",
+      "last_updated_at": "2023-10-23T14:29:00.000Z",
       "reset_at": null,
       "show": {
         "title": "Kill Me, Heal Me",
@@ -15716,102 +15726,102 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 15,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 16,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 17,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 18,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 19,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             },
             {
               "number": 20,
               "plays": 1,
-              "last_watched_at": "2023-10-23T14:29:41.000Z"
+              "last_watched_at": "2023-10-23T14:29:00.000Z"
             }
           ]
         }
@@ -15819,8 +15829,8 @@
     },
     {
       "plays": 6,
-      "last_watched_at": "2023-10-23T05:37:13.000Z",
-      "last_updated_at": "2023-10-23T05:37:13.000Z",
+      "last_watched_at": "2023-10-23T05:37:00.000Z",
+      "last_updated_at": "2023-10-23T05:37:00.000Z",
       "reset_at": null,
       "show": {
         "title": "Woman of the Dead",
@@ -15841,32 +15851,32 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2023-10-23T05:37:13.000Z"
+              "last_watched_at": "2023-10-23T05:37:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2023-10-23T05:37:13.000Z"
+              "last_watched_at": "2023-10-23T05:37:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2023-10-23T05:37:13.000Z"
+              "last_watched_at": "2023-10-23T05:37:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2023-10-23T05:37:13.000Z"
+              "last_watched_at": "2023-10-23T05:37:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2023-10-23T05:37:13.000Z"
+              "last_watched_at": "2023-10-23T05:37:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2023-10-23T05:37:13.000Z"
+              "last_watched_at": "2023-10-23T05:37:00.000Z"
             }
           ]
         }
@@ -16963,431 +16973,6 @@
       ]
     },
     {
-      "plays": 73,
-      "last_watched_at": "2023-10-14T14:33:10.000Z",
-      "last_updated_at": "2023-10-14T14:33:10.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Game of Thrones",
-        "year": 2011,
-        "ids": {
-          "trakt": 1390,
-          "slug": "game-of-thrones",
-          "tvdb": 121361,
-          "imdb": "tt0944947",
-          "tmdb": 1399,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            }
-          ]
-        },
-        {
-          "number": 2,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            }
-          ]
-        },
-        {
-          "number": 3,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            }
-          ]
-        },
-        {
-          "number": 4,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            }
-          ]
-        },
-        {
-          "number": 5,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            }
-          ]
-        },
-        {
-          "number": 6,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            }
-          ]
-        },
-        {
-          "number": 7,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            }
-          ]
-        },
-        {
-          "number": 8,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T14:33:10.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "plays": 89,
       "last_watched_at": "2023-10-14T14:33:00.000Z",
       "last_updated_at": "2023-10-14T14:33:00.000Z",
@@ -17875,6 +17460,431 @@
             },
             {
               "number": 20,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plays": 73,
+      "last_watched_at": "2023-10-14T14:33:00.000Z",
+      "last_updated_at": "2023-10-14T14:33:00.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Game of Thrones",
+        "year": 2011,
+        "ids": {
+          "trakt": 1390,
+          "slug": "game-of-thrones",
+          "tvdb": 121361,
+          "imdb": "tt0944947",
+          "tmdb": 1399,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T14:33:00.000Z"
+            },
+            {
+              "number": 6,
               "plays": 1,
               "last_watched_at": "2023-10-14T14:33:00.000Z"
             }
@@ -20719,8 +20729,8 @@
     },
     {
       "plays": 44,
-      "last_watched_at": "2023-10-14T10:09:52.000Z",
-      "last_updated_at": "2023-10-14T10:09:52.000Z",
+      "last_watched_at": "2023-10-14T10:09:00.000Z",
+      "last_updated_at": "2023-10-14T10:09:00.000Z",
       "reset_at": null,
       "show": {
         "title": "Ozark",
@@ -20741,52 +20751,52 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             }
           ]
         },
@@ -20796,52 +20806,52 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             }
           ]
         },
@@ -20851,52 +20861,52 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             }
           ]
         },
@@ -20906,72 +20916,72 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 8,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 9,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 10,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 11,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 12,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 13,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             },
             {
               "number": 14,
               "plays": 1,
-              "last_watched_at": "2023-10-14T10:09:52.000Z"
+              "last_watched_at": "2023-10-14T10:09:00.000Z"
             }
           ]
         }
@@ -21669,8 +21679,8 @@
     },
     {
       "plays": 7,
-      "last_watched_at": "2023-10-14T09:48:25.000Z",
-      "last_updated_at": "2023-10-14T09:48:25.000Z",
+      "last_watched_at": "2023-10-14T09:48:00.000Z",
+      "last_updated_at": "2023-10-14T09:48:00.000Z",
       "reset_at": null,
       "show": {
         "title": "The Night Manager",
@@ -21691,37 +21701,37 @@
             {
               "number": 1,
               "plays": 1,
-              "last_watched_at": "2023-10-14T09:48:25.000Z"
+              "last_watched_at": "2023-10-14T09:48:00.000Z"
             },
             {
               "number": 2,
               "plays": 1,
-              "last_watched_at": "2023-10-14T09:48:25.000Z"
+              "last_watched_at": "2023-10-14T09:48:00.000Z"
             },
             {
               "number": 3,
               "plays": 1,
-              "last_watched_at": "2023-10-14T09:48:25.000Z"
+              "last_watched_at": "2023-10-14T09:48:00.000Z"
             },
             {
               "number": 4,
               "plays": 1,
-              "last_watched_at": "2023-10-14T09:48:25.000Z"
+              "last_watched_at": "2023-10-14T09:48:00.000Z"
             },
             {
               "number": 5,
               "plays": 1,
-              "last_watched_at": "2023-10-14T09:48:25.000Z"
+              "last_watched_at": "2023-10-14T09:48:00.000Z"
             },
             {
               "number": 6,
               "plays": 1,
-              "last_watched_at": "2023-10-14T09:48:25.000Z"
+              "last_watched_at": "2023-10-14T09:48:00.000Z"
             },
             {
               "number": 7,
               "plays": 1,
-              "last_watched_at": "2023-10-14T09:48:25.000Z"
+              "last_watched_at": "2023-10-14T09:48:00.000Z"
             }
           ]
         }
