@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-07T06:00:57.765467+00:00",
+    "fetched_at": "2026-03-08T06:04:46.831895+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12070066408,
+      "watched_at": "2026-03-07T21:28:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Unleashed",
+        "year": 2005,
+        "ids": {
+          "trakt": 5252,
+          "slug": "unleashed-2005",
+          "imdb": "tt0342258",
+          "tmdb": 10027
+        }
+      }
+    },
     {
       "id": 12061803765,
       "watched_at": "2026-03-03T14:30:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "black-and-blue-2019",
           "imdb": "tt7390646",
           "tmdb": 578189
-        }
-      }
-    },
-    {
-      "id": 12006201215,
-      "watched_at": "2026-02-09T08:23:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Rebel Ridge",
-        "year": 2024,
-        "ids": {
-          "trakt": 483193,
-          "slug": "rebel-ridge-2024",
-          "imdb": "tt11301886",
-          "tmdb": 646097
         }
       }
     }
