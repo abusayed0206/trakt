@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-08T06:04:46.922724+00:00",
+    "fetched_at": "2026-03-09T06:38:00.673372+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
@@ -8,301 +8,301 @@
   },
   "data": [
     {
-      "id": 12067497221,
-      "watched_at": "2026-03-06T15:49:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 16,
-        "title": "Elephant's Memory",
-        "ids": {
-          "trakt": 291463,
-          "tvdb": 362530,
-          "imdb": "tt1208094",
-          "tmdb": 283216,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12067335650,
-      "watched_at": "2026-03-06T13:46:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 15,
-        "title": "A Higher Power",
-        "ids": {
-          "trakt": 291462,
-          "tvdb": 360777,
-          "imdb": "tt1202891",
-          "tmdb": 283202,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12050766936,
-      "watched_at": "2026-02-26T14:38:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 14,
-        "title": "Damaged",
-        "ids": {
-          "trakt": 291461,
-          "tvdb": 353963,
-          "imdb": "tt1197560",
-          "tmdb": 283201,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12038570513,
-      "watched_at": "2026-02-21T18:08:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 12,
-        "title": "3rd Life",
-        "ids": {
-          "trakt": 291459,
-          "tvdb": 341296,
-          "imdb": "tt1142470",
-          "tmdb": 283199,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12038193486,
-      "watched_at": "2026-02-21T17:21:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 11,
-        "title": "Birthright",
-        "ids": {
-          "trakt": 291458,
-          "tvdb": 341295,
-          "imdb": "tt1142469",
-          "tmdb": 283198,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12030151964,
-      "watched_at": "2026-02-18T06:08:00.000Z",
+      "id": 12072630352,
+      "watched_at": "2026-03-08T21:54:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
         "season": 3,
         "number": 10,
-        "title": "True Night",
+        "title": "Razzmatazz",
         "ids": {
-          "trakt": 291457,
-          "tvdb": 341294,
-          "imdb": "tt1122161",
-          "tmdb": 283197,
+          "trakt": 13788266,
+          "tvdb": 11583175,
+          "imdb": "tt37956002",
+          "tmdb": 6739451,
           "tvrage": null
         }
       },
       "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
+        "title": "The Night Agent",
+        "year": 2023,
         "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
+          "trakt": 184471,
+          "slug": "the-night-agent",
+          "tvdb": 407281,
+          "imdb": "tt13918776",
+          "tmdb": 129552,
           "tvrage": null
         }
       }
     },
     {
-      "id": 11973786677,
-      "watched_at": "2026-01-26T08:44:00.000Z",
+      "id": 12072593810,
+      "watched_at": "2026-03-08T21:38:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
         "season": 3,
         "number": 9,
-        "title": "Penelope",
+        "title": "Lockstep",
         "ids": {
-          "trakt": 291456,
-          "tvdb": 341293,
-          "imdb": "tt1119944",
-          "tmdb": 283196,
+          "trakt": 13788264,
+          "tvdb": 11583174,
+          "imdb": "tt37956000",
+          "tmdb": 6739449,
           "tvrage": null
         }
       },
       "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
+        "title": "The Night Agent",
+        "year": 2023,
         "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
+          "trakt": 184471,
+          "slug": "the-night-agent",
+          "tvdb": 407281,
+          "imdb": "tt13918776",
+          "tmdb": 129552,
           "tvrage": null
         }
       }
     },
     {
-      "id": 11973731775,
-      "watched_at": "2026-01-26T08:10:00.000Z",
+      "id": 12072549308,
+      "watched_at": "2026-03-08T21:18:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
         "season": 3,
         "number": 8,
-        "title": "Lucky",
+        "title": "Truth Be Told",
         "ids": {
-          "trakt": 291455,
-          "tvdb": 336544,
-          "imdb": "tt1104878",
-          "tmdb": 283195,
+          "trakt": 13788262,
+          "tvdb": 11583173,
+          "imdb": "tt37955997",
+          "tmdb": 6739448,
           "tvrage": null
         }
       },
       "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
+        "title": "The Night Agent",
+        "year": 2023,
         "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
+          "trakt": 184471,
+          "slug": "the-night-agent",
+          "tvdb": 407281,
+          "imdb": "tt13918776",
+          "tmdb": 129552,
           "tvrage": null
         }
       }
     },
     {
-      "id": 11964368185,
-      "watched_at": "2026-01-22T15:30:00.000Z",
+      "id": 12072444122,
+      "watched_at": "2026-03-08T21:01:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
         "season": 3,
         "number": 7,
-        "title": "Identity",
+        "title": "Once Upon a Time...",
         "ids": {
-          "trakt": 291454,
-          "tvdb": 336543,
-          "imdb": "tt1118137",
-          "tmdb": 283194,
+          "trakt": 13788261,
+          "tvdb": 11583172,
+          "imdb": "tt37955995",
+          "tmdb": 6739446,
           "tvrage": null
         }
       },
       "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
+        "title": "The Night Agent",
+        "year": 2023,
         "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
+          "trakt": 184471,
+          "slug": "the-night-agent",
+          "tvdb": 407281,
+          "imdb": "tt13918776",
+          "tmdb": 129552,
           "tvrage": null
         }
       }
     },
     {
-      "id": 11964300433,
-      "watched_at": "2026-01-22T14:48:00.000Z",
+      "id": 12072423503,
+      "watched_at": "2026-03-08T20:52:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
         "season": 3,
         "number": 6,
-        "title": "About Face",
+        "title": "Murky Waters",
         "ids": {
-          "trakt": 291453,
-          "tvdb": 336542,
-          "imdb": "tt1111508",
-          "tmdb": 283193,
+          "trakt": 13788260,
+          "tvdb": 11583171,
+          "imdb": "tt37955992",
+          "tmdb": 6739444,
           "tvrage": null
         }
       },
       "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
+        "title": "The Night Agent",
+        "year": 2023,
         "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
+          "trakt": 184471,
+          "slug": "the-night-agent",
+          "tvdb": 407281,
+          "imdb": "tt13918776",
+          "tmdb": 129552,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12072320610,
+      "watched_at": "2026-03-08T20:24:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 5,
+        "title": "The Isolation Play",
+        "ids": {
+          "trakt": 13788258,
+          "tvdb": 11583170,
+          "imdb": "tt37955991",
+          "tmdb": 6739442,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Night Agent",
+        "year": 2023,
+        "ids": {
+          "trakt": 184471,
+          "slug": "the-night-agent",
+          "tvdb": 407281,
+          "imdb": "tt13918776",
+          "tmdb": 129552,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12072249851,
+      "watched_at": "2026-03-08T19:56:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 4,
+        "title": "Orion",
+        "ids": {
+          "trakt": 13788257,
+          "tvdb": 11583169,
+          "imdb": "tt37955990",
+          "tmdb": 6739441,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Night Agent",
+        "year": 2023,
+        "ids": {
+          "trakt": 184471,
+          "slug": "the-night-agent",
+          "tvdb": 407281,
+          "imdb": "tt13918776",
+          "tmdb": 129552,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12072206733,
+      "watched_at": "2026-03-08T19:39:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 3,
+        "title": "Dark Matters",
+        "ids": {
+          "trakt": 13788256,
+          "tvdb": 11583168,
+          "imdb": "tt37955987",
+          "tmdb": 6739439,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Night Agent",
+        "year": 2023,
+        "ids": {
+          "trakt": 184471,
+          "slug": "the-night-agent",
+          "tvdb": 407281,
+          "imdb": "tt13918776",
+          "tmdb": 129552,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12072123472,
+      "watched_at": "2026-03-08T19:13:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 2,
+        "title": "Package Deal",
+        "ids": {
+          "trakt": 13788255,
+          "tvdb": 11583167,
+          "imdb": "tt37955985",
+          "tmdb": 6739437,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Night Agent",
+        "year": 2023,
+        "ids": {
+          "trakt": 184471,
+          "slug": "the-night-agent",
+          "tvdb": 407281,
+          "imdb": "tt13918776",
+          "tmdb": 129552,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12072013069,
+      "watched_at": "2026-03-08T18:40:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 1,
+        "title": "Call Waiting",
+        "ids": {
+          "trakt": 13788254,
+          "tvdb": 11493367,
+          "imdb": "tt33749165",
+          "tmdb": 6739436,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Night Agent",
+        "year": 2023,
+        "ids": {
+          "trakt": 184471,
+          "slug": "the-night-agent",
+          "tvdb": 407281,
+          "imdb": "tt13918776",
+          "tmdb": 129552,
           "tvrage": null
         }
       }

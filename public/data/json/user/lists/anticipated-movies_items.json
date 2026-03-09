@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-08T06:04:48.610830+00:00",
+    "fetched_at": "2026-03-09T06:38:05.106082+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5372,
+        "votes": 5393,
         "colors": {
           "poster": [
             "#CC997A",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.547096252441406,
+        "rating": 7.544780254364014,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2760,
+        "votes": 2762,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.819202899932861,
+        "rating": 5.816799640655518,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-07T15:41:31.000Z",
+        "updated_at": "2026-03-08T16:26:09.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -391,7 +391,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-03-03T08:40:29.000Z",
+        "updated_at": "2026-03-08T13:53:26.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -664,7 +664,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-03-07T08:43:12.000Z",
+        "updated_at": "2026-03-08T08:47:03.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
