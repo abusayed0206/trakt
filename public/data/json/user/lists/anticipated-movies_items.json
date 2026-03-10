@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-09T06:38:05.106082+00:00",
+    "fetched_at": "2026-03-10T06:06:32.747197+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5393,
+        "votes": 5403,
         "colors": {
           "poster": [
             "#CC997A",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.544780254364014,
+        "rating": 7.543401718139648,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-07T08:37:03.000Z",
+        "updated_at": "2026-03-09T08:45:01.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 127,
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2762,
+        "votes": 2765,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.816799640655518,
+        "rating": 5.816274642944336,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-08T16:26:09.000Z",
+        "updated_at": "2026-03-09T15:48:55.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -444,7 +444,7 @@
         },
         "year": 2031,
         "title": "Avatar 5",
-        "votes": 53,
+        "votes": 52,
         "colors": {
           "poster": [
             "#ADA4AF",
@@ -470,7 +470,7 @@
           ],
           "clearart": []
         },
-        "rating": 6.226415157318115,
+        "rating": 6.32692289352417,
         "status": "planned",
         "country": "us",
         "runtime": null,
@@ -664,7 +664,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-03-08T08:47:03.000Z",
+        "updated_at": "2026-03-09T08:41:27.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -729,7 +729,7 @@
         },
         "rating": 8,
         "status": "post production",
-        "country": "gb",
+        "country": "us",
         "runtime": null,
         "tagline": "",
         "trailer": null,
@@ -741,7 +741,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-02-24T08:32:21.000Z",
+        "updated_at": "2026-03-09T08:46:07.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -749,6 +749,7 @@
         "original_title": "The Beekeeper 2",
         "available_translations": [
           "en",
+          "ka",
           "ko",
           "ru"
         ]
