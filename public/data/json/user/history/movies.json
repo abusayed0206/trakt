@@ -1,12 +1,60 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-14T06:07:25.912313+00:00",
+    "fetched_at": "2026-03-15T06:35:15.279086+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12085809092,
+      "watched_at": "2026-03-14T21:11:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Reservoir Dogs",
+        "year": 1992,
+        "ids": {
+          "trakt": 392,
+          "slug": "reservoir-dogs-1992",
+          "imdb": "tt0105236",
+          "tmdb": 500
+        }
+      }
+    },
+    {
+      "id": 12085738788,
+      "watched_at": "2026-03-14T20:26:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Death Wish",
+        "year": 2018,
+        "ids": {
+          "trakt": 238823,
+          "slug": "death-wish-2018",
+          "imdb": "tt1137450",
+          "tmdb": 395990
+        }
+      }
+    },
+    {
+      "id": 12085290347,
+      "watched_at": "2026-03-14T15:38:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Cold Pursuit",
+        "year": 2019,
+        "ids": {
+          "trakt": 284803,
+          "slug": "cold-pursuit-2019",
+          "imdb": "tt5719748",
+          "tmdb": 438650
+        }
+      }
+    },
     {
       "id": 12070066408,
       "watched_at": "2026-03-07T21:28:00.000Z",
@@ -116,54 +164,6 @@
           "slug": "dhurandhar-2025",
           "imdb": "tt33014583",
           "tmdb": 1291608
-        }
-      }
-    },
-    {
-      "id": 12015694245,
-      "watched_at": "2026-02-13T05:11:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Mindcage",
-        "year": 2022,
-        "ids": {
-          "trakt": 839735,
-          "slug": "mindcage-2022",
-          "imdb": "tt14147224",
-          "tmdb": 1043565
-        }
-      }
-    },
-    {
-      "id": 12061874627,
-      "watched_at": "2026-02-10T15:37:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Max Payne",
-        "year": 2008,
-        "ids": {
-          "trakt": 7608,
-          "slug": "max-payne-2008",
-          "imdb": "tt0467197",
-          "tmdb": 13051
-        }
-      }
-    },
-    {
-      "id": 12006653110,
-      "watched_at": "2026-02-09T15:49:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Black and Blue",
-        "year": 2019,
-        "ids": {
-          "trakt": 428286,
-          "slug": "black-and-blue-2019",
-          "imdb": "tt7390646",
-          "tmdb": 578189
         }
       }
     }
