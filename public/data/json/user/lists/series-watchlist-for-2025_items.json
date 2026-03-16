@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-15T06:35:17.515066+00:00",
+    "fetched_at": "2026-03-16T06:54:49.712808+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -32,7 +32,7 @@
         },
         "year": 2010,
         "title": "The Walking Dead",
-        "votes": 71250,
+        "votes": 71257,
         "colors": {
           "poster": [
             "#ABA579",
@@ -66,7 +66,7 @@
             "media.trakt.tv/images/shows/000/001/393/cleararts/medium/67608bba51.png.webp"
           ]
         },
-        "rating": 7.888238430023193,
+        "rating": 7.888361930847168,
         "status": "ended",
         "country": "us",
         "network": "AMC",
@@ -86,7 +86,7 @@
           "based-on-graphic-novel",
           "gore"
         ],
-        "updated_at": "2026-03-14T15:41:45.000Z",
+        "updated_at": "2026-03-16T06:43:20.000Z",
         "first_aired": "2010-11-01T01:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 371,
@@ -164,7 +164,7 @@
         },
         "year": 2007,
         "title": "The Big Bang Theory",
-        "votes": 65047,
+        "votes": 65050,
         "colors": {
           "poster": [
             "#B89F8F",
@@ -194,7 +194,7 @@
             "media.trakt.tv/images/shows/000/001/409/cleararts/medium/f96dc7ae79.png.webp"
           ]
         },
-        "rating": 7.854228496551514,
+        "rating": 7.854250431060791,
         "status": "ended",
         "country": "us",
         "network": "CBS",
@@ -212,7 +212,7 @@
           "sitcom",
           "scientist"
         ],
-        "updated_at": "2026-03-14T06:39:56.000Z",
+        "updated_at": "2026-03-16T06:45:08.000Z",
         "first_aired": "2007-09-25T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 268,
@@ -287,7 +287,7 @@
         },
         "year": 1994,
         "title": "Friends",
-        "votes": 48502,
+        "votes": 48512,
         "colors": {
           "poster": [
             "#BB9782",
@@ -317,7 +317,7 @@
             "media.trakt.tv/images/shows/000/001/657/cleararts/medium/279f666cf5.png.webp"
           ]
         },
-        "rating": 8.412910461425781,
+        "rating": 8.412949562072754,
         "status": "ended",
         "country": "us",
         "network": "NBC",
@@ -336,7 +336,7 @@
           "searching-for-love",
           "young-adult"
         ],
-        "updated_at": "2026-03-14T09:42:19.000Z",
+        "updated_at": "2026-03-15T09:48:47.000Z",
         "first_aired": "1994-09-23T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 106,
@@ -413,7 +413,7 @@
         },
         "year": 2004,
         "title": "Lost",
-        "votes": 37842,
+        "votes": 37849,
         "colors": {
           "poster": [
             "#7EB1AE",
@@ -446,7 +446,7 @@
             "media.trakt.tv/images/shows/000/004/583/cleararts/medium/f61af09aaf.png.webp"
           ]
         },
-        "rating": 8.077136039733887,
+        "rating": 8.077254295349121,
         "status": "ended",
         "country": "us",
         "network": "ABC",
@@ -462,7 +462,7 @@
         "subgenres": [
           "island"
         ],
-        "updated_at": "2026-03-14T09:41:58.000Z",
+        "updated_at": "2026-03-15T15:58:17.000Z",
         "first_aired": "2004-09-23T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 172,
@@ -534,7 +534,7 @@
         },
         "year": 2005,
         "title": "The Office",
-        "votes": 36156,
+        "votes": 36162,
         "colors": {
           "poster": [
             "#E7E6E6",
@@ -564,7 +564,7 @@
             "media.trakt.tv/images/shows/000/002/302/cleararts/medium/c9a0c0c65a.png.webp"
           ]
         },
-        "rating": 8.63646411895752,
+        "rating": 8.636330604553223,
         "status": "ended",
         "country": "us",
         "network": "NBC",
@@ -585,10 +585,10 @@
           "workplace-comedy",
           "office"
         ],
-        "updated_at": "2026-03-14T15:54:32.000Z",
+        "updated_at": "2026-03-15T15:39:06.000Z",
         "first_aired": "2005-03-24T22:30:00.000Z",
         "certification": "TV-14",
-        "comment_count": 130,
+        "comment_count": 131,
         "aired_episodes": 186,
         "original_title": "The Office",
         "available_translations": [
@@ -659,7 +659,7 @@
         },
         "year": 2012,
         "title": "Arrow",
-        "votes": 33796,
+        "votes": 33794,
         "colors": {
           "poster": [
             "#C8CBC4",
@@ -693,7 +693,7 @@
             "media.trakt.tv/images/shows/000/001/403/cleararts/medium/b859003114.png.webp"
           ]
         },
-        "rating": 7.461297035217285,
+        "rating": 7.4613542556762695,
         "status": "ended",
         "country": "us",
         "network": "The CW",
@@ -710,7 +710,7 @@
           "based-on-comic",
           "superhero-team"
         ],
-        "updated_at": "2026-03-14T07:39:06.000Z",
+        "updated_at": "2026-03-15T15:45:20.000Z",
         "first_aired": "2012-10-11T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 212,
@@ -783,7 +783,7 @@
         },
         "year": 2013,
         "title": "Brooklyn Nine-Nine",
-        "votes": 30259,
+        "votes": 30268,
         "colors": {
           "poster": [
             "#B4B38C",
@@ -814,7 +814,7 @@
             "media.trakt.tv/images/shows/000/048/587/cleararts/medium/772956fa23.png.webp"
           ]
         },
-        "rating": 8.374202728271484,
+        "rating": 8.37435531616211,
         "status": "ended",
         "country": "us",
         "network": "FOX",
@@ -835,7 +835,7 @@
           "workplace-comedy",
           "brooklyn-new-york-city"
         ],
-        "updated_at": "2026-03-14T06:55:17.000Z",
+        "updated_at": "2026-03-15T06:56:47.000Z",
         "first_aired": "2013-09-18T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 103,
@@ -905,7 +905,7 @@
         },
         "year": 2011,
         "title": "Suits",
-        "votes": 28557,
+        "votes": 28562,
         "colors": {
           "poster": [
             "#EAEBEB",
@@ -935,7 +935,7 @@
             "media.trakt.tv/images/shows/000/037/522/cleararts/medium/14babfb15f.png.webp"
           ]
         },
-        "rating": 8.323247909545898,
+        "rating": 8.323122024536133,
         "status": "ended",
         "country": "us",
         "network": "USA Network",
@@ -951,7 +951,7 @@
         "subgenres": [
           "lawyer"
         ],
-        "updated_at": "2026-03-14T09:54:00.000Z",
+        "updated_at": "2026-03-15T10:01:10.000Z",
         "first_aired": "2011-06-24T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 134,
@@ -1020,7 +1020,7 @@
         },
         "year": 2019,
         "title": "The Witcher",
-        "votes": 26264,
+        "votes": 26268,
         "colors": {
           "poster": [
             "#B37A59",
@@ -1053,7 +1053,7 @@
             "media.trakt.tv/images/shows/000/138/163/cleararts/medium/0c51489b9f.png.webp"
           ]
         },
-        "rating": 7.726507663726807,
+        "rating": 7.726853847503662,
         "status": "returning series",
         "country": "us",
         "network": "Netflix",
@@ -1074,7 +1074,7 @@
           "mutant",
           "mutation"
         ],
-        "updated_at": "2026-03-14T16:23:22.000Z",
+        "updated_at": "2026-03-15T15:53:50.000Z",
         "first_aired": "2019-12-20T08:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 141,
@@ -1150,7 +1150,7 @@
         },
         "year": 2013,
         "title": "Marvel's Agents of S.H.I.E.L.D.",
-        "votes": 21322,
+        "votes": 21321,
         "colors": {
           "poster": [
             "#E0B47B",
@@ -1185,7 +1185,7 @@
             "media.trakt.tv/images/shows/000/001/394/cleararts/medium/a384583c46.png.webp"
           ]
         },
-        "rating": 7.757808685302734,
+        "rating": 7.7578444480896,
         "status": "ended",
         "country": "us",
         "network": "ABC",
@@ -1202,7 +1202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-14T06:33:42.000Z",
+        "updated_at": "2026-03-16T06:40:40.000Z",
         "first_aired": "2013-09-25T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 137,

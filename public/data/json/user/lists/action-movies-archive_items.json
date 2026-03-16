@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-15T06:35:18.310390+00:00",
+    "fetched_at": "2026-03-16T06:54:50.882314+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -92,7 +92,7 @@
         },
         "year": 2011,
         "title": "Kill Bill: The Whole Bloody Affair",
-        "votes": 1530,
+        "votes": 1538,
         "colors": {
           "poster": [
             "#EEDCAB",
@@ -117,7 +117,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.408496856689453,
+        "rating": 8.414824485778809,
         "status": "released",
         "country": "us",
         "runtime": 253,
@@ -195,7 +195,7 @@
         },
         "year": 1980,
         "title": "The Empire Strikes Back",
-        "votes": 42386,
+        "votes": 42394,
         "colors": {
           "poster": [
             "#F3BA80",
@@ -227,7 +227,7 @@
             "media.trakt.tv/images/movies/000/001/266/cleararts/medium/2270c3fc0c.png.webp"
           ]
         },
-        "rating": 8.631717681884766,
+        "rating": 8.631598472595215,
         "status": "released",
         "country": "us",
         "runtime": 124,
@@ -246,7 +246,7 @@
           "space-opera",
           "spacecraft"
         ],
-        "updated_at": "2026-03-14T16:26:48.000Z",
+        "updated_at": "2026-03-15T16:26:59.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 78,
@@ -388,7 +388,7 @@
         },
         "year": 1954,
         "title": "Rear Window",
-        "votes": 9645,
+        "votes": 9652,
         "colors": {
           "poster": [
             "#AC8151",
@@ -419,7 +419,7 @@
             "media.trakt.tv/images/movies/000/000/447/cleararts/medium/2522330b74.png.webp"
           ]
         },
-        "rating": 8.272680282592773,
+        "rating": 8.272481918334961,
         "status": "released",
         "country": "us",
         "runtime": 112,
@@ -438,7 +438,7 @@
           "nurse",
           "isolation"
         ],
-        "updated_at": "2026-03-14T16:28:33.000Z",
+        "updated_at": "2026-03-15T16:29:54.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 46,
@@ -543,7 +543,7 @@
           "ta"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-13T18:40:09.000Z",
+        "updated_at": "2026-03-15T16:55:09.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 2,
@@ -622,7 +622,7 @@
           "romantic",
           "vibrant"
         ],
-        "updated_at": "2026-03-14T16:53:00.000Z",
+        "updated_at": "2026-03-15T16:56:04.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
@@ -739,7 +739,7 @@
         },
         "year": 2018,
         "title": "Spider-Man: Into the Spider-Verse",
-        "votes": 45686,
+        "votes": 45702,
         "colors": {
           "poster": [
             "#8FB0D1",
@@ -773,7 +773,7 @@
             "media.trakt.tv/images/movies/000/205/404/cleararts/medium/d499c5975d.png.webp"
           ]
         },
-        "rating": 8.635008811950684,
+        "rating": 8.634742736816406,
         "status": "released",
         "country": "us",
         "runtime": 117,
@@ -791,7 +791,7 @@
         "subgenres": [
           "based-on-comic"
         ],
-        "updated_at": "2026-03-14T16:45:26.000Z",
+        "updated_at": "2026-03-15T16:48:04.000Z",
         "after_credits": true,
         "certification": "PG",
         "comment_count": 188,
@@ -863,7 +863,7 @@
         },
         "year": 2004,
         "title": "Eternal Sunshine of the Spotless Mind",
-        "votes": 28751,
+        "votes": 28768,
         "colors": {
           "poster": [
             "#D6DCE4",
@@ -895,7 +895,7 @@
             "media.trakt.tv/images/movies/000/000/029/cleararts/medium/038c09dbb8.png.webp"
           ]
         },
-        "rating": 8.202879905700684,
+        "rating": 8.203038215637207,
         "status": "released",
         "country": "us",
         "runtime": 108,
@@ -918,7 +918,7 @@
           "amnesia",
           "memory"
         ],
-        "updated_at": "2026-03-14T16:34:55.000Z",
+        "updated_at": "2026-03-15T16:37:51.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 91,
