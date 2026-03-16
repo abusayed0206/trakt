@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-15T06:35:18.048226+00:00",
+    "fetched_at": "2026-03-16T06:54:50.360626+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/mdblist_items.json",
@@ -64,7 +64,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-13T18:27:48.000Z",
+        "updated_at": "2026-03-15T16:48:19.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -102,7 +102,7 @@
         },
         "year": 1954,
         "title": "Seven Samurai",
-        "votes": 5943,
+        "votes": 5949,
         "colors": {
           "poster": [
             "#9E9995",
@@ -133,7 +133,7 @@
             "media.trakt.tv/images/movies/000/000/293/cleararts/medium/a7fdffa762.png.webp"
           ]
         },
-        "rating": 8.483930587768555,
+        "rating": 8.484955787658691,
         "status": "released",
         "country": "jp",
         "runtime": 207,
@@ -158,7 +158,7 @@
           "violence",
           "bandit"
         ],
-        "updated_at": "2026-03-14T16:28:13.000Z",
+        "updated_at": "2026-03-15T16:29:29.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 28,
@@ -221,7 +221,7 @@
         },
         "year": 1954,
         "title": "Rear Window",
-        "votes": 9645,
+        "votes": 9652,
         "colors": {
           "poster": [
             "#AC8151",
@@ -252,7 +252,7 @@
             "media.trakt.tv/images/movies/000/000/447/cleararts/medium/2522330b74.png.webp"
           ]
         },
-        "rating": 8.272680282592773,
+        "rating": 8.272481918334961,
         "status": "released",
         "country": "us",
         "runtime": 112,
@@ -271,7 +271,7 @@
           "nurse",
           "isolation"
         ],
-        "updated_at": "2026-03-14T16:28:33.000Z",
+        "updated_at": "2026-03-15T16:29:54.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 46,
@@ -337,7 +337,7 @@
         },
         "year": 1962,
         "title": "Harakiri",
-        "votes": 2002,
+        "votes": 2006,
         "colors": {
           "poster": [
             "#F7F4F1",
@@ -367,7 +367,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.577422142028809,
+        "rating": 8.578265190124512,
         "status": "released",
         "country": "jp",
         "runtime": 135,
@@ -389,7 +389,7 @@
           "17th-century",
           "jidaigeki"
         ],
-        "updated_at": "2026-03-14T16:27:32.000Z",
+        "updated_at": "2026-03-15T16:28:14.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 15,
@@ -491,7 +491,7 @@
           "missing-person",
           "psychological-thriller"
         ],
-        "updated_at": "2026-03-14T16:43:33.000Z",
+        "updated_at": "2026-03-15T16:45:51.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 10,
@@ -541,7 +541,7 @@
         },
         "year": 1961,
         "title": "Yojimbo",
-        "votes": 2448,
+        "votes": 2451,
         "colors": {
           "poster": [
             "#BE9B58",
@@ -570,7 +570,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.083333015441895,
+        "rating": 8.086087226867676,
         "status": "released",
         "country": "jp",
         "runtime": 110,
@@ -592,7 +592,7 @@
           "swordplay",
           "fighting"
         ],
-        "updated_at": "2026-03-14T16:30:22.000Z",
+        "updated_at": "2026-03-15T16:32:54.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 8,
@@ -648,7 +648,7 @@
         },
         "year": 1985,
         "title": "Ran",
-        "votes": 2639,
+        "votes": 2643,
         "colors": {
           "poster": [
             "#6C8EA5",
@@ -680,7 +680,7 @@
             "media.trakt.tv/images/movies/000/006/719/cleararts/medium/6d2a61146d.png.webp"
           ]
         },
-        "rating": 8.069344520568848,
+        "rating": 8.069618225097656,
         "status": "released",
         "country": "jp",
         "runtime": 160,
@@ -704,7 +704,7 @@
           "jidaigeki",
           "tragic"
         ],
-        "updated_at": "2026-03-14T16:37:26.000Z",
+        "updated_at": "2026-03-15T16:40:31.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 14,
@@ -764,7 +764,7 @@
         },
         "year": 1958,
         "title": "Vertigo",
-        "votes": 8484,
+        "votes": 8492,
         "colors": {
           "poster": [
             "#DC4829",
@@ -796,7 +796,7 @@
             "media.trakt.tv/images/movies/000/000/338/cleararts/medium/f6142ea92b.png.webp"
           ]
         },
-        "rating": 8.033592224121094,
+        "rating": 8.033796310424805,
         "status": "released",
         "country": "us",
         "runtime": 128,
@@ -817,7 +817,7 @@
           "paranoid",
           "love-of-one-s-life"
         ],
-        "updated_at": "2026-03-14T16:38:15.000Z",
+        "updated_at": "2026-03-15T16:41:23.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 33,
@@ -882,7 +882,7 @@
         },
         "year": 1944,
         "title": "Double Indemnity",
-        "votes": 2902,
+        "votes": 2905,
         "colors": {
           "poster": [
             "#DDCCC7",
@@ -913,7 +913,7 @@
             "media.trakt.tv/images/movies/000/000/826/cleararts/medium/d5d93d3afe.png.webp"
           ]
         },
-        "rating": 8.0933837890625,
+        "rating": 8.094320297241211,
         "status": "released",
         "country": "us",
         "runtime": 107,
@@ -931,7 +931,7 @@
           "black-and-white",
           "film-noir"
         ],
-        "updated_at": "2026-03-14T16:27:02.000Z",
+        "updated_at": "2026-03-15T16:27:17.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 15,
@@ -989,7 +989,7 @@
         },
         "year": 1994,
         "title": "Three Colors: Red",
-        "votes": 1692,
+        "votes": 1691,
         "colors": {
           "poster": [
             "#B4363C",
@@ -1019,7 +1019,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.895390033721924,
+        "rating": 7.898876190185547,
         "status": "released",
         "country": "fr",
         "runtime": 100,
@@ -1038,7 +1038,7 @@
           "judge",
           "isolation"
         ],
-        "updated_at": "2026-03-14T16:36:57.000Z",
+        "updated_at": "2026-03-15T16:39:50.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 10,
