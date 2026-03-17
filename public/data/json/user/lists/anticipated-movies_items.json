@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-16T06:54:49.969473+00:00",
+    "fetched_at": "2026-03-17T06:41:04.638928+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
-    "count": 10
+    "count": 11
   },
   "data": [
     {
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5450,
+        "votes": 5461,
         "colors": {
           "poster": [
             "#CC997A",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.538532257080078,
+        "rating": 7.538362979888916,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-15T08:53:21.000Z",
+        "updated_at": "2026-03-16T08:42:18.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 128,
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2767,
+        "votes": 2773,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.815684795379639,
+        "rating": 5.8124775886535645,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-15T13:40:25.000Z",
+        "updated_at": "2026-03-16T16:28:18.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -391,7 +391,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-03-15T08:43:51.000Z",
+        "updated_at": "2026-03-16T08:37:54.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -507,7 +507,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": 1285064667,
       "listed_at": "2025-07-22T20:05:17.000Z",
       "notes": null,
@@ -685,7 +685,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": 1210621808,
       "listed_at": "2025-04-14T10:15:39.000Z",
       "notes": null,
@@ -884,6 +884,69 @@
         "available_translations": [
           "en",
           "hi"
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "id": 1205938473,
+      "listed_at": "2025-04-03T16:21:59.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt29032187",
+          "plex": {
+            "guid": null,
+            "slug": null
+          },
+          "slug": "run-all-night-2",
+          "tmdb": 1175590,
+          "trakt": 947892
+        },
+        "year": null,
+        "title": "Run All Night 2",
+        "votes": 1,
+        "colors": {
+          "poster": []
+        },
+        "genres": [
+          "action",
+          "crime",
+          "thriller"
+        ],
+        "images": {
+          "logo": [],
+          "thumb": [],
+          "banner": [],
+          "fanart": [],
+          "poster": [],
+          "clearart": []
+        },
+        "rating": 10,
+        "status": "rumored",
+        "country": "us",
+        "runtime": 0,
+        "tagline": "",
+        "trailer": null,
+        "homepage": null,
+        "language": "en",
+        "overview": "Neeson reprises his role as former Irish mobster Jimmy \"The Gravedigger\" Conlon in Run All Night 2. Jaume Collet-Serra, who directed the first film, will also return to helm the sequel.",
+        "released": null,
+        "languages": [
+          "en"
+        ],
+        "subgenres": [],
+        "updated_at": "2024-12-26T08:08:20.000Z",
+        "after_credits": false,
+        "certification": null,
+        "comment_count": 0,
+        "during_credits": false,
+        "original_title": "Run All Night 2",
+        "available_translations": [
+          "en",
+          "ko",
+          "zh"
         ]
       }
     }
