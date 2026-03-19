@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-18T06:41:31.196839+00:00",
+    "fetched_at": "2026-03-19T06:36:03.858543+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5472,
+        "votes": 5486,
         "colors": {
           "poster": [
             "#CC997A",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.539656639099121,
+        "rating": 7.540102005004883,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-17T08:42:57.000Z",
+        "updated_at": "2026-03-18T08:41:04.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 128,
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2772,
+        "votes": 2774,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.810966968536377,
+        "rating": 5.811463356018066,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-17T15:42:11.000Z",
+        "updated_at": "2026-03-18T14:40:56.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -391,7 +391,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-03-17T08:52:09.000Z",
+        "updated_at": "2026-03-18T08:41:40.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -525,35 +525,36 @@
         },
         "year": 2026,
         "title": "Dune: Part Three",
-        "votes": 39,
+        "votes": 40,
         "colors": {
           "poster": [
-            "#9D4921",
-            "#5B3A5D"
+            "#CDA468",
+            "#22332D"
           ]
         },
         "genres": [
           "science-fiction",
-          "adventure"
+          "adventure",
+          "thriller"
         ],
         "images": {
           "logo": [],
           "thumb": [],
           "banner": [],
           "fanart": [
-            "media.trakt.tv/images/movies/000/943/606/fanarts/medium/225e3e89a5.jpg.webp"
+            "media.trakt.tv/images/movies/000/943/606/fanarts/medium/2090fd0c98.jpg.webp"
           ],
           "poster": [
-            "media.trakt.tv/images/movies/000/943/606/posters/medium/54780292f6.jpg.webp"
+            "media.trakt.tv/images/movies/000/943/606/posters/medium/70e44bb53c.jpg.webp"
           ],
           "clearart": []
         },
-        "rating": 7.794871807098389,
+        "rating": 7.849999904632568,
         "status": "post production",
         "country": "us",
         "runtime": null,
         "tagline": "The epic conclusion.",
-        "trailer": null,
+        "trailer": "https://youtube.com/watch?v=3_9vCamtuPY",
         "homepage": "https://www.dunemovie.com",
         "language": "en",
         "overview": "The third and final installment in Villeneuve's Dune trilogy. Based on Frank Herbert's novel Dune Messiah.",
@@ -562,37 +563,31 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-17T08:49:13.000Z",
+        "updated_at": "2026-03-18T18:30:20.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
         "during_credits": false,
         "original_title": "Dune: Part Three",
         "available_translations": [
-          "ar",
           "bg",
           "cs",
           "de",
           "en",
           "es",
-          "et",
-          "fa",
-          "fi",
           "fr",
           "he",
+          "hi",
           "hu",
+          "it",
           "ja",
           "ka",
           "ko",
-          "lo",
-          "lt",
-          "lv",
           "pl",
           "pt",
           "ro",
           "ru",
           "sv",
-          "th",
           "uk",
           "vi",
           "zh"
@@ -621,8 +616,8 @@
         "votes": 23,
         "colors": {
           "poster": [
-            "#F20632",
-            "#030101"
+            "#16C3E0",
+            "#000202"
           ]
         },
         "genres": [
@@ -641,7 +636,7 @@
             "media.trakt.tv/images/movies/000/640/991/fanarts/medium/93fac9cf0d.jpg.webp"
           ],
           "poster": [
-            "media.trakt.tv/images/movies/000/640/991/posters/medium/41c9a0d6a5.jpg.webp"
+            "media.trakt.tv/images/movies/000/640/991/posters/medium/a0e046fe85.jpg.webp"
           ],
           "clearart": []
         },
@@ -664,7 +659,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-03-15T08:46:09.000Z",
+        "updated_at": "2026-03-18T16:27:07.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -703,7 +698,7 @@
         },
         "year": 2027,
         "title": "The Beekeeper 2",
-        "votes": 5,
+        "votes": 6,
         "colors": {
           "poster": [
             "#E6E6E6",
@@ -727,7 +722,7 @@
           ],
           "clearart": []
         },
-        "rating": 8,
+        "rating": 8.333333015441895,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -741,7 +736,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-17T08:48:58.000Z",
+        "updated_at": "2026-03-18T08:39:11.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
