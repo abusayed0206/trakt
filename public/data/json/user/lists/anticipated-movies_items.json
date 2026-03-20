@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-19T06:36:03.858543+00:00",
+    "fetched_at": "2026-03-20T06:12:34.491436+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5486,
+        "votes": 5498,
         "colors": {
           "poster": [
             "#CC997A",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.540102005004883,
+        "rating": 7.538923263549805,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-18T08:41:04.000Z",
+        "updated_at": "2026-03-19T08:43:47.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 128,
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2774,
+        "votes": 2773,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.811463356018066,
+        "rating": 5.8124775886535645,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-18T14:40:56.000Z",
+        "updated_at": "2026-03-19T17:39:08.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -391,7 +391,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-03-18T08:41:40.000Z",
+        "updated_at": "2026-03-19T08:49:28.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -557,13 +557,13 @@
         "trailer": "https://youtube.com/watch?v=3_9vCamtuPY",
         "homepage": "https://www.dunemovie.com",
         "language": "en",
-        "overview": "The third and final installment in Villeneuve's Dune trilogy. Based on Frank Herbert's novel Dune Messiah.",
+        "overview": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
         "released": "2026-12-18",
         "languages": [
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-18T18:30:20.000Z",
+        "updated_at": "2026-03-19T08:43:05.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
@@ -578,7 +578,9 @@
           "fr",
           "he",
           "hi",
+          "hr",
           "hu",
+          "id",
           "it",
           "ja",
           "ka",
