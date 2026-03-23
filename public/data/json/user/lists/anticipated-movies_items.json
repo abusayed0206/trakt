@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-22T06:12:12.313014+00:00",
+    "fetched_at": "2026-03-23T06:49:56.121335+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,11 +26,11 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5522,
+        "votes": 5536,
         "colors": {
           "poster": [
-            "#CC997A",
-            "#3C3037"
+            "#CB9879",
+            "#3B2D33"
           ]
         },
         "genres": [
@@ -49,16 +49,16 @@
             "media.trakt.tv/images/movies/000/062/544/banners/medium/e062315426.jpg.webp"
           ],
           "fanart": [
-            "media.trakt.tv/images/movies/000/062/544/fanarts/medium/d5e410a965.jpg.webp"
+            "media.trakt.tv/images/movies/000/062/544/fanarts/medium/cf11181837.jpg.webp"
           ],
           "poster": [
-            "media.trakt.tv/images/movies/000/062/544/posters/medium/53ba7ba809.jpg.webp"
+            "media.trakt.tv/images/movies/000/062/544/posters/medium/26160797b2.jpg.webp"
           ],
           "clearart": [
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.541832447052002,
+        "rating": 7.540643215179443,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-20T08:39:43.000Z",
+        "updated_at": "2026-03-22T16:36:33.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 128,
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2776,
+        "votes": 2778,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.812319755554199,
+        "rating": 5.8120951652526855,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-21T12:51:18.000Z",
+        "updated_at": "2026-03-22T12:52:19.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -303,7 +303,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-21T08:46:12.000Z",
+        "updated_at": "2026-03-22T08:36:31.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 4,
@@ -373,7 +373,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.641790866851807,
+        "rating": 7.626865863800049,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -484,7 +484,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-21T08:46:12.000Z",
+        "updated_at": "2026-03-22T08:36:31.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -564,7 +564,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-21T17:17:35.000Z",
+        "updated_at": "2026-03-22T08:36:49.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
