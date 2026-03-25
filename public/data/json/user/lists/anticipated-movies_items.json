@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-24T06:41:11.917095+00:00",
+    "fetched_at": "2026-03-25T06:40:54.511834+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5553,
+        "votes": 5568,
         "colors": {
           "poster": [
             "#CB9879",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.543309688568115,
+        "rating": 7.543821811676025,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-23T09:44:59.000Z",
+        "updated_at": "2026-03-24T08:42:28.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 128,
@@ -525,7 +525,7 @@
         },
         "year": 2026,
         "title": "Dune: Part Three",
-        "votes": 41,
+        "votes": 42,
         "colors": {
           "poster": [
             "#CDA468",
@@ -551,7 +551,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.902439117431641,
+        "rating": 7.904761791229248,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -565,7 +565,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-23T08:53:01.000Z",
+        "updated_at": "2026-03-24T08:36:34.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
@@ -664,7 +664,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-03-21T08:45:48.000Z",
+        "updated_at": "2026-03-24T08:47:29.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
