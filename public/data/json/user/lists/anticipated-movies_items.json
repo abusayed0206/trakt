@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-25T06:40:54.511834+00:00",
+    "fetched_at": "2026-03-26T06:47:30.993118+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5568,
+        "votes": 5582,
         "colors": {
           "poster": [
             "#CB9879",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.543821811676025,
+        "rating": 7.543890953063965,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-24T08:42:28.000Z",
+        "updated_at": "2026-03-25T08:40:38.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 128,
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2778,
+        "votes": 2779,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.812455177307129,
+        "rating": 5.8125224113464355,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-23T14:54:35.000Z",
+        "updated_at": "2026-03-25T16:32:25.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -565,7 +565,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-24T08:36:34.000Z",
+        "updated_at": "2026-03-25T08:41:14.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
@@ -664,7 +664,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-03-24T08:47:29.000Z",
+        "updated_at": "2026-03-25T08:44:40.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -741,7 +741,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-18T08:39:11.000Z",
+        "updated_at": "2026-03-25T08:49:48.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
