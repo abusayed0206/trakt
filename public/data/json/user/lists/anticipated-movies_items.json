@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-26T06:47:30.993118+00:00",
+    "fetched_at": "2026-03-27T06:47:18.923518+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5582,
+        "votes": 5591,
         "colors": {
           "poster": [
             "#CB9879",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.543890953063965,
+        "rating": 7.544267654418945,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-25T08:40:38.000Z",
+        "updated_at": "2026-03-26T16:37:18.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 128,
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2779,
+        "votes": 2782,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.8125224113464355,
+        "rating": 5.814162254333496,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-25T16:32:25.000Z",
+        "updated_at": "2026-03-26T13:44:56.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -303,7 +303,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-22T08:36:31.000Z",
+        "updated_at": "2026-03-26T08:52:41.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 4,
@@ -534,8 +534,7 @@
         },
         "genres": [
           "science-fiction",
-          "adventure",
-          "thriller"
+          "adventure"
         ],
         "images": {
           "logo": [
@@ -565,7 +564,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-25T08:41:14.000Z",
+        "updated_at": "2026-03-26T08:40:02.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
@@ -741,7 +740,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-25T08:49:48.000Z",
+        "updated_at": "2026-03-26T08:42:49.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
