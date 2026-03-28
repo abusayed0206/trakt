@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-27T06:47:18.923518+00:00",
+    "fetched_at": "2026-03-28T06:34:53.410176+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5591,
+        "votes": 5600,
         "colors": {
           "poster": [
             "#CB9879",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.544267654418945,
+        "rating": 7.543928623199463,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-26T16:37:18.000Z",
+        "updated_at": "2026-03-27T08:40:02.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 128,
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.814162254333496,
+        "rating": 5.813443660736084,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-26T13:44:56.000Z",
+        "updated_at": "2026-03-27T13:34:05.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -303,7 +303,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-26T08:52:41.000Z",
+        "updated_at": "2026-03-27T08:42:26.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 4,
@@ -344,7 +344,7 @@
         },
         "year": 2026,
         "title": "Avengers: Doomsday",
-        "votes": 67,
+        "votes": 68,
         "colors": {
           "poster": [
             "#A0BB92",
@@ -373,7 +373,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.626865863800049,
+        "rating": 7.617647171020508,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -391,7 +391,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-03-21T17:17:42.000Z",
+        "updated_at": "2026-03-27T08:47:46.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -564,7 +564,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-26T08:40:02.000Z",
+        "updated_at": "2026-03-27T08:38:17.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
