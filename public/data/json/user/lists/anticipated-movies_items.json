@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-29T06:43:43.199949+00:00",
+    "fetched_at": "2026-03-30T07:08:20.134370+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
-    "count": 11
+    "count": 10
   },
   "data": [
     {
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5615,
+        "votes": 5667,
         "colors": {
           "poster": [
             "#CB9879",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.540694713592529,
+        "rating": 7.536615371704102,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-28T08:38:09.000Z",
+        "updated_at": "2026-03-29T08:43:34.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 128,
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2787,
+        "votes": 2789,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.81270170211792,
+        "rating": 5.813553333282471,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-28T15:36:55.000Z",
+        "updated_at": "2026-03-29T15:37:58.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -507,7 +507,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": 1285064667,
       "listed_at": "2025-07-22T20:05:17.000Z",
       "notes": null,
@@ -525,7 +525,7 @@
         },
         "year": 2026,
         "title": "Dune: Part Three",
-        "votes": 41,
+        "votes": 42,
         "colors": {
           "poster": [
             "#CDA468",
@@ -550,7 +550,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.853658676147461,
+        "rating": 7.904761791229248,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -564,7 +564,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-28T08:42:04.000Z",
+        "updated_at": "2026-03-29T08:43:35.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
@@ -663,7 +663,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-03-28T08:46:26.000Z",
+        "updated_at": "2026-03-29T08:41:34.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -684,7 +684,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": 1210621808,
       "listed_at": "2025-04-14T10:15:39.000Z",
       "notes": null,
@@ -818,76 +818,6 @@
     },
     {
       "rank": 8,
-      "id": 1176832893,
-      "listed_at": "2025-02-22T14:20:36.000Z",
-      "notes": null,
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "",
-          "plex": {
-            "guid": "5d777029bbb697001f64f4da",
-            "slug": "don-3"
-          },
-          "slug": "don-3",
-          "tmdb": 44726,
-          "trakt": 30393
-        },
-        "year": null,
-        "title": "Don 3",
-        "votes": 1,
-        "colors": {
-          "poster": [
-            "#C5BCAB",
-            "#141215"
-          ]
-        },
-        "genres": [
-          "action",
-          "thriller",
-          "adventure",
-          "crime"
-        ],
-        "images": {
-          "logo": [],
-          "thumb": [],
-          "banner": [],
-          "fanart": [
-            "media.trakt.tv/images/movies/000/030/393/fanarts/medium/9bfe64ccfe.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/movies/000/030/393/posters/medium/9fcf9e4a61.jpg.webp"
-          ],
-          "clearart": []
-        },
-        "rating": 1,
-        "status": "planned",
-        "country": "in",
-        "runtime": null,
-        "tagline": "A New Era Begins",
-        "trailer": null,
-        "homepage": null,
-        "language": "hi",
-        "overview": "",
-        "released": null,
-        "languages": [
-          "hi"
-        ],
-        "subgenres": [],
-        "updated_at": "2026-02-08T08:42:24.000Z",
-        "after_credits": false,
-        "certification": null,
-        "comment_count": 0,
-        "during_credits": false,
-        "original_title": "डॉन 3",
-        "available_translations": [
-          "en",
-          "hi"
-        ]
-      }
-    },
-    {
-      "rank": 9,
       "id": 1205938473,
       "listed_at": "2025-04-03T16:21:59.000Z",
       "notes": null,
