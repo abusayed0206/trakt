@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-30T07:08:20.134370+00:00",
+    "fetched_at": "2026-03-31T06:51:22.455260+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5667,
+        "votes": 5737,
         "colors": {
           "poster": [
             "#CB9879",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.536615371704102,
+        "rating": 7.535122871398926,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,7 +75,7 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-29T08:43:34.000Z",
+        "updated_at": "2026-03-30T08:42:50.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 128,
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2789,
+        "votes": 2793,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.813553333282471,
+        "rating": 5.815610408782959,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-29T15:37:58.000Z",
+        "updated_at": "2026-03-30T11:44:52.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -564,7 +564,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-29T08:43:35.000Z",
+        "updated_at": "2026-03-30T08:43:37.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
