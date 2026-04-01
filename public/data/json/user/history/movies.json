@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-31T06:51:20.814738+00:00",
+    "fetched_at": "2026-04-01T07:01:09.243511+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12150297090,
+      "watched_at": "2026-03-31T14:11:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Bad Boys II",
+        "year": 2003,
+        "ids": {
+          "trakt": 4429,
+          "slug": "bad-boys-ii-2003",
+          "imdb": "tt0172156",
+          "tmdb": 8961
+        }
+      }
+    },
+    {
+      "id": 12150296300,
+      "watched_at": "2026-03-29T14:11:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Bad Boys",
+        "year": 1995,
+        "ids": {
+          "trakt": 5003,
+          "slug": "bad-boys-1995",
+          "imdb": "tt0112442",
+          "tmdb": 9737
+        }
+      }
+    },
     {
       "id": 12085809092,
       "watched_at": "2026-03-14T21:11:00.000Z",
@@ -132,38 +164,6 @@
           "slug": "ronaldo-vs-messi-face-off-2017",
           "imdb": "tt7141228",
           "tmdb": 525875
-        }
-      }
-    },
-    {
-      "id": 12035257551,
-      "watched_at": "2026-02-20T13:00:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Face/Off",
-        "year": 1997,
-        "ids": {
-          "trakt": 597,
-          "slug": "face-off-1997",
-          "imdb": "tt0119094",
-          "tmdb": 754
-        }
-      }
-    },
-    {
-      "id": 12028098851,
-      "watched_at": "2026-02-17T06:26:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Dhurandhar",
-        "year": 2025,
-        "ids": {
-          "trakt": 1051128,
-          "slug": "dhurandhar-2025",
-          "imdb": "tt33014583",
-          "tmdb": 1291608
         }
       }
     }

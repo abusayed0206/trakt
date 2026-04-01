@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-03-31T06:51:22.455260+00:00",
+    "fetched_at": "2026-04-01T07:01:11.379908+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5737,
+        "votes": 5895,
         "colors": {
           "poster": [
             "#CB9879",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.535122871398926,
+        "rating": 7.530958652496338,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,10 +75,10 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-30T08:42:50.000Z",
+        "updated_at": "2026-03-31T16:56:06.000Z",
         "after_credits": false,
         "certification": "PG-13",
-        "comment_count": 128,
+        "comment_count": 131,
         "during_credits": false,
         "original_title": "Avatar: Fire and Ash",
         "available_translations": [
@@ -152,7 +152,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2793,
+        "votes": 2795,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -184,7 +184,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.815610408782959,
+        "rating": 5.818246841430664,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -202,10 +202,11 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-30T11:44:52.000Z",
+        "updated_at": "2026-03-31T13:53:09.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
+        "total_runtime": 305,
         "aired_episodes": 6,
         "original_title": "Ironheart",
         "available_translations": [
@@ -564,7 +565,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-30T08:43:37.000Z",
+        "updated_at": "2026-03-31T08:32:28.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
