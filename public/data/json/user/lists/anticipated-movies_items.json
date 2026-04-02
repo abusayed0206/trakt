@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-01T07:01:11.379908+00:00",
+    "fetched_at": "2026-04-02T06:51:26.321984+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 5895,
+        "votes": 6094,
         "colors": {
           "poster": [
             "#CB9879",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.530958652496338,
+        "rating": 7.535444736480713,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -75,10 +75,10 @@
           "witch",
           "alien"
         ],
-        "updated_at": "2026-03-31T16:56:06.000Z",
+        "updated_at": "2026-04-01T16:27:44.000Z",
         "after_credits": false,
         "certification": "PG-13",
-        "comment_count": 131,
+        "comment_count": 133,
         "during_credits": false,
         "original_title": "Avatar: Fire and Ash",
         "available_translations": [
@@ -202,7 +202,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-03-31T13:53:09.000Z",
+        "updated_at": "2026-04-01T14:20:09.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -535,7 +535,7 @@
         },
         "genres": [
           "science-fiction",
-          "adventure"
+          "action"
         ],
         "images": {
           "logo": [
@@ -565,7 +565,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-31T08:32:28.000Z",
+        "updated_at": "2026-04-01T08:33:54.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
