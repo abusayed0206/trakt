@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-03T06:48:22.283672+00:00",
+    "fetched_at": "2026-04-04T06:37:41.021923+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/movies.json",
@@ -74,7 +74,7 @@
           "vacation",
           "childhood-friends"
         ],
-        "updated_at": "2026-04-02T17:28:13.000Z",
+        "updated_at": "2026-04-04T02:32:30.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 5,
@@ -171,7 +171,7 @@
         "subgenres": [
           "martial-arts"
         ],
-        "updated_at": "2026-04-02T17:21:35.000Z",
+        "updated_at": "2026-04-04T01:59:55.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 6,
@@ -275,7 +275,7 @@
           "martial-arts",
           "revenge"
         ],
-        "updated_at": "2026-04-02T16:54:22.000Z",
+        "updated_at": "2026-04-04T00:47:39.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 0,
@@ -331,7 +331,7 @@
         },
         "year": 2004,
         "title": "Eternal Sunshine of the Spotless Mind",
-        "votes": 28917,
+        "votes": 28924,
         "colors": {
           "poster": [
             "#D6DCE4",
@@ -363,7 +363,7 @@
             "media.trakt.tv/images/movies/000/000/029/cleararts/medium/038c09dbb8.png.webp"
           ]
         },
-        "rating": 8.203306198120117,
+        "rating": 8.20363712310791,
         "status": "released",
         "country": "us",
         "runtime": 108,
@@ -386,7 +386,7 @@
           "amnesia",
           "memory"
         ],
-        "updated_at": "2026-04-02T17:14:08.000Z",
+        "updated_at": "2026-04-04T01:40:54.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 91,
@@ -493,7 +493,7 @@
         "subgenres": [
           "hitman"
         ],
-        "updated_at": "2026-04-02T17:43:57.000Z",
+        "updated_at": "2026-04-04T02:56:09.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 40,
@@ -599,7 +599,7 @@
         "subgenres": [
           "martial-arts"
         ],
-        "updated_at": "2026-04-02T17:15:21.000Z",
+        "updated_at": "2026-04-04T01:44:29.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 2,
@@ -693,7 +693,7 @@
           "te"
         ],
         "subgenres": [],
-        "updated_at": "2026-03-26T17:36:34.000Z",
+        "updated_at": "2026-04-04T02:58:26.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -727,7 +727,7 @@
         },
         "year": 2025,
         "title": "Final Destination Bloodlines",
-        "votes": 12038,
+        "votes": 12050,
         "colors": {
           "poster": [
             "#D19560",
@@ -758,7 +758,7 @@
             "media.trakt.tv/images/movies/000/425/097/cleararts/medium/8022b7920d.png.webp"
           ]
         },
-        "rating": 6.985712051391602,
+        "rating": 6.98564338684082,
         "status": "released",
         "country": "us",
         "runtime": 110,
@@ -782,7 +782,7 @@
           "restaurant",
           "taunting"
         ],
-        "updated_at": "2026-04-02T17:44:57.000Z",
+        "updated_at": "2026-04-04T02:58:15.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 155,
@@ -893,7 +893,7 @@
           "zh"
         ],
         "subgenres": [],
-        "updated_at": "2026-04-02T17:26:03.000Z",
+        "updated_at": "2026-04-04T02:30:08.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 2,
@@ -946,7 +946,7 @@
         },
         "year": 2006,
         "title": "Final Destination 3",
-        "votes": 9182,
+        "votes": 9183,
         "colors": {
           "poster": [
             "#B0C9D8",
@@ -977,7 +977,7 @@
             "media.trakt.tv/images/movies/000/004/586/cleararts/medium/d659617ada.png.webp"
           ]
         },
-        "rating": 6.333043098449707,
+        "rating": 6.333224296569824,
         "status": "released",
         "country": "us",
         "runtime": 92,
@@ -996,7 +996,7 @@
           "suspenseful",
           "supernatural-horror"
         ],
-        "updated_at": "2026-04-02T16:52:41.000Z",
+        "updated_at": "2026-04-04T00:43:18.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 42,
@@ -1063,7 +1063,7 @@
         },
         "year": 2009,
         "title": "The Final Destination",
-        "votes": 7883,
+        "votes": 7885,
         "colors": {
           "poster": [
             "#A0C0C3",
@@ -1094,7 +1094,7 @@
             "media.trakt.tv/images/movies/000/012/223/cleararts/medium/bd466fa889.png.webp"
           ]
         },
-        "rating": 5.736014366149902,
+        "rating": 5.736207962036133,
         "status": "released",
         "country": "us",
         "runtime": 82,
@@ -1112,7 +1112,7 @@
           "gore",
           "supernatural-horror"
         ],
-        "updated_at": "2026-04-02T17:21:01.000Z",
+        "updated_at": "2026-04-04T01:58:47.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 51,
@@ -1179,7 +1179,7 @@
         },
         "year": 2011,
         "title": "Final Destination 5",
-        "votes": 8114,
+        "votes": 8116,
         "colors": {
           "poster": [
             "#AABDC3",
@@ -1210,7 +1210,7 @@
             "media.trakt.tv/images/movies/000/039/712/cleararts/medium/a3ac278fca.png.webp"
           ]
         },
-        "rating": 6.32302188873291,
+        "rating": 6.32294225692749,
         "status": "released",
         "country": "us",
         "runtime": 91,
@@ -1228,7 +1228,7 @@
           "death",
           "supernatural-horror"
         ],
-        "updated_at": "2026-04-02T17:26:55.000Z",
+        "updated_at": "2026-04-04T02:30:55.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 50,
@@ -1295,7 +1295,7 @@
         },
         "year": 2025,
         "title": "M3GAN 2.0",
-        "votes": 6090,
+        "votes": 6097,
         "colors": {
           "poster": [
             "#7D63AA",
@@ -1327,7 +1327,7 @@
             "media.trakt.tv/images/movies/000/861/568/cleararts/medium/e5ead4b780.png.webp"
           ]
         },
-        "rating": 6.699835777282715,
+        "rating": 6.698540210723877,
         "status": "released",
         "country": "us",
         "runtime": 120,
@@ -1348,7 +1348,7 @@
           "satirical",
           "android"
         ],
-        "updated_at": "2026-04-02T17:43:36.000Z",
+        "updated_at": "2026-04-04T02:55:26.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 95,
@@ -1411,7 +1411,7 @@
         },
         "year": 2019,
         "title": "Polar",
-        "votes": 6933,
+        "votes": 6935,
         "colors": {
           "poster": [
             "#B98FB6",
@@ -1443,7 +1443,7 @@
             "media.trakt.tv/images/movies/000/331/027/cleararts/medium/037f7ebdd2.png.webp"
           ]
         },
-        "rating": 6.656281471252441,
+        "rating": 6.655948162078857,
         "status": "released",
         "country": "us",
         "runtime": 118,
@@ -1464,7 +1464,7 @@
           "neo-noir",
           "based-on-graphic-novel"
         ],
-        "updated_at": "2026-04-02T17:37:21.000Z",
+        "updated_at": "2026-04-04T02:44:59.000Z",
         "after_credits": false,
         "certification": "NC-17",
         "comment_count": 75,
@@ -1523,7 +1523,7 @@
         },
         "year": 2007,
         "title": "I Am Legend",
-        "votes": 30689,
+        "votes": 30698,
         "colors": {
           "poster": [
             "#C09C67",
@@ -1555,7 +1555,7 @@
             "media.trakt.tv/images/movies/000/003/642/cleararts/medium/75c13e4b44.png.webp"
           ]
         },
-        "rating": 7.429013729095459,
+        "rating": 7.429506778717041,
         "status": "released",
         "country": "us",
         "runtime": 101,
@@ -1579,7 +1579,7 @@
           "end-of-the-world",
           "saving-the-world"
         ],
-        "updated_at": "2026-04-02T16:58:38.000Z",
+        "updated_at": "2026-04-04T01:00:02.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 53,
@@ -1651,7 +1651,7 @@
         },
         "year": 1997,
         "title": "Gattaca",
-        "votes": 13767,
+        "votes": 13769,
         "colors": {
           "poster": [
             "#A0C7CE",
@@ -1684,7 +1684,7 @@
             "media.trakt.tv/images/movies/000/000/625/cleararts/medium/4ec5c2607f.png.webp"
           ]
         },
-        "rating": 7.908767223358154,
+        "rating": 7.908926010131836,
         "status": "released",
         "country": "us",
         "runtime": 107,
@@ -1707,7 +1707,7 @@
           "space",
           "space-travel"
         ],
-        "updated_at": "2026-04-02T17:29:49.000Z",
+        "updated_at": "2026-04-04T02:34:42.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 40,
@@ -1830,7 +1830,7 @@
           "violence",
           "bandit"
         ],
-        "updated_at": "2026-04-02T16:52:11.000Z",
+        "updated_at": "2026-04-04T00:42:09.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 28,
@@ -1893,7 +1893,7 @@
         },
         "year": 2022,
         "title": "M3GAN",
-        "votes": 12334,
+        "votes": 12333,
         "colors": {
           "poster": [
             "#D0A884",
@@ -1924,7 +1924,7 @@
             "media.trakt.tv/images/movies/000/388/074/cleararts/medium/74b5ec3d75.png.webp"
           ]
         },
-        "rating": 6.687044143676758,
+        "rating": 6.687343120574951,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -1945,7 +1945,7 @@
           "android",
           "witty"
         ],
-        "updated_at": "2026-04-02T17:40:20.000Z",
+        "updated_at": "2026-04-04T02:49:33.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 140,
@@ -2059,7 +2059,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-04-02T17:25:44.000Z",
+        "updated_at": "2026-04-04T02:29:51.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 23,
@@ -2120,7 +2120,7 @@
         },
         "year": 2019,
         "title": "1917",
-        "votes": 30295,
+        "votes": 30301,
         "colors": {
           "poster": [
             "#A7ABA8",
@@ -2129,7 +2129,8 @@
         },
         "genres": [
           "war",
-          "history"
+          "history",
+          "drama"
         ],
         "images": {
           "logo": [
@@ -2151,7 +2152,7 @@
             "media.trakt.tv/images/movies/000/382/862/cleararts/medium/f6595c31cf.png.webp"
           ]
         },
-        "rating": 8.136128425598145,
+        "rating": 8.136265754699707,
         "status": "released",
         "country": "us",
         "runtime": 119,
@@ -2174,7 +2175,7 @@
           "world-war-i",
           "british-army"
         ],
-        "updated_at": "2026-04-02T17:36:34.000Z",
+        "updated_at": "2026-04-04T02:43:57.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 137,
@@ -2242,7 +2243,7 @@
         },
         "year": 2014,
         "title": "The Hobbit: The Battle of the Five Armies",
-        "votes": 28980,
+        "votes": 28988,
         "colors": {
           "poster": [
             "#C0B09A",
@@ -2274,7 +2275,7 @@
             "media.trakt.tv/images/movies/000/084/900/cleararts/medium/3a6bd30ecc.png.webp"
           ]
         },
-        "rating": 7.5700483322143555,
+        "rating": 7.5699944496154785,
         "status": "released",
         "country": "us",
         "runtime": 144,
@@ -2300,7 +2301,7 @@
           "elves",
           "gold"
         ],
-        "updated_at": "2026-04-02T17:24:28.000Z",
+        "updated_at": "2026-04-04T02:28:44.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 79,
