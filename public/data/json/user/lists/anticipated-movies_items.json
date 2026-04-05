@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-04T06:37:41.723019+00:00",
+    "fetched_at": "2026-04-05T06:45:03.054776+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -26,7 +26,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 6625,
+        "votes": 6917,
         "colors": {
           "poster": [
             "#CB9879",
@@ -58,7 +58,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.538264274597168,
+        "rating": 7.546768665313721,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -69,17 +69,16 @@
         "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
         "released": "2025-12-19",
         "languages": [
-          "it",
           "en"
         ],
         "subgenres": [
           "witch",
           "alien"
         ],
-        "updated_at": "2026-04-04T03:12:47.000Z",
+        "updated_at": "2026-04-04T19:59:56.000Z",
         "after_credits": false,
         "certification": "PG-13",
-        "comment_count": 135,
+        "comment_count": 138,
         "during_credits": false,
         "original_title": "Avatar: Fire and Ash",
         "available_translations": [
@@ -154,7 +153,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2800,
+        "votes": 2801,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -186,7 +185,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.817500114440918,
+        "rating": 5.818636417388916,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -204,7 +203,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-04-03T23:53:56.000Z",
+        "updated_at": "2026-04-04T13:59:20.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -528,7 +527,7 @@
         },
         "year": 2026,
         "title": "Dune: Part Three",
-        "votes": 42,
+        "votes": 43,
         "colors": {
           "poster": [
             "#CDA468",
@@ -553,7 +552,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.904761791229248,
+        "rating": 7.906976699829102,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -567,7 +566,7 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-04-03T08:48:34.000Z",
+        "updated_at": "2026-04-04T08:33:18.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
@@ -667,7 +666,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-04-03T08:46:34.000Z",
+        "updated_at": "2026-04-04T08:37:05.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
