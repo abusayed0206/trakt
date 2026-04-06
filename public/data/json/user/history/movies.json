@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-05T06:45:01.416679+00:00",
+    "fetched_at": "2026-04-06T07:09:50.470095+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12169686650,
+      "watched_at": "2026-04-05T17:00:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Bad Boys: Ride or Die",
+        "year": 2024,
+        "ids": {
+          "trakt": 424256,
+          "slug": "bad-boys-ride-or-die-2024",
+          "imdb": "tt4919268",
+          "tmdb": 573435
+        }
+      }
+    },
+    {
+      "id": 12169686508,
+      "watched_at": "2026-04-05T17:00:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Bad Boys for Life",
+        "year": 2020,
+        "ids": {
+          "trakt": 25039,
+          "slug": "bad-boys-for-life-2020",
+          "imdb": "tt1502397",
+          "tmdb": 38700
+        }
+      }
+    },
     {
       "id": 12150297090,
       "watched_at": "2026-03-31T14:11:00.000Z",
@@ -132,38 +164,6 @@
           "slug": "shelter-2026",
           "imdb": "tt32357218",
           "tmdb": 1290821
-        }
-      }
-    },
-    {
-      "id": 12054679822,
-      "watched_at": "2026-02-27T09:58:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "16 Blocks",
-        "year": 2006,
-        "ids": {
-          "trakt": 1542,
-          "slug": "16-blocks-2006",
-          "imdb": "tt0450232",
-          "tmdb": 2207
-        }
-      }
-    },
-    {
-      "id": 12035336108,
-      "watched_at": "2026-02-20T14:17:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Ronaldo vs. Messi: Face Off!",
-        "year": 2017,
-        "ids": {
-          "trakt": 374179,
-          "slug": "ronaldo-vs-messi-face-off-2017",
-          "imdb": "tt7141228",
-          "tmdb": 525875
         }
       }
     }
