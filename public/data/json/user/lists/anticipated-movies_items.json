@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-07T06:54:12.978645+00:00",
+    "fetched_at": "2026-04-08T06:56:11.425825+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -8,10 +8,6 @@
   },
   "data": [
     {
-      "rank": 3,
-      "id": 1174076303,
-      "listed_at": "2025-02-16T04:14:41.000Z",
-      "notes": null,
       "type": "movie",
       "movie": {
         "ids": {
@@ -26,7 +22,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 7509,
+        "votes": 7638,
         "colors": {
           "poster": [
             "#CB9879",
@@ -58,7 +54,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.550405979156494,
+        "rating": 7.549358367919922,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -73,9 +69,10 @@
         ],
         "subgenres": [
           "witch",
-          "alien"
+          "alien",
+          "vibrant"
         ],
-        "updated_at": "2026-04-06T16:28:48.000Z",
+        "updated_at": "2026-04-07T16:27:56.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 143,
@@ -126,13 +123,13 @@
           "vi",
           "zh"
         ]
-      }
+      },
+      "rank": 4,
+      "id": 1174076303,
+      "listed_at": "2025-02-16T04:14:41.000Z",
+      "notes": null
     },
     {
-      "rank": 2,
-      "id": 1174075727,
-      "listed_at": "2025-02-16T04:11:19.000Z",
-      "notes": null,
       "type": "show",
       "show": {
         "ids": {
@@ -153,7 +150,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2804,
+        "votes": 2805,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -185,7 +182,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.817760467529297,
+        "rating": 5.818538188934326,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -203,7 +200,7 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-04-06T15:58:19.000Z",
+        "updated_at": "2026-04-07T15:40:18.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -244,13 +241,13 @@
           "vi",
           "zh"
         ]
-      }
+      },
+      "rank": 2,
+      "id": 1174075727,
+      "listed_at": "2025-02-16T04:11:19.000Z",
+      "notes": null
     },
     {
-      "rank": 4,
-      "id": 1174076306,
-      "listed_at": "2025-02-16T04:14:44.000Z",
-      "notes": null,
       "type": "movie",
       "movie": {
         "ids": {
@@ -325,13 +322,13 @@
           "uk",
           "zh"
         ]
-      }
+      },
+      "rank": 5,
+      "id": 1174076306,
+      "listed_at": "2025-02-16T04:14:44.000Z",
+      "notes": null
     },
     {
-      "rank": 6,
-      "id": 1174076317,
-      "listed_at": "2025-02-16T04:14:59.000Z",
-      "notes": null,
       "type": "movie",
       "movie": {
         "ids": {
@@ -393,7 +390,7 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-04-05T08:48:00.000Z",
+        "updated_at": "2026-04-07T08:43:24.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -425,13 +422,13 @@
           "vi",
           "zh"
         ]
-      }
+      },
+      "rank": 8,
+      "id": 1174076317,
+      "listed_at": "2025-02-16T04:14:59.000Z",
+      "notes": null
     },
     {
-      "rank": 5,
-      "id": 1174076315,
-      "listed_at": "2025-02-16T04:14:54.000Z",
-      "notes": null,
       "type": "movie",
       "movie": {
         "ids": {
@@ -506,13 +503,13 @@
           "uk",
           "zh"
         ]
-      }
+      },
+      "rank": 7,
+      "id": 1174076315,
+      "listed_at": "2025-02-16T04:14:54.000Z",
+      "notes": null
     },
     {
-      "rank": 10,
-      "id": 1285064667,
-      "listed_at": "2025-07-22T20:05:17.000Z",
-      "notes": null,
       "type": "movie",
       "movie": {
         "ids": {
@@ -536,7 +533,7 @@
         },
         "genres": [
           "science-fiction",
-          "action"
+          "adventure"
         ],
         "images": {
           "logo": [
@@ -555,7 +552,7 @@
         "rating": 7.906976699829102,
         "status": "post production",
         "country": "us",
-        "runtime": null,
+        "runtime": 140,
         "tagline": "The epic conclusion.",
         "trailer": "https://youtube.com/watch?v=3_9vCamtuPY",
         "homepage": "https://www.dunemovie.com",
@@ -566,15 +563,17 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-04-05T08:27:46.000Z",
+        "updated_at": "2026-04-07T08:32:13.000Z",
         "after_credits": false,
-        "certification": null,
+        "certification": "PG-13",
         "comment_count": 3,
         "during_credits": false,
         "original_title": "Dune: Part Three",
         "available_translations": [
+          "ar",
           "bg",
           "cs",
+          "da",
           "de",
           "en",
           "es",
@@ -599,13 +598,13 @@
           "vi",
           "zh"
         ]
-      }
+      },
+      "rank": 19,
+      "id": 1285064667,
+      "listed_at": "2025-07-22T20:05:17.000Z",
+      "notes": null
     },
     {
-      "rank": 7,
-      "id": 1174076320,
-      "listed_at": "2025-02-16T04:15:03.000Z",
-      "notes": null,
       "type": "movie",
       "movie": {
         "ids": {
@@ -666,7 +665,7 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-04-05T08:27:03.000Z",
+        "updated_at": "2026-04-07T08:32:04.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -684,13 +683,13 @@
           "vi",
           "zh"
         ]
-      }
+      },
+      "rank": 9,
+      "id": 1174076320,
+      "listed_at": "2025-02-16T04:15:03.000Z",
+      "notes": null
     },
     {
-      "rank": 9,
-      "id": 1210621808,
-      "listed_at": "2025-04-14T10:15:39.000Z",
-      "notes": null,
       "type": "movie",
       "movie": {
         "ids": {
@@ -755,13 +754,13 @@
           "ko",
           "ru"
         ]
-      }
+      },
+      "rank": 16,
+      "id": 1210621808,
+      "listed_at": "2025-04-14T10:15:39.000Z",
+      "notes": null
     },
     {
-      "rank": 1,
-      "id": 1173832904,
-      "listed_at": "2025-02-15T16:49:19.000Z",
-      "notes": null,
       "type": "movie",
       "movie": {
         "ids": {
@@ -817,13 +816,13 @@
           "en",
           "vi"
         ]
-      }
+      },
+      "rank": 1,
+      "id": 1173832904,
+      "listed_at": "2025-02-15T16:49:19.000Z",
+      "notes": null
     },
     {
-      "rank": 8,
-      "id": 1205938473,
-      "listed_at": "2025-04-03T16:21:59.000Z",
-      "notes": null,
       "type": "movie",
       "movie": {
         "ids": {
@@ -880,7 +879,11 @@
           "ko",
           "zh"
         ]
-      }
+      },
+      "rank": 15,
+      "id": 1205938473,
+      "listed_at": "2025-04-03T16:21:59.000Z",
+      "notes": null
     }
   ]
 }
