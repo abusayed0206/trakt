@@ -1,12 +1,132 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-08T06:56:09.395653+00:00",
+    "fetched_at": "2026-04-09T06:58:51.955676+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12177944454,
+      "watched_at": "2026-04-08T22:41:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 4,
+        "title": "Gloves Off",
+        "ids": {
+          "trakt": 13891098,
+          "tvdb": 11580809,
+          "imdb": "tt21357500",
+          "tmdb": 6825660,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Daredevil: Born Again",
+        "year": 2025,
+        "ids": {
+          "trakt": 195845,
+          "slug": "daredevil-born-again",
+          "tvdb": 422712,
+          "imdb": "tt18923754",
+          "tmdb": 202555,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12177827451,
+      "watched_at": "2026-04-08T21:49:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 3,
+        "title": "The Scales & the Sword",
+        "ids": {
+          "trakt": 13891096,
+          "tvdb": 11580808,
+          "imdb": "tt21357496",
+          "tmdb": 6825659,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Daredevil: Born Again",
+        "year": 2025,
+        "ids": {
+          "trakt": 195845,
+          "slug": "daredevil-born-again",
+          "tvdb": 422712,
+          "imdb": "tt18923754",
+          "tmdb": 202555,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12177756826,
+      "watched_at": "2026-04-08T21:05:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 2,
+        "title": "Shoot the Moon",
+        "ids": {
+          "trakt": 13891095,
+          "tvdb": 11580807,
+          "imdb": "tt21357494",
+          "tmdb": 6825658,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Daredevil: Born Again",
+        "year": 2025,
+        "ids": {
+          "trakt": 195845,
+          "slug": "daredevil-born-again",
+          "tvdb": 422712,
+          "imdb": "tt18923754",
+          "tmdb": 202555,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12177651910,
+      "watched_at": "2026-04-08T20:05:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 1,
+        "title": "The Northern Star",
+        "ids": {
+          "trakt": 13705270,
+          "tvdb": 11397847,
+          "imdb": "tt21357492",
+          "tmdb": 6670286,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Daredevil: Born Again",
+        "year": 2025,
+        "ids": {
+          "trakt": 195845,
+          "slug": "daredevil-born-again",
+          "tvdb": 422712,
+          "imdb": "tt18923754",
+          "tmdb": 202555,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12169690709,
       "watched_at": "2026-04-05T17:01:00.000Z",
@@ -171,126 +291,6 @@
           "tvdb": 444956,
           "imdb": "tt1256098",
           "tmdb": 282814,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12169690702,
-      "watched_at": "2026-04-05T17:01:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 20,
-        "title": "Conflicted",
-        "ids": {
-          "trakt": 291487,
-          "tvdb": 440560,
-          "imdb": "tt1256097",
-          "tmdb": 282802,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12169690700,
-      "watched_at": "2026-04-05T17:01:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 19,
-        "title": "House on Fire",
-        "ids": {
-          "trakt": 291486,
-          "tvdb": 440559,
-          "imdb": "tt1256095",
-          "tmdb": 282800,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12169690699,
-      "watched_at": "2026-04-05T17:01:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 18,
-        "title": "Omnivore",
-        "ids": {
-          "trakt": 291485,
-          "tvdb": 420702,
-          "imdb": "tt1256094",
-          "tmdb": 282796,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12169690698,
-      "watched_at": "2026-04-05T17:01:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 17,
-        "title": "Demonology",
-        "ids": {
-          "trakt": 291484,
-          "tvdb": 420701,
-          "imdb": "tt1256093",
-          "tmdb": 282787,
           "tvrage": null
         }
       },

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-08T06:56:11.151454+00:00",
+    "fetched_at": "2026-04-09T06:58:55.811216+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -28,7 +28,7 @@
         },
         "year": 2010,
         "title": "The Walking Dead",
-        "votes": 71408,
+        "votes": 71412,
         "colors": {
           "poster": [
             "#ABA579",
@@ -62,14 +62,14 @@
             "media.trakt.tv/images/shows/000/001/393/cleararts/medium/67608bba51.png.webp"
           ]
         },
-        "rating": 7.889466285705566,
+        "rating": 7.889626502990723,
         "status": "ended",
         "country": "us",
         "network": "AMC",
         "runtime": 45,
         "tagline": "Fight the dead. Fear the living.",
         "trailer": null,
-        "homepage": "http://www.amc.com/shows/the-walking-dead--1002293",
+        "homepage": "https://www.amc.com/shows/the-walking-dead--1002293",
         "language": "en",
         "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
         "languages": [
@@ -82,7 +82,13 @@
           "based-on-graphic-novel",
           "gore"
         ],
-        "updated_at": "2026-04-08T06:09:25.000Z",
+        "social_ids": {
+          "twitter": "WalkingDead_AMC",
+          "facebook": "TheWalkingDeadAMC",
+          "instagram": "amcthewalkingdead",
+          "wikipedia": "The_Walking_Dead_(TV_series)"
+        },
+        "updated_at": "2026-04-09T06:07:59.000Z",
         "first_aired": "2010-11-01T01:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 372,
@@ -161,7 +167,7 @@
         },
         "year": 2007,
         "title": "The Big Bang Theory",
-        "votes": 65168,
+        "votes": 65178,
         "colors": {
           "poster": [
             "#B89F8F",
@@ -191,14 +197,14 @@
             "media.trakt.tv/images/shows/000/001/409/cleararts/medium/f96dc7ae79.png.webp"
           ]
         },
-        "rating": 7.856478691101074,
+        "rating": 7.856730937957764,
         "status": "ended",
         "country": "us",
         "network": "CBS",
         "runtime": 22,
         "tagline": "Smart is the new sexy.",
         "trailer": null,
-        "homepage": "http://www.cbs.com/shows/big_bang_theory/",
+        "homepage": "https://www.cbs.com/shows/big_bang_theory/",
         "language": "en",
         "overview": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door.",
         "languages": [
@@ -209,7 +215,13 @@
           "sitcom",
           "scientist"
         ],
-        "updated_at": "2026-04-08T06:09:28.000Z",
+        "social_ids": {
+          "twitter": "bigbangtheory",
+          "facebook": "TheBigBangTheory",
+          "instagram": "bigbangtheory_cbs",
+          "wikipedia": "The_Big_Bang_Theory"
+        },
+        "updated_at": "2026-04-09T06:09:39.000Z",
         "first_aired": "2007-09-25T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 268,
@@ -285,7 +297,7 @@
         },
         "year": 1994,
         "title": "Friends",
-        "votes": 48688,
+        "votes": 48698,
         "colors": {
           "poster": [
             "#BB9782",
@@ -315,7 +327,7 @@
             "media.trakt.tv/images/shows/000/001/657/cleararts/medium/279f666cf5.png.webp"
           ]
         },
-        "rating": 8.413859367370605,
+        "rating": 8.413877487182617,
         "status": "ended",
         "country": "us",
         "network": "NBC",
@@ -334,7 +346,13 @@
           "searching-for-love",
           "young-adult"
         ],
-        "updated_at": "2026-04-07T15:59:29.000Z",
+        "social_ids": {
+          "twitter": "FriendsTV",
+          "facebook": "friends.tv",
+          "instagram": "friends",
+          "wikipedia": "Friends"
+        },
+        "updated_at": "2026-04-08T15:20:41.000Z",
         "first_aired": "1994-09-23T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 106,
@@ -412,7 +430,7 @@
         },
         "year": 2004,
         "title": "Lost",
-        "votes": 37983,
+        "votes": 37991,
         "colors": {
           "poster": [
             "#7EB1AE",
@@ -445,14 +463,14 @@
             "media.trakt.tv/images/shows/000/004/583/cleararts/medium/f61af09aaf.png.webp"
           ]
         },
-        "rating": 8.07943058013916,
+        "rating": 8.07930850982666,
         "status": "ended",
         "country": "us",
         "network": "ABC",
         "runtime": 45,
         "tagline": "Everything happens for a reason.",
         "trailer": "https://youtube.com/watch?v=KTu8iDynwNc",
-        "homepage": "http://abc.go.com/shows/lost",
+        "homepage": "https://abc.go.com/shows/lost",
         "language": "en",
         "overview": "Stripped of everything, the survivors of a horrific plane crash  must work together to stay alive. But the island holds many secrets.",
         "languages": [
@@ -461,7 +479,13 @@
         "subgenres": [
           "island"
         ],
-        "updated_at": "2026-04-07T15:46:26.000Z",
+        "social_ids": {
+          "twitter": "Lost_on_ABC",
+          "facebook": "LOST",
+          "instagram": null,
+          "wikipedia": "Lost_(TV_series)"
+        },
+        "updated_at": "2026-04-08T15:01:50.000Z",
         "first_aired": "2004-09-23T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 173,
@@ -534,7 +558,7 @@
         },
         "year": 2005,
         "title": "The Office",
-        "votes": 36400,
+        "votes": 36408,
         "colors": {
           "poster": [
             "#E7E6E6",
@@ -564,7 +588,7 @@
             "media.trakt.tv/images/shows/000/002/302/cleararts/medium/c9a0c0c65a.png.webp"
           ]
         },
-        "rating": 8.638846397399902,
+        "rating": 8.639118194580078,
         "status": "ended",
         "country": "us",
         "network": "NBC",
@@ -585,7 +609,13 @@
           "workplace-comedy",
           "office"
         ],
-        "updated_at": "2026-04-07T15:30:31.000Z",
+        "social_ids": {
+          "twitter": "theofficetv",
+          "facebook": "TheOfficeTV",
+          "instagram": "theoffice",
+          "wikipedia": "The_Office_(American_TV_series)"
+        },
+        "updated_at": "2026-04-08T15:16:11.000Z",
         "first_aired": "2005-03-24T22:30:00.000Z",
         "certification": "TV-14",
         "comment_count": 132,
@@ -660,7 +690,7 @@
         },
         "year": 2012,
         "title": "Arrow",
-        "votes": 33831,
+        "votes": 33834,
         "colors": {
           "poster": [
             "#C8CBC4",
@@ -694,14 +724,14 @@
             "media.trakt.tv/images/shows/000/001/403/cleararts/medium/b859003114.png.webp"
           ]
         },
-        "rating": 7.461558818817139,
+        "rating": 7.461636066436768,
         "status": "ended",
         "country": "us",
         "network": "The CW",
         "runtime": 40,
         "tagline": "Heroes fall. Legends rise.",
         "trailer": "https://youtube.com/watch?v=QLVHmovfMQI",
-        "homepage": "http://www.cwtv.com/shows/arrow",
+        "homepage": "https://www.cwtv.com/shows/arrow",
         "language": "en",
         "overview": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
         "languages": [
@@ -711,7 +741,13 @@
           "based-on-comic",
           "superhero-team"
         ],
-        "updated_at": "2026-04-07T06:59:21.000Z",
+        "social_ids": {
+          "twitter": "CW_Arrow",
+          "facebook": "CWArrow",
+          "instagram": "cw_arrow",
+          "wikipedia": "Arrow_(TV_series)"
+        },
+        "updated_at": "2026-04-08T07:02:31.000Z",
         "first_aired": "2012-10-11T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 212,
@@ -785,7 +821,7 @@
         },
         "year": 2013,
         "title": "Brooklyn Nine-Nine",
-        "votes": 30406,
+        "votes": 30416,
         "colors": {
           "poster": [
             "#B4B38C",
@@ -816,7 +852,7 @@
             "media.trakt.tv/images/shows/000/048/587/cleararts/medium/772956fa23.png.webp"
           ]
         },
-        "rating": 8.377359390258789,
+        "rating": 8.377532005310059,
         "status": "ended",
         "country": "us",
         "network": "FOX",
@@ -837,7 +873,13 @@
           "workplace-comedy",
           "brooklyn-new-york-city"
         ],
-        "updated_at": "2026-04-08T06:50:04.000Z",
+        "social_ids": {
+          "twitter": "brooklyn99",
+          "facebook": "BrooklynNineNine",
+          "instagram": "brooklyn99",
+          "wikipedia": "Brooklyn_Nine-Nine"
+        },
+        "updated_at": "2026-04-09T06:52:46.000Z",
         "first_aired": "2013-09-18T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 103,
@@ -908,7 +950,7 @@
         },
         "year": 2011,
         "title": "Suits",
-        "votes": 28670,
+        "votes": 28675,
         "colors": {
           "poster": [
             "#EAEBEB",
@@ -938,14 +980,14 @@
             "media.trakt.tv/images/shows/000/037/522/cleararts/medium/14babfb15f.png.webp"
           ]
         },
-        "rating": 8.322532653808594,
+        "rating": 8.322754859924316,
         "status": "ended",
         "country": "us",
         "network": "USA Network",
         "runtime": 42,
         "tagline": "Two lawyers. One degree.",
         "trailer": "https://youtube.com/watch?v=cUnkjEIW2-o",
-        "homepage": "http://www.usanetwork.com/suits",
+        "homepage": "https://www.usanetwork.com/suits",
         "language": "en",
         "overview": "While running from a drug deal gone bad, Mike Ross, a brilliant young college-dropout, slips into a job interview with one of New York City's best legal closers, Harvey Specter. Tired of cookie-cutter law school grads, Harvey takes a gamble by hiring Mike on the spot after he recognizes his raw talent and photographic memory.",
         "languages": [
@@ -954,7 +996,13 @@
         "subgenres": [
           "lawyer"
         ],
-        "updated_at": "2026-04-07T08:51:38.000Z",
+        "social_ids": {
+          "twitter": "SuitsPeacock",
+          "facebook": "SuitsPeacock",
+          "instagram": "suitspeacock",
+          "wikipedia": "Suits_(American_TV_series)"
+        },
+        "updated_at": "2026-04-08T09:13:00.000Z",
         "first_aired": "2011-06-24T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 134,
@@ -1024,7 +1072,7 @@
         },
         "year": 2019,
         "title": "The Witcher",
-        "votes": 26407,
+        "votes": 26413,
         "colors": {
           "poster": [
             "#B37A59",
@@ -1057,7 +1105,7 @@
             "media.trakt.tv/images/shows/000/138/163/cleararts/medium/0c51489b9f.png.webp"
           ]
         },
-        "rating": 7.726398468017578,
+        "rating": 7.72581672668457,
         "status": "returning series",
         "country": "us",
         "network": "Netflix",
@@ -1078,7 +1126,13 @@
           "mutant",
           "mutation"
         ],
-        "updated_at": "2026-04-07T09:39:04.000Z",
+        "social_ids": {
+          "twitter": "witchernetflix",
+          "facebook": "witchernetflix",
+          "instagram": "witchernetflix",
+          "wikipedia": "The_Witcher_(TV_series)"
+        },
+        "updated_at": "2026-04-08T11:10:37.000Z",
         "first_aired": "2019-12-20T08:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 142,
@@ -1155,7 +1209,7 @@
         },
         "year": 2013,
         "title": "Marvel's Agents of S.H.I.E.L.D.",
-        "votes": 21351,
+        "votes": 21353,
         "colors": {
           "poster": [
             "#E0B47B",
@@ -1190,7 +1244,7 @@
             "media.trakt.tv/images/shows/000/001/394/cleararts/medium/a384583c46.png.webp"
           ]
         },
-        "rating": 7.759027481079102,
+        "rating": 7.758956432342529,
         "status": "ended",
         "country": "us",
         "network": "ABC",
@@ -1207,7 +1261,13 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-04-08T06:05:09.000Z",
+        "social_ids": {
+          "twitter": "AgentsofSHIELD",
+          "facebook": "AgentsofShield",
+          "instagram": "agentsofshield",
+          "wikipedia": "Agents_of_S.H.I.E.L.D."
+        },
+        "updated_at": "2026-04-09T06:05:12.000Z",
         "first_aired": "2013-09-25T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 137,
@@ -1281,7 +1341,7 @@
         },
         "year": 2005,
         "title": "Doctor Who",
-        "votes": 19804,
+        "votes": 19805,
         "colors": {
           "poster": [
             "#67899C",
@@ -1314,14 +1374,14 @@
             "media.trakt.tv/images/shows/000/056/872/cleararts/medium/9ee95ac313.png.webp"
           ]
         },
-        "rating": 8.638860702514648,
+        "rating": 8.638273239135742,
         "status": "ended",
         "country": "gb",
         "network": "BBC One",
         "runtime": 50,
         "tagline": "Space. For all.",
         "trailer": "https://youtube.com/watch?v=2V_xYubUJFo",
-        "homepage": "http://www.bbc.co.uk/programmes/b006q2x0",
+        "homepage": "https://www.bbc.co.uk/programmes/b006q2x0",
         "language": "en",
         "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
         "languages": [
@@ -1331,7 +1391,13 @@
           "time-travel",
           "alien"
         ],
-        "updated_at": "2026-04-08T06:15:40.000Z",
+        "social_ids": {
+          "twitter": "bbcdoctorwho",
+          "facebook": "DoctorWho",
+          "instagram": "bbcdoctorwho",
+          "wikipedia": null
+        },
+        "updated_at": "2026-04-09T06:14:43.000Z",
         "first_aired": "2005-03-26T18:30:00.000Z",
         "certification": "TV-PG",
         "comment_count": 184,
@@ -1404,7 +1470,7 @@
         },
         "year": 2001,
         "title": "Band of Brothers",
-        "votes": 19248,
+        "votes": 19252,
         "colors": {
           "poster": [
             "#BEBBB2",
@@ -1435,7 +1501,7 @@
             "media.trakt.tv/images/shows/000/004/589/cleararts/medium/868fb6f529.png.webp"
           ]
         },
-        "rating": 9.173005104064941,
+        "rating": 9.173072814941406,
         "status": "ended",
         "country": "us",
         "network": "HBO",
@@ -1461,7 +1527,13 @@
           "combat",
           "us-army"
         ],
-        "updated_at": "2026-04-07T06:55:29.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": "bandofbrothers",
+          "instagram": null,
+          "wikipedia": "Band_of_Brothers_(miniseries)"
+        },
+        "updated_at": "2026-04-08T06:58:09.000Z",
         "first_aired": "2001-09-10T00:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 59,
@@ -1537,7 +1609,7 @@
         },
         "year": 1999,
         "title": "The Sopranos",
-        "votes": 19087,
+        "votes": 19093,
         "colors": {
           "poster": [
             "#D5B6AD",
@@ -1568,7 +1640,7 @@
             "media.trakt.tv/images/shows/000/001/389/cleararts/medium/0ffd7060d4.png.webp"
           ]
         },
-        "rating": 9.111227989196777,
+        "rating": 9.111297607421875,
         "status": "ended",
         "country": "us",
         "network": "HBO",
@@ -1588,7 +1660,13 @@
           "drug-dealer",
           "mafia"
         ],
-        "updated_at": "2026-04-07T15:31:42.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": "TheSopranos",
+          "instagram": null,
+          "wikipedia": "The_Sopranos"
+        },
+        "updated_at": "2026-04-08T15:19:28.000Z",
         "first_aired": "1999-01-11T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 83,
@@ -1661,7 +1739,7 @@
         },
         "year": 2014,
         "title": "Fargo",
-        "votes": 17933,
+        "votes": 17934,
         "colors": {
           "poster": [
             "#94978D",
@@ -1692,14 +1770,14 @@
             "media.trakt.tv/images/shows/000/060/203/cleararts/medium/e715b231ec.png.webp"
           ]
         },
-        "rating": 8.578319549560547,
+        "rating": 8.578398704528809,
         "status": "returning series",
         "country": "us",
         "network": "FX",
         "runtime": 50,
         "tagline": "Consequence comes knocking.",
         "trailer": "https://youtube.com/watch?v=FXIeYKlMA_0",
-        "homepage": "http://www.fxnetworks.com/fargo",
+        "homepage": "https://www.fxnetworks.com/fargo",
         "language": "en",
         "overview": "A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota.",
         "languages": [
@@ -1716,7 +1794,13 @@
           "violence",
           "police-officer"
         ],
-        "updated_at": "2026-04-08T06:18:48.000Z",
+        "social_ids": {
+          "twitter": "FargoFX",
+          "facebook": "FargoFX",
+          "instagram": "fargo",
+          "wikipedia": "Fargo_(TV_series)"
+        },
+        "updated_at": "2026-04-09T06:18:43.000Z",
         "first_aired": "2014-04-16T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 77,
@@ -1792,7 +1876,7 @@
         },
         "year": 2009,
         "title": "The Vampire Diaries",
-        "votes": 17348,
+        "votes": 17352,
         "colors": {
           "poster": [
             "#B7ACA8",
@@ -1823,14 +1907,14 @@
             "media.trakt.tv/images/shows/000/018/083/cleararts/medium/87fb4a7e5d.png.webp"
           ]
         },
-        "rating": 7.848224639892578,
+        "rating": 7.84854793548584,
         "status": "ended",
         "country": "us",
         "network": "The CW",
         "runtime": 43,
         "tagline": "You remember your first kiss forever... and ever.",
         "trailer": "https://youtube.com/watch?v=RO3Qp_XdR0w",
-        "homepage": "http://www.cwtv.com/shows/the-vampire-diaries",
+        "homepage": "https://www.cwtv.com/shows/the-vampire-diaries",
         "language": "en",
         "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
         "languages": [
@@ -1844,7 +1928,13 @@
           "interspecies-romance",
           "werewolf"
         ],
-        "updated_at": "2026-04-07T15:59:12.000Z",
+        "social_ids": {
+          "twitter": "cwtvd",
+          "facebook": "thevampirediaries",
+          "instagram": "thecwtvd",
+          "wikipedia": "The_Vampire_Diaries"
+        },
+        "updated_at": "2026-04-08T15:20:24.000Z",
         "first_aired": "2009-09-11T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 120,
@@ -1967,7 +2057,13 @@
           "medical-drama",
           "trauma"
         ],
-        "updated_at": "2026-04-07T15:42:59.000Z",
+        "social_ids": {
+          "twitter": "GreysABC",
+          "facebook": "GreysAnatomy",
+          "instagram": "greysabc",
+          "wikipedia": "Grey's_Anatomy"
+        },
+        "updated_at": "2026-04-08T16:01:58.000Z",
         "first_aired": "2005-03-28T03:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 94,
@@ -2048,7 +2144,7 @@
         },
         "year": 2014,
         "title": "Gotham",
-        "votes": 16751,
+        "votes": 16752,
         "colors": {
           "poster": [
             "#A8A9AF",
@@ -2083,14 +2179,14 @@
             "media.trakt.tv/images/shows/000/060/278/cleararts/medium/9031f1d14b.png.webp"
           ]
         },
-        "rating": 7.689451217651367,
+        "rating": 7.689469814300537,
         "status": "ended",
         "country": "us",
         "network": "FOX",
         "runtime": 43,
         "tagline": "Before Batman, there was Gotham.",
         "trailer": "https://youtube.com/watch?v=0d1zpt6k5OI",
-        "homepage": "http://www.fox.com/gotham/",
+        "homepage": "https://www.fox.com/gotham/",
         "language": "en",
         "overview": "Everyone knows the name Commissioner Gordon. He is one of the crime world's greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon's story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world's most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?",
         "languages": [
@@ -2101,7 +2197,13 @@
           "based-on-comic",
           "super-villain"
         ],
-        "updated_at": "2026-04-07T07:28:31.000Z",
+        "social_ids": {
+          "twitter": "Gotham",
+          "facebook": "GOTHAMonFOX",
+          "instagram": "gothamonfox",
+          "wikipedia": null
+        },
+        "updated_at": "2026-04-08T07:06:10.000Z",
         "first_aired": "2014-09-23T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 112,
@@ -2176,7 +2278,7 @@
         },
         "year": 2004,
         "title": "Battlestar Galactica",
-        "votes": 15076,
+        "votes": 15079,
         "colors": {
           "poster": [
             "#AAA0A9",
@@ -2210,7 +2312,7 @@
             "media.trakt.tv/images/shows/000/001/959/cleararts/medium/14bf078155.png.webp"
           ]
         },
-        "rating": 8.790660858154297,
+        "rating": 8.7908353805542,
         "status": "ended",
         "country": "ca",
         "network": "Syfy",
@@ -2233,7 +2335,13 @@
           "spacecraft",
           "inspirational"
         ],
-        "updated_at": "2026-04-08T06:15:59.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": "null",
+          "instagram": null,
+          "wikipedia": "Battlestar_Galactica_(2004_TV_series)"
+        },
+        "updated_at": "2026-04-09T06:15:40.000Z",
         "first_aired": "2004-10-19T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 60,
@@ -2301,7 +2409,7 @@
         },
         "year": 1993,
         "title": "The X-Files",
-        "votes": 14014,
+        "votes": 14015,
         "colors": {
           "poster": [
             "#84A0A9",
@@ -2334,14 +2442,14 @@
             "media.trakt.tv/images/shows/000/004/063/cleararts/medium/a4a0db2c8d.png.webp"
           ]
         },
-        "rating": 8.462965965270996,
+        "rating": 8.463075637817383,
         "status": "ended",
         "country": "us",
         "network": "FOX",
         "runtime": 45,
         "tagline": "The truth is out there.",
         "trailer": "https://youtube.com/watch?v=_HTByz4RlqI",
-        "homepage": "http://www.fox.com/the-x-files",
+        "homepage": "https://www.fox.com/the-x-files",
         "language": "en",
         "overview": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
         "languages": [
@@ -2358,7 +2466,13 @@
           "paranormal-phenomena",
           "alien"
         ],
-        "updated_at": "2026-04-07T07:45:33.000Z",
+        "social_ids": {
+          "twitter": "thexfiles",
+          "facebook": "thexfilesonfox",
+          "instagram": "thexfilesfox",
+          "wikipedia": "The_X-Files"
+        },
+        "updated_at": "2026-04-08T07:21:56.000Z",
         "first_aired": "1993-09-11T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 48,
@@ -2430,7 +2544,7 @@
         },
         "year": 2012,
         "title": "Elementary",
-        "votes": 13110,
+        "votes": 13115,
         "colors": {
           "poster": [
             "#D1D3D7",
@@ -2462,14 +2576,14 @@
             "media.trakt.tv/images/shows/000/001/406/cleararts/medium/1db9d39b77.png.webp"
           ]
         },
-        "rating": 7.941418647766113,
+        "rating": 7.941517353057861,
         "status": "ended",
         "country": "us",
         "network": "CBS",
         "runtime": 43,
         "tagline": "New Holmes. New Watson. New York.",
         "trailer": "https://youtube.com/watch?v=ff-XiZzJLxw",
-        "homepage": "http://www.cbs.com/shows/elementary/",
+        "homepage": "https://www.cbs.com/shows/elementary/",
         "language": "en",
         "overview": "A modern-day drama about a crime-solving duo that cracks the NYPD's most impossible cases. Following his fall from grace in London and a stint in rehab, eccentric Sherlock escapes to Manhattan where his wealthy father forces him to live with his worst nightmare - a sober companion, Dr. Watson.",
         "languages": [
@@ -2479,7 +2593,13 @@
           "detective",
           "investigation"
         ],
-        "updated_at": "2026-04-08T06:11:40.000Z",
+        "social_ids": {
+          "twitter": "Elementary_CBS",
+          "facebook": "ElementaryCBS",
+          "instagram": "Elementaryofficial",
+          "wikipedia": "Elementary_(TV_series)"
+        },
+        "updated_at": "2026-04-09T06:11:42.000Z",
         "first_aired": "2012-09-28T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 87,
@@ -2548,7 +2668,7 @@
         },
         "year": 2001,
         "title": "24",
-        "votes": 12612,
+        "votes": 12616,
         "colors": {
           "poster": [
             "#ADAA9F",
@@ -2581,14 +2701,14 @@
             "media.trakt.tv/images/shows/000/001/960/cleararts/medium/d09f1bc368.png.webp"
           ]
         },
-        "rating": 8.16294002532959,
+        "rating": 8.16336441040039,
         "status": "ended",
         "country": "us",
         "network": "FOX",
         "runtime": 45,
         "tagline": "A lot can happen in a day.",
         "trailer": "https://youtube.com/watch?v=kyWafhzs6zw",
-        "homepage": "http://www.fox.com/24-live-another-day",
+        "homepage": "https://www.fox.com/24-live-another-day",
         "language": "en",
         "overview": "Counterterrorism agent Jack Bauer fights the bad guys of the world, a day at a time. With each week's episode unfolding in real-time, \"24\" covers a single day in the life of Bauer each season.",
         "languages": [
@@ -2598,7 +2718,13 @@
           "revenge",
           "political-intrigue"
         ],
-        "updated_at": "2026-04-08T06:20:21.000Z",
+        "social_ids": {
+          "twitter": "null",
+          "facebook": "null",
+          "instagram": null,
+          "wikipedia": "24_(TV_series)"
+        },
+        "updated_at": "2026-04-09T06:20:42.000Z",
         "first_aired": "2001-11-07T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 69,
@@ -2666,7 +2792,7 @@
         },
         "year": 2018,
         "title": "Succession",
-        "votes": 12549,
+        "votes": 12555,
         "colors": {
           "poster": [
             "#849AB0",
@@ -2697,7 +2823,7 @@
             "media.trakt.tv/images/shows/000/125/479/cleararts/medium/290848733d.png.webp"
           ]
         },
-        "rating": 8.653996467590332,
+        "rating": 8.65368366241455,
         "status": "ended",
         "country": "us",
         "network": "HBO",
@@ -2714,7 +2840,13 @@
           "dysfunctional-family",
           "sibling-relationship"
         ],
-        "updated_at": "2026-04-07T15:34:17.000Z",
+        "social_ids": {
+          "twitter": "succession",
+          "facebook": "SuccessionHBO",
+          "instagram": "succession",
+          "wikipedia": "Succession_(TV_series)"
+        },
+        "updated_at": "2026-04-08T15:02:56.000Z",
         "first_aired": "2018-06-04T01:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 81,
@@ -2787,7 +2919,7 @@
         },
         "year": 2010,
         "title": "Spartacus",
-        "votes": 12391,
+        "votes": 12394,
         "colors": {
           "poster": [
             "#D3BCA8",
@@ -2817,14 +2949,14 @@
             "media.trakt.tv/images/shows/000/046/038/cleararts/medium/240e607f71.png.webp"
           ]
         },
-        "rating": 8.387619972229004,
+        "rating": 8.387768745422363,
         "status": "ended",
         "country": "us",
         "network": "STARZ",
         "runtime": 53,
         "tagline": "",
         "trailer": "https://youtube.com/watch?v=4WXDJPaHuR4",
-        "homepage": "http://www.starz.com/originals/spartacus",
+        "homepage": "https://www.starz.com/originals/spartacus",
         "language": "en",
         "overview": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment.",
         "languages": [
@@ -2833,7 +2965,13 @@
         "subgenres": [
           "ancient-rome"
         ],
-        "updated_at": "2026-04-07T07:53:08.000Z",
+        "social_ids": {
+          "twitter": "null",
+          "facebook": "null",
+          "instagram": null,
+          "wikipedia": "Spartacus_(TV_series)"
+        },
+        "updated_at": "2026-04-08T07:59:11.000Z",
         "first_aired": "2010-01-23T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 64,
@@ -2902,7 +3040,7 @@
         },
         "year": 2009,
         "title": "Castle",
-        "votes": 12069,
+        "votes": 12070,
         "colors": {
           "poster": [
             "#BCA593",
@@ -2933,7 +3071,7 @@
             "media.trakt.tv/images/shows/000/001/410/cleararts/medium/2848c06ea9.png.webp"
           ]
         },
-        "rating": 8.12519645690918,
+        "rating": 8.125351905822754,
         "status": "canceled",
         "country": "us",
         "network": "ABC",
@@ -2955,7 +3093,13 @@
           "police-procedural",
           "writer"
         ],
-        "updated_at": "2026-04-08T06:50:33.000Z",
+        "social_ids": {
+          "twitter": "Castle_ABC",
+          "facebook": "Castle",
+          "instagram": "abccastle",
+          "wikipedia": "Castle_(TV_series)"
+        },
+        "updated_at": "2026-04-09T06:51:39.000Z",
         "first_aired": "2009-03-10T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 68,
@@ -3024,7 +3168,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "votes": 10641,
+        "votes": 10643,
         "colors": {
           "poster": [
             "#D4BEB1",
@@ -3056,7 +3200,7 @@
             "media.trakt.tv/images/shows/000/004/033/cleararts/medium/f7dde58ac2.PNG.webp"
           ]
         },
-        "rating": 8.176111221313477,
+        "rating": 8.176453590393066,
         "status": "returning series",
         "country": "us",
         "network": "Paramount+",
@@ -3075,7 +3219,13 @@
           "police-procedural",
           "suspenseful"
         ],
-        "updated_at": "2026-04-08T06:20:45.000Z",
+        "social_ids": {
+          "twitter": "criminalminds",
+          "facebook": "CriminalMinds",
+          "instagram": "criminalminds",
+          "wikipedia": "Criminal_Minds"
+        },
+        "updated_at": "2026-04-09T06:20:36.000Z",
         "first_aired": "2005-09-22T04:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 56,
@@ -3148,7 +3298,7 @@
         },
         "year": 2013,
         "title": "The Americans",
-        "votes": 10038,
+        "votes": 10041,
         "colors": {
           "poster": [
             "#9D6A5C",
@@ -3179,14 +3329,14 @@
             "media.trakt.tv/images/shows/000/046/263/cleararts/medium/43c8cac14b.png.webp"
           ]
         },
-        "rating": 8.337018966674805,
+        "rating": 8.337515830993652,
         "status": "ended",
         "country": "us",
         "network": "FX",
         "runtime": 50,
         "tagline": "All's fair in love and cold war.",
         "trailer": "https://youtube.com/watch?v=wt7NPuabEgQ",
-        "homepage": "http://www.fxnetworks.com/shows/the-americans",
+        "homepage": "https://www.fxnetworks.com/shows/the-americans",
         "language": "en",
         "overview": "Set during the Cold War period in the 1980s, The Americans is the story of Elizabeth and Philip Jennings, two Soviet KGB officers posing as an American married couple in the suburbs of Washington D.C. and their neighbor, Stan Beeman, an FBI Counterintelligence agent.",
         "languages": [
@@ -3202,7 +3352,13 @@
           "dramatic",
           "cold-war"
         ],
-        "updated_at": "2026-04-08T06:50:22.000Z",
+        "social_ids": {
+          "twitter": "TheAmericansFX",
+          "facebook": "TheAmericans",
+          "instagram": "theamericansfx",
+          "wikipedia": "The_Americans"
+        },
+        "updated_at": "2026-04-09T06:51:52.000Z",
         "first_aired": "2013-01-31T03:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 62,
@@ -3269,7 +3425,7 @@
         },
         "year": 2010,
         "title": "Boardwalk Empire",
-        "votes": 9719,
+        "votes": 9723,
         "colors": {
           "poster": [
             "#C5B98F",
@@ -3300,14 +3456,14 @@
             "media.trakt.tv/images/shows/000/001/610/cleararts/medium/55b8d8312a.png.webp"
           ]
         },
-        "rating": 8.380800247192383,
+        "rating": 8.380746841430664,
         "status": "ended",
         "country": "us",
         "network": "HBO",
         "runtime": 55,
         "tagline": "No one goes quietly.",
         "trailer": "https://youtube.com/watch?v=SPlBxJs3npQ",
-        "homepage": "http://www.hbo.com/boardwalk-empire",
+        "homepage": "https://www.hbo.com/boardwalk-empire",
         "language": "en",
         "overview": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster.",
         "languages": [
@@ -3325,7 +3481,13 @@
           "political",
           "american-history"
         ],
-        "updated_at": "2026-04-08T06:54:44.000Z",
+        "social_ids": {
+          "twitter": "BoardwalkEmpire",
+          "facebook": "boardwalkempire",
+          "instagram": null,
+          "wikipedia": "Boardwalk_Empire"
+        },
+        "updated_at": "2026-04-09T06:56:22.000Z",
         "first_aired": "2010-09-20T01:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 56,
@@ -3396,7 +3558,7 @@
         },
         "year": 2018,
         "title": "Tom Clancy's Jack Ryan",
-        "votes": 9387,
+        "votes": 9390,
         "colors": {
           "poster": [
             "#B2B5AE",
@@ -3428,7 +3590,7 @@
             "media.trakt.tv/images/shows/000/124/381/cleararts/medium/fb2ff0d5b0.png.webp"
           ]
         },
-        "rating": 7.787152290344238,
+        "rating": 7.787220478057861,
         "status": "ended",
         "country": "us",
         "network": "Prime Video",
@@ -3452,7 +3614,13 @@
           "central-intelligence-agency-cia",
           "espionage"
         ],
-        "updated_at": "2026-04-07T09:41:45.000Z",
+        "social_ids": {
+          "twitter": "JackRyanPV",
+          "facebook": "JackRyanPV",
+          "instagram": "jackryanpv",
+          "wikipedia": "Jack_Ryan_(TV_series)"
+        },
+        "updated_at": "2026-04-08T11:15:31.000Z",
         "first_aired": "2018-08-31T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 80,
@@ -3556,7 +3724,7 @@
             "media.trakt.tv/images/shows/000/047/374/cleararts/medium/93ff2c78d6.png.webp"
           ]
         },
-        "rating": 8.197031021118164,
+        "rating": 8.196806907653809,
         "status": "ended",
         "country": "us",
         "network": "STARZ",
@@ -3575,7 +3743,13 @@
           "period-drama",
           "pirate"
         ],
-        "updated_at": "2026-04-08T06:03:16.000Z",
+        "social_ids": {
+          "twitter": "null",
+          "facebook": "blacksails.starz",
+          "instagram": null,
+          "wikipedia": "Black_Sails_(TV_series)"
+        },
+        "updated_at": "2026-04-09T06:03:24.000Z",
         "first_aired": "2014-01-26T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 51,
@@ -3649,7 +3823,7 @@
         },
         "year": 2010,
         "title": "Luther",
-        "votes": 8741,
+        "votes": 8743,
         "colors": {
           "poster": [
             "#B96961",
@@ -3682,14 +3856,14 @@
             "media.trakt.tv/images/shows/000/001/417/cleararts/medium/1a35580e5f.png.webp"
           ]
         },
-        "rating": 8.289440155029297,
+        "rating": 8.289717674255371,
         "status": "ended",
         "country": "gb",
         "network": "BBC One",
         "runtime": 55,
         "tagline": "What if your worst enemy was your own conscience?",
         "trailer": "https://youtube.com/watch?v=irPcCNXji90",
-        "homepage": "http://www.bbc.co.uk/programmes/b00vk2lp",
+        "homepage": "https://www.bbc.co.uk/programmes/b00vk2lp",
         "language": "en",
         "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
         "languages": [
@@ -3707,7 +3881,13 @@
           "suspenseful",
           "psychological"
         ],
-        "updated_at": "2026-04-07T07:49:24.000Z",
+        "social_ids": {
+          "twitter": "bbcluther",
+          "facebook": "LutherBBC",
+          "instagram": null,
+          "wikipedia": "Luther_(TV_series)"
+        },
+        "updated_at": "2026-04-08T07:55:43.000Z",
         "first_aired": "2010-05-04T20:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 56,
@@ -3761,129 +3941,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0364845",
-          "plex": {
-            "guid": "5d9c086fffd9ef001e994da0",
-            "slug": "ncis"
-          },
-          "slug": "ncis",
-          "tmdb": 4614,
-          "tvdb": 72108,
-          "trakt": 4590
-        },
-        "airs": {
-          "day": "Tuesday",
-          "time": "20:00",
-          "timezone": "America/New_York"
-        },
-        "year": 2003,
-        "title": "NCIS",
-        "votes": 8347,
-        "colors": {
-          "poster": [
-            "#B5A197",
-            "#28272F"
-          ]
-        },
-        "genres": [
-          "drama",
-          "action",
-          "adventure",
-          "crime"
-        ],
-        "images": {
-          "logo": [
-            "media.trakt.tv/images/shows/000/004/590/logos/medium/eab7391720.png.webp"
-          ],
-          "thumb": [
-            "media.trakt.tv/images/shows/000/004/590/thumbs/medium/f5a7a3ad07.jpg.webp"
-          ],
-          "banner": [
-            "media.trakt.tv/images/shows/000/004/590/banners/medium/86d964b6c5.jpg.webp"
-          ],
-          "fanart": [
-            "media.trakt.tv/images/shows/000/004/590/fanarts/medium/1355f7af30.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/shows/000/004/590/posters/medium/7ebb248e11.jpg.webp"
-          ],
-          "clearart": [
-            "media.trakt.tv/images/shows/000/004/590/cleararts/medium/7d51c98c2d.png.webp"
-          ]
-        },
-        "rating": 7.973403453826904,
-        "status": "returning series",
-        "country": "us",
-        "network": "CBS",
-        "runtime": 45,
-        "tagline": "Back in force.",
-        "trailer": "https://youtube.com/watch?v=BhtDgn31XZo",
-        "homepage": "http://www.cbs.com/shows/ncis/",
-        "language": "en",
-        "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-        "languages": [
-          "en"
-        ],
-        "subgenres": [
-          "crime-investigation",
-          "criminal-investigation",
-          "police-procedural",
-          "dramatic"
-        ],
-        "updated_at": "2026-04-07T15:48:04.000Z",
-        "first_aired": "2003-09-24T00:00:00.000Z",
-        "certification": "TV-14",
-        "comment_count": 49,
-        "total_runtime": 21758,
-        "aired_episodes": 502,
-        "original_title": "NCIS",
-        "available_translations": [
-          "ar",
-          "bg",
-          "bs",
-          "cs",
-          "da",
-          "de",
-          "el",
-          "en",
-          "es",
-          "et",
-          "fa",
-          "fi",
-          "fr",
-          "he",
-          "hr",
-          "hu",
-          "it",
-          "ja",
-          "ka",
-          "ko",
-          "lt",
-          "lv",
-          "nb",
-          "nl",
-          "pl",
-          "pt",
-          "ro",
-          "ru",
-          "sk",
-          "sl",
-          "sv",
-          "th",
-          "tr",
-          "uk",
-          "zh"
-        ]
-      },
-      "rank": 30,
-      "id": 1153031256,
-      "listed_at": "2025-01-08T18:17:47.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt11737520",
           "plex": {
             "guid": "5f7c9b1c9b958e00415de6bb",
@@ -3901,7 +3958,7 @@
         },
         "year": 2023,
         "title": "ONE PIECE",
-        "votes": 8338,
+        "votes": 8357,
         "colors": {
           "poster": [
             "#D9CBBD",
@@ -3932,7 +3989,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.108179092407227,
+        "rating": 8.109728813171387,
         "status": "returning series",
         "country": "us",
         "network": "Netflix",
@@ -3953,7 +4010,13 @@
           "fighting",
           "ocean"
         ],
-        "updated_at": "2026-04-07T22:32:46.000Z",
+        "social_ids": {
+          "twitter": "onepiecenetflix",
+          "facebook": "OnePieceNetflix",
+          "instagram": "onepiecenetflix",
+          "wikipedia": "One_Piece_(2023_TV_series)"
+        },
+        "updated_at": "2026-04-08T16:06:20.000Z",
         "first_aired": "2023-08-31T07:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 89,
@@ -4008,6 +4071,135 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt0364845",
+          "plex": {
+            "guid": "5d9c086fffd9ef001e994da0",
+            "slug": "ncis"
+          },
+          "slug": "ncis",
+          "tmdb": 4614,
+          "tvdb": 72108,
+          "trakt": 4590
+        },
+        "airs": {
+          "day": "Tuesday",
+          "time": "20:00",
+          "timezone": "America/New_York"
+        },
+        "year": 2003,
+        "title": "NCIS",
+        "votes": 8349,
+        "colors": {
+          "poster": [
+            "#B5A197",
+            "#28272F"
+          ]
+        },
+        "genres": [
+          "drama",
+          "action",
+          "adventure",
+          "crime"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/shows/000/004/590/logos/medium/eab7391720.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/shows/000/004/590/thumbs/medium/f5a7a3ad07.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/shows/000/004/590/banners/medium/86d964b6c5.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/shows/000/004/590/fanarts/medium/1355f7af30.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/shows/000/004/590/posters/medium/7ebb248e11.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/shows/000/004/590/cleararts/medium/7d51c98c2d.png.webp"
+          ]
+        },
+        "rating": 7.973649501800537,
+        "status": "returning series",
+        "country": "us",
+        "network": "CBS",
+        "runtime": 45,
+        "tagline": "Back in force.",
+        "trailer": "https://youtube.com/watch?v=BhtDgn31XZo",
+        "homepage": "https://www.cbs.com/shows/ncis/",
+        "language": "en",
+        "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+        "languages": [
+          "en"
+        ],
+        "subgenres": [
+          "crime-investigation",
+          "criminal-investigation",
+          "police-procedural",
+          "dramatic"
+        ],
+        "social_ids": {
+          "twitter": "ncisverse",
+          "facebook": "NCISverse",
+          "instagram": "ncisverse",
+          "wikipedia": "NCIS_(TV_series)"
+        },
+        "updated_at": "2026-04-08T21:06:59.000Z",
+        "first_aired": "2003-09-24T00:00:00.000Z",
+        "certification": "TV-14",
+        "comment_count": 49,
+        "total_runtime": 21758,
+        "aired_episodes": 502,
+        "original_title": "NCIS",
+        "available_translations": [
+          "ar",
+          "bg",
+          "bs",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "et",
+          "fa",
+          "fi",
+          "fr",
+          "he",
+          "hr",
+          "hu",
+          "it",
+          "ja",
+          "ka",
+          "ko",
+          "lt",
+          "lv",
+          "nb",
+          "nl",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "zh"
+        ]
+      },
+      "rank": 30,
+      "id": 1153031256,
+      "listed_at": "2025-01-08T18:17:47.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt5114356",
           "plex": {
             "guid": "5d9c08057d06d9001ffcef28",
@@ -4025,7 +4217,7 @@
         },
         "year": 2017,
         "title": "Legion",
-        "votes": 7881,
+        "votes": 7883,
         "colors": {
           "poster": [
             "#C478A6",
@@ -4060,14 +4252,14 @@
             "media.trakt.tv/images/shows/000/113/656/cleararts/medium/b48ba981f3.png.webp"
           ]
         },
-        "rating": 7.865626335144043,
+        "rating": 7.8659138679504395,
         "status": "ended",
         "country": "us",
         "network": "FX",
         "runtime": 50,
         "tagline": "Open your third eye.",
         "trailer": "https://youtube.com/watch?v=bybp0iQpzIs",
-        "homepage": "http://www.fxnetworks.com/shows/legion",
+        "homepage": "https://www.fxnetworks.com/shows/legion",
         "language": "en",
         "overview": "David Haller, AKA Legion, is a troubled young man who may be more than human. Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals for years. But after a strange encounter with a fellow patient, he’s confronted with the possibility that the voices he hears and the visions he sees might be real.",
         "languages": [
@@ -4081,7 +4273,13 @@
           "memory",
           "based-on-comic"
         ],
-        "updated_at": "2026-04-07T15:33:56.000Z",
+        "social_ids": {
+          "twitter": "legionfx",
+          "facebook": "legionfx",
+          "instagram": "legion_fx",
+          "wikipedia": "Legion_(TV_series)"
+        },
+        "updated_at": "2026-04-08T15:17:49.000Z",
         "first_aired": "2017-02-09T03:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 81,
@@ -4151,7 +4349,7 @@
         },
         "year": 2018,
         "title": "Barry",
-        "votes": 7804,
+        "votes": 7805,
         "colors": {
           "poster": [
             "#C6CCD7",
@@ -4183,7 +4381,7 @@
             "media.trakt.tv/images/shows/000/122/709/cleararts/medium/d03142dc2e.png.webp"
           ]
         },
-        "rating": 8.147104263305664,
+        "rating": 8.146957397460938,
         "status": "ended",
         "country": "us",
         "network": "HBO",
@@ -4206,7 +4404,13 @@
           "show-business",
           "post-traumatic-stress-disorder-ptsd"
         ],
-        "updated_at": "2026-04-07T09:41:16.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": "barryhbo",
+          "instagram": null,
+          "wikipedia": "Barry_(TV_series)"
+        },
+        "updated_at": "2026-04-08T11:15:15.000Z",
         "first_aired": "2018-03-26T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 65,
@@ -4271,7 +4475,7 @@
         },
         "year": 2015,
         "title": "The Last Kingdom",
-        "votes": 7580,
+        "votes": 7582,
         "colors": {
           "poster": [
             "#BDA369",
@@ -4305,7 +4509,7 @@
             "media.trakt.tv/images/shows/000/100/688/cleararts/medium/9b49867854.png.webp"
           ]
         },
-        "rating": 8.205936431884766,
+        "rating": 8.206146240234375,
         "status": "ended",
         "country": "gb",
         "network": "BBC Two",
@@ -4328,7 +4532,13 @@
           "dark",
           "royalty"
         ],
-        "updated_at": "2026-04-07T09:24:16.000Z",
+        "social_ids": {
+          "twitter": "TheLastKingdom",
+          "facebook": "TheLastKingdomOfficial",
+          "instagram": "thelastkingdom",
+          "wikipedia": "The_Last_Kingdom_(TV_series)"
+        },
+        "updated_at": "2026-04-08T10:10:13.000Z",
         "first_aired": "2015-10-10T07:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 46,
@@ -4439,7 +4649,7 @@
         "runtime": 42,
         "tagline": "Take back the power.",
         "trailer": "https://youtube.com/watch?v=c3cMGHC-4ZY",
-        "homepage": "http://www.nbc.com/revolution",
+        "homepage": "https://www.nbc.com/revolution",
         "language": "en",
         "overview": "One day, electricity just stopped working and the world was suddenly thrust back into the dark ages. Now, 15 years later, a young woman's life is dramatically changed when a local militia arrives and kills her father, who mysteriously—and unbeknownst to her—had something to do with the blackout. An unlikely group sets out off on a daring journey to find answers about the past in the hopes of reclaiming the future.",
         "languages": [
@@ -4449,7 +4659,13 @@
           "future",
           "post-apocalyptic-future"
         ],
-        "updated_at": "2026-04-07T07:41:40.000Z",
+        "social_ids": {
+          "twitter": "_RevolutionTV",
+          "facebook": "Revolution",
+          "instagram": null,
+          "wikipedia": "Revolution_(TV_series)"
+        },
+        "updated_at": "2026-04-08T07:48:44.000Z",
         "first_aired": "2012-09-18T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 82,
@@ -4495,125 +4711,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2654620",
-          "plex": {
-            "guid": "5d9c085602391c001f5871c9",
-            "slug": "the-strain"
-          },
-          "slug": "the-strain",
-          "tmdb": 47640,
-          "tvdb": 276564,
-          "trakt": 47350
-        },
-        "airs": {
-          "day": "Sunday",
-          "time": "22:00",
-          "timezone": "America/New_York"
-        },
-        "year": 2014,
-        "title": "The Strain",
-        "votes": 7189,
-        "colors": {
-          "poster": [
-            "#7DA085",
-            "#103533"
-          ]
-        },
-        "genres": [
-          "drama",
-          "fantasy",
-          "horror",
-          "thriller"
-        ],
-        "images": {
-          "logo": [
-            "media.trakt.tv/images/shows/000/047/350/logos/medium/c5a3c7db67.png.webp"
-          ],
-          "thumb": [
-            "media.trakt.tv/images/shows/000/047/350/thumbs/medium/0287deb7a7.jpg.webp"
-          ],
-          "banner": [
-            "media.trakt.tv/images/shows/000/047/350/banners/medium/e321aba8a0.jpg.webp"
-          ],
-          "fanart": [
-            "media.trakt.tv/images/shows/000/047/350/fanarts/medium/0e9728d294.jpg.webp"
-          ],
-          "poster": [
-            "media.trakt.tv/images/shows/000/047/350/posters/medium/ae380fe651.jpg.webp"
-          ],
-          "clearart": [
-            "media.trakt.tv/images/shows/000/047/350/cleararts/medium/cae79c90f9.png.webp"
-          ]
-        },
-        "rating": 7.288218021392822,
-        "status": "ended",
-        "country": "us",
-        "network": "FX",
-        "runtime": 44,
-        "tagline": "",
-        "trailer": "https://youtube.com/watch?v=GGdlKM8tFaw",
-        "homepage": "http://www.fxnetworks.com/thestrain",
-        "language": "en",
-        "overview": "A high concept thriller that tells the story of Dr. Ephraim Goodweather, the head of the Center for Disease Control Canary Team in New York City. He and his team are called upon to investigate a mysterious viral outbreak with hallmarks of an ancient and evil strain of vampirism. As the strain spreads, Eph, his team, and an assembly of everyday New Yorkers, wage war for the fate of humanity itself.",
-        "languages": [
-          "en",
-          "es"
-        ],
-        "subgenres": [
-          "survival",
-          "vampire",
-          "virus"
-        ],
-        "updated_at": "2026-04-07T16:18:55.000Z",
-        "first_aired": "2014-07-14T02:00:00.000Z",
-        "certification": "TV-MA",
-        "comment_count": 84,
-        "total_runtime": 2024,
-        "aired_episodes": 46,
-        "original_title": "The Strain",
-        "available_translations": [
-          "bg",
-          "bs",
-          "cs",
-          "da",
-          "de",
-          "el",
-          "en",
-          "es",
-          "fi",
-          "fr",
-          "he",
-          "hu",
-          "it",
-          "ja",
-          "ko",
-          "lt",
-          "nl",
-          "no",
-          "pl",
-          "pt",
-          "ro",
-          "ru",
-          "sk",
-          "sl",
-          "sr",
-          "sv",
-          "th",
-          "tr",
-          "uk",
-          "vi",
-          "zh"
-        ]
-      },
-      "rank": 82,
-      "id": 1377268265,
-      "listed_at": "2025-12-01T10:22:35.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt27497448",
           "plex": {
             "guid": "643cbf9ec1962a0897b7f6dd",
@@ -4631,7 +4728,7 @@
         },
         "year": 2026,
         "title": "A Knight of the Seven Kingdoms",
-        "votes": 7189,
+        "votes": 7209,
         "colors": {
           "poster": [
             "#CBD3C2",
@@ -4665,7 +4762,7 @@
             "media.trakt.tv/images/shows/000/204/141/cleararts/medium/e43be83cd1.png.webp"
           ]
         },
-        "rating": 8.200166702270508,
+        "rating": 8.20266342163086,
         "status": "returning series",
         "country": "us",
         "network": "HBO",
@@ -4694,7 +4791,13 @@
           "blunt",
           "wistful"
         ],
-        "updated_at": "2026-04-07T10:41:03.000Z",
+        "social_ids": {
+          "twitter": "GameOfThrones",
+          "facebook": "100044315715123",
+          "instagram": "gameofthrones",
+          "wikipedia": "A_Knight_of_the_Seven_Kingdoms_(TV_series)"
+        },
+        "updated_at": "2026-04-08T13:56:38.000Z",
         "first_aired": "2026-01-19T03:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 67,
@@ -4754,6 +4857,131 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt2654620",
+          "plex": {
+            "guid": "5d9c085602391c001f5871c9",
+            "slug": "the-strain"
+          },
+          "slug": "the-strain",
+          "tmdb": 47640,
+          "tvdb": 276564,
+          "trakt": 47350
+        },
+        "airs": {
+          "day": "Sunday",
+          "time": "22:00",
+          "timezone": "America/New_York"
+        },
+        "year": 2014,
+        "title": "The Strain",
+        "votes": 7193,
+        "colors": {
+          "poster": [
+            "#7DA085",
+            "#103533"
+          ]
+        },
+        "genres": [
+          "drama",
+          "fantasy",
+          "horror",
+          "thriller"
+        ],
+        "images": {
+          "logo": [
+            "media.trakt.tv/images/shows/000/047/350/logos/medium/c5a3c7db67.png.webp"
+          ],
+          "thumb": [
+            "media.trakt.tv/images/shows/000/047/350/thumbs/medium/0287deb7a7.jpg.webp"
+          ],
+          "banner": [
+            "media.trakt.tv/images/shows/000/047/350/banners/medium/e321aba8a0.jpg.webp"
+          ],
+          "fanart": [
+            "media.trakt.tv/images/shows/000/047/350/fanarts/medium/0e9728d294.jpg.webp"
+          ],
+          "poster": [
+            "media.trakt.tv/images/shows/000/047/350/posters/medium/ae380fe651.jpg.webp"
+          ],
+          "clearart": [
+            "media.trakt.tv/images/shows/000/047/350/cleararts/medium/cae79c90f9.png.webp"
+          ]
+        },
+        "rating": 7.288613796234131,
+        "status": "ended",
+        "country": "us",
+        "network": "FX",
+        "runtime": 44,
+        "tagline": "",
+        "trailer": "https://youtube.com/watch?v=GGdlKM8tFaw",
+        "homepage": "https://www.fxnetworks.com/thestrain",
+        "language": "en",
+        "overview": "A high concept thriller that tells the story of Dr. Ephraim Goodweather, the head of the Center for Disease Control Canary Team in New York City. He and his team are called upon to investigate a mysterious viral outbreak with hallmarks of an ancient and evil strain of vampirism. As the strain spreads, Eph, his team, and an assembly of everyday New Yorkers, wage war for the fate of humanity itself.",
+        "languages": [
+          "en",
+          "es"
+        ],
+        "subgenres": [
+          "survival",
+          "vampire",
+          "virus"
+        ],
+        "social_ids": {
+          "twitter": "null",
+          "facebook": "null",
+          "instagram": "null",
+          "wikipedia": "The_Strain_(TV_series)"
+        },
+        "updated_at": "2026-04-08T07:05:55.000Z",
+        "first_aired": "2014-07-14T02:00:00.000Z",
+        "certification": "TV-MA",
+        "comment_count": 84,
+        "total_runtime": 2024,
+        "aired_episodes": 46,
+        "original_title": "The Strain",
+        "available_translations": [
+          "bg",
+          "bs",
+          "cs",
+          "da",
+          "de",
+          "el",
+          "en",
+          "es",
+          "fi",
+          "fr",
+          "he",
+          "hu",
+          "it",
+          "ja",
+          "ko",
+          "lt",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "sk",
+          "sl",
+          "sr",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi",
+          "zh"
+        ]
+      },
+      "rank": 82,
+      "id": 1377268265,
+      "listed_at": "2025-12-01T10:22:35.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt7587890",
           "plex": {
             "guid": "5d9c08ffe264b7001fc4d397",
@@ -4771,7 +4999,7 @@
         },
         "year": 2018,
         "title": "The Rookie",
-        "votes": 6862,
+        "votes": 6872,
         "colors": {
           "poster": [
             "#DDA94B",
@@ -4803,7 +5031,7 @@
             "media.trakt.tv/images/shows/000/134/421/cleararts/medium/061138686f.png.webp"
           ]
         },
-        "rating": 8.02593994140625,
+        "rating": 8.027212142944336,
         "status": "returning series",
         "country": "us",
         "network": "ABC",
@@ -4822,7 +5050,13 @@
           "crime-investigation",
           "police-officer"
         ],
-        "updated_at": "2026-04-08T04:45:48.000Z",
+        "social_ids": {
+          "twitter": "TheRookie",
+          "facebook": "TheRookieABC",
+          "instagram": "therookieabc",
+          "wikipedia": "The_Rookie_(TV_series)"
+        },
+        "updated_at": "2026-04-08T16:05:38.000Z",
         "first_aired": "2018-10-17T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 60,
@@ -4896,7 +5130,7 @@
         },
         "year": 2011,
         "title": "The Killing",
-        "votes": 6562,
+        "votes": 6564,
         "colors": {
           "poster": [
             "#AFC3CF",
@@ -4928,14 +5162,14 @@
             "media.trakt.tv/images/shows/000/034/268/cleararts/medium/3fe1db96a6.png.webp"
           ]
         },
-        "rating": 8.173575401306152,
+        "rating": 8.173521995544434,
         "status": "ended",
         "country": "us",
         "network": "Netflix",
         "runtime": 45,
         "tagline": "The past can't be washed away.",
         "trailer": "https://youtube.com/watch?v=OkbfvPeH3G0",
-        "homepage": "http://investigation.discovery.com/tv-schedules/series.html?paid=141.15378.125660.36373.1",
+        "homepage": "https://investigation.discovery.com/tv-schedules/series.html?paid=141.15378.125660.36373.1",
         "language": "en",
         "overview": "The Killing is an American crime drama television series based upon the Danish television series Forbrydelsen. Set in Seattle, Washington, the series follows the various murder investigations by homicide detectives Sarah Linden and Stephen Holder.",
         "languages": [
@@ -4952,7 +5186,13 @@
           "neo-noir",
           "female-protagonist"
         ],
-        "updated_at": "2026-04-07T07:45:05.000Z",
+        "social_ids": {
+          "twitter": "TheKilling",
+          "facebook": "TheKilling",
+          "instagram": null,
+          "wikipedia": "The_Killing_(American_TV_series)"
+        },
+        "updated_at": "2026-04-08T07:51:10.000Z",
         "first_aired": "2011-04-04T01:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 58,
@@ -5013,7 +5253,7 @@
         },
         "year": 2018,
         "title": "Manifest",
-        "votes": 6413,
+        "votes": 6417,
         "colors": {
           "poster": [
             "#DDEDF4",
@@ -5045,7 +5285,7 @@
             "media.trakt.tv/images/shows/000/133/259/cleararts/medium/2e91f7299b.png.webp"
           ]
         },
-        "rating": 7.130516052246094,
+        "rating": 7.130746364593506,
         "status": "ended",
         "country": "us",
         "network": "Netflix",
@@ -5062,10 +5302,16 @@
           "investigation",
           "time-travel"
         ],
-        "updated_at": "2026-04-07T09:48:59.000Z",
+        "social_ids": {
+          "twitter": "ManifestNFLX",
+          "facebook": "ManifestOnNetflix",
+          "instagram": "manifestonnetflix",
+          "wikipedia": "Manifest_(TV_series)"
+        },
+        "updated_at": "2026-04-08T11:54:41.000Z",
         "first_aired": "2018-09-24T07:00:00.000Z",
         "certification": "TV-14",
-        "comment_count": 76,
+        "comment_count": 77,
         "total_runtime": 2737,
         "aired_episodes": 62,
         "original_title": "Manifest",
@@ -5132,7 +5378,7 @@
         },
         "year": 2025,
         "title": "MobLand",
-        "votes": 6395,
+        "votes": 6402,
         "colors": {
           "poster": [
             "#C25F61",
@@ -5163,7 +5409,7 @@
             "media.trakt.tv/images/shows/000/228/595/cleararts/medium/b29a313363.png.webp"
           ]
         },
-        "rating": 8.359969139099121,
+        "rating": 8.360199928283691,
         "status": "returning series",
         "country": "us",
         "network": "Paramount+",
@@ -5181,7 +5427,13 @@
           "gangster",
           "murder"
         ],
-        "updated_at": "2026-04-07T10:46:14.000Z",
+        "social_ids": {
+          "twitter": "MobLand_PPlus",
+          "facebook": null,
+          "instagram": "mobland_pplus",
+          "wikipedia": "MobLand"
+        },
+        "updated_at": "2026-04-08T14:07:23.000Z",
         "first_aired": "2025-03-30T07:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 62,
@@ -5251,7 +5503,7 @@
         },
         "year": 2022,
         "title": "Halo",
-        "votes": 6340,
+        "votes": 6341,
         "colors": {
           "poster": [
             "#A99368",
@@ -5284,7 +5536,7 @@
             "media.trakt.tv/images/shows/000/150/109/cleararts/medium/9544e9b576.png.webp"
           ]
         },
-        "rating": 7.328706741333008,
+        "rating": 7.329127788543701,
         "status": "canceled",
         "country": "us",
         "network": "Paramount+",
@@ -5302,7 +5554,13 @@
           "alien",
           "space-travel"
         ],
-        "updated_at": "2026-04-07T09:32:04.000Z",
+        "social_ids": {
+          "twitter": "HaloTheSeries",
+          "facebook": "HaloTheSeries",
+          "instagram": "halotheseries",
+          "wikipedia": "Halo_(TV_series)"
+        },
+        "updated_at": "2026-04-08T10:54:31.000Z",
         "first_aired": "2022-03-24T07:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 98,
@@ -5372,7 +5630,7 @@
         },
         "year": 2025,
         "title": "The Pitt",
-        "votes": 6152,
+        "votes": 6169,
         "colors": {
           "poster": [
             "#B3965E",
@@ -5402,7 +5660,7 @@
             "media.trakt.tv/images/shows/000/232/884/cleararts/medium/89a880ddb8.png.webp"
           ]
         },
-        "rating": 8.814369201660156,
+        "rating": 8.813422203063965,
         "status": "returning series",
         "country": "us",
         "network": "HBO Max",
@@ -5419,7 +5677,13 @@
           "hospital",
           "medical-drama"
         ],
-        "updated_at": "2026-04-08T04:06:27.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "The_Pitt"
+        },
+        "updated_at": "2026-04-08T15:07:28.000Z",
         "first_aired": "2025-01-10T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 70,
@@ -5490,7 +5754,7 @@
         },
         "year": 2014,
         "title": "The Last Ship",
-        "votes": 5946,
+        "votes": 5947,
         "colors": {
           "poster": [
             "#CE0E13",
@@ -5524,14 +5788,14 @@
             "media.trakt.tv/images/shows/000/060/360/cleararts/medium/40bfbc039f.png.webp"
           ]
         },
-        "rating": 7.500504493713379,
+        "rating": 7.500420570373535,
         "status": "ended",
         "country": "us",
         "network": "TNT",
         "runtime": 40,
         "tagline": "Whatever you do, don't breathe.",
         "trailer": "https://youtube.com/watch?v=Re5TAK_qC18",
-        "homepage": "http://www.tntdrama.com/shows/the-last-ship.html",
+        "homepage": "https://www.tntdrama.com/shows/the-last-ship.html",
         "language": "en",
         "overview": "Their mission is simple: Find a cure. Stop the virus. Save the world. When a global pandemic wipes out eighty percent of the planet's population, the crew of a lone naval destroyer must find a way to pull humanity from the brink of extinction.",
         "languages": [
@@ -5543,7 +5807,13 @@
           "post-apocalyptic-future",
           "virus"
         ],
-        "updated_at": "2026-04-07T07:35:00.000Z",
+        "social_ids": {
+          "twitter": "TheLastShipTNT",
+          "facebook": "TheLastShipTNT",
+          "instagram": "thelastshiptnt",
+          "wikipedia": "The_Last_Ship_(TV_series)"
+        },
+        "updated_at": "2026-04-08T07:13:57.000Z",
         "first_aired": "2014-06-23T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -5608,7 +5878,7 @@
         },
         "year": 2014,
         "title": "Scorpion",
-        "votes": 5718,
+        "votes": 5719,
         "colors": {
           "poster": [
             "#C89E8E",
@@ -5641,14 +5911,14 @@
             "media.trakt.tv/images/shows/000/060/356/cleararts/medium/133de20ea5.png.webp"
           ]
         },
-        "rating": 7.285414695739746,
+        "rating": 7.285539627075195,
         "status": "canceled",
         "country": "us",
         "network": "CBS",
         "runtime": 50,
         "tagline": "This team is pure genius.",
         "trailer": "https://youtube.com/watch?v=U402uMSRq1g",
-        "homepage": "http://www.cbs.com/shows/scorpion/",
+        "homepage": "https://www.cbs.com/shows/scorpion/",
         "language": "en",
         "overview": "Eccentric genius Walter O’Brien and his team of brilliant misfits comprise the last line of defense against complex, high-tech threats of the modern age. As Homeland Security’s new think tank, O’Brien’s “Scorpion” team includes Toby Curtis, an expert behaviorist who can read anyone; Happy Quinn, a mechanical prodigy; and Sylvester Dodd, a statistics guru.",
         "languages": [
@@ -5657,7 +5927,13 @@
         "subgenres": [
           "autism"
         ],
-        "updated_at": "2026-04-07T07:36:59.000Z",
+        "social_ids": {
+          "twitter": "ScorpionCBS",
+          "facebook": "ScorpionCBS",
+          "instagram": "ScorpionCBS",
+          "wikipedia": "Scorpion_(TV_series)"
+        },
+        "updated_at": "2026-04-08T07:15:28.000Z",
         "first_aired": "2014-09-23T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 64,
@@ -5722,7 +5998,7 @@
         },
         "year": 2013,
         "title": "The Fall",
-        "votes": 5692,
+        "votes": 5694,
         "colors": {
           "poster": [
             "#E9EAED",
@@ -5754,7 +6030,7 @@
             "media.trakt.tv/images/shows/000/048/703/cleararts/medium/913b009ec7.png.webp"
           ]
         },
-        "rating": 7.971890449523926,
+        "rating": 7.971197605133057,
         "status": "ended",
         "country": "ie",
         "network": "RTÉ One",
@@ -5775,7 +6051,13 @@
           "psychological",
           "violence"
         ],
-        "updated_at": "2026-04-08T06:13:37.000Z",
+        "social_ids": {
+          "twitter": "null",
+          "facebook": "null",
+          "instagram": null,
+          "wikipedia": "The_Fall_(TV_series)"
+        },
+        "updated_at": "2026-04-09T06:13:43.000Z",
         "first_aired": "2013-05-12T20:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 48,
@@ -5878,7 +6160,7 @@
         "runtime": 45,
         "tagline": "Spies don't get fired, they get burned",
         "trailer": "https://youtube.com/watch?v=oFtYEe39RUI",
-        "homepage": "http://usanetwork.com/burnnotice",
+        "homepage": "https://usanetwork.com/burnnotice",
         "language": "en",
         "overview": "A formerly blacklisted spy uses his unique skills and training to help people in desperate situations.",
         "languages": [
@@ -5889,7 +6171,13 @@
           "espionage",
           "informative"
         ],
-        "updated_at": "2026-04-07T06:57:40.000Z",
+        "social_ids": {
+          "twitter": "null",
+          "facebook": "null",
+          "instagram": null,
+          "wikipedia": "Burn_Notice"
+        },
+        "updated_at": "2026-04-08T06:59:37.000Z",
         "first_aired": "2007-06-29T01:00:00.000Z",
         "certification": "TV-PG",
         "comment_count": 20,
@@ -5951,7 +6239,7 @@
         },
         "year": 1999,
         "title": "Law & Order: Special Victims Unit",
-        "votes": 5017,
+        "votes": 5019,
         "colors": {
           "poster": [
             "#C4BBA5",
@@ -5983,14 +6271,14 @@
             "media.trakt.tv/images/shows/000/002/716/cleararts/medium/4b93e29fc2.png.webp"
           ]
         },
-        "rating": 7.935220241546631,
+        "rating": 7.935445308685303,
         "status": "returning series",
         "country": "us",
         "network": "NBC",
         "runtime": 40,
         "tagline": "Hope in the darkness.",
         "trailer": null,
-        "homepage": "http://www.nbc.com/law-and-order-special-victims-unit",
+        "homepage": "https://www.nbc.com/law-and-order-special-victims-unit",
         "language": "en",
         "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
         "languages": [
@@ -6002,7 +6290,13 @@
           "police-procedural",
           "dark"
         ],
-        "updated_at": "2026-04-07T16:27:00.000Z",
+        "social_ids": {
+          "twitter": "lawandordertv",
+          "facebook": "nbclawandorder",
+          "instagram": "nbclawandorder",
+          "wikipedia": "Law_&_Order:_Special_Victims_Unit"
+        },
+        "updated_at": "2026-04-08T16:00:12.000Z",
         "first_aired": "1999-09-21T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 21,
@@ -6079,7 +6373,7 @@
         },
         "year": 2022,
         "title": "Black Bird",
-        "votes": 4990,
+        "votes": 4993,
         "colors": {
           "poster": [
             "#ADA48F",
@@ -6110,7 +6404,7 @@
             "media.trakt.tv/images/shows/000/180/817/cleararts/medium/f17c5f9db4.png.webp"
           ]
         },
-        "rating": 8.006011962890625,
+        "rating": 8.00600814819336,
         "status": "ended",
         "country": "us",
         "network": "Apple TV",
@@ -6133,7 +6427,13 @@
           "father-son-relationship",
           "1990s"
         ],
-        "updated_at": "2026-04-07T10:33:52.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "Black_Bird_(miniseries)"
+        },
+        "updated_at": "2026-04-08T13:44:50.000Z",
         "first_aired": "2022-07-08T00:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 53,
@@ -6204,7 +6504,7 @@
         },
         "year": 2024,
         "title": "Agatha All Along",
-        "votes": 4670,
+        "votes": 4674,
         "colors": {
           "poster": [
             "#9D92C8",
@@ -6236,7 +6536,7 @@
             "media.trakt.tv/images/shows/000/191/186/cleararts/medium/6e800f2993.png.webp"
           ]
         },
-        "rating": 7.301927089691162,
+        "rating": 7.303380489349365,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -6258,7 +6558,13 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-04-07T10:31:19.000Z",
+        "social_ids": {
+          "twitter": "",
+          "facebook": null,
+          "instagram": "",
+          "wikipedia": "Agatha_All_Along_(miniseries)"
+        },
+        "updated_at": "2026-04-08T13:17:10.000Z",
         "first_aired": "2024-09-19T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 69,
@@ -6365,7 +6671,7 @@
         "runtime": 43,
         "tagline": "New Earth. New rules.",
         "trailer": "https://youtube.com/watch?v=wxD4uQZLCDI",
-        "homepage": "http://www.syfy.com/defiance",
+        "homepage": "https://www.syfy.com/defiance",
         "language": "en",
         "overview": "In the near future, planet Earth is permanently altered following the sudden—and tumultuous—arrival of seven unique alien races. In the boom-town of Defiance, the newly-formed civilization of humans and aliens must learn to co-exist peacefully.",
         "languages": [
@@ -6377,7 +6683,13 @@
           "alien",
           "alien-invasion"
         ],
-        "updated_at": "2026-04-08T06:19:45.000Z",
+        "social_ids": {
+          "twitter": "null",
+          "facebook": "null",
+          "instagram": null,
+          "wikipedia": "Defiance_(TV_series)"
+        },
+        "updated_at": "2026-04-09T06:45:02.000Z",
         "first_aired": "2013-04-16T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 45,
@@ -6440,7 +6752,7 @@
         },
         "year": 2022,
         "title": "The Terminal List",
-        "votes": 4302,
+        "votes": 4304,
         "colors": {
           "poster": [
             "#A4B9C1",
@@ -6472,7 +6784,7 @@
             "media.trakt.tv/images/shows/000/170/081/cleararts/medium/25fbb4c30c.png.webp"
           ]
         },
-        "rating": 7.60669469833374,
+        "rating": 7.60780668258667,
         "status": "returning series",
         "country": "us",
         "network": "Prime Video",
@@ -6486,7 +6798,13 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-04-07T10:17:58.000Z",
+        "social_ids": {
+          "twitter": "TerminalListPV",
+          "facebook": "TerminalListPV",
+          "instagram": "terminallistpv",
+          "wikipedia": "The_Terminal_List"
+        },
+        "updated_at": "2026-04-08T12:52:00.000Z",
         "first_aired": "2022-07-01T00:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 53,
@@ -6565,7 +6883,7 @@
         },
         "year": 2024,
         "title": "Dark Matter",
-        "votes": 4260,
+        "votes": 4262,
         "colors": {
           "poster": [
             "#B6D4D6",
@@ -6595,7 +6913,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.645070552825928,
+        "rating": 7.6457061767578125,
         "status": "returning series",
         "country": "us",
         "network": "Apple TV",
@@ -6611,7 +6929,13 @@
         "subgenres": [
           "scientist"
         ],
-        "updated_at": "2026-04-07T10:45:56.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "Dark_Matter_(2024_TV_series)"
+        },
+        "updated_at": "2026-04-08T15:48:19.000Z",
         "first_aired": "2024-05-08T02:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 77,
@@ -6682,7 +7006,7 @@
         },
         "year": 2015,
         "title": "Quantico",
-        "votes": 4198,
+        "votes": 4200,
         "colors": {
           "poster": [
             "#989BA0",
@@ -6714,14 +7038,14 @@
             "media.trakt.tv/images/shows/000/098/885/cleararts/medium/053f023f86.png.webp"
           ]
         },
-        "rating": 7.06788969039917,
+        "rating": 7.0680952072143555,
         "status": "canceled",
         "country": "us",
         "network": "ABC",
         "runtime": 43,
         "tagline": "The FBI's top recruit is now their most wanted.",
         "trailer": null,
-        "homepage": "http://abc.go.com/shows/quantico",
+        "homepage": "https://abc.go.com/shows/quantico",
         "language": "en",
         "overview": "A diverse group of recruits has arrived at the FBI Quantico Base for training. They are the best, the brightest and the most vetted, so it seems impossible that one of them is suspected of masterminding the biggest attack on New York City since 9/11.",
         "languages": [
@@ -6730,7 +7054,13 @@
         "subgenres": [
           "fbi"
         ],
-        "updated_at": "2026-04-07T09:23:54.000Z",
+        "social_ids": {
+          "twitter": "QuanticoTV",
+          "facebook": "QuanticoABC",
+          "instagram": "abcquantico",
+          "wikipedia": "Quantico_(TV_series)"
+        },
+        "updated_at": "2026-04-08T10:09:34.000Z",
         "first_aired": "2015-09-28T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 49,
@@ -6825,14 +7155,14 @@
             "media.trakt.tv/images/shows/000/007/438/cleararts/medium/dee26fb4e5.png.webp"
           ]
         },
-        "rating": 8.048243522644043,
+        "rating": 8.047748565673828,
         "status": "ended",
         "country": "us",
         "network": "TNT",
         "runtime": 42,
         "tagline": "The art of the con",
         "trailer": "https://youtube.com/watch?v=uqGZwVnyi0g",
-        "homepage": "http://www.tnt.tv/series/leverage/",
+        "homepage": "https://www.tnt.tv/series/leverage/",
         "language": "en",
         "overview": "A five-person team comprised of a thief, a grifter, a hacker, and a retrieval specialist, led by former insurance investigator Nathan Ford, use their skills to fight corporate and governmental injustices inflicted on ordinary citizens.",
         "languages": [
@@ -6843,7 +7173,13 @@
           "thief",
           "suspenseful"
         ],
-        "updated_at": "2026-04-07T07:43:49.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": "null",
+          "instagram": null,
+          "wikipedia": "Leverage_(American_TV_series)"
+        },
+        "updated_at": "2026-04-08T07:50:27.000Z",
         "first_aired": "2008-12-08T03:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 17,
@@ -6943,7 +7279,7 @@
         "runtime": 43,
         "tagline": "",
         "trailer": "https://youtube.com/watch?v=ApT1EYvrwuk",
-        "homepage": "http://www.cbs.com/shows/csi/",
+        "homepage": "https://www.cbs.com/shows/csi/",
         "language": "en",
         "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
         "languages": [
@@ -6954,10 +7290,17 @@
           "police",
           "crime-investigation",
           "criminal-investigation",
+          "homicide-detective",
           "murder-investigation",
           "police-procedural"
         ],
-        "updated_at": "2026-04-07T07:01:23.000Z",
+        "social_ids": {
+          "twitter": "CSI_CBS",
+          "facebook": "CSICrimeSceneInvestigation",
+          "instagram": "CSI.CBS",
+          "wikipedia": "CSI:_Crime_Scene_Investigation"
+        },
+        "updated_at": "2026-04-08T15:44:27.000Z",
         "first_aired": "2000-10-07T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 19,
@@ -7029,7 +7372,7 @@
         },
         "year": 2014,
         "title": "Chicago P.D.",
-        "votes": 3924,
+        "votes": 3925,
         "colors": {
           "poster": [
             "#3F82B3",
@@ -7060,14 +7403,14 @@
             "media.trakt.tv/images/shows/000/058/454/cleararts/medium/83a521d95a.png.webp"
           ]
         },
-        "rating": 8.17940902709961,
+        "rating": 8.179872512817383,
         "status": "returning series",
         "country": "us",
         "network": "NBC",
         "runtime": 40,
         "tagline": "Welcome home.",
         "trailer": null,
-        "homepage": "http://www.nbc.com/chicago-pd",
+        "homepage": "https://www.nbc.com/chicago-pd",
         "language": "en",
         "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
         "languages": [
@@ -7078,12 +7421,18 @@
           "spin-off",
           "crime-investigation"
         ],
-        "updated_at": "2026-04-08T06:15:46.000Z",
+        "social_ids": {
+          "twitter": "NBCOneChicago",
+          "facebook": "NBCOneChicago",
+          "instagram": "NBCOneChicago",
+          "wikipedia": "Chicago_P.D._(TV_series)"
+        },
+        "updated_at": "2026-04-09T06:55:43.000Z",
         "first_aired": "2014-01-09T03:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 28,
-        "total_runtime": 10965,
-        "aired_episodes": 259,
+        "total_runtime": 11005,
+        "aired_episodes": 260,
         "original_title": "Chicago P.D.",
         "available_translations": [
           "ar",
@@ -7149,7 +7498,7 @@
         },
         "year": 2015,
         "title": "Into the Badlands",
-        "votes": 3904,
+        "votes": 3905,
         "colors": {
           "poster": [
             "#FDF8F2",
@@ -7181,14 +7530,14 @@
             "media.trakt.tv/images/shows/000/082/217/cleararts/medium/8bb0907f14.png.webp"
           ]
         },
-        "rating": 7.828125,
+        "rating": 7.8274006843566895,
         "status": "canceled",
         "country": "us",
         "network": "AMC",
         "runtime": 43,
         "tagline": "",
         "trailer": "https://youtube.com/watch?v=5KyHy4KRvIc",
-        "homepage": "http://www.amc.com/shows/into-the-badlands",
+        "homepage": "https://www.amc.com/shows/into-the-badlands",
         "language": "en",
         "overview": "In a land controlled by feudal barons, a great warrior and a young boy embark on a journey across a dangerous land to find enlightenment. \n\nA genre-bending martial arts series very loosely based on the classic Chinese tale Journey to the West.",
         "languages": [
@@ -7198,7 +7547,13 @@
           "martial-arts",
           "post-apocalyptic-future"
         ],
-        "updated_at": "2026-04-07T09:22:39.000Z",
+        "social_ids": {
+          "twitter": "IntotheBadlands",
+          "facebook": "IntoTheBadlandsAMC",
+          "instagram": null,
+          "wikipedia": "Into_the_Badlands_(TV_series)"
+        },
+        "updated_at": "2026-04-08T10:07:58.000Z",
         "first_aired": "2015-11-16T03:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 34,
@@ -7306,7 +7661,7 @@
         "runtime": 45,
         "tagline": "New city. New team. Same attitude.",
         "trailer": null,
-        "homepage": "http://www.cbs.com/shows/ncis_los_angeles/",
+        "homepage": "https://www.cbs.com/shows/ncis_los_angeles/",
         "language": "en",
         "overview": "The exploits of the Los Angeles–based Office of Special Projects (OSP), an elite division of the Naval Criminal Investigative Service that specializes in undercover assignments.",
         "languages": [
@@ -7318,7 +7673,13 @@
           "crime-investigation",
           "undercover"
         ],
-        "updated_at": "2026-04-07T07:48:14.000Z",
+        "social_ids": {
+          "twitter": "ncisla",
+          "facebook": "NCISLA",
+          "instagram": "ncisla",
+          "wikipedia": "NCIS:_Los_Angeles"
+        },
+        "updated_at": "2026-04-08T07:53:22.000Z",
         "first_aired": "2009-09-23T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 14,
@@ -7423,7 +7784,7 @@
         "runtime": 42,
         "tagline": "Everyone in the world will get a flash of their own future.",
         "trailer": "https://youtube.com/watch?v=YVbtHAZsSYs",
-        "homepage": "http://abc.go.com/shows/flashforward",
+        "homepage": "https://abc.go.com/shows/flashforward",
         "language": "en",
         "overview": "When the entire world blacks out for two minutes and seventeen seconds, everyone sees a flash of their own future 6 months from the present. For some, the future is hopeful, while for others, it is unexpected. For a few, it doesn't seem to exist. Knowing their fate will alter each person's life, destinies will be changed.",
         "languages": [
@@ -7432,7 +7793,13 @@
         "subgenres": [
           "fbi"
         ],
-        "updated_at": "2026-04-08T06:47:02.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": "null",
+          "instagram": null,
+          "wikipedia": "FlashForward"
+        },
+        "updated_at": "2026-04-09T06:48:12.000Z",
         "first_aired": "2009-09-25T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 27,
@@ -7527,7 +7894,7 @@
         "runtime": 55,
         "tagline": "Life's not a word. It's a sentence.",
         "trailer": "https://youtube.com/watch?v=fxGJyYb9_po",
-        "homepage": "http://www.hbo.com/oz/index.html",
+        "homepage": "https://www.hbo.com/oz/index.html",
         "language": "en",
         "overview": "The daily lives of prisoners in Emerald City, an experimental unit of the Oswald Maximum Security Prison where ingroups - Muslims, Latinos, Italians, Aryans - stick close to their mutual friends and terrorize their mutual enemies.",
         "languages": [
@@ -7542,7 +7909,13 @@
           "racism",
           "experiment"
         ],
-        "updated_at": "2026-04-07T15:43:17.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": "OZ",
+          "instagram": null,
+          "wikipedia": "Oz_(TV_series)"
+        },
+        "updated_at": "2026-04-08T15:10:36.000Z",
         "first_aired": "1997-07-13T01:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 27,
@@ -7601,7 +7974,7 @@
         },
         "year": 2022,
         "title": "Vikings: Valhalla",
-        "votes": 3589,
+        "votes": 3591,
         "colors": {
           "poster": [
             "#9E9BA5",
@@ -7635,7 +8008,7 @@
             "media.trakt.tv/images/shows/000/155/511/cleararts/medium/76bc438acf.png.webp"
           ]
         },
-        "rating": 7.576205253601074,
+        "rating": 7.576998233795166,
         "status": "ended",
         "country": "us",
         "network": "Netflix",
@@ -7658,7 +8031,13 @@
           "vikings-norsemen",
           "dark"
         ],
-        "updated_at": "2026-04-07T10:24:15.000Z",
+        "social_ids": {
+          "twitter": "NetflixValhalla",
+          "facebook": "netflixvalhalla",
+          "instagram": "netflixvalhalla",
+          "wikipedia": "Vikings:_Valhalla"
+        },
+        "updated_at": "2026-04-08T13:03:14.000Z",
         "first_aired": "2022-02-25T08:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 17,
@@ -7727,7 +8106,7 @@
         },
         "year": 2011,
         "title": "The Bridge",
-        "votes": 3240,
+        "votes": 3241,
         "colors": {
           "poster": [
             "#B4B9B6",
@@ -7759,14 +8138,14 @@
             "media.trakt.tv/images/shows/000/044/768/cleararts/medium/1c6e40b40e.png.webp"
           ]
         },
-        "rating": 8.513580322265625,
+        "rating": 8.513422012329102,
         "status": "ended",
         "country": "se",
         "network": "SVT1",
         "runtime": 60,
         "tagline": "Once you've crossed the line there's no going back",
         "trailer": "https://youtube.com/watch?v=EwJzHyWlsuM",
-        "homepage": "http://www.svt.se/bron/",
+        "homepage": "https://www.svt.se/bron/",
         "language": "sv",
         "overview": "When a body is found on the bridge between Denmark and Sweden, right on the border, Danish inspector Martin Rohde and Swedish Saga Norén have to share jurisdiction and work together to find the killer.",
         "languages": [
@@ -7785,10 +8164,16 @@
           "female-protagonist",
           "tragic"
         ],
-        "updated_at": "2026-04-08T06:47:18.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "The_Bridge_(2011_TV_series)"
+        },
+        "updated_at": "2026-04-09T06:48:33.000Z",
         "first_aired": "2011-09-21T19:00:00.000Z",
         "certification": "TV-MA",
-        "comment_count": 27,
+        "comment_count": 28,
         "total_runtime": 2221,
         "aired_episodes": 38,
         "original_title": "Bron/Broen",
@@ -7853,7 +8238,7 @@
         },
         "year": 2016,
         "title": "Lethal Weapon",
-        "votes": 3073,
+        "votes": 3074,
         "colors": {
           "poster": [
             "#CDCAB4",
@@ -7887,14 +8272,14 @@
             "media.trakt.tv/images/shows/000/107/717/cleararts/medium/a096239252.png.webp"
           ]
         },
-        "rating": 7.784249782562256,
+        "rating": 7.783994674682617,
         "status": "canceled",
         "country": "us",
         "network": "FOX",
         "runtime": 43,
         "tagline": "Good Cop. Crazy Good Cop.",
         "trailer": "https://youtube.com/watch?v=axMqvtJ7Rks",
-        "homepage": "http://www.fox.com/lethal-weapon",
+        "homepage": "https://www.fox.com/lethal-weapon",
         "language": "en",
         "overview": "A slightly unhinged former Navy SEAL lands a job as a police officer in Los Angeles where he's partnered with a veteran detective trying to keep maintain a low stress level in his life.",
         "languages": [
@@ -7904,7 +8289,13 @@
           "based-on-movie",
           "police-detective"
         ],
-        "updated_at": "2026-04-07T09:30:08.000Z",
+        "social_ids": {
+          "twitter": "LethalWeaponFOX",
+          "facebook": "LethalWeaponFOX",
+          "instagram": "LethalWeaponFOX",
+          "wikipedia": "Lethal_Weapon_(TV_series)"
+        },
+        "updated_at": "2026-04-08T10:49:54.000Z",
         "first_aired": "2016-09-22T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 51,
@@ -8022,7 +8413,13 @@
           "callous",
           "dark"
         ],
-        "updated_at": "2026-04-07T06:57:39.000Z",
+        "social_ids": {
+          "twitter": "Bloodline",
+          "facebook": "BloodlineTV",
+          "instagram": "bloodline",
+          "wikipedia": "Bloodline_(TV_series)"
+        },
+        "updated_at": "2026-04-08T06:59:38.000Z",
         "first_aired": "2015-03-20T16:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 21,
@@ -8132,7 +8529,13 @@
           "hospital",
           "medical-drama"
         ],
-        "updated_at": "2026-04-07T15:58:57.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": "null",
+          "instagram": null,
+          "wikipedia": "ER_(TV_series)"
+        },
+        "updated_at": "2026-04-08T15:40:47.000Z",
         "first_aired": "1994-09-20T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 7,
@@ -8245,7 +8648,13 @@
         "subgenres": [
           "soldier"
         ],
-        "updated_at": "2026-04-07T07:49:59.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": "strikebackmax",
+          "instagram": null,
+          "wikipedia": "Strike_Back_(TV_series)"
+        },
+        "updated_at": "2026-04-08T07:56:11.000Z",
         "first_aired": "2010-05-05T20:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 48,
@@ -8338,14 +8747,14 @@
             "media.trakt.tv/images/shows/000/098/934/cleararts/medium/510b5a03b2.png.webp"
           ]
         },
-        "rating": 7.788209438323975,
+        "rating": 7.787773132324219,
         "status": "returning series",
         "country": "us",
         "network": "NBC",
         "runtime": 43,
         "tagline": "Welcome home.",
         "trailer": "https://youtube.com/watch?v=U2NZ7G02e40",
-        "homepage": "http://www.nbc.com/chicago-med",
+        "homepage": "https://www.nbc.com/chicago-med",
         "language": "en",
         "overview": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
         "languages": [
@@ -8358,12 +8767,18 @@
           "medical-drama",
           "nurse"
         ],
-        "updated_at": "2026-04-07T09:28:01.000Z",
+        "social_ids": {
+          "twitter": "NBCOneChicago",
+          "facebook": "NBCOneChicago",
+          "instagram": "NBCOneChicago",
+          "wikipedia": "Chicago_Med"
+        },
+        "updated_at": "2026-04-09T06:53:58.000Z",
         "first_aired": "2015-11-18T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 16,
-        "total_runtime": 9105,
-        "aired_episodes": 214,
+        "total_runtime": 9148,
+        "aired_episodes": 215,
         "original_title": "Chicago Med",
         "available_translations": [
           "bg",
@@ -8472,7 +8887,13 @@
         "subgenres": [
           "spin-off"
         ],
-        "updated_at": "2026-04-07T09:55:53.000Z",
+        "social_ids": {
+          "twitter": "911LoneStar",
+          "facebook": "911LoneStar",
+          "instagram": "911lonestar",
+          "wikipedia": "9-1-1:_Lone_Star"
+        },
+        "updated_at": "2026-04-08T12:09:34.000Z",
         "first_aired": "2020-01-20T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 25,
@@ -8533,7 +8954,7 @@
         },
         "year": 2012,
         "title": "Last Resort",
-        "votes": 2032,
+        "votes": 2033,
         "colors": {
           "poster": [
             "#B1B6A3",
@@ -8565,7 +8986,7 @@
             "media.trakt.tv/images/shows/000/044/404/cleararts/medium/5d841e6ed4.png.webp"
           ]
         },
-        "rating": 7.028051376342773,
+        "rating": 7.029512882232666,
         "status": "canceled",
         "country": "us",
         "network": "ABC",
@@ -8583,7 +9004,13 @@
           "island",
           "submarine"
         ],
-        "updated_at": "2026-04-07T07:28:44.000Z",
+        "social_ids": {
+          "twitter": "null",
+          "facebook": "null",
+          "instagram": null,
+          "wikipedia": "Last_Resort_(TV_series)"
+        },
+        "updated_at": "2026-04-08T07:07:08.000Z",
         "first_aired": "2012-09-28T00:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 23,
@@ -8636,7 +9063,7 @@
         },
         "year": 2024,
         "title": "Tracker",
-        "votes": 1808,
+        "votes": 1810,
         "colors": {
           "poster": [
             "#ADB49B",
@@ -8667,7 +9094,7 @@
             "media.trakt.tv/images/shows/000/198/575/cleararts/medium/f8e4e0b027.png.webp"
           ]
         },
-        "rating": 7.238937854766846,
+        "rating": 7.240883827209473,
         "status": "returning series",
         "country": "us",
         "network": "CBS",
@@ -8683,7 +9110,13 @@
         "subgenres": [
           "suspenseful"
         ],
-        "updated_at": "2026-04-07T16:26:36.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "Tracker_(American_TV_series)"
+        },
+        "updated_at": "2026-04-08T15:59:54.000Z",
         "first_aired": "2024-02-12T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 43,
@@ -8749,7 +9182,7 @@
         },
         "year": 2017,
         "title": "24: Legacy",
-        "votes": 1102,
+        "votes": 1103,
         "colors": {
           "poster": [
             "#AE9A83",
@@ -8781,14 +9214,14 @@
             "media.trakt.tv/images/shows/000/107/716/cleararts/medium/bff951cd08.png.webp"
           ]
         },
-        "rating": 6.475499153137207,
+        "rating": 6.481414318084717,
         "status": "canceled",
         "country": "us",
         "network": "FOX",
         "runtime": 42,
         "tagline": "New day. New hero.",
         "trailer": "https://youtube.com/watch?v=sOWpUB_Xdqs",
-        "homepage": "http://www.fox.com/24-legacy",
+        "homepage": "https://www.fox.com/24-legacy",
         "language": "en",
         "overview": "The story of  military hero Eric Carter’s return to the U.S. and the trouble that follows him back – compelling him to ask CTU for help in saving his life, and stopping what potentially could be one of the largest-scale terror attacks on American soil.",
         "languages": [
@@ -8798,7 +9231,13 @@
           "spin-off",
           "terrorism"
         ],
-        "updated_at": "2026-04-07T09:29:15.000Z",
+        "social_ids": {
+          "twitter": "24fox",
+          "facebook": "24fox",
+          "instagram": "24onfox",
+          "wikipedia": "24:_Legacy"
+        },
+        "updated_at": "2026-04-08T10:48:26.000Z",
         "first_aired": "2017-02-06T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 13,
@@ -8896,7 +9335,7 @@
         "runtime": 45,
         "tagline": "",
         "trailer": "https://youtube.com/watch?v=ti_FpVbHGlc",
-        "homepage": "http://www.cbs.com/shows/code-black/",
+        "homepage": "https://www.cbs.com/shows/code-black/",
         "language": "en",
         "overview": "Inspired by the award-winning documentary, this medical drama is set in the busiest and most notorious ER in the nation where the extraordinary staff confront a challenged system in order to protect their ideals and the patients who need them the most.",
         "languages": [
@@ -8908,7 +9347,13 @@
           "medical-drama",
           "nurse"
         ],
-        "updated_at": "2026-04-07T15:36:45.000Z",
+        "social_ids": {
+          "twitter": "codeblackcbs",
+          "facebook": "CodeBlackCBS",
+          "instagram": "codeblack_cbs",
+          "wikipedia": "Code_Black_(TV_series)"
+        },
+        "updated_at": "2026-04-08T10:10:44.000Z",
         "first_aired": "2015-10-01T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 16,
@@ -8985,7 +9430,7 @@
           ],
           "banner": [],
           "fanart": [
-            "media.trakt.tv/images/shows/000/196/417/fanarts/medium/8e513144b6.jpg.webp"
+            "media.trakt.tv/images/shows/000/196/417/fanarts/medium/c4a4aeeb62.jpg.webp"
           ],
           "poster": [
             "media.trakt.tv/images/shows/000/196/417/posters/medium/9706b78323.jpg.webp"
@@ -9013,7 +9458,13 @@
           "investigation",
           "cold-case"
         ],
-        "updated_at": "2026-04-07T10:36:05.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "Criminal_Record_(TV_series)"
+        },
+        "updated_at": "2026-04-09T02:51:04.000Z",
         "first_aired": "2024-01-10T00:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 14,
@@ -9081,7 +9532,7 @@
         },
         "year": 2024,
         "title": "Matlock",
-        "votes": 896,
+        "votes": 900,
         "colors": {
           "poster": [
             "#7E99B1",
@@ -9108,7 +9559,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.4441962242126465,
+        "rating": 7.453333377838135,
         "status": "returning series",
         "country": "us",
         "network": "CBS",
@@ -9124,7 +9575,13 @@
         "subgenres": [
           "lawyer"
         ],
-        "updated_at": "2026-04-07T16:22:47.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "Matlock_(2024_TV_series)"
+        },
+        "updated_at": "2026-04-08T16:05:39.000Z",
         "first_aired": "2024-09-23T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 20,
@@ -9228,7 +9685,13 @@
           "central-intelligence-agency-cia",
           "spy"
         ],
-        "updated_at": "2026-04-07T09:28:53.000Z",
+        "social_ids": {
+          "twitter": "berlinstation",
+          "facebook": null,
+          "instagram": "berlin_station",
+          "wikipedia": "Berlin_Station_(TV_series)"
+        },
+        "updated_at": "2026-04-08T10:48:10.000Z",
         "first_aired": "2016-10-17T00:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 9,
@@ -9326,7 +9789,7 @@
         "runtime": 45,
         "tagline": "",
         "trailer": null,
-        "homepage": "http://www.cbs.com/shows/criminal-minds-beyond-borders/",
+        "homepage": "https://www.cbs.com/shows/criminal-minds-beyond-borders/",
         "language": "en",
         "overview": "Criminal Minds: Beyond Borders is a drama about the specialized International Division of the FBI tasked with solving crimes and coming to the rescue of Americans who find themselves in danger while abroad.",
         "languages": [
@@ -9336,7 +9799,13 @@
           "fbi",
           "spin-off"
         ],
-        "updated_at": "2026-04-07T09:26:55.000Z",
+        "social_ids": {
+          "twitter": "CriminalMindsBB",
+          "facebook": "CriminalMindsBeyondBorders",
+          "instagram": "CriminalmindsBB_CBS",
+          "wikipedia": "Criminal_Minds:_Beyond_Borders"
+        },
+        "updated_at": "2026-04-08T10:15:20.000Z",
         "first_aired": "2016-03-17T02:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 12,
@@ -9431,7 +9900,7 @@
         "runtime": 43,
         "tagline": "",
         "trailer": "https://youtube.com/watch?v=vmuCgGcZydY",
-        "homepage": "http://www.sundance.tv/series/hap-and-leonard",
+        "homepage": "https://www.sundance.tv/series/hap-and-leonard",
         "language": "en",
         "overview": "A darkly comic swamp noir story of two best friends set in the late 1980s. Based on the novels by Joe R. Lansdale, the series follows Hap Collins, an East Texas white boy with a weakness for Southern women, and Leonard Pine, a gay, black Vietnam vet with a hot temper.",
         "languages": [
@@ -9441,7 +9910,13 @@
           "1980s",
           "vietnam-veteran"
         ],
-        "updated_at": "2026-04-07T09:29:17.000Z",
+        "social_ids": {
+          "twitter": "HapAndLeonard",
+          "facebook": "hapandleonard",
+          "instagram": null,
+          "wikipedia": "Hap_and_Leonard_(TV_series)"
+        },
+        "updated_at": "2026-04-08T10:48:37.000Z",
         "first_aired": "2016-03-03T03:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 7,
@@ -9533,7 +10008,7 @@
         "runtime": 44,
         "tagline": "Mistakes are not an option.",
         "trailer": "https://youtube.com/watch?v=G1c6jQlAUAE",
-        "homepage": "http://www.warnervideo.com/lafemmenikitadvd/",
+        "homepage": "https://www.warnervideo.com/lafemmenikitadvd/",
         "language": "en",
         "overview": "Nikita is a drug-addicted juvenile delinquent who was accused of killing a police officer in cold blood during an attempted robbery of a pharmacy. She is later arrested and sentenced to death by lethal injection, upon which she was secretly drugged by the government, faking her death. Nikita is then \"recruited\" by a secret government organization and transformed into a highly skilled assassin who cannot be traced.",
         "languages": [
@@ -9545,6 +10020,12 @@
           "spy",
           "secret-organization"
         ],
+        "social_ids": {
+          "twitter": null,
+          "facebook": "null",
+          "instagram": null,
+          "wikipedia": "La_Femme_Nikita_(TV_series)"
+        },
         "updated_at": "2026-04-04T09:46:09.000Z",
         "first_aired": "1997-01-13T17:00:00.000Z",
         "certification": null,
@@ -9648,7 +10129,13 @@
           "treasure-hunt",
           "archeology"
         ],
-        "updated_at": "2026-04-07T08:49:16.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "Relic_Hunter"
+        },
+        "updated_at": "2026-04-08T09:09:19.000Z",
         "first_aired": "1999-09-25T04:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 3,
@@ -9745,7 +10232,13 @@
           "ko"
         ],
         "subgenres": [],
-        "updated_at": "2026-04-07T10:44:06.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "The_Manipulated"
+        },
+        "updated_at": "2026-04-08T15:46:01.000Z",
         "first_aired": "2025-11-05T07:00:00.000Z",
         "certification": "TV-MA",
         "comment_count": 6,
@@ -9853,6 +10346,12 @@
         "subgenres": [
           "escape"
         ],
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "The_Fugitive_(1963_TV_series)"
+        },
         "updated_at": "2026-03-26T15:38:27.000Z",
         "first_aired": "1963-09-17T04:00:00.000Z",
         "certification": "TV-PG",
@@ -9941,7 +10440,13 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-04-06T09:31:28.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "Jack_Hunter_(film_series)"
+        },
+        "updated_at": "2026-04-08T09:17:19.000Z",
         "first_aired": "2008-12-23T05:00:00.000Z",
         "certification": "NR",
         "comment_count": 0,
