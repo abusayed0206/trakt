@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-08T06:56:11.425825+00:00",
+    "fetched_at": "2026-04-09T06:58:55.989316+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -22,7 +22,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 7638,
+        "votes": 7746,
         "colors": {
           "poster": [
             "#CB9879",
@@ -54,7 +54,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.549358367919922,
+        "rating": 7.5529303550720215,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -72,10 +72,16 @@
           "alien",
           "vibrant"
         ],
-        "updated_at": "2026-04-07T16:27:56.000Z",
+        "social_ids": {
+          "twitter": "officialavatar",
+          "facebook": "Avatar",
+          "instagram": "avatar",
+          "wikipedia": "Avatar:_Fire_and_Ash"
+        },
+        "updated_at": "2026-04-08T16:09:16.000Z",
         "after_credits": false,
         "certification": "PG-13",
-        "comment_count": 143,
+        "comment_count": 145,
         "during_credits": false,
         "original_title": "Avatar: Fire and Ash",
         "available_translations": [
@@ -150,7 +156,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2805,
+        "votes": 2807,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -182,7 +188,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.818538188934326,
+        "rating": 5.817955017089844,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -200,7 +206,13 @@
           "based-on-comic",
           "marvel-cinematic-universe-mcu"
         ],
-        "updated_at": "2026-04-07T15:40:18.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "Ironheart_(miniseries)"
+        },
+        "updated_at": "2026-04-08T15:46:32.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -302,6 +314,12 @@
           "en"
         ],
         "subgenres": [],
+        "social_ids": {
+          "twitter": "officialavatar",
+          "facebook": "Avatar",
+          "instagram": "avatar",
+          "wikipedia": "Avatar_4"
+        },
         "updated_at": "2026-03-27T08:42:26.000Z",
         "after_credits": false,
         "certification": null,
@@ -390,7 +408,13 @@
           "marvel-cinematic-universe-mcu",
           "superhero-team"
         ],
-        "updated_at": "2026-04-07T08:43:24.000Z",
+        "social_ids": {
+          "twitter": "Avengers",
+          "facebook": "avengers",
+          "instagram": "avengers",
+          "wikipedia": "Avengers:_Doomsday"
+        },
+        "updated_at": "2026-04-08T08:19:55.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -483,6 +507,12 @@
           "en"
         ],
         "subgenres": [],
+        "social_ids": {
+          "twitter": "officialavatar",
+          "facebook": "Avatar",
+          "instagram": "avatar",
+          "wikipedia": "Avatar_5"
+        },
         "updated_at": "2026-03-22T08:36:31.000Z",
         "after_credits": false,
         "certification": null,
@@ -533,7 +563,7 @@
         },
         "genres": [
           "science-fiction",
-          "adventure"
+          "drama"
         ],
         "images": {
           "logo": [
@@ -552,7 +582,7 @@
         "rating": 7.906976699829102,
         "status": "post production",
         "country": "us",
-        "runtime": 140,
+        "runtime": null,
         "tagline": "The epic conclusion.",
         "trailer": "https://youtube.com/watch?v=3_9vCamtuPY",
         "homepage": "https://www.dunemovie.com",
@@ -563,7 +593,13 @@
           "en"
         ],
         "subgenres": [],
-        "updated_at": "2026-04-07T08:32:13.000Z",
+        "social_ids": {
+          "twitter": "dunemovie",
+          "facebook": "dune",
+          "instagram": "dunemovie",
+          "wikipedia": "Dune:_Part_Three"
+        },
+        "updated_at": "2026-04-08T08:09:23.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 3,
@@ -665,7 +701,13 @@
           "masked-superhero",
           "vigilante"
         ],
-        "updated_at": "2026-04-07T08:32:04.000Z",
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "The_Batman:_Part_II"
+        },
+        "updated_at": "2026-04-08T08:47:33.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -742,6 +784,12 @@
           "en"
         ],
         "subgenres": [],
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": "The_Beekeeper_2"
+        },
         "updated_at": "2026-03-26T08:42:49.000Z",
         "after_credits": false,
         "certification": null,
@@ -805,6 +853,12 @@
           "en"
         ],
         "subgenres": [],
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": null
+        },
         "updated_at": "2026-01-23T08:32:25.000Z",
         "after_credits": false,
         "certification": null,
@@ -868,6 +922,12 @@
           "en"
         ],
         "subgenres": [],
+        "social_ids": {
+          "twitter": null,
+          "facebook": null,
+          "instagram": null,
+          "wikipedia": null
+        },
         "updated_at": "2024-12-26T08:08:20.000Z",
         "after_credits": false,
         "certification": null,
