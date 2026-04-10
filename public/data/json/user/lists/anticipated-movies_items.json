@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-09T06:58:55.989316+00:00",
+    "fetched_at": "2026-04-10T07:07:34.934937+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -22,7 +22,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 7746,
+        "votes": 7846,
         "colors": {
           "poster": [
             "#CB9879",
@@ -54,7 +54,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.5529303550720215,
+        "rating": 7.55314826965332,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -78,7 +78,7 @@
           "instagram": "avatar",
           "wikipedia": "Avatar:_Fire_and_Ash"
         },
-        "updated_at": "2026-04-08T16:09:16.000Z",
+        "updated_at": "2026-04-09T16:06:17.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 145,
@@ -156,7 +156,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2807,
+        "votes": 2808,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -188,7 +188,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.817955017089844,
+        "rating": 5.818376064300537,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -212,7 +212,7 @@
           "instagram": null,
           "wikipedia": "Ironheart_(miniseries)"
         },
-        "updated_at": "2026-04-08T15:46:32.000Z",
+        "updated_at": "2026-04-09T15:10:48.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -414,7 +414,7 @@
           "instagram": "avengers",
           "wikipedia": "Avengers:_Doomsday"
         },
-        "updated_at": "2026-04-08T08:19:55.000Z",
+        "updated_at": "2026-04-09T08:12:34.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -599,7 +599,7 @@
           "instagram": "dunemovie",
           "wikipedia": "Dune:_Part_Three"
         },
-        "updated_at": "2026-04-08T08:09:23.000Z",
+        "updated_at": "2026-04-09T08:09:40.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 3,
@@ -707,7 +707,7 @@
           "instagram": null,
           "wikipedia": "The_Batman:_Part_II"
         },
-        "updated_at": "2026-04-08T08:47:33.000Z",
+        "updated_at": "2026-04-09T08:13:20.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
