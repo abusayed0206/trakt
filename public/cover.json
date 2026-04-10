@@ -63,16 +63,27 @@
   ],
   "shows": [
     {
+      "tmdb_id": 202555,
+      "title": "Daredevil: Born Again",
+      "season": 2,
+      "available_seasons": [
+        1,
+        2
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/202555/2/season_2_poster.jpg",
+      "last_watched_at": "2026-04-08T22:41:00.000Z"
+    },
+    {
       "tmdb_id": 4057,
       "title": "Criminal Minds",
-      "season": 1,
+      "season": 3,
       "available_seasons": [
         1,
         2,
         3,
         4
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/3/season_3_poster.jpg",
       "last_watched_at": "2026-04-05T17:01:00.000Z"
     },
     {
@@ -90,12 +101,12 @@
     {
       "tmdb_id": 1412,
       "title": "Arrow",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/1/season_1_poster.jpg",
       "last_watched_at": "2026-01-11T19:21:00.000Z"
     },
     {
@@ -111,7 +122,7 @@
     {
       "tmdb_id": 66732,
       "title": "Stranger Things",
-      "season": 5,
+      "season": 3,
       "available_seasons": [
         1,
         2,
@@ -119,19 +130,19 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/5/season_5_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/3/season_3_poster.jpg",
       "last_watched_at": "2026-01-01T10:15:00.000Z"
     },
     {
       "tmdb_id": 1973,
       "title": "24",
-      "season": 3,
+      "season": 1,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/1/season_1_poster.jpg",
       "last_watched_at": "2025-12-20T20:34:00.000Z"
     },
     {
@@ -149,12 +160,12 @@
     {
       "tmdb_id": 1415,
       "title": "Elementary",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/2/season_2_poster.jpg",
       "last_watched_at": "2025-09-10T09:38:00.000Z"
     },
     {
@@ -166,17 +177,6 @@
       ],
       "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/259909/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-05T17:38:00.000Z"
-    },
-    {
-      "tmdb_id": 119051,
-      "title": "Wednesday",
-      "season": 2,
-      "available_seasons": [
-        1,
-        2
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/119051/2/season_2_poster.jpg",
-      "last_watched_at": "2025-09-04T08:28:00.000Z"
     }
   ]
 }
