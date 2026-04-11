@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-10T07:07:34.934937+00:00",
+    "fetched_at": "2026-04-11T06:39:48.217301+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -22,7 +22,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 7846,
+        "votes": 7973,
         "colors": {
           "poster": [
             "#CB9879",
@@ -54,7 +54,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.55314826965332,
+        "rating": 7.550482749938965,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -78,10 +78,10 @@
           "instagram": "avatar",
           "wikipedia": "Avatar:_Fire_and_Ash"
         },
-        "updated_at": "2026-04-09T16:06:17.000Z",
+        "updated_at": "2026-04-10T16:14:48.000Z",
         "after_credits": false,
         "certification": "PG-13",
-        "comment_count": 145,
+        "comment_count": 146,
         "during_credits": false,
         "original_title": "Avatar: Fire and Ash",
         "available_translations": [
@@ -156,7 +156,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2808,
+        "votes": 2809,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -188,7 +188,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.818376064300537,
+        "rating": 5.818796634674072,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -212,7 +212,7 @@
           "instagram": null,
           "wikipedia": "Ironheart_(miniseries)"
         },
-        "updated_at": "2026-04-09T15:10:48.000Z",
+        "updated_at": "2026-04-10T16:03:38.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -364,8 +364,8 @@
         "votes": 68,
         "colors": {
           "poster": [
-            "#A0BB92",
-            "#18201A"
+            "#A4BF91",
+            "#172019"
           ]
         },
         "genres": [
@@ -386,7 +386,7 @@
             "media.trakt.tv/images/movies/000/806/490/fanarts/medium/af94d52c6e.jpg.webp"
           ],
           "poster": [
-            "media.trakt.tv/images/movies/000/806/490/posters/medium/1c3f2e9bd5.jpg.webp"
+            "media.trakt.tv/images/movies/000/806/490/posters/medium/b8f5a22c56.jpg.webp"
           ],
           "clearart": []
         },
@@ -414,7 +414,7 @@
           "instagram": "avengers",
           "wikipedia": "Avengers:_Doomsday"
         },
-        "updated_at": "2026-04-09T08:12:34.000Z",
+        "updated_at": "2026-04-10T16:14:42.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -599,7 +599,7 @@
           "instagram": "dunemovie",
           "wikipedia": "Dune:_Part_Three"
         },
-        "updated_at": "2026-04-09T08:09:40.000Z",
+        "updated_at": "2026-04-10T08:05:45.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 3,
@@ -707,7 +707,7 @@
           "instagram": null,
           "wikipedia": "The_Batman:_Part_II"
         },
-        "updated_at": "2026-04-09T08:13:20.000Z",
+        "updated_at": "2026-04-10T08:07:02.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
