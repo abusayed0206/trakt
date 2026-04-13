@@ -1,12 +1,132 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-12T06:54:19.399887+00:00",
+    "fetched_at": "2026-04-13T07:28:44.597826+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12186870616,
+      "watched_at": "2026-04-12T20:01:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 4,
+        "title": "The Magician",
+        "ids": {
+          "trakt": 74807,
+          "tvdb": 4962678,
+          "imdb": "tt3919146",
+          "tmdb": 1005648,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12186726559,
+      "watched_at": "2026-04-12T19:31:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 3,
+        "title": "Corto Maltese",
+        "ids": {
+          "trakt": 74806,
+          "tvdb": 4936769,
+          "imdb": "tt3879318",
+          "tmdb": 1005647,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12186647712,
+      "watched_at": "2026-04-12T18:48:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 2,
+        "title": "Sara",
+        "ids": {
+          "trakt": 74805,
+          "tvdb": 4936768,
+          "imdb": "tt3856758",
+          "tmdb": 1001380,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12186535406,
+      "watched_at": "2026-04-12T18:06:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 1,
+        "title": "The Calm",
+        "ids": {
+          "trakt": 74804,
+          "tvdb": 4917397,
+          "imdb": "tt3532626",
+          "tmdb": 1000643,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12177944454,
       "watched_at": "2026-04-08T22:41:00.000Z",
@@ -171,126 +291,6 @@
           "tvdb": 582111,
           "imdb": "tt1422241",
           "tmdb": 282835,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12169690707,
-      "watched_at": "2026-04-05T17:01:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 24,
-        "title": "Amplification",
-        "ids": {
-          "trakt": 291491,
-          "tvdb": 553201,
-          "imdb": "tt1425504",
-          "tmdb": 282833,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12169690706,
-      "watched_at": "2026-04-05T17:01:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 23,
-        "title": "Roadkill",
-        "ids": {
-          "trakt": 291490,
-          "tvdb": 497851,
-          "imdb": "tt1410492",
-          "tmdb": 282829,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12169690704,
-      "watched_at": "2026-04-05T17:01:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 22,
-        "title": "The Big Wheel",
-        "ids": {
-          "trakt": 291489,
-          "tvdb": 444957,
-          "imdb": "tt1256099",
-          "tmdb": 282818,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12169690703,
-      "watched_at": "2026-04-05T17:01:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 21,
-        "title": "A Shade of Gray",
-        "ids": {
-          "trakt": 291488,
-          "tvdb": 444956,
-          "imdb": "tt1256098",
-          "tmdb": 282814,
           "tvrage": null
         }
       },
