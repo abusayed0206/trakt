@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-12T06:54:20.949142+00:00",
+    "fetched_at": "2026-04-13T07:28:49.344434+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -22,7 +22,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 8164,
+        "votes": 8383,
         "colors": {
           "poster": [
             "#CB9879",
@@ -54,7 +54,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.553405284881592,
+        "rating": 7.55600643157959,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -69,8 +69,7 @@
         ],
         "subgenres": [
           "witch",
-          "alien",
-          "vibrant"
+          "alien"
         ],
         "social_ids": {
           "twitter": "officialavatar",
@@ -78,7 +77,7 @@
           "instagram": "avatar",
           "wikipedia": "Avatar:_Fire_and_Ash"
         },
-        "updated_at": "2026-04-11T16:04:15.000Z",
+        "updated_at": "2026-04-13T01:22:11.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 149,
@@ -156,7 +155,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2810,
+        "votes": 2812,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -188,7 +187,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.81886100769043,
+        "rating": 5.816856384277344,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -212,7 +211,7 @@
           "instagram": null,
           "wikipedia": "Ironheart_(miniseries)"
         },
-        "updated_at": "2026-04-11T10:58:26.000Z",
+        "updated_at": "2026-04-12T23:38:12.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -361,7 +360,7 @@
         },
         "year": 2026,
         "title": "Avengers: Doomsday",
-        "votes": 68,
+        "votes": 69,
         "colors": {
           "poster": [
             "#A4BF91",
@@ -390,7 +389,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.617647171020508,
+        "rating": 7.65217399597168,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -554,7 +553,7 @@
         },
         "year": 2026,
         "title": "Dune: Part Three",
-        "votes": 44,
+        "votes": 45,
         "colors": {
           "poster": [
             "#CDA468",
@@ -579,7 +578,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.886363506317139,
+        "rating": 7.933333396911621,
         "status": "post production",
         "country": "us",
         "runtime": null,
@@ -599,7 +598,7 @@
           "instagram": "dunemovie",
           "wikipedia": "Dune:_Part_Three"
         },
-        "updated_at": "2026-04-10T08:05:45.000Z",
+        "updated_at": "2026-04-12T15:41:55.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 3,
@@ -655,7 +654,7 @@
         },
         "year": 2027,
         "title": "Untitled The Batman Sequel",
-        "votes": 23,
+        "votes": 24,
         "colors": {
           "poster": [
             "#16C3E0",
@@ -682,7 +681,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.5652174949646,
+        "rating": 7.666666507720947,
         "status": "planned",
         "country": "us",
         "runtime": null,
