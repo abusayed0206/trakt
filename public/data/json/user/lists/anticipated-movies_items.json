@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-13T07:28:49.344434+00:00",
+    "fetched_at": "2026-04-14T07:08:36.846779+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -22,7 +22,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 8383,
+        "votes": 8480,
         "colors": {
           "poster": [
             "#CB9879",
@@ -54,7 +54,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.55600643157959,
+        "rating": 7.557547092437744,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -77,7 +77,7 @@
           "instagram": "avatar",
           "wikipedia": "Avatar:_Fire_and_Ash"
         },
-        "updated_at": "2026-04-13T01:22:11.000Z",
+        "updated_at": "2026-04-14T00:38:25.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 149,
@@ -105,6 +105,7 @@
           "it",
           "ja",
           "ka",
+          "kk",
           "kn",
           "ko",
           "lt",
@@ -155,7 +156,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2812,
+        "votes": 2811,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -187,7 +188,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.816856384277344,
+        "rating": 5.81679105758667,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -211,7 +212,7 @@
           "instagram": null,
           "wikipedia": "Ironheart_(miniseries)"
         },
-        "updated_at": "2026-04-12T23:38:12.000Z",
+        "updated_at": "2026-04-13T23:36:59.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -413,7 +414,7 @@
           "instagram": "avengers",
           "wikipedia": "Avengers:_Doomsday"
         },
-        "updated_at": "2026-04-12T03:39:34.000Z",
+        "updated_at": "2026-04-13T15:39:03.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -581,7 +582,7 @@
         "rating": 7.933333396911621,
         "status": "post production",
         "country": "us",
-        "runtime": null,
+        "runtime": 140,
         "tagline": "The epic conclusion.",
         "trailer": "https://youtube.com/watch?v=3_9vCamtuPY",
         "homepage": "https://www.dunemovie.com",
@@ -598,7 +599,7 @@
           "instagram": "dunemovie",
           "wikipedia": "Dune:_Part_Three"
         },
-        "updated_at": "2026-04-12T15:41:55.000Z",
+        "updated_at": "2026-04-13T15:36:32.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 3,
