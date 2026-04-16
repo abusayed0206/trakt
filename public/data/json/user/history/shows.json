@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-15T07:09:36.646074+00:00",
+    "fetched_at": "2026-04-16T07:10:45.120912+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12195591054,
+      "watched_at": "2026-04-16T05:57:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 14,
+        "title": "The Return",
+        "ids": {
+          "trakt": 1712337,
+          "tvdb": 5069023,
+          "imdb": "tt4006600",
+          "tmdb": 1037875,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12193099943,
+      "watched_at": "2026-04-15T09:45:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 5,
+        "title": "The Grand Design",
+        "ids": {
+          "trakt": 13891099,
+          "tvdb": 11580810,
+          "imdb": "tt21357498",
+          "tmdb": 6825661,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Daredevil: Born Again",
+        "year": 2025,
+        "ids": {
+          "trakt": 195845,
+          "slug": "daredevil-born-again",
+          "tvdb": 422712,
+          "imdb": "tt18923754",
+          "tmdb": 202555,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12188680776,
       "watched_at": "2026-04-13T12:35:00.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 11580808,
           "imdb": "tt21357496",
           "tmdb": 6825659,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Daredevil: Born Again",
-        "year": 2025,
-        "ids": {
-          "trakt": 195845,
-          "slug": "daredevil-born-again",
-          "tvdb": 422712,
-          "imdb": "tt18923754",
-          "tmdb": 202555,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12177756826,
-      "watched_at": "2026-04-08T21:05:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 2,
-        "title": "Shoot the Moon",
-        "ids": {
-          "trakt": 13891095,
-          "tvdb": 11580807,
-          "imdb": "tt21357494",
-          "tmdb": 6825658,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Daredevil: Born Again",
-        "year": 2025,
-        "ids": {
-          "trakt": 195845,
-          "slug": "daredevil-born-again",
-          "tvdb": 422712,
-          "imdb": "tt18923754",
-          "tmdb": 202555,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12177651910,
-      "watched_at": "2026-04-08T20:05:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 1,
-        "title": "The Northern Star",
-        "ids": {
-          "trakt": 13705270,
-          "tvdb": 11397847,
-          "imdb": "tt21357492",
-          "tmdb": 6670286,
           "tvrage": null
         }
       },

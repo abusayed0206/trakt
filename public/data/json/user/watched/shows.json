@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-15T07:09:37.695876+00:00",
+    "fetched_at": "2026-04-16T07:10:46.434018+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,9 @@
   },
   "data": [
     {
-      "plays": 51,
-      "last_watched_at": "2026-04-13T12:35:00.000Z",
-      "last_updated_at": "2026-04-13T12:35:53.000Z",
+      "plays": 52,
+      "last_watched_at": "2026-04-16T05:57:00.000Z",
+      "last_updated_at": "2026-04-16T05:57:31.000Z",
       "reset_at": null,
       "show": {
         "title": "Arrow",
@@ -292,15 +292,20 @@
               "number": 7,
               "plays": 1,
               "last_watched_at": "2026-04-13T12:35:00.000Z"
+            },
+            {
+              "number": 14,
+              "plays": 1,
+              "last_watched_at": "2026-04-16T05:57:00.000Z"
             }
           ]
         }
       ]
     },
     {
-      "plays": 13,
-      "last_watched_at": "2026-04-08T22:41:00.000Z",
-      "last_updated_at": "2026-04-08T22:41:45.000Z",
+      "plays": 14,
+      "last_watched_at": "2026-04-15T09:45:00.000Z",
+      "last_updated_at": "2026-04-15T09:45:57.000Z",
       "reset_at": null,
       "show": {
         "title": "Daredevil: Born Again",
@@ -387,6 +392,11 @@
               "number": 4,
               "plays": 1,
               "last_watched_at": "2026-04-08T22:41:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2026-04-15T09:45:00.000Z"
             }
           ]
         }
