@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-16T07:10:45.120912+00:00",
+    "fetched_at": "2026-04-17T07:10:44.833684+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12195720505,
+      "watched_at": "2026-04-16T08:50:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 14,
+        "title": "The Return",
+        "ids": {
+          "trakt": 1712337,
+          "tvdb": 5069023,
+          "imdb": "tt4006600",
+          "tmdb": 1037875,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12195591054,
       "watched_at": "2026-04-16T05:57:00.000Z",
@@ -261,36 +291,6 @@
           "tvdb": 11580809,
           "imdb": "tt21357500",
           "tmdb": 6825660,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Daredevil: Born Again",
-        "year": 2025,
-        "ids": {
-          "trakt": 195845,
-          "slug": "daredevil-born-again",
-          "tvdb": 422712,
-          "imdb": "tt18923754",
-          "tmdb": 202555,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12177827451,
-      "watched_at": "2026-04-08T21:49:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 3,
-        "title": "The Scales & the Sword",
-        "ids": {
-          "trakt": 13891096,
-          "tvdb": 11580808,
-          "imdb": "tt21357496",
-          "tmdb": 6825659,
           "tvrage": null
         }
       },
