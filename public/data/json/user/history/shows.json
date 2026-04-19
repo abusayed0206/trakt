@@ -1,12 +1,102 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-18T06:47:56.990720+00:00",
+    "fetched_at": "2026-04-19T06:58:35.428661+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12200333597,
+      "watched_at": "2026-04-18T10:21:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 17,
+        "title": "Suicidal Tendencies",
+        "ids": {
+          "trakt": 1714051,
+          "tvdb": 5104333,
+          "imdb": "tt4006606",
+          "tmdb": 1039996,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12200266865,
+      "watched_at": "2026-04-18T09:34:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 16,
+        "title": "The Offer",
+        "ids": {
+          "trakt": 1714050,
+          "tvdb": 5104332,
+          "imdb": "tt4006594",
+          "tmdb": 1037877,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12200190472,
+      "watched_at": "2026-04-18T08:46:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 15,
+        "title": "Nanda Parbat",
+        "ids": {
+          "trakt": 1712338,
+          "tvdb": 5087485,
+          "imdb": "tt4006588",
+          "tmdb": 1037876,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12195720505,
       "watched_at": "2026-04-16T08:50:00.000Z",
@@ -213,96 +303,6 @@
           "tvdb": 257655,
           "imdb": "tt2193021",
           "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12186647712,
-      "watched_at": "2026-04-12T18:48:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 2,
-        "title": "Sara",
-        "ids": {
-          "trakt": 74805,
-          "tvdb": 4936768,
-          "imdb": "tt3856758",
-          "tmdb": 1001380,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12186535406,
-      "watched_at": "2026-04-12T18:06:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 1,
-        "title": "The Calm",
-        "ids": {
-          "trakt": 74804,
-          "tvdb": 4917397,
-          "imdb": "tt3532626",
-          "tmdb": 1000643,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12177944454,
-      "watched_at": "2026-04-08T22:41:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 4,
-        "title": "Gloves Off",
-        "ids": {
-          "trakt": 13891098,
-          "tvdb": 11580809,
-          "imdb": "tt21357500",
-          "tmdb": 6825660,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Daredevil: Born Again",
-        "year": 2025,
-        "ids": {
-          "trakt": 195845,
-          "slug": "daredevil-born-again",
-          "tvdb": 422712,
-          "imdb": "tt18923754",
-          "tmdb": 202555,
           "tvrage": null
         }
       }
