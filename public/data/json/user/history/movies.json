@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-19T06:58:35.168393+00:00",
+    "fetched_at": "2026-04-20T07:29:41.517486+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12202960008,
+      "watched_at": "2026-04-19T13:28:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "2 0 4 5",
+        "year": 2016,
+        "ids": {
+          "trakt": 532401,
+          "slug": "2-0-4-5-2016",
+          "imdb": "tt6168774",
+          "tmdb": 687800
+        }
+      }
+    },
     {
       "id": 12181302020,
       "watched_at": "2026-04-10T14:11:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "unleashed-2005",
           "imdb": "tt0342258",
           "tmdb": 10027
-        }
-      }
-    },
-    {
-      "id": 12061803765,
-      "watched_at": "2026-03-03T14:30:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Mercy",
-        "year": 2026,
-        "ids": {
-          "trakt": 1000015,
-          "slug": "mercy-2026",
-          "imdb": "tt31050594",
-          "tmdb": 1236153
         }
       }
     }
