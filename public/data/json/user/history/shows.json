@@ -1,12 +1,162 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-19T06:58:35.428661+00:00",
+    "fetched_at": "2026-04-20T07:29:41.826511+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12204064483,
+      "watched_at": "2026-04-19T20:26:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 22,
+        "title": "This is Your Sword",
+        "ids": {
+          "trakt": 1789090,
+          "tvdb": 5163045,
+          "imdb": "tt4006590",
+          "tmdb": 1051238,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12203998949,
+      "watched_at": "2026-04-19T19:58:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 21,
+        "title": "Al Sah-him",
+        "ids": {
+          "trakt": 1789089,
+          "tvdb": 5163039,
+          "imdb": "tt4006598",
+          "tmdb": 1051237,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12203860561,
+      "watched_at": "2026-04-19T19:17:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 20,
+        "title": "The Fallen",
+        "ids": {
+          "trakt": 1780644,
+          "tvdb": 5149023,
+          "imdb": "tt4006584",
+          "tmdb": 1047619,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12203775375,
+      "watched_at": "2026-04-19T18:38:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 19,
+        "title": "Broken Arrow",
+        "ids": {
+          "trakt": 1761831,
+          "tvdb": 5133472,
+          "imdb": "tt4006602",
+          "tmdb": 1046436,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12203584086,
+      "watched_at": "2026-04-19T17:56:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 18,
+        "title": "Public Enemy",
+        "ids": {
+          "trakt": 1761828,
+          "tvdb": 5133471,
+          "imdb": "tt4006596",
+          "tmdb": 1046435,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Arrow",
+        "year": 2012,
+        "ids": {
+          "trakt": 1403,
+          "slug": "arrow",
+          "tvdb": 257655,
+          "imdb": "tt2193021",
+          "tmdb": 1412,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12200333597,
       "watched_at": "2026-04-18T10:21:00.000Z",
@@ -141,156 +291,6 @@
           "tvdb": 5069023,
           "imdb": "tt4006600",
           "tmdb": 1037875,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12193099943,
-      "watched_at": "2026-04-15T09:45:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 5,
-        "title": "The Grand Design",
-        "ids": {
-          "trakt": 13891099,
-          "tvdb": 11580810,
-          "imdb": "tt21357498",
-          "tmdb": 6825661,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Daredevil: Born Again",
-        "year": 2025,
-        "ids": {
-          "trakt": 195845,
-          "slug": "daredevil-born-again",
-          "tvdb": 422712,
-          "imdb": "tt18923754",
-          "tmdb": 202555,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12188680776,
-      "watched_at": "2026-04-13T12:35:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 7,
-        "title": "Draw Back Your Bow",
-        "ids": {
-          "trakt": 998804,
-          "tvdb": 5033874,
-          "imdb": "tt4006576",
-          "tmdb": 1010736,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12188468650,
-      "watched_at": "2026-04-13T09:31:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 5,
-        "title": "The Secret Origin of Felicity Smoak",
-        "ids": {
-          "trakt": 74808,
-          "tvdb": 4962679,
-          "imdb": "tt3956512",
-          "tmdb": 1005649,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12186870616,
-      "watched_at": "2026-04-12T20:01:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 4,
-        "title": "The Magician",
-        "ids": {
-          "trakt": 74807,
-          "tvdb": 4962678,
-          "imdb": "tt3919146",
-          "tmdb": 1005648,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12186726559,
-      "watched_at": "2026-04-12T19:31:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 3,
-        "title": "Corto Maltese",
-        "ids": {
-          "trakt": 74806,
-          "tvdb": 4936769,
-          "imdb": "tt3879318",
-          "tmdb": 1005647,
           "tvrage": null
         }
       },
