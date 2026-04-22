@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-21T07:12:33.826968+00:00",
+    "fetched_at": "2026-04-22T07:12:17.251193+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/mdblist_items.json",
@@ -66,7 +66,7 @@
           "instagram": null,
           "wikipedia": null
         },
-        "updated_at": "2026-04-19T18:11:15.000Z",
+        "updated_at": "2026-04-21T19:29:30.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -104,7 +104,7 @@
         },
         "year": 1954,
         "title": "Seven Samurai",
-        "votes": 6021,
+        "votes": 6024,
         "colors": {
           "poster": [
             "#9E9995",
@@ -135,7 +135,7 @@
             "media.trakt.tv/images/movies/000/000/293/cleararts/medium/a7fdffa762.png.webp"
           ]
         },
-        "rating": 8.4889554977417,
+        "rating": 8.489376068115234,
         "status": "released",
         "country": "jp",
         "runtime": 207,
@@ -166,7 +166,7 @@
           "instagram": null,
           "wikipedia": "Seven_Samurai"
         },
-        "updated_at": "2026-04-20T17:35:53.000Z",
+        "updated_at": "2026-04-21T18:25:08.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 28,
@@ -229,7 +229,7 @@
         },
         "year": 1954,
         "title": "Rear Window",
-        "votes": 9766,
+        "votes": 9770,
         "colors": {
           "poster": [
             "#AC8151",
@@ -238,7 +238,8 @@
         },
         "genres": [
           "mystery",
-          "thriller"
+          "thriller",
+          "drama"
         ],
         "images": {
           "logo": [
@@ -260,7 +261,7 @@
             "media.trakt.tv/images/movies/000/000/447/cleararts/medium/2522330b74.png.webp"
           ]
         },
-        "rating": 8.278312683105469,
+        "rating": 8.278403282165527,
         "status": "released",
         "country": "us",
         "runtime": 112,
@@ -285,7 +286,7 @@
           "instagram": null,
           "wikipedia": "Rear_Window"
         },
-        "updated_at": "2026-04-20T17:36:45.000Z",
+        "updated_at": "2026-04-21T18:25:54.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 47,
@@ -351,7 +352,7 @@
         },
         "year": 1962,
         "title": "Harakiri",
-        "votes": 2034,
+        "votes": 2035,
         "colors": {
           "poster": [
             "#F7F4F1",
@@ -381,7 +382,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.582099914550781,
+        "rating": 8.58230972290039,
         "status": "released",
         "country": "jp",
         "runtime": 135,
@@ -409,7 +410,7 @@
           "instagram": null,
           "wikipedia": "Harakiri_(1962_film)"
         },
-        "updated_at": "2026-04-20T17:33:28.000Z",
+        "updated_at": "2026-04-21T18:23:05.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 16,
@@ -517,7 +518,7 @@
           "instagram": null,
           "wikipedia": "Woman_in_the_Dunes"
         },
-        "updated_at": "2026-04-20T18:35:14.000Z",
+        "updated_at": "2026-04-21T19:23:30.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 10,
@@ -624,7 +625,7 @@
           "instagram": null,
           "wikipedia": "Yojimbo"
         },
-        "updated_at": "2026-04-20T17:41:58.000Z",
+        "updated_at": "2026-04-21T18:30:19.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 8,
@@ -712,7 +713,7 @@
             "media.trakt.tv/images/movies/000/006/719/cleararts/medium/6d2a61146d.png.webp"
           ]
         },
-        "rating": 8.067978858947754,
+        "rating": 8.06797981262207,
         "status": "released",
         "country": "jp",
         "runtime": 160,
@@ -742,7 +743,7 @@
           "instagram": null,
           "wikipedia": "Ran_(film)"
         },
-        "updated_at": "2026-04-20T18:19:49.000Z",
+        "updated_at": "2026-04-21T19:09:00.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 14,
@@ -802,7 +803,7 @@
         },
         "year": 1958,
         "title": "Vertigo",
-        "votes": 8591,
+        "votes": 8595,
         "colors": {
           "poster": [
             "#DC4829",
@@ -834,7 +835,7 @@
             "media.trakt.tv/images/movies/000/000/338/cleararts/medium/f6142ea92b.png.webp"
           ]
         },
-        "rating": 8.033519744873047,
+        "rating": 8.033275604248047,
         "status": "released",
         "country": "us",
         "runtime": 128,
@@ -861,7 +862,7 @@
           "instagram": null,
           "wikipedia": "Vertigo_(film)"
         },
-        "updated_at": "2026-04-20T18:22:01.000Z",
+        "updated_at": "2026-04-21T19:11:02.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 34,
@@ -980,7 +981,7 @@
           "instagram": null,
           "wikipedia": "Double_Indemnity"
         },
-        "updated_at": "2026-04-20T17:32:04.000Z",
+        "updated_at": "2026-04-21T18:21:45.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 15,
@@ -1093,7 +1094,7 @@
           "instagram": null,
           "wikipedia": "Three_Colours:_Red"
         },
-        "updated_at": "2026-04-20T18:18:39.000Z",
+        "updated_at": "2026-04-21T19:07:53.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 10,
@@ -1154,7 +1155,7 @@
         },
         "year": 2023,
         "title": "Spider-Man: Across the Spider-Verse",
-        "votes": 23760,
+        "votes": 23774,
         "colors": {
           "poster": [
             "#CB7061",
@@ -1189,7 +1190,7 @@
             "media.trakt.tv/images/movies/000/420/606/cleararts/medium/5aefb819e8.png.webp"
           ]
         },
-        "rating": 8.608712196350098,
+        "rating": 8.60869026184082,
         "status": "released",
         "country": "us",
         "runtime": 140,
@@ -1226,7 +1227,7 @@
           "instagram": "spiderversemovie",
           "wikipedia": "Spider-Man:_Across_the_Spider-Verse"
         },
-        "updated_at": "2026-04-20T19:20:39.000Z",
+        "updated_at": "2026-04-21T20:08:06.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 205,
@@ -1355,7 +1356,7 @@
           "instagram": null,
           "wikipedia": "Army_of_Shadows"
         },
-        "updated_at": "2026-04-20T18:08:48.000Z",
+        "updated_at": "2026-04-21T18:38:28.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 8,
@@ -1462,7 +1463,7 @@
           "instagram": null,
           "wikipedia": "High_and_Low_(1963_film)"
         },
-        "updated_at": "2026-04-20T17:39:27.000Z",
+        "updated_at": "2026-04-21T18:28:21.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 16,
@@ -1580,7 +1581,7 @@
           "instagram": null,
           "wikipedia": "M_(1931_film)"
         },
-        "updated_at": "2026-04-20T17:43:18.000Z",
+        "updated_at": "2026-04-21T18:31:38.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 22,
@@ -1700,7 +1701,7 @@
           "instagram": null,
           "wikipedia": "Fanny_and_Alexander"
         },
-        "updated_at": "2026-04-20T18:04:31.000Z",
+        "updated_at": "2026-04-21T18:34:12.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 4,
@@ -1812,7 +1813,7 @@
           "instagram": null,
           "wikipedia": "A_Man_Escaped"
         },
-        "updated_at": "2026-04-20T18:12:40.000Z",
+        "updated_at": "2026-04-21T18:42:30.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 10,
@@ -1865,7 +1866,7 @@
         },
         "year": 1967,
         "title": "Cool Hand Luke",
-        "votes": 3325,
+        "votes": 3326,
         "colors": {
           "poster": [
             "#DEE3DF",
@@ -1896,7 +1897,7 @@
             "media.trakt.tv/images/movies/000/000/746/cleararts/medium/5eaa4ea026.png.webp"
           ]
         },
-        "rating": 7.955187797546387,
+        "rating": 7.955502033233643,
         "status": "released",
         "country": "us",
         "runtime": 127,
@@ -1922,7 +1923,7 @@
           "instagram": null,
           "wikipedia": "Cool_Hand_Luke"
         },
-        "updated_at": "2026-04-20T18:18:21.000Z",
+        "updated_at": "2026-04-21T19:07:36.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 21,
@@ -2036,7 +2037,7 @@
           "instagram": null,
           "wikipedia": "A_Brighter_Summer_Day"
         },
-        "updated_at": "2026-04-20T17:33:11.000Z",
+        "updated_at": "2026-04-21T18:22:52.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 8,
@@ -2085,7 +2086,7 @@
         },
         "year": 1954,
         "title": "On the Waterfront",
-        "votes": 2390,
+        "votes": 2391,
         "colors": {
           "poster": [
             "#E3BAAF",
@@ -2117,7 +2118,7 @@
             "media.trakt.tv/images/movies/000/000/529/cleararts/medium/c5ea389606.png.webp"
           ]
         },
-        "rating": 7.732639789581299,
+        "rating": 7.732329368591309,
         "status": "released",
         "country": "us",
         "runtime": 108,
@@ -2142,7 +2143,7 @@
           "instagram": null,
           "wikipedia": "On_the_Waterfront"
         },
-        "updated_at": "2026-04-20T17:36:11.000Z",
+        "updated_at": "2026-04-21T18:25:27.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 13,
@@ -2256,7 +2257,7 @@
           "instagram": null,
           "wikipedia": "Rififi"
         },
-        "updated_at": "2026-04-20T18:15:50.000Z",
+        "updated_at": "2026-04-21T19:04:37.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -2361,7 +2362,7 @@
           "instagram": null,
           "wikipedia": "The_Wages_of_Fear"
         },
-        "updated_at": "2026-04-20T18:15:03.000Z",
+        "updated_at": "2026-04-21T18:44:56.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 10,
@@ -2470,7 +2471,7 @@
           "instagram": null,
           "wikipedia": "Ugetsu"
         },
-        "updated_at": "2026-04-20T18:16:30.000Z",
+        "updated_at": "2026-04-21T19:05:29.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 4,
@@ -2549,7 +2550,7 @@
             "media.trakt.tv/images/movies/000/352/473/cleararts/medium/ab9646d597.png.webp"
           ]
         },
-        "rating": 7.924013137817383,
+        "rating": 7.924283504486084,
         "status": "released",
         "country": "jp",
         "runtime": 120,
@@ -2573,7 +2574,7 @@
           "instagram": null,
           "wikipedia": "Shoplifters_(film)"
         },
-        "updated_at": "2026-04-20T19:09:42.000Z",
+        "updated_at": "2026-04-21T19:37:44.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 28,
@@ -2664,7 +2665,7 @@
             "media.trakt.tv/images/movies/000/187/026/cleararts/medium/d67a123047.png.webp"
           ]
         },
-        "rating": 8.20783519744873,
+        "rating": 8.20881175994873,
         "status": "released",
         "country": "kr",
         "runtime": 145,
@@ -2692,7 +2693,7 @@
           "instagram": null,
           "wikipedia": "The_Handmaiden"
         },
-        "updated_at": "2026-04-20T18:26:42.000Z",
+        "updated_at": "2026-04-21T19:15:38.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 52,
@@ -2760,7 +2761,7 @@
         },
         "year": 2018,
         "title": "Spider-Man: Into the Spider-Verse",
-        "votes": 46094,
+        "votes": 46107,
         "colors": {
           "poster": [
             "#8FB0D1",
@@ -2794,7 +2795,7 @@
             "media.trakt.tv/images/movies/000/205/404/cleararts/medium/d499c5975d.png.webp"
           ]
         },
-        "rating": 8.63615608215332,
+        "rating": 8.635998725891113,
         "status": "released",
         "country": "us",
         "runtime": 117,
@@ -2818,7 +2819,7 @@
           "instagram": "spiderversemovie",
           "wikipedia": "Spider-Man:_Into_the_Spider-Verse"
         },
-        "updated_at": "2026-04-20T18:40:52.000Z",
+        "updated_at": "2026-04-21T19:28:41.000Z",
         "after_credits": true,
         "certification": "PG",
         "comment_count": 189,
@@ -2939,7 +2940,7 @@
           "instagram": null,
           "wikipedia": "The_Hole_(1960_film)"
         },
-        "updated_at": "2026-04-20T17:44:16.000Z",
+        "updated_at": "2026-04-21T18:32:53.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 6,
@@ -3038,7 +3039,7 @@
           "instagram": null,
           "wikipedia": "The_400_Blows"
         },
-        "updated_at": "2026-04-20T17:41:05.000Z",
+        "updated_at": "2026-04-21T18:29:44.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 16,
@@ -3128,7 +3129,7 @@
             "media.trakt.tv/images/movies/000/000/844/cleararts/medium/a80c66598e.png.webp"
           ]
         },
-        "rating": 7.844228744506836,
+        "rating": 7.843915939331055,
         "status": "released",
         "country": "gb",
         "runtime": 105,
@@ -3156,7 +3157,7 @@
           "instagram": null,
           "wikipedia": "The_Third_Man"
         },
-        "updated_at": "2026-04-20T18:05:39.000Z",
+        "updated_at": "2026-04-21T18:35:08.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 14,
@@ -3217,7 +3218,7 @@
         },
         "year": 1974,
         "title": "Chinatown",
-        "votes": 6617,
+        "votes": 6620,
         "colors": {
           "poster": [
             "#FCD03E",
@@ -3250,7 +3251,7 @@
             "media.trakt.tv/images/movies/000/000/672/cleararts/medium/2957cd5065.png.webp"
           ]
         },
-        "rating": 7.927157402038574,
+        "rating": 7.927492618560791,
         "status": "released",
         "country": "us",
         "runtime": 130,
@@ -3280,7 +3281,7 @@
           "instagram": null,
           "wikipedia": "Chinatown_(1974_film)"
         },
-        "updated_at": "2026-04-20T18:16:46.000Z",
+        "updated_at": "2026-04-21T19:05:52.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 32,
@@ -3343,7 +3344,7 @@
         },
         "year": 2025,
         "title": "The Secret Agent",
-        "votes": 2077,
+        "votes": 2080,
         "colors": {
           "poster": [
             "#DAD4BE",
@@ -3371,7 +3372,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.2835822105407715,
+        "rating": 7.281730651855469,
         "status": "released",
         "country": "br",
         "runtime": 161,
@@ -3398,7 +3399,7 @@
           "instagram": "oagentesecreto_filme",
           "wikipedia": "The_Secret_Agent_(2025_film)"
         },
-        "updated_at": "2026-04-20T19:31:24.000Z",
+        "updated_at": "2026-04-21T20:16:46.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 31,
@@ -3467,7 +3468,8 @@
         "genres": [
           "romance",
           "thriller",
-          "mystery"
+          "mystery",
+          "drama"
         ],
         "images": {
           "logo": [
@@ -3517,7 +3519,7 @@
           "instagram": null,
           "wikipedia": "Notorious_(1946_film)"
         },
-        "updated_at": "2026-04-20T18:13:09.000Z",
+        "updated_at": "2026-04-21T18:43:18.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 7,
@@ -3578,7 +3580,7 @@
         },
         "year": 1958,
         "title": "Touch of Evil",
-        "votes": 1789,
+        "votes": 1788,
         "colors": {
           "poster": [
             "#EA6D2C",
@@ -3587,7 +3589,8 @@
         },
         "genres": [
           "crime",
-          "thriller"
+          "thriller",
+          "drama"
         ],
         "images": {
           "logo": [
@@ -3607,7 +3610,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.666289806365967,
+        "rating": 7.666666507720947,
         "status": "released",
         "country": "us",
         "runtime": 111,
@@ -3634,7 +3637,7 @@
           "instagram": null,
           "wikipedia": "Touch_of_Evil"
         },
-        "updated_at": "2026-04-20T18:22:15.000Z",
+        "updated_at": "2026-04-21T19:11:10.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 9,
@@ -3690,7 +3693,7 @@
         },
         "year": 2019,
         "title": "Collective",
-        "votes": 505,
+        "votes": 506,
         "colors": {
           "poster": [
             "#D6D6D6",
@@ -3712,7 +3715,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.889110088348389,
+        "rating": 7.8893280029296875,
         "status": "released",
         "country": "de",
         "runtime": 109,
@@ -3735,7 +3738,7 @@
           "instagram": null,
           "wikipedia": "Collective_(2019_film)"
         },
-        "updated_at": "2026-04-20T19:17:19.000Z",
+        "updated_at": "2026-04-21T19:44:12.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 5,
@@ -3842,7 +3845,7 @@
           "instagram": null,
           "wikipedia": "Z_(1969_film)"
         },
-        "updated_at": "2026-04-20T18:08:02.000Z",
+        "updated_at": "2026-04-21T18:37:45.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 4,
@@ -3893,7 +3896,7 @@
         },
         "year": 1955,
         "title": "The Night of the Hunter",
-        "votes": 2304,
+        "votes": 2305,
         "colors": {
           "poster": [
             "#DAD4CA",
@@ -3923,7 +3926,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.779079914093018,
+        "rating": 7.780477046966553,
         "status": "released",
         "country": "us",
         "runtime": 93,
@@ -3954,7 +3957,7 @@
           "instagram": null,
           "wikipedia": "The_Night_of_the_Hunter_(film)"
         },
-        "updated_at": "2026-04-20T18:17:50.000Z",
+        "updated_at": "2026-04-21T19:07:03.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 19,
@@ -4042,7 +4045,7 @@
             "media.trakt.tv/images/movies/000/000/799/cleararts/medium/6b585093e6.png.webp"
           ]
         },
-        "rating": 7.703052520751953,
+        "rating": 7.703050136566162,
         "status": "released",
         "country": "us",
         "runtime": 100,
@@ -4070,7 +4073,7 @@
           "instagram": null,
           "wikipedia": "The_Maltese_Falcon_(1941_film)"
         },
-        "updated_at": "2026-04-20T18:10:49.000Z",
+        "updated_at": "2026-04-21T18:40:39.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 17,
@@ -4128,7 +4131,7 @@
         },
         "year": 1959,
         "title": "North by Northwest",
-        "votes": 6296,
+        "votes": 6298,
         "colors": {
           "poster": [
             "#C1CAC9",
@@ -4160,7 +4163,7 @@
             "media.trakt.tv/images/movies/000/000/172/cleararts/medium/46bc80b77b.png.webp"
           ]
         },
-        "rating": 8.072744369506836,
+        "rating": 8.072563171386719,
         "status": "released",
         "country": "us",
         "runtime": 137,
@@ -4188,7 +4191,7 @@
           "instagram": null,
           "wikipedia": "North_by_Northwest"
         },
-        "updated_at": "2026-04-20T17:41:27.000Z",
+        "updated_at": "2026-04-21T18:30:00.000Z",
         "after_credits": false,
         "certification": "G",
         "comment_count": 36,
@@ -4276,7 +4279,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.700621128082275,
+        "rating": 7.700620174407959,
         "status": "released",
         "country": "fr",
         "runtime": 140,
@@ -4305,7 +4308,7 @@
           "instagram": null,
           "wikipedia": "Le_Cercle_Rouge"
         },
-        "updated_at": "2026-04-20T18:15:33.000Z",
+        "updated_at": "2026-04-21T19:03:58.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 4,
@@ -4409,7 +4412,7 @@
           "instagram": null,
           "wikipedia": "Paradise_Lost:_The_Child_Murders_at_Robin_Hood_Hills"
         },
-        "updated_at": "2026-04-19T17:35:23.000Z",
+        "updated_at": "2026-04-21T19:05:40.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
@@ -4448,7 +4451,7 @@
         },
         "year": 2009,
         "title": "The Cove",
-        "votes": 1453,
+        "votes": 1454,
         "colors": {
           "poster": [
             "#8795B6",
@@ -4478,7 +4481,7 @@
             "media.trakt.tv/images/movies/000/014/007/cleararts/medium/021ced6111.png.webp"
           ]
         },
-        "rating": 8.03579044342041,
+        "rating": 8.03645133972168,
         "status": "released",
         "country": "us",
         "runtime": 92,
@@ -4502,7 +4505,7 @@
           "instagram": null,
           "wikipedia": "The_Cove_(film)"
         },
-        "updated_at": "2026-04-20T18:28:24.000Z",
+        "updated_at": "2026-04-21T19:17:13.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 5,
@@ -4553,7 +4556,7 @@
         },
         "year": 2012,
         "title": "The Act of Killing",
-        "votes": 1602,
+        "votes": 1603,
         "colors": {
           "poster": [
             "#932769",
@@ -4582,7 +4585,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.949440002441406,
+        "rating": 7.950717449188232,
         "status": "released",
         "country": "dk",
         "runtime": 159,
@@ -4607,7 +4610,7 @@
           "instagram": null,
           "wikipedia": "The_Act_of_Killing"
         },
-        "updated_at": "2026-04-20T17:39:13.000Z",
+        "updated_at": "2026-04-21T18:28:05.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 7,
@@ -4661,7 +4664,7 @@
         },
         "year": 2006,
         "title": "The Lives of Others",
-        "votes": 6678,
+        "votes": 6680,
         "colors": {
           "poster": [
             "#B7B291",
@@ -4692,7 +4695,7 @@
             "media.trakt.tv/images/movies/000/000/461/cleararts/medium/dbf4b4c58a.png.webp"
           ]
         },
-        "rating": 8.208745002746582,
+        "rating": 8.209280967712402,
         "status": "released",
         "country": "de",
         "runtime": 137,
@@ -4720,7 +4723,7 @@
           "instagram": null,
           "wikipedia": "The_Lives_of_Others"
         },
-        "updated_at": "2026-04-20T17:40:07.000Z",
+        "updated_at": "2026-04-21T18:28:52.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 15,
@@ -4783,7 +4786,7 @@
         },
         "year": 1996,
         "title": "Fargo",
-        "votes": 19773,
+        "votes": 19777,
         "colors": {
           "poster": [
             "#E5E0E2",
@@ -4815,7 +4818,7 @@
             "media.trakt.tv/images/movies/000/000/231/cleararts/medium/b2fd2561c4.png.webp"
           ]
         },
-        "rating": 8.011733055114746,
+        "rating": 8.011731147766113,
         "status": "released",
         "country": "us",
         "runtime": 98,
@@ -4845,7 +4848,7 @@
           "instagram": null,
           "wikipedia": "Fargo_(1996_film)"
         },
-        "updated_at": "2026-04-20T18:15:54.000Z",
+        "updated_at": "2026-04-21T19:04:42.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 52,
@@ -4907,7 +4910,7 @@
         },
         "year": 2021,
         "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
-        "votes": 1687,
+        "votes": 1688,
         "colors": {
           "poster": [
             "#F7F6F7",
@@ -4940,7 +4943,7 @@
             "media.trakt.tv/images/movies/000/180/847/cleararts/medium/3934d38524.png.webp"
           ]
         },
-        "rating": 8.045050621032715,
+        "rating": 8.046208381652832,
         "status": "released",
         "country": "jp",
         "runtime": 155,
@@ -4969,10 +4972,10 @@
           "instagram": "evangelion.official",
           "wikipedia": "Evangelion:_3.0+1.0_Thrice_Upon_a_Time"
         },
-        "updated_at": "2026-04-20T19:06:30.000Z",
+        "updated_at": "2026-04-21T19:35:03.000Z",
         "after_credits": false,
         "certification": "NR",
-        "comment_count": 15,
+        "comment_count": 16,
         "during_credits": false,
         "original_title": "シン・エヴァンゲリオン劇場版:||",
         "available_translations": [
@@ -5080,7 +5083,7 @@
           "instagram": null,
           "wikipedia": "Laura_(1944_film)"
         },
-        "updated_at": "2026-04-20T17:32:19.000Z",
+        "updated_at": "2026-04-21T18:21:51.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 11,
@@ -5182,7 +5185,7 @@
           "instagram": null,
           "wikipedia": "Battleship_Potemkin"
         },
-        "updated_at": "2026-04-20T18:26:21.000Z",
+        "updated_at": "2026-04-21T19:15:18.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 5,
@@ -5290,7 +5293,7 @@
           "instagram": null,
           "wikipedia": "The_Manchurian_Candidate_(1962_film)"
         },
-        "updated_at": "2026-04-20T17:35:07.000Z",
+        "updated_at": "2026-04-21T18:24:38.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 8,
@@ -5346,7 +5349,7 @@
         },
         "year": 1968,
         "title": "2001: A Space Odyssey",
-        "votes": 20257,
+        "votes": 20265,
         "colors": {
           "poster": [
             "#C0C0A8",
@@ -5378,16 +5381,16 @@
             "media.trakt.tv/images/movies/000/000/033/cleararts/medium/97d0cde1ab.png.webp"
           ]
         },
-        "rating": 7.9822282791137695,
+        "rating": 7.981495380401611,
         "status": "released",
-        "country": "gb",
+        "country": "us",
         "runtime": 149,
         "tagline": "An epic drama of adventure and exploration.",
         "trailer": "https://youtube.com/watch?v=kR2r-A9H3Kg",
         "homepage": "https://2001spaceodysseymovie.com",
         "language": "en",
         "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
-        "released": "1968-05-12",
+        "released": "1968-04-10",
         "languages": [
           "en",
           "ru"
@@ -5407,7 +5410,7 @@
           "instagram": null,
           "wikipedia": "2001:_A_Space_Odyssey"
         },
-        "updated_at": "2026-04-20T17:31:17.000Z",
+        "updated_at": "2026-04-21T18:21:11.000Z",
         "after_credits": false,
         "certification": "G",
         "comment_count": 124,
@@ -5524,7 +5527,7 @@
           "instagram": null,
           "wikipedia": "Samurai_Rebellion"
         },
-        "updated_at": "2026-04-20T18:19:42.000Z",
+        "updated_at": "2026-04-21T19:08:51.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 4,
@@ -5601,7 +5604,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.469689846038818,
+        "rating": 7.468989372253418,
         "status": "released",
         "country": "us",
         "runtime": 107,
@@ -5629,7 +5632,7 @@
           "instagram": null,
           "wikipedia": "Shadow_of_a_Doubt"
         },
-        "updated_at": "2026-04-20T18:17:26.000Z",
+        "updated_at": "2026-04-21T19:06:38.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 7,
@@ -5739,7 +5742,7 @@
           "instagram": null,
           "wikipedia": "Le_Samouraï"
         },
-        "updated_at": "2026-04-20T18:19:22.000Z",
+        "updated_at": "2026-04-21T19:08:37.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 15,
@@ -5830,7 +5833,7 @@
             "media.trakt.tv/images/movies/000/006/060/cleararts/medium/979d5e7c16.png.webp"
           ]
         },
-        "rating": 7.638582706451416,
+        "rating": 7.638579845428467,
         "status": "released",
         "country": "us",
         "runtime": 102,
@@ -5858,7 +5861,7 @@
           "instagram": null,
           "wikipedia": "The_Adventures_of_Robin_Hood"
         },
-        "updated_at": "2026-04-20T17:32:41.000Z",
+        "updated_at": "2026-04-21T18:22:20.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 14,
@@ -5973,7 +5976,7 @@
           "instagram": null,
           "wikipedia": "Anatomy_of_a_Murder"
         },
-        "updated_at": "2026-04-20T17:41:31.000Z",
+        "updated_at": "2026-04-21T18:30:02.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 8,
@@ -6039,7 +6042,8 @@
         },
         "genres": [
           "crime",
-          "thriller"
+          "thriller",
+          "drama"
         ],
         "images": {
           "logo": [
@@ -6090,7 +6094,7 @@
           "instagram": null,
           "wikipedia": "The_Killing_(film)"
         },
-        "updated_at": "2026-04-20T18:12:58.000Z",
+        "updated_at": "2026-04-21T18:43:10.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 16,
@@ -6145,7 +6149,7 @@
         },
         "year": 1957,
         "title": "Witness for the Prosecution",
-        "votes": 2563,
+        "votes": 2564,
         "colors": {
           "poster": [
             "#A62D22",
@@ -6175,7 +6179,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.308232307434082,
+        "rating": 8.308892250061035,
         "status": "released",
         "country": "us",
         "runtime": 116,
@@ -6202,7 +6206,7 @@
           "instagram": null,
           "wikipedia": "Witness_for_the_Prosecution_(1957_film)"
         },
-        "updated_at": "2026-04-20T18:19:49.000Z",
+        "updated_at": "2026-04-21T19:09:13.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 19,
@@ -6269,7 +6273,8 @@
         },
         "genres": [
           "crime",
-          "thriller"
+          "thriller",
+          "drama"
         ],
         "images": {
           "logo": [
@@ -6322,7 +6327,7 @@
           "instagram": null,
           "wikipedia": "Strangers_on_a_Train_(film)"
         },
-        "updated_at": "2026-04-20T18:24:50.000Z",
+        "updated_at": "2026-04-21T19:13:42.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 12,
@@ -6381,7 +6386,7 @@
         },
         "year": 1980,
         "title": "Pixote",
-        "votes": 337,
+        "votes": 335,
         "colors": {
           "poster": [
             "#DB8E5B",
@@ -6404,7 +6409,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.991099834442139,
+        "rating": 8.014925003051758,
         "status": "released",
         "country": "br",
         "runtime": 127,
@@ -6426,7 +6431,7 @@
           "instagram": null,
           "wikipedia": "Pixote"
         },
-        "updated_at": "2026-04-20T18:21:13.000Z",
+        "updated_at": "2026-04-21T19:10:16.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 4,
@@ -6468,7 +6473,7 @@
         },
         "year": 2011,
         "title": "Kill Bill: The Whole Bloody Affair",
-        "votes": 1680,
+        "votes": 1685,
         "colors": {
           "poster": [
             "#EEDCAB",
@@ -6493,7 +6498,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.4494047164917,
+        "rating": 8.448071479797363,
         "status": "released",
         "country": "us",
         "runtime": 253,
@@ -6505,9 +6510,9 @@
         "released": "2011-03-27",
         "languages": [
           "zh",
+          "en",
           "fr",
           "ja",
-          "en",
           "es"
         ],
         "subgenres": [
@@ -6522,7 +6527,7 @@
           "instagram": null,
           "wikipedia": "null"
         },
-        "updated_at": "2026-04-20T08:22:18.000Z",
+        "updated_at": "2026-04-21T08:20:34.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 15,
@@ -6577,7 +6582,7 @@
         },
         "year": 2008,
         "title": "Dear Zachary: A Letter to a Son About His Father",
-        "votes": 1880,
+        "votes": 1883,
         "colors": {
           "poster": [
             "#ADB0A2",
@@ -6602,7 +6607,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.395744323730469,
+        "rating": 8.395645141601562,
         "status": "released",
         "country": "us",
         "runtime": 94,
@@ -6631,7 +6636,7 @@
           "instagram": null,
           "wikipedia": "Dear_Zachary:_A_Letter_to_a_Son_About_His_Father"
         },
-        "updated_at": "2026-04-20T17:44:46.000Z",
+        "updated_at": "2026-04-21T18:33:24.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 17,
@@ -6672,7 +6677,7 @@
         },
         "year": 1972,
         "title": "Solaris",
-        "votes": 2343,
+        "votes": 2344,
         "colors": {
           "poster": [
             "#BBB5A1",
@@ -6702,7 +6707,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.7230048179626465,
+        "rating": 7.723123073577881,
         "status": "released",
         "country": "su",
         "runtime": 167,
@@ -6727,7 +6732,7 @@
           "instagram": null,
           "wikipedia": "Solaris_(1972_film)"
         },
-        "updated_at": "2026-04-20T18:29:01.000Z",
+        "updated_at": "2026-04-21T19:17:47.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 15,
@@ -6845,7 +6850,7 @@
           "instagram": null,
           "wikipedia": "A_Prophet"
         },
-        "updated_at": "2026-04-20T18:24:17.000Z",
+        "updated_at": "2026-04-21T19:13:09.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 7,
@@ -6901,7 +6906,7 @@
         },
         "year": 2016,
         "title": "13th",
-        "votes": 2548,
+        "votes": 2549,
         "colors": {
           "poster": [
             "#DDDEDD",
@@ -6925,7 +6930,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.166797637939453,
+        "rating": 8.166731834411621,
         "status": "released",
         "country": "us",
         "runtime": 100,
@@ -6954,7 +6959,7 @@
           "instagram": null,
           "wikipedia": "13th_(film)"
         },
-        "updated_at": "2026-04-20T18:43:58.000Z",
+        "updated_at": "2026-04-21T19:31:27.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 12,
@@ -7004,7 +7009,7 @@
         },
         "year": 2010,
         "title": "Inside Job",
-        "votes": 3412,
+        "votes": 3414,
         "colors": {
           "poster": [
             "#F1F2EC",
@@ -7035,7 +7040,7 @@
             "media.trakt.tv/images/movies/000/030/322/cleararts/medium/01eedfc6e1.png.webp"
           ]
         },
-        "rating": 7.890970230102539,
+        "rating": 7.890450954437256,
         "status": "released",
         "country": "us",
         "runtime": 109,
@@ -7058,7 +7063,7 @@
           "instagram": null,
           "wikipedia": "Inside_Job_(2010_film)"
         },
-        "updated_at": "2026-04-20T18:14:04.000Z",
+        "updated_at": "2026-04-21T18:44:09.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 15,
@@ -7112,7 +7117,7 @@
         },
         "year": 2000,
         "title": "Crouching Tiger, Hidden Dragon",
-        "votes": 7741,
+        "votes": 7744,
         "colors": {
           "poster": [
             "#F2C22F",
@@ -7145,7 +7150,7 @@
             "media.trakt.tv/images/movies/000/000/112/cleararts/medium/593d25267b.png.webp"
           ]
         },
-        "rating": 7.718512058258057,
+        "rating": 7.71875,
         "status": "released",
         "country": "hk",
         "runtime": 120,
@@ -7179,7 +7184,7 @@
           "instagram": null,
           "wikipedia": "Crouching_Tiger,_Hidden_Dragon"
         },
-        "updated_at": "2026-04-20T17:37:20.000Z",
+        "updated_at": "2026-04-21T18:26:26.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 18,
@@ -7243,7 +7248,7 @@
         },
         "year": 1986,
         "title": "Platoon",
-        "votes": 9274,
+        "votes": 9281,
         "colors": {
           "poster": [
             "#B7B4AF",
@@ -7275,7 +7280,7 @@
             "media.trakt.tv/images/movies/000/000/635/cleararts/medium/122c733800.png.webp"
           ]
         },
-        "rating": 7.928617477416992,
+        "rating": 7.928563594818115,
         "status": "released",
         "country": "us",
         "runtime": 120,
@@ -7308,7 +7313,7 @@
           "instagram": null,
           "wikipedia": "Platoon_(film)"
         },
-        "updated_at": "2026-04-20T18:16:54.000Z",
+        "updated_at": "2026-04-21T19:06:03.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 22,
@@ -7422,7 +7427,7 @@
           "instagram": null,
           "wikipedia": "The_Hidden_Fortress"
         },
-        "updated_at": "2026-04-20T18:21:03.000Z",
+        "updated_at": "2026-04-21T19:10:08.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 10,
@@ -7530,7 +7535,7 @@
           "instagram": null,
           "wikipedia": "Breathless_(1960_film)"
         },
-        "updated_at": "2026-04-20T17:44:12.000Z",
+        "updated_at": "2026-04-21T18:32:48.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 9,
@@ -7620,7 +7625,7 @@
             "media.trakt.tv/images/movies/000/000/470/cleararts/medium/942f114163.png.webp"
           ]
         },
-        "rating": 7.504854202270508,
+        "rating": 7.504849910736084,
         "status": "released",
         "country": "us",
         "runtime": 114,
@@ -7645,7 +7650,7 @@
           "instagram": null,
           "wikipedia": "The_Conversation"
         },
-        "updated_at": "2026-04-20T18:16:43.000Z",
+        "updated_at": "2026-04-21T19:05:55.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 19,
@@ -7704,7 +7709,7 @@
         },
         "year": 1993,
         "title": "A Bronx Tale",
-        "votes": 4495,
+        "votes": 4496,
         "colors": {
           "poster": [
             "#C87F65",
@@ -7735,7 +7740,7 @@
             "media.trakt.tv/images/movies/000/001/056/cleararts/medium/cd64b12e1a.png.webp"
           ]
         },
-        "rating": 7.979310512542725,
+        "rating": 7.979759693145752,
         "status": "released",
         "country": "us",
         "runtime": 121,
@@ -7762,7 +7767,7 @@
           "instagram": null,
           "wikipedia": "A_Bronx_Tale"
         },
-        "updated_at": "2026-04-20T17:32:01.000Z",
+        "updated_at": "2026-04-21T18:21:43.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 12,
@@ -7879,7 +7884,7 @@
           "instagram": null,
           "wikipedia": "Rome,_Open_City"
         },
-        "updated_at": "2026-04-20T17:36:33.000Z",
+        "updated_at": "2026-04-21T18:25:43.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -7934,7 +7939,7 @@
         },
         "year": 1963,
         "title": "The Great Escape",
-        "votes": 5041,
+        "votes": 5044,
         "colors": {
           "poster": [
             "#F7F5F4",
@@ -7966,7 +7971,7 @@
             "media.trakt.tv/images/movies/000/003/382/cleararts/medium/8a0d2a8f3f.png.webp"
           ]
         },
-        "rating": 8.062487602233887,
+        "rating": 8.063045501708984,
         "status": "released",
         "country": "us",
         "runtime": 173,
@@ -7998,7 +8003,7 @@
           "instagram": null,
           "wikipedia": "The_Great_Escape_(film)"
         },
-        "updated_at": "2026-04-20T17:39:13.000Z",
+        "updated_at": "2026-04-21T18:28:08.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 12,
@@ -8118,7 +8123,7 @@
           "instagram": null,
           "wikipedia": "Out_of_the_Past"
         },
-        "updated_at": "2026-04-20T18:13:03.000Z",
+        "updated_at": "2026-04-21T18:43:15.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 4,
@@ -8230,7 +8235,7 @@
           "instagram": null,
           "wikipedia": "The_Big_Heat"
         },
-        "updated_at": "2026-04-20T18:16:31.000Z",
+        "updated_at": "2026-04-21T19:05:42.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 3,
@@ -8343,7 +8348,7 @@
           "instagram": null,
           "wikipedia": "In_a_Lonely_Place"
         },
-        "updated_at": "2026-04-20T18:04:07.000Z",
+        "updated_at": "2026-04-21T18:33:59.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 8,
@@ -8441,7 +8446,7 @@
           "instagram": null,
           "wikipedia": "Investigation_of_a_Citizen_Above_Suspicion"
         },
-        "updated_at": "2026-04-20T18:14:20.000Z",
+        "updated_at": "2026-04-21T18:44:23.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 5,
@@ -8540,7 +8545,7 @@
           "instagram": null,
           "wikipedia": "Close-Up_(1990_film)"
         },
-        "updated_at": "2026-04-20T18:28:36.000Z",
+        "updated_at": "2026-04-21T19:17:26.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 5,
@@ -8640,7 +8645,7 @@
           "instagram": null,
           "wikipedia": "Kagemusha"
         },
-        "updated_at": "2026-04-20T18:13:43.000Z",
+        "updated_at": "2026-04-21T18:43:50.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 2,
@@ -8750,7 +8755,7 @@
           "instagram": null,
           "wikipedia": "About_Elly"
         },
-        "updated_at": "2026-04-20T18:22:54.000Z",
+        "updated_at": "2026-04-21T19:11:45.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 4,
@@ -8855,7 +8860,7 @@
           "instagram": null,
           "wikipedia": "Tower_(2016_film)"
         },
-        "updated_at": "2026-04-20T18:44:20.000Z",
+        "updated_at": "2026-04-21T19:31:54.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 4,
@@ -8953,7 +8958,7 @@
           "instagram": null,
           "wikipedia": "Badlands_(film)"
         },
-        "updated_at": "2026-04-20T18:37:32.000Z",
+        "updated_at": "2026-04-21T19:25:29.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 19,
@@ -9061,7 +9066,7 @@
           "instagram": null,
           "wikipedia": "Man_on_Wire"
         },
-        "updated_at": "2026-04-20T17:39:54.000Z",
+        "updated_at": "2026-04-21T18:28:41.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 10,
@@ -9111,7 +9116,7 @@
         },
         "year": 1971,
         "title": "The French Connection",
-        "votes": 3425,
+        "votes": 3427,
         "colors": {
           "poster": [
             "#EAECED",
@@ -9143,7 +9148,7 @@
             "media.trakt.tv/images/movies/000/000/834/cleararts/medium/991885d03f.png.webp"
           ]
         },
-        "rating": 7.448174953460693,
+        "rating": 7.448789119720459,
         "status": "released",
         "country": "us",
         "runtime": 104,
@@ -9168,7 +9173,7 @@
           "instagram": null,
           "wikipedia": "The_French_Connection_(film)"
         },
-        "updated_at": "2026-04-20T17:35:01.000Z",
+        "updated_at": "2026-04-21T18:24:36.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 23,
@@ -9229,7 +9234,7 @@
         },
         "year": 2010,
         "title": "Incendies",
-        "votes": 5760,
+        "votes": 5763,
         "colors": {
           "poster": [
             "#CF051B",
@@ -9261,7 +9266,7 @@
             "media.trakt.tv/images/movies/000/032/118/cleararts/medium/c884248653.png.webp"
           ]
         },
-        "rating": 8.25173568725586,
+        "rating": 8.252299308776855,
         "status": "released",
         "country": "ca",
         "runtime": 131,
@@ -9287,7 +9292,7 @@
           "instagram": null,
           "wikipedia": "Incendies"
         },
-        "updated_at": "2026-04-20T18:13:01.000Z",
+        "updated_at": "2026-04-21T18:43:13.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 50,
@@ -9348,7 +9353,7 @@
         },
         "year": 1975,
         "title": "Dog Day Afternoon",
-        "votes": 5270,
+        "votes": 5272,
         "colors": {
           "poster": [
             "#EEECED",
@@ -9380,7 +9385,7 @@
             "media.trakt.tv/images/movies/000/000/804/cleararts/medium/f1a4df62b7.png.webp"
           ]
         },
-        "rating": 7.925047397613525,
+        "rating": 7.924127578735352,
         "status": "released",
         "country": "us",
         "runtime": 124,
@@ -9409,7 +9414,7 @@
           "instagram": null,
           "wikipedia": "Dog_Day_Afternoon"
         },
-        "updated_at": "2026-04-20T18:20:29.000Z",
+        "updated_at": "2026-04-21T19:09:38.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 21,
@@ -9469,7 +9474,7 @@
         },
         "year": 2009,
         "title": "The Secret in Their Eyes",
-        "votes": 4389,
+        "votes": 4390,
         "colors": {
           "poster": [
             "#CAA759",
@@ -9495,7 +9500,7 @@
           ],
           "clearart": []
         },
-        "rating": 8.108224868774414,
+        "rating": 8.108428001403809,
         "status": "released",
         "country": "es",
         "runtime": 130,
@@ -9524,7 +9529,7 @@
           "instagram": null,
           "wikipedia": "The_Secret_in_Their_Eyes"
         },
-        "updated_at": "2026-04-20T18:27:55.000Z",
+        "updated_at": "2026-04-21T19:16:49.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 15,
@@ -9585,7 +9590,7 @@
         },
         "year": 1984,
         "title": "Once Upon a Time in America",
-        "votes": 6729,
+        "votes": 6730,
         "colors": {
           "poster": [
             "#EAD7C2",
@@ -9616,7 +9621,7 @@
             "media.trakt.tv/images/movies/000/000/262/cleararts/medium/07f94746dd.png.webp"
           ]
         },
-        "rating": 8.127359390258789,
+        "rating": 8.127191543579102,
         "status": "released",
         "country": "us",
         "runtime": 229,
@@ -9653,7 +9658,7 @@
           "instagram": null,
           "wikipedia": "Once_Upon_a_Time_in_America"
         },
-        "updated_at": "2026-04-20T18:35:21.000Z",
+        "updated_at": "2026-04-21T19:23:36.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 29,
@@ -9778,7 +9783,7 @@
           "instagram": "kaibutsumovie",
           "wikipedia": "Monster_(2023_Japanese_film)"
         },
-        "updated_at": "2026-04-20T19:27:15.000Z",
+        "updated_at": "2026-04-21T20:13:27.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 22,
@@ -9890,7 +9895,7 @@
           "instagram": null,
           "wikipedia": "Talk_to_Her"
         },
-        "updated_at": "2026-04-20T18:18:51.000Z",
+        "updated_at": "2026-04-21T19:08:06.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 4,
@@ -9946,7 +9951,7 @@
         },
         "year": 1964,
         "title": "Goldfinger",
-        "votes": 7692,
+        "votes": 7694,
         "colors": {
           "poster": [
             "#D2D9D8",
@@ -9978,7 +9983,7 @@
             "media.trakt.tv/images/movies/000/000/532/cleararts/medium/54da21067b.png.webp"
           ]
         },
-        "rating": 7.573973178863525,
+        "rating": 7.57421350479126,
         "status": "released",
         "country": "gb",
         "runtime": 110,
@@ -10003,7 +10008,7 @@
           "instagram": null,
           "wikipedia": "Goldfinger_(film)"
         },
-        "updated_at": "2026-04-20T18:37:18.000Z",
+        "updated_at": "2026-04-21T19:25:18.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 32,
@@ -10130,7 +10135,7 @@
           "instagram": null,
           "wikipedia": "Batman:_Under_the_Red_Hood"
         },
-        "updated_at": "2026-04-20T18:14:50.000Z",
+        "updated_at": "2026-04-21T18:44:50.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 20,
@@ -10210,7 +10215,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.700934410095215,
+        "rating": 7.700930118560791,
         "status": "released",
         "country": "fr",
         "runtime": 139,
@@ -10234,7 +10239,7 @@
           "instagram": null,
           "wikipedia": "The_Confession_(1970_film)"
         },
-        "updated_at": "2026-04-20T18:14:39.000Z",
+        "updated_at": "2026-04-21T18:44:36.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 1,
@@ -10281,7 +10286,7 @@
         },
         "year": 2000,
         "title": "Amores Perros",
-        "votes": 3853,
+        "votes": 3854,
         "colors": {
           "poster": [
             "#E6E0D9",
@@ -10308,7 +10313,7 @@
             "media.trakt.tv/images/movies/000/000/030/cleararts/medium/580129d188.png.webp"
           ]
         },
-        "rating": 7.8881402015686035,
+        "rating": 7.8881683349609375,
         "status": "released",
         "country": "mx",
         "runtime": 154,
@@ -10331,7 +10336,7 @@
           "instagram": null,
           "wikipedia": "Amores_perros"
         },
-        "updated_at": "2026-04-20T17:37:34.000Z",
+        "updated_at": "2026-04-21T18:26:36.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 9,
@@ -10427,9 +10432,9 @@
         "overview": "A few decades after the destruction of the Inca Empire, a Spanish expedition led by the infamous Aguirre leaves the mountains of Peru and goes down the Amazon River in search of the lost city of El Dorado. When great difficulties arise, Aguirre’s men start to wonder whether their quest will lead them to prosperity or certain death.",
         "released": "1972-12-29",
         "languages": [
-          "de",
           "es",
-          "qu"
+          "qu",
+          "de"
         ],
         "subgenres": [
           "16th-century",
@@ -10442,7 +10447,7 @@
           "instagram": null,
           "wikipedia": "Aguirre,_the_Wrath_of_God"
         },
-        "updated_at": "2026-04-20T18:29:24.000Z",
+        "updated_at": "2026-04-21T19:18:09.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 12,
@@ -10500,7 +10505,7 @@
         },
         "year": 1976,
         "title": "All the President's Men",
-        "votes": 3734,
+        "votes": 3736,
         "colors": {
           "poster": [
             "#E4E4E0",
@@ -10530,7 +10535,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.885377407073975,
+        "rating": 7.886509418487549,
         "status": "released",
         "country": "us",
         "runtime": 138,
@@ -10556,7 +10561,7 @@
           "instagram": null,
           "wikipedia": "All_the_President's_Men_(film)"
         },
-        "updated_at": "2026-04-20T18:10:54.000Z",
+        "updated_at": "2026-04-21T18:40:47.000Z",
         "after_credits": false,
         "certification": "PG",
         "comment_count": 13,
@@ -10667,7 +10672,7 @@
           "instagram": null,
           "wikipedia": "L'Avventura"
         },
-        "updated_at": "2026-04-20T17:44:20.000Z",
+        "updated_at": "2026-04-21T18:32:56.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 4,
@@ -10776,7 +10781,7 @@
           "instagram": null,
           "wikipedia": "Greed_(1924_film)"
         },
-        "updated_at": "2026-04-20T17:31:55.000Z",
+        "updated_at": "2026-04-21T18:21:36.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 2,
@@ -10822,7 +10827,7 @@
         },
         "year": 2001,
         "title": "Mulholland Drive",
-        "votes": 11322,
+        "votes": 11327,
         "colors": {
           "poster": [
             "#9F9B87",
@@ -10852,7 +10857,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.688659191131592,
+        "rating": 7.687560558319092,
         "status": "released",
         "country": "us",
         "runtime": 147,
@@ -10883,7 +10888,7 @@
           "instagram": null,
           "wikipedia": "Mulholland_Drive_(film)"
         },
-        "updated_at": "2026-04-20T19:33:31.000Z",
+        "updated_at": "2026-04-21T20:18:34.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 59,
@@ -10949,7 +10954,7 @@
         },
         "year": 2020,
         "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-        "votes": 4762,
+        "votes": 4764,
         "colors": {
           "poster": [
             "#B59295",
@@ -10981,7 +10986,7 @@
             "media.trakt.tv/images/movies/000/474/745/cleararts/medium/5dff24c3a1.png.webp"
           ]
         },
-        "rating": 8.282234191894531,
+        "rating": 8.282745361328125,
         "status": "released",
         "country": "jp",
         "runtime": 117,
@@ -11014,7 +11019,7 @@
           "instagram": null,
           "wikipedia": "Demon_Slayer:_Kimetsu_no_Yaiba_–_The_Movie:_Mugen_Train"
         },
-        "updated_at": "2026-04-20T19:18:10.000Z",
+        "updated_at": "2026-04-21T19:44:48.000Z",
         "after_credits": false,
         "certification": "R",
         "comment_count": 24,
@@ -11074,7 +11079,7 @@
         },
         "year": 1964,
         "title": "Pale Flower",
-        "votes": 126,
+        "votes": 127,
         "colors": {
           "poster": [
             "#8EA4A3",
@@ -11099,7 +11104,7 @@
           ],
           "clearart": []
         },
-        "rating": 7.611110210418701,
+        "rating": 7.614173412322998,
         "status": "released",
         "country": "jp",
         "runtime": 96,
@@ -11122,7 +11127,7 @@
           "instagram": null,
           "wikipedia": "Pale_Flower"
         },
-        "updated_at": "2026-04-20T18:36:33.000Z",
+        "updated_at": "2026-04-21T19:24:41.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 1,
@@ -11217,7 +11222,7 @@
           "instagram": null,
           "wikipedia": "Victim_(1961_film)"
         },
-        "updated_at": "2026-04-20T17:45:00.000Z",
+        "updated_at": "2026-04-21T18:33:37.000Z",
         "after_credits": false,
         "certification": "NR",
         "comment_count": 1,
