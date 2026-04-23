@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-22T07:12:13.958633+00:00",
+    "fetched_at": "2026-04-23T07:14:34.332124+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,114 @@
   },
   "data": [
     {
-      "plays": 35,
-      "last_watched_at": "2026-04-20T19:17:00.000Z",
-      "last_updated_at": "2026-04-20T19:17:31.000Z",
+      "plays": 15,
+      "last_watched_at": "2026-04-22T20:47:00.000Z",
+      "last_updated_at": "2026-04-22T20:47:08.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Daredevil: Born Again",
+        "year": 2025,
+        "ids": {
+          "trakt": 195845,
+          "slug": "daredevil-born-again",
+          "tvdb": 422712,
+          "imdb": "tt18923754",
+          "tmdb": 202555,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-03-09T19:02:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-03-09T19:49:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-03-12T13:23:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-03-19T06:08:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-03-26T14:00:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-03-26T14:00:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-04-02T01:43:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2025-04-11T15:18:00.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2025-04-17T09:43:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2026-04-08T20:05:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2026-04-08T21:05:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2026-04-08T21:49:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2026-04-08T22:41:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2026-04-15T09:45:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2026-04-22T20:47:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plays": 36,
+      "last_watched_at": "2026-04-22T20:12:00.000Z",
+      "last_updated_at": "2026-04-22T20:12:15.000Z",
       "reset_at": null,
       "show": {
         "title": "The Boys",
@@ -222,6 +327,11 @@
               "number": 3,
               "plays": 1,
               "last_watched_at": "2026-04-20T19:17:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2026-04-22T20:12:00.000Z"
             }
           ]
         }
@@ -602,106 +712,6 @@
               "number": 23,
               "plays": 1,
               "last_watched_at": "2026-04-07T08:23:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 14,
-      "last_watched_at": "2026-04-15T09:45:00.000Z",
-      "last_updated_at": "2026-04-15T09:45:57.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Daredevil: Born Again",
-        "year": 2025,
-        "ids": {
-          "trakt": 195845,
-          "slug": "daredevil-born-again",
-          "tvdb": 422712,
-          "imdb": "tt18923754",
-          "tmdb": 202555,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2025-03-09T19:02:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2025-03-09T19:49:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2025-03-12T13:23:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2025-03-19T06:08:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2025-03-26T14:00:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2025-03-26T14:00:00.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2025-04-02T01:43:00.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2025-04-11T15:18:00.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2025-04-17T09:43:00.000Z"
-            }
-          ]
-        },
-        {
-          "number": 2,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2026-04-08T20:05:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2026-04-08T21:05:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2026-04-08T21:49:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2026-04-08T22:41:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2026-04-15T09:45:00.000Z"
             }
           ]
         }

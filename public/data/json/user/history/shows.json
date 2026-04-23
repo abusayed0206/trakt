@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-22T07:12:11.027859+00:00",
+    "fetched_at": "2026-04-23T07:14:33.385965+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12211150146,
+      "watched_at": "2026-04-22T20:47:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 6,
+        "title": "Requiem",
+        "ids": {
+          "trakt": 13891100,
+          "tvdb": 11580811,
+          "imdb": "tt21357502",
+          "tmdb": 6825662,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Daredevil: Born Again",
+        "year": 2025,
+        "ids": {
+          "trakt": 195845,
+          "slug": "daredevil-born-again",
+          "tvdb": 422712,
+          "imdb": "tt18923754",
+          "tmdb": 202555,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12211080791,
+      "watched_at": "2026-04-22T20:12:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 5,
+        "number": 4,
+        "title": "King of Hell",
+        "ids": {
+          "trakt": 12138432,
+          "tvdb": 11148641,
+          "imdb": "tt33023477",
+          "tmdb": 6745009,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Boys",
+        "year": 2019,
+        "ids": {
+          "trakt": 139960,
+          "slug": "the-boys-2019",
+          "tvdb": 355567,
+          "imdb": "tt1190634",
+          "tmdb": 76479,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12206600046,
       "watched_at": "2026-04-20T19:17:00.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 5133471,
           "imdb": "tt4006596",
           "tmdb": 1046435,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12200333597,
-      "watched_at": "2026-04-18T10:21:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 17,
-        "title": "Suicidal Tendencies",
-        "ids": {
-          "trakt": 1714051,
-          "tvdb": 5104333,
-          "imdb": "tt4006606",
-          "tmdb": 1039996,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12200266865,
-      "watched_at": "2026-04-18T09:34:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 16,
-        "title": "The Offer",
-        "ids": {
-          "trakt": 1714050,
-          "tvdb": 5104332,
-          "imdb": "tt4006594",
-          "tmdb": 1037877,
           "tvrage": null
         }
       },
