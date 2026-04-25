@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-24T07:18:54.753104+00:00",
+    "fetched_at": "2026-04-25T06:52:23.980520+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -22,7 +22,7 @@
         },
         "year": 2025,
         "title": "Avatar: Fire and Ash",
-        "votes": 9174,
+        "votes": 9243,
         "colors": {
           "poster": [
             "#CB9879",
@@ -54,7 +54,7 @@
             "media.trakt.tv/images/movies/000/062/544/cleararts/medium/d7d7e49a5e.png.webp"
           ]
         },
-        "rating": 7.554283618927002,
+        "rating": 7.553067207336426,
         "status": "released",
         "country": "us",
         "runtime": 198,
@@ -77,10 +77,10 @@
           "instagram": "avatar",
           "wikipedia": "Avatar:_Fire_and_Ash"
         },
-        "updated_at": "2026-04-23T16:44:26.000Z",
+        "updated_at": "2026-04-24T18:04:12.000Z",
         "after_credits": false,
         "certification": "PG-13",
-        "comment_count": 154,
+        "comment_count": 155,
         "during_credits": false,
         "original_title": "Avatar: Fire and Ash",
         "available_translations": [
@@ -156,7 +156,7 @@
         },
         "year": 2025,
         "title": "Ironheart",
-        "votes": 2838,
+        "votes": 2843,
         "colors": {
           "poster": [
             "#B8AA8F",
@@ -188,7 +188,7 @@
           ],
           "clearart": []
         },
-        "rating": 5.808315753936768,
+        "rating": 5.805135250091553,
         "status": "ended",
         "country": "us",
         "network": "Disney+",
@@ -212,7 +212,7 @@
           "instagram": null,
           "wikipedia": "Ironheart_(miniseries)"
         },
-        "updated_at": "2026-04-23T15:36:46.000Z",
+        "updated_at": "2026-04-24T17:12:48.000Z",
         "first_aired": "2025-06-25T01:00:00.000Z",
         "certification": "TV-14",
         "comment_count": 71,
@@ -320,7 +320,7 @@
           "instagram": "avatar",
           "wikipedia": "Avatar_4"
         },
-        "updated_at": "2026-03-27T08:42:26.000Z",
+        "updated_at": "2026-04-24T08:36:43.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 4,
@@ -414,7 +414,7 @@
           "instagram": "avengers",
           "wikipedia": "Avengers:_Doomsday"
         },
-        "updated_at": "2026-04-23T08:22:16.000Z",
+        "updated_at": "2026-04-24T08:24:04.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -513,7 +513,7 @@
           "instagram": "avatar",
           "wikipedia": "Avatar_5"
         },
-        "updated_at": "2026-03-22T08:36:31.000Z",
+        "updated_at": "2026-04-24T08:36:44.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 6,
@@ -599,7 +599,7 @@
           "instagram": "dunemovie",
           "wikipedia": "Dune:_Part_Three"
         },
-        "updated_at": "2026-04-23T08:37:09.000Z",
+        "updated_at": "2026-04-24T08:24:04.000Z",
         "after_credits": false,
         "certification": "PG-13",
         "comment_count": 3,
@@ -790,7 +790,7 @@
           "instagram": null,
           "wikipedia": "The_Beekeeper_2"
         },
-        "updated_at": "2026-04-18T08:20:02.000Z",
+        "updated_at": "2026-04-24T08:26:18.000Z",
         "after_credits": false,
         "certification": null,
         "comment_count": 0,
@@ -798,6 +798,7 @@
         "original_title": "The Beekeeper 2",
         "available_translations": [
           "en",
+          "fr",
           "ka",
           "ko",
           "ru"
