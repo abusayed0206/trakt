@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-27T07:55:01.576816+00:00",
+    "fetched_at": "2026-04-28T07:55:01.089788+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
@@ -20,22 +20,6 @@
           "slug": "infernal-affairs-2002",
           "imdb": "tt0338564",
           "tmdb": 10775
-        }
-      }
-    },
-    {
-      "id": 12202960008,
-      "watched_at": "2026-04-19T13:28:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "2 0 4 5",
-        "year": 2016,
-        "ids": {
-          "trakt": 532401,
-          "slug": "2-0-4-5-2016",
-          "imdb": "tt6168774",
-          "tmdb": 687800
         }
       }
     },
@@ -164,6 +148,22 @@
           "slug": "cold-pursuit-2019",
           "imdb": "tt5719748",
           "tmdb": 438650
+        }
+      }
+    },
+    {
+      "id": 12070066408,
+      "watched_at": "2026-03-07T21:28:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Unleashed",
+        "year": 2005,
+        "ids": {
+          "trakt": 5252,
+          "slug": "unleashed-2005",
+          "imdb": "tt0342258",
+          "tmdb": 10027
         }
       }
     }
