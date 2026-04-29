@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-28T07:55:04.210555+00:00",
+    "fetched_at": "2026-04-29T07:39:19.280549+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -43,7 +43,8 @@
           "trakt": 170565
         },
         "year": 2025,
-        "title": "Ironheart"
+        "title": "Ironheart",
+        "aired_episodes": 6
       },
       "rank": 2,
       "id": 1174075727,
