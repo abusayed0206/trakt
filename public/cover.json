@@ -63,20 +63,6 @@
   ],
   "shows": [
     {
-      "tmdb_id": 4057,
-      "title": "Criminal Minds",
-      "season": 2,
-      "available_seasons": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/2/season_2_poster.jpg",
-      "last_watched_at": "2026-04-28T18:36:00.000Z"
-    },
-    {
       "tmdb_id": 202555,
       "title": "Daredevil: Born Again",
       "season": 2,
@@ -85,11 +71,25 @@
         2
       ],
       "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/202555/2/season_2_poster.jpg",
-      "last_watched_at": "2026-04-22T20:47:00.000Z"
+      "last_watched_at": "2026-04-30T21:25:00.000Z"
     },
     {
       "tmdb_id": 76479,
       "title": "The Boys",
+      "season": 2,
+      "available_seasons": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/76479/2/season_2_poster.jpg",
+      "last_watched_at": "2026-04-30T20:49:00.000Z"
+    },
+    {
+      "tmdb_id": 4057,
+      "title": "Criminal Minds",
       "season": 1,
       "available_seasons": [
         1,
@@ -98,19 +98,19 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/76479/1/season_1_poster.jpg",
-      "last_watched_at": "2026-04-22T20:12:00.000Z"
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/1/season_1_poster.jpg",
+      "last_watched_at": "2026-04-28T18:36:00.000Z"
     },
     {
       "tmdb_id": 1412,
       "title": "Arrow",
-      "season": 3,
+      "season": 2,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/2/season_2_poster.jpg",
       "last_watched_at": "2026-04-19T20:26:00.000Z"
     },
     {
@@ -138,7 +138,7 @@
     {
       "tmdb_id": 66732,
       "title": "Stranger Things",
-      "season": 3,
+      "season": 2,
       "available_seasons": [
         1,
         2,
@@ -146,19 +146,19 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/2/season_2_poster.jpg",
       "last_watched_at": "2026-01-01T10:15:00.000Z"
     },
     {
       "tmdb_id": 1973,
       "title": "24",
-      "season": 3,
+      "season": 1,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/1/season_1_poster.jpg",
       "last_watched_at": "2025-12-20T20:34:00.000Z"
     },
     {
