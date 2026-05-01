@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2026-04-30T07:43:13.397345+00:00",
+    "fetched_at": "2026-05-01T07:42:41.690807+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12231095664,
+      "watched_at": "2026-04-30T21:25:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 7,
+        "title": "The Hateful Darkness",
+        "ids": {
+          "trakt": 13891101,
+          "tvdb": 11580813,
+          "imdb": "tt21357504",
+          "tmdb": 6825663,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Daredevil: Born Again",
+        "year": 2025,
+        "ids": {
+          "trakt": 195845,
+          "slug": "daredevil-born-again",
+          "tvdb": 422712,
+          "imdb": "tt18923754",
+          "tmdb": 202555,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12231031944,
+      "watched_at": "2026-04-30T20:49:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 5,
+        "number": 5,
+        "title": "One-Shots",
+        "ids": {
+          "trakt": 12138433,
+          "tvdb": 11106137,
+          "imdb": "tt33023447",
+          "tmdb": 6745008,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Boys",
+        "year": 2019,
+        "ids": {
+          "trakt": 139960,
+          "slug": "the-boys-2019",
+          "tvdb": 355567,
+          "imdb": "tt1190634",
+          "tmdb": 76479,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12224827067,
       "watched_at": "2026-04-28T18:36:00.000Z",
@@ -243,66 +303,6 @@
           "tvdb": 355567,
           "imdb": "tt1190634",
           "tmdb": 76479,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12204064483,
-      "watched_at": "2026-04-19T20:26:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 22,
-        "title": "This is Your Sword",
-        "ids": {
-          "trakt": 1789090,
-          "tvdb": 5163045,
-          "imdb": "tt4006590",
-          "tmdb": 1051238,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12203998949,
-      "watched_at": "2026-04-19T19:58:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 21,
-        "title": "Al Sah-him",
-        "ids": {
-          "trakt": 1789089,
-          "tvdb": 5163039,
-          "imdb": "tt4006598",
-          "tmdb": 1051237,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Arrow",
-        "year": 2012,
-        "ids": {
-          "trakt": 1403,
-          "slug": "arrow",
-          "tvdb": 257655,
-          "imdb": "tt2193021",
-          "tmdb": 1412,
           "tvrage": null
         }
       }
