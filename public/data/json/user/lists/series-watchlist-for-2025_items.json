@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-01T07:42:43.502731+00:00",
+    "fetched_at": "2026-05-02T07:13:05.354500+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -333,6 +333,29 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt3749900",
+          "plex": {
+            "guid": "5d9c08390aaccd001f8ee512",
+            "slug": "gotham"
+          },
+          "slug": "gotham",
+          "tmdb": 60708,
+          "tvdb": 274431,
+          "trakt": 60278
+        },
+        "year": 2014,
+        "title": "Gotham",
+        "aired_episodes": 100
+      },
+      "rank": 78,
+      "id": 1287727091,
+      "listed_at": "2025-07-25T11:10:24.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt1405406",
           "plex": {
             "guid": "5d9c082ae98e47001eb0946f",
@@ -373,29 +396,6 @@
       "rank": 47,
       "id": 1153031527,
       "listed_at": "2025-01-08T18:23:08.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt3749900",
-          "plex": {
-            "guid": "5d9c08390aaccd001f8ee512",
-            "slug": "gotham"
-          },
-          "slug": "gotham",
-          "tmdb": 60708,
-          "tvdb": 274431,
-          "trakt": 60278
-        },
-        "year": 2014,
-        "title": "Gotham",
-        "aired_episodes": 100
-      },
-      "rank": 78,
-      "id": 1287727091,
-      "listed_at": "2025-07-25T11:10:24.000Z",
       "notes": null
     },
     {
@@ -448,29 +448,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      },
-      "rank": 49,
-      "id": 1170422123,
-      "listed_at": "2025-02-07T11:01:15.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt7660850",
           "plex": {
             "guid": "5d9c08ed46115600200ade5e",
@@ -488,6 +465,29 @@
       "rank": 51,
       "id": 1275439151,
       "listed_at": "2025-07-10T08:59:30.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      },
+      "rank": 49,
+      "id": 1170422123,
+      "listed_at": "2025-02-07T11:01:15.000Z",
       "notes": null
     },
     {
@@ -517,29 +517,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1442449",
-          "plex": {
-            "guid": "5d9c0833ba2e21001f18ea2b",
-            "slug": "spartacus"
-          },
-          "slug": "spartacus",
-          "tmdb": 46296,
-          "tvdb": 129261,
-          "trakt": 46038
-        },
-        "year": 2010,
-        "title": "Spartacus",
-        "aired_episodes": 33
-      },
-      "rank": 81,
-      "id": 1372615448,
-      "listed_at": "2025-11-24T21:13:59.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1219024",
           "plex": {
             "guid": "5d9c086c3c3f87001f34f644",
@@ -557,6 +534,29 @@
       "rank": 33,
       "id": 1153031271,
       "listed_at": "2025-01-08T18:19:46.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1442449",
+          "plex": {
+            "guid": "5d9c0833ba2e21001f18ea2b",
+            "slug": "spartacus"
+          },
+          "slug": "spartacus",
+          "tmdb": 46296,
+          "tvdb": 129261,
+          "trakt": 46038
+        },
+        "year": 2010,
+        "title": "Spartacus",
+        "aired_episodes": 33
+      },
+      "rank": 81,
+      "id": 1372615448,
+      "listed_at": "2025-11-24T21:13:59.000Z",
       "notes": null
     },
     {
@@ -609,29 +609,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0979432",
-          "plex": {
-            "guid": "5d9c086dcb3ffa001f1b4ca3",
-            "slug": "boardwalk-empire"
-          },
-          "slug": "boardwalk-empire",
-          "tmdb": 1621,
-          "tvdb": 84947,
-          "trakt": 1610
-        },
-        "year": 2010,
-        "title": "Boardwalk Empire",
-        "aired_episodes": 56
-      },
-      "rank": 31,
-      "id": 1153031261,
-      "listed_at": "2025-01-08T18:18:20.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt5057054",
           "plex": {
             "guid": "5d9c08dcffd9ef001e99bb8c",
@@ -649,6 +626,29 @@
       "rank": 16,
       "id": 1133528025,
       "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0979432",
+          "plex": {
+            "guid": "5d9c086dcb3ffa001f1b4ca3",
+            "slug": "boardwalk-empire"
+          },
+          "slug": "boardwalk-empire",
+          "tmdb": 1621,
+          "tvdb": 84947,
+          "trakt": 1610
+        },
+        "year": 2010,
+        "title": "Boardwalk Empire",
+        "aired_episodes": 56
+      },
+      "rank": 31,
+      "id": 1153031261,
+      "listed_at": "2025-01-08T18:18:20.000Z",
       "notes": null
     },
     {
@@ -770,29 +770,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5348176",
-          "plex": {
-            "guid": "5d9c08da4eefaa001f5e44af",
-            "slug": "barry"
-          },
-          "slug": "barry",
-          "tmdb": 73107,
-          "tvdb": 333072,
-          "trakt": 122709
-        },
-        "year": 2018,
-        "title": "Barry",
-        "aired_episodes": 32
-      },
-      "rank": 51,
-      "id": 1179046309,
-      "listed_at": "2025-02-25T06:26:59.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt27497448",
           "plex": {
             "guid": "643cbf9ec1962a0897b7f6dd",
@@ -810,6 +787,29 @@
       "rank": 84,
       "id": 1400239921,
       "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5348176",
+          "plex": {
+            "guid": "5d9c08da4eefaa001f5e44af",
+            "slug": "barry"
+          },
+          "slug": "barry",
+          "tmdb": 73107,
+          "tvdb": 333072,
+          "trakt": 122709
+        },
+        "year": 2018,
+        "title": "Barry",
+        "aired_episodes": 32
+      },
+      "rank": 51,
+      "id": 1179046309,
+      "listed_at": "2025-02-25T06:26:59.000Z",
       "notes": null
     },
     {
@@ -1368,29 +1368,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1378167",
-          "plex": {
-            "guid": "5d9c07ec08fddd001f28e266",
-            "slug": "ncis-los-angeles"
-          },
-          "slug": "ncis-los-angeles",
-          "tmdb": 17610,
-          "tvdb": 95441,
-          "trakt": 17532
-        },
-        "year": 2009,
-        "title": "NCIS: Los Angeles",
-        "aired_episodes": 323
-      },
-      "rank": 73,
-      "id": 1286151708,
-      "listed_at": "2025-07-23T21:00:54.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1441135",
           "plex": {
             "guid": "5d9c0836ba6eb9001fb9eb12",
@@ -1431,6 +1408,29 @@
       "rank": 11,
       "id": 1127241239,
       "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1378167",
+          "plex": {
+            "guid": "5d9c07ec08fddd001f28e266",
+            "slug": "ncis-los-angeles"
+          },
+          "slug": "ncis-los-angeles",
+          "tmdb": 17610,
+          "tvdb": 95441,
+          "trakt": 17532
+        },
+        "year": 2009,
+        "title": "NCIS: Los Angeles",
+        "aired_episodes": 323
+      },
+      "rank": 73,
+      "id": 1286151708,
+      "listed_at": "2025-07-23T21:00:54.000Z",
       "notes": null
     },
     {
