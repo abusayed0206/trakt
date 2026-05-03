@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-02T07:13:05.354500+00:00",
+    "fetched_at": "2026-05-03T07:30:43.165571+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -517,29 +517,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1219024",
-          "plex": {
-            "guid": "5d9c086c3c3f87001f34f644",
-            "slug": "castle-2009"
-          },
-          "slug": "castle",
-          "tmdb": 1419,
-          "tvdb": 83462,
-          "trakt": 1410
-        },
-        "year": 2009,
-        "title": "Castle",
-        "aired_episodes": 173
-      },
-      "rank": 33,
-      "id": 1153031271,
-      "listed_at": "2025-01-08T18:19:46.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1442449",
           "plex": {
             "guid": "5d9c0833ba2e21001f18ea2b",
@@ -557,6 +534,29 @@
       "rank": 81,
       "id": 1372615448,
       "listed_at": "2025-11-24T21:13:59.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1219024",
+          "plex": {
+            "guid": "5d9c086c3c3f87001f34f644",
+            "slug": "castle-2009"
+          },
+          "slug": "castle",
+          "tmdb": 1419,
+          "tvdb": 83462,
+          "trakt": 1410
+        },
+        "year": 2009,
+        "title": "Castle",
+        "aired_episodes": 173
+      },
+      "rank": 33,
+      "id": 1153031271,
+      "listed_at": "2025-01-08T18:19:46.000Z",
       "notes": null
     },
     {
@@ -678,29 +678,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1474684",
-          "plex": {
-            "guid": "5d9c07f846115600200a611b",
-            "slug": "luther"
-          },
-          "slug": "luther",
-          "tmdb": 1426,
-          "tvdb": 159591,
-          "trakt": 1417
-        },
-        "year": 2010,
-        "title": "Luther",
-        "aired_episodes": 20
-      },
-      "rank": 79,
-      "id": 1298875639,
-      "listed_at": "2025-08-08T17:07:39.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt11737520",
           "plex": {
             "guid": "5f7c9b1c9b958e00415de6bb",
@@ -718,6 +695,29 @@
       "rank": 38,
       "id": 1153031292,
       "listed_at": "2025-01-08T18:22:11.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      },
+      "rank": 79,
+      "id": 1298875639,
+      "listed_at": "2025-08-08T17:07:39.000Z",
       "notes": null
     },
     {
@@ -747,29 +747,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5114356",
-          "plex": {
-            "guid": "5d9c08057d06d9001ffcef28",
-            "slug": "legion"
-          },
-          "slug": "legion",
-          "tmdb": 67195,
-          "tvdb": 320724,
-          "trakt": 113656
-        },
-        "year": 2017,
-        "title": "Legion",
-        "aired_episodes": 27
-      },
-      "rank": 50,
-      "id": 1176247212,
-      "listed_at": "2025-02-21T07:31:25.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt27497448",
           "plex": {
             "guid": "643cbf9ec1962a0897b7f6dd",
@@ -787,6 +764,29 @@
       "rank": 84,
       "id": 1400239921,
       "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5114356",
+          "plex": {
+            "guid": "5d9c08057d06d9001ffcef28",
+            "slug": "legion"
+          },
+          "slug": "legion",
+          "tmdb": 67195,
+          "tvdb": 320724,
+          "trakt": 113656
+        },
+        "year": 2017,
+        "title": "Legion",
+        "aired_episodes": 27
+      },
+      "rank": 50,
+      "id": 1176247212,
+      "listed_at": "2025-02-21T07:31:25.000Z",
       "notes": null
     },
     {
@@ -833,29 +833,6 @@
       "rank": 42,
       "id": 1153031323,
       "listed_at": "2025-01-08T18:22:51.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt2070791",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891cb",
-            "slug": "revolution"
-          },
-          "slug": "revolution",
-          "tmdb": 1410,
-          "tvdb": 258823,
-          "trakt": 1401
-        },
-        "year": 2012,
-        "title": "Revolution",
-        "aired_episodes": 42
-      },
-      "rank": 76,
-      "id": 1286151857,
-      "listed_at": "2025-07-23T21:01:09.000Z",
       "notes": null
     },
     {
@@ -931,23 +908,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1637727",
+          "imdb": "tt2070791",
           "plex": {
-            "guid": "5d9c08672df347001e3b1712",
-            "slug": "the-killing-us"
+            "guid": "5d9c086c02391c001f5891cb",
+            "slug": "revolution"
           },
-          "slug": "the-killing-2011",
-          "tmdb": 34415,
-          "tvdb": 210171,
-          "trakt": 34268
+          "slug": "revolution",
+          "tmdb": 1410,
+          "tvdb": 258823,
+          "trakt": 1401
         },
-        "year": 2011,
-        "title": "The Killing",
-        "aired_episodes": 44
+        "year": 2012,
+        "title": "Revolution",
+        "aired_episodes": 42
       },
-      "rank": 52,
-      "id": 1283744090,
-      "listed_at": "2025-07-21T12:16:01.000Z",
+      "rank": 76,
+      "id": 1286151857,
+      "listed_at": "2025-07-23T21:01:09.000Z",
       "notes": null
     },
     {
@@ -1017,6 +994,29 @@
       "rank": 25,
       "id": 1153031245,
       "listed_at": "2025-01-08T18:16:56.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1637727",
+          "plex": {
+            "guid": "5d9c08672df347001e3b1712",
+            "slug": "the-killing-us"
+          },
+          "slug": "the-killing-2011",
+          "tmdb": 34415,
+          "tvdb": 210171,
+          "trakt": 34268
+        },
+        "year": 2011,
+        "title": "The Killing",
+        "aired_episodes": 44
+      },
+      "rank": 52,
+      "id": 1283744090,
+      "listed_at": "2025-07-21T12:16:01.000Z",
       "notes": null
     },
     {
@@ -1276,52 +1276,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1103987",
-          "plex": {
-            "guid": "5d9c07f1ba6eb9001fb9789b",
-            "slug": "leverage"
-          },
-          "slug": "leverage",
-          "tmdb": 7482,
-          "tvdb": 82339,
-          "trakt": 7438
-        },
-        "year": 2008,
-        "title": "Leverage",
-        "aired_episodes": 77
-      },
-      "rank": 72,
-      "id": 1286151594,
-      "listed_at": "2025-07-23T21:00:44.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt0247082",
-          "plex": {
-            "guid": "5d9c086c7d06d9001ffd27a2",
-            "slug": "csi-crime-scene-investigation"
-          },
-          "slug": "csi-crime-scene-investigation",
-          "tmdb": 1431,
-          "tvdb": 72546,
-          "trakt": 1422
-        },
-        "year": 2000,
-        "title": "CSI: Crime Scene Investigation",
-        "aired_episodes": 335
-      },
-      "rank": 19,
-      "id": 1133528028,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2805096",
           "plex": {
             "guid": "5d9c08482df347001e3aed3c",
@@ -1368,23 +1322,46 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1441135",
+          "imdb": "tt0247082",
           "plex": {
-            "guid": "5d9c0836ba6eb9001fb9eb12",
-            "slug": "flashforward"
+            "guid": "5d9c086c7d06d9001ffd27a2",
+            "slug": "csi-crime-scene-investigation"
           },
-          "slug": "flashforward",
-          "tmdb": 19092,
-          "tvdb": 84024,
-          "trakt": 19003
+          "slug": "csi-crime-scene-investigation",
+          "tmdb": 1431,
+          "tvdb": 72546,
+          "trakt": 1422
         },
-        "year": 2009,
-        "title": "FlashForward",
-        "aired_episodes": 22
+        "year": 2000,
+        "title": "CSI: Crime Scene Investigation",
+        "aired_episodes": 335
       },
-      "rank": 64,
-      "id": 1286151019,
-      "listed_at": "2025-07-23T20:59:54.000Z",
+      "rank": 19,
+      "id": 1133528028,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1103987",
+          "plex": {
+            "guid": "5d9c07f1ba6eb9001fb9789b",
+            "slug": "leverage"
+          },
+          "slug": "leverage",
+          "tmdb": 7482,
+          "tvdb": 82339,
+          "trakt": 7438
+        },
+        "year": 2008,
+        "title": "Leverage",
+        "aired_episodes": 77
+      },
+      "rank": 72,
+      "id": 1286151594,
+      "listed_at": "2025-07-23T21:00:44.000Z",
       "notes": null
     },
     {
@@ -1454,6 +1431,29 @@
       "rank": 20,
       "id": 1133528029,
       "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1441135",
+          "plex": {
+            "guid": "5d9c0836ba6eb9001fb9eb12",
+            "slug": "flashforward"
+          },
+          "slug": "flashforward",
+          "tmdb": 19092,
+          "tvdb": 84024,
+          "trakt": 19003
+        },
+        "year": 2009,
+        "title": "FlashForward",
+        "aired_episodes": 22
+      },
+      "rank": 64,
+      "id": 1286151019,
+      "listed_at": "2025-07-23T20:59:54.000Z",
       "notes": null
     },
     {
@@ -1621,29 +1621,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2172103",
-          "plex": {
-            "guid": "5d9c081e3c3f87001f347e0d",
-            "slug": "last-resort-1"
-          },
-          "slug": "last-resort",
-          "tmdb": 44652,
-          "tvdb": 255413,
-          "trakt": 44404
-        },
-        "year": 2012,
-        "title": "Last Resort",
-        "aired_episodes": 13
-      },
-      "rank": 69,
-      "id": 1286151465,
-      "listed_at": "2025-07-23T21:00:26.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt13875494",
           "plex": {
             "guid": "6339b5e5bc01498ae59c016c",
@@ -1661,6 +1638,29 @@
       "rank": 13,
       "id": 1129591871,
       "listed_at": "2024-11-28T07:51:50.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2172103",
+          "plex": {
+            "guid": "5d9c081e3c3f87001f347e0d",
+            "slug": "last-resort-1"
+          },
+          "slug": "last-resort",
+          "tmdb": 44652,
+          "tvdb": 255413,
+          "trakt": 44404
+        },
+        "year": 2012,
+        "title": "Last Resort",
+        "aired_episodes": 13
+      },
+      "rank": 69,
+      "id": 1286151465,
+      "listed_at": "2025-07-23T21:00:26.000Z",
       "notes": null
     },
     {
