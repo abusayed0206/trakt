@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-02T07:13:04.303645+00:00",
+    "fetched_at": "2026-05-03T07:30:21.413404+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12235235071,
+      "watched_at": "2026-05-02T18:06:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 5,
+        "number": 3,
+        "title": "Reckoner",
+        "ids": {
+          "trakt": 291496,
+          "tvdb": 1069761,
+          "imdb": "tt1503242",
+          "tmdb": 1005476,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12234311202,
+      "watched_at": "2026-05-02T09:06:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 5,
+        "number": 2,
+        "title": "Haunted",
+        "ids": {
+          "trakt": 291495,
+          "tvdb": 1069751,
+          "imdb": "tt1501864",
+          "tmdb": 283224,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12231095664,
       "watched_at": "2026-04-30T21:25:00.000Z",
@@ -231,66 +291,6 @@
           "tvdb": 11013371,
           "imdb": "tt33023420",
           "tmdb": 6745006,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "The Boys",
-        "year": 2019,
-        "ids": {
-          "trakt": 139960,
-          "slug": "the-boys-2019",
-          "tvdb": 355567,
-          "imdb": "tt1190634",
-          "tmdb": 76479,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12206472605,
-      "watched_at": "2026-04-20T18:34:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 2,
-        "title": "Teenage Kix",
-        "ids": {
-          "trakt": 12138430,
-          "tvdb": 11013370,
-          "imdb": "tt33023407",
-          "tmdb": 6745004,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "The Boys",
-        "year": 2019,
-        "ids": {
-          "trakt": 139960,
-          "slug": "the-boys-2019",
-          "tvdb": 355567,
-          "imdb": "tt1190634",
-          "tmdb": 76479,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12206347326,
-      "watched_at": "2026-04-20T17:50:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 1,
-        "title": "Fifteen Inches of Sheer Dynamite",
-        "ids": {
-          "trakt": 12138429,
-          "tvdb": 10825283,
-          "imdb": "tt32368472",
-          "tmdb": 5788295,
           "tvrage": null
         }
       },
