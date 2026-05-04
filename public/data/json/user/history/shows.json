@@ -1,12 +1,102 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-03T07:30:21.413404+00:00",
+    "fetched_at": "2026-05-04T08:06:21.133298+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12242172829,
+      "watched_at": "2026-05-03T21:24:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 5,
+        "number": 6,
+        "title": "The Eyes Have It",
+        "ids": {
+          "trakt": 291499,
+          "tvdb": 1189811,
+          "imdb": "tt1522955",
+          "tmdb": 283240,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12242093537,
+      "watched_at": "2026-05-03T20:44:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 5,
+        "number": 5,
+        "title": "Cradle to Grave",
+        "ids": {
+          "trakt": 291498,
+          "tvdb": 1154801,
+          "imdb": "tt1522954",
+          "tmdb": 283233,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12241867674,
+      "watched_at": "2026-05-03T20:02:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 5,
+        "number": 4,
+        "title": "Hopeless",
+        "ids": {
+          "trakt": 291497,
+          "tvdb": 1069771,
+          "imdb": "tt1497465",
+          "tmdb": 283231,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12235235071,
       "watched_at": "2026-05-02T18:06:00.000Z",
@@ -213,96 +303,6 @@
           "tvdb": 75710,
           "imdb": "tt0452046",
           "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12211150146,
-      "watched_at": "2026-04-22T20:47:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 6,
-        "title": "Requiem",
-        "ids": {
-          "trakt": 13891100,
-          "tvdb": 11580811,
-          "imdb": "tt21357502",
-          "tmdb": 6825662,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Daredevil: Born Again",
-        "year": 2025,
-        "ids": {
-          "trakt": 195845,
-          "slug": "daredevil-born-again",
-          "tvdb": 422712,
-          "imdb": "tt18923754",
-          "tmdb": 202555,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12211080791,
-      "watched_at": "2026-04-22T20:12:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 4,
-        "title": "King of Hell",
-        "ids": {
-          "trakt": 12138432,
-          "tvdb": 11148641,
-          "imdb": "tt33023477",
-          "tmdb": 6745009,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "The Boys",
-        "year": 2019,
-        "ids": {
-          "trakt": 139960,
-          "slug": "the-boys-2019",
-          "tvdb": 355567,
-          "imdb": "tt1190634",
-          "tmdb": 76479,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12206600046,
-      "watched_at": "2026-04-20T19:17:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 3,
-        "title": "Every One of You Sons of Bitches",
-        "ids": {
-          "trakt": 12138431,
-          "tvdb": 11013371,
-          "imdb": "tt33023420",
-          "tmdb": 6745006,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "The Boys",
-        "year": 2019,
-        "ids": {
-          "trakt": 139960,
-          "slug": "the-boys-2019",
-          "tvdb": 355567,
-          "imdb": "tt1190634",
-          "tmdb": 76479,
           "tvrage": null
         }
       }

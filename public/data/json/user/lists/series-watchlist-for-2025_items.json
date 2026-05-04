@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-03T07:30:43.165571+00:00",
+    "fetched_at": "2026-05-04T08:06:42.264316+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -264,29 +264,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0185906",
-          "plex": {
-            "guid": "5d9c086fffd9ef001e994da4",
-            "slug": "band-of-brothers"
-          },
-          "slug": "band-of-brothers",
-          "tmdb": 4613,
-          "tvdb": 74205,
-          "trakt": 4589
-        },
-        "year": 2001,
-        "title": "Band of Brothers",
-        "aired_episodes": 10
-      },
-      "rank": 43,
-      "id": 1153031436,
-      "listed_at": "2025-01-08T18:22:54.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0141842",
           "plex": {
             "guid": "5d9c086c46115600200aa302",
@@ -304,6 +281,29 @@
       "rank": 37,
       "id": 1153031282,
       "listed_at": "2025-01-08T18:21:13.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0185906",
+          "plex": {
+            "guid": "5d9c086fffd9ef001e994da4",
+            "slug": "band-of-brothers"
+          },
+          "slug": "band-of-brothers",
+          "tmdb": 4613,
+          "tvdb": 74205,
+          "trakt": 4589
+        },
+        "year": 2001,
+        "title": "Band of Brothers",
+        "aired_episodes": 10
+      },
+      "rank": 43,
+      "id": 1153031436,
+      "listed_at": "2025-01-08T18:22:54.000Z",
       "notes": null
     },
     {
@@ -724,29 +724,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0364845",
-          "plex": {
-            "guid": "5d9c086fffd9ef001e994da0",
-            "slug": "ncis"
-          },
-          "slug": "ncis",
-          "tmdb": 4614,
-          "tvdb": 72108,
-          "trakt": 4590
-        },
-        "year": 2003,
-        "title": "NCIS",
-        "aired_episodes": 505
-      },
-      "rank": 30,
-      "id": 1153031256,
-      "listed_at": "2025-01-08T18:17:47.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt27497448",
           "plex": {
             "guid": "643cbf9ec1962a0897b7f6dd",
@@ -764,6 +741,29 @@
       "rank": 84,
       "id": 1400239921,
       "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0364845",
+          "plex": {
+            "guid": "5d9c086fffd9ef001e994da0",
+            "slug": "ncis"
+          },
+          "slug": "ncis",
+          "tmdb": 4614,
+          "tvdb": 72108,
+          "trakt": 4590
+        },
+        "year": 2003,
+        "title": "NCIS",
+        "aired_episodes": 505
+      },
+      "rank": 30,
+      "id": 1153031256,
+      "listed_at": "2025-01-08T18:17:47.000Z",
       "notes": null
     },
     {
@@ -1184,29 +1184,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2189221",
-          "plex": {
-            "guid": "5d9c082c08fddd001f2944ca",
-            "slug": "defiance"
-          },
-          "slug": "defiance",
-          "tmdb": 51704,
-          "tvdb": 255326,
-          "trakt": 51377
-        },
-        "year": 2013,
-        "title": "Defiance",
-        "aired_episodes": 38
-      },
-      "rank": 63,
-      "id": 1286150899,
-      "listed_at": "2025-07-23T20:59:49.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt11743610",
           "plex": {
             "guid": "6050e8434e71c2002c6d9ab6",
@@ -1247,6 +1224,29 @@
       "rank": 39,
       "id": 1153031296,
       "listed_at": "2025-01-08T18:22:20.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2189221",
+          "plex": {
+            "guid": "5d9c082c08fddd001f2944ca",
+            "slug": "defiance"
+          },
+          "slug": "defiance",
+          "tmdb": 51704,
+          "tvdb": 255326,
+          "trakt": 51377
+        },
+        "year": 2013,
+        "title": "Defiance",
+        "aired_episodes": 38
+      },
+      "rank": 63,
+      "id": 1286150899,
+      "listed_at": "2025-07-23T20:59:49.000Z",
       "notes": null
     },
     {
@@ -1633,7 +1633,7 @@
         },
         "year": 2024,
         "title": "Tracker",
-        "aired_episodes": 51
+        "aired_episodes": 52
       },
       "rank": 13,
       "id": 1129591871,
