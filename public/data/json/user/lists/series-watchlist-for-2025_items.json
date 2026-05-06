@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-05T07:32:24.355873+00:00",
+    "fetched_at": "2026-05-06T07:56:03.596916+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -759,7 +759,7 @@
         },
         "year": 2003,
         "title": "NCIS",
-        "aired_episodes": 505
+        "aired_episodes": 506
       },
       "rank": 30,
       "id": 1153031256,
@@ -1690,6 +1690,29 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt21088136",
+          "plex": {
+            "guid": "62b1b378e2ad35049f91ee10",
+            "slug": "criminal-record"
+          },
+          "slug": "criminal-record",
+          "tmdb": 204490,
+          "tvdb": 421495,
+          "trakt": 196417
+        },
+        "year": 2024,
+        "title": "Criminal Record",
+        "aired_episodes": 11
+      },
+      "rank": 46,
+      "id": 1153031519,
+      "listed_at": "2025-01-08T18:23:06.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt4452630",
           "plex": {
             "guid": "5d9c08046c3e37001ecd3dc4",
@@ -1707,29 +1730,6 @@
       "rank": 49,
       "id": 1273920117,
       "listed_at": "2025-07-08T19:13:28.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt21088136",
-          "plex": {
-            "guid": "62b1b378e2ad35049f91ee10",
-            "slug": "criminal-record"
-          },
-          "slug": "criminal-record",
-          "tmdb": 204490,
-          "tvdb": 421495,
-          "trakt": 196417
-        },
-        "year": 2024,
-        "title": "Criminal Record",
-        "aired_episodes": 10
-      },
-      "rank": 46,
-      "id": 1153031519,
-      "listed_at": "2025-01-08T18:23:06.000Z",
       "notes": null
     },
     {
