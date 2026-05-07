@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-06T07:55:42.281964+00:00",
+    "fetched_at": "2026-05-07T08:04:28.676776+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
@@ -11326,7 +11326,7 @@
         "year": 2022,
         "ids": {
           "trakt": 719395,
-          "slug": "overdose-2022-11-04",
+          "slug": "overdose-2022",
           "imdb": "tt15713012",
           "tmdb": 896485
         }
