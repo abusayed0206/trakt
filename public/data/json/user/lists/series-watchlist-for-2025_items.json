@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-08T07:07:21.403113+00:00",
+    "fetched_at": "2026-05-09T07:26:17.339297+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -862,29 +862,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2654620",
-          "plex": {
-            "guid": "5d9c085602391c001f5871c9",
-            "slug": "the-strain"
-          },
-          "slug": "the-strain",
-          "tmdb": 47640,
-          "tvdb": 276564,
-          "trakt": 47350
-        },
-        "year": 2014,
-        "title": "The Strain",
-        "aired_episodes": 46
-      },
-      "rank": 82,
-      "id": 1377268265,
-      "listed_at": "2025-12-01T10:22:35.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt7587890",
           "plex": {
             "guid": "5d9c08ffe264b7001fc4d397",
@@ -902,6 +879,29 @@
       "rank": 29,
       "id": 1153031255,
       "listed_at": "2025-01-08T18:17:39.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2654620",
+          "plex": {
+            "guid": "5d9c085602391c001f5871c9",
+            "slug": "the-strain"
+          },
+          "slug": "the-strain",
+          "tmdb": 47640,
+          "tvdb": 276564,
+          "trakt": 47350
+        },
+        "year": 2014,
+        "title": "The Strain",
+        "aired_episodes": 46
+      },
+      "rank": 82,
+      "id": 1377268265,
+      "listed_at": "2025-12-01T10:22:35.000Z",
       "notes": null
     },
     {
