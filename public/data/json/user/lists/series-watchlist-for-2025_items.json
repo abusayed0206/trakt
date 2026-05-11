@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-10T07:40:12.568898+00:00",
+    "fetched_at": "2026-05-11T08:43:21.660704+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -241,29 +241,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0436992",
-          "plex": {
-            "guid": "5d9c082bd4f2a9001f7fe962",
-            "slug": "doctor-who-2005"
-          },
-          "slug": "doctor-who-2005",
-          "tmdb": 57243,
-          "tvdb": 78804,
-          "trakt": 56872
-        },
-        "year": 2005,
-        "title": "Doctor Who",
-        "aired_episodes": 153
-      },
-      "rank": 45,
-      "id": 1153031516,
-      "listed_at": "2025-01-08T18:23:05.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0141842",
           "plex": {
             "guid": "5d9c086c46115600200aa302",
@@ -281,6 +258,29 @@
       "rank": 37,
       "id": 1153031282,
       "listed_at": "2025-01-08T18:21:13.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0436992",
+          "plex": {
+            "guid": "5d9c082bd4f2a9001f7fe962",
+            "slug": "doctor-who-2005"
+          },
+          "slug": "doctor-who-2005",
+          "tmdb": 57243,
+          "tvdb": 78804,
+          "trakt": 56872
+        },
+        "year": 2005,
+        "title": "Doctor Who",
+        "aired_episodes": 153
+      },
+      "rank": 45,
+      "id": 1153031516,
+      "listed_at": "2025-01-08T18:23:05.000Z",
       "notes": null
     },
     {
@@ -1633,7 +1633,7 @@
         },
         "year": 2024,
         "title": "Tracker",
-        "aired_episodes": 52
+        "aired_episodes": 53
       },
       "rank": 13,
       "id": 1129591871,

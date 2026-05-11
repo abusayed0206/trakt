@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-10T07:40:11.566130+00:00",
+    "fetched_at": "2026-05-11T08:43:20.278263+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12263535005,
+      "watched_at": "2026-05-10T22:30:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 8,
+        "title": "The Southern Cross",
+        "ids": {
+          "trakt": 13891102,
+          "tvdb": 11580814,
+          "imdb": "tt21357506",
+          "tmdb": 6825664,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Daredevil: Born Again",
+        "year": 2025,
+        "ids": {
+          "trakt": 195845,
+          "slug": "daredevil-born-again",
+          "tvdb": 422712,
+          "imdb": "tt18923754",
+          "tmdb": 202555,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12256828319,
       "watched_at": "2026-05-08T02:00:00.000Z",
@@ -273,36 +303,6 @@
           "tvdb": 355567,
           "imdb": "tt1190634",
           "tmdb": 76479,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12224827067,
-      "watched_at": "2026-04-28T18:36:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 1,
-        "title": "Nameless, Faceless",
-        "ids": {
-          "trakt": 291494,
-          "tvdb": 795731,
-          "imdb": "tt1477274",
-          "tmdb": 283286,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
           "tvrage": null
         }
       }
