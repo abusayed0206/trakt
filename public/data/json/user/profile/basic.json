@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-12T08:10:27.090902+00:00",
+    "fetched_at": "2026-05-13T08:16:30.983685+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/profile/basic.json",
@@ -24,7 +24,7 @@
     "age": null,
     "images": {
       "avatar": {
-        "full": "https://walter-r2.trakt.tv/images/users/013/040/967/avatars/large/21e36e057f.webp"
+        "full": "https://media.trakt.tv/images/users/013/040/967/avatars/large/21e36e057f.webp"
       }
     }
   }

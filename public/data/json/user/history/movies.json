@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-12T08:10:27.812572+00:00",
+    "fetched_at": "2026-05-13T08:16:31.673855+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12267467236,
+      "watched_at": "2026-05-12T17:12:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Apex",
+        "year": 2026,
+        "ids": {
+          "trakt": 1077748,
+          "slug": "apex-2026",
+          "imdb": "tt16431404",
+          "tmdb": 1318447
+        }
+      }
+    },
     {
       "id": 12205519109,
       "watched_at": "2026-04-20T09:42:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "cold-pursuit-2019",
           "imdb": "tt5719748",
           "tmdb": 438650
-        }
-      }
-    },
-    {
-      "id": 12070066408,
-      "watched_at": "2026-03-07T21:28:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Unleashed",
-        "year": 2005,
-        "ids": {
-          "trakt": 5252,
-          "slug": "unleashed-2005",
-          "imdb": "tt0342258",
-          "tmdb": 10027
         }
       }
     }
