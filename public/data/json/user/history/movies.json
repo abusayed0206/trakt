@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-13T08:16:31.673855+00:00",
+    "fetched_at": "2026-05-14T08:10:26.647844+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12269588296,
+      "watched_at": "2026-05-13T17:12:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Jana Nayagan",
+        "year": null,
+        "ids": {
+          "trakt": 999770,
+          "slug": "jana-nayagan",
+          "imdb": "tt33379543",
+          "tmdb": 1235877
+        }
+      }
+    },
     {
       "id": 12267467236,
       "watched_at": "2026-05-12T17:12:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "death-wish-2018",
           "imdb": "tt1137450",
           "tmdb": 395990
-        }
-      }
-    },
-    {
-      "id": 12085290347,
-      "watched_at": "2026-03-14T15:38:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Cold Pursuit",
-        "year": 2019,
-        "ids": {
-          "trakt": 284803,
-          "slug": "cold-pursuit-2019",
-          "imdb": "tt5719748",
-          "tmdb": 438650
         }
       }
     }
