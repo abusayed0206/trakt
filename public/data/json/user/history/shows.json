@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-15T08:22:48.597514+00:00",
+    "fetched_at": "2026-05-16T07:31:29.419153+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12274681574,
+      "watched_at": "2026-05-15T19:32:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 5,
+        "number": 7,
+        "title": "The Frenchman, the Female, and the Man Called Mother's Milk",
+        "ids": {
+          "trakt": 12138435,
+          "tvdb": 11194628,
+          "imdb": "tt33023489",
+          "tmdb": 6745011,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Boys",
+        "year": 2019,
+        "ids": {
+          "trakt": 139960,
+          "slug": "the-boys-2019",
+          "tvdb": 355567,
+          "imdb": "tt1190634",
+          "tmdb": 76479,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12263535005,
       "watched_at": "2026-05-10T22:30:00.000Z",
@@ -273,36 +303,6 @@
           "tvdb": 422712,
           "imdb": "tt18923754",
           "tmdb": 202555,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12231031944,
-      "watched_at": "2026-04-30T20:49:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 5,
-        "title": "One-Shots",
-        "ids": {
-          "trakt": 12138433,
-          "tvdb": 11106137,
-          "imdb": "tt33023447",
-          "tmdb": 6745008,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "The Boys",
-        "year": 2019,
-        "ids": {
-          "trakt": 139960,
-          "slug": "the-boys-2019",
-          "tvdb": 355567,
-          "imdb": "tt1190634",
-          "tmdb": 76479,
           "tvrage": null
         }
       }
