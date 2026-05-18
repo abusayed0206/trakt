@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-17T07:57:15.456635+00:00",
+    "fetched_at": "2026-05-18T08:57:22.798901+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 827
+    "count": 828
   },
   "data": [
     {
@@ -11986,7 +11986,7 @@
         "year": 2024,
         "ids": {
           "trakt": 875416,
-          "slug": "revolver-2024-08-07",
+          "slug": "revolver-2024",
           "imdb": "tt28284984",
           "tmdb": 1089223
         }
@@ -12409,6 +12409,21 @@
           "slug": "taandob-2025",
           "imdb": "tt36293840",
           "tmdb": 1396122
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-05-17T20:45:00.000Z",
+      "last_updated_at": "2026-05-17T20:45:00.000Z",
+      "movie": {
+        "title": "Dhurandhar: The Revenge",
+        "year": 2026,
+        "ids": {
+          "trakt": 1313407,
+          "slug": "dhurandhar-the-revenge-2026",
+          "imdb": "tt39139925",
+          "tmdb": 1582770
         }
       }
     }
