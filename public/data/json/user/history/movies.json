@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-17T07:57:15.155043+00:00",
+    "fetched_at": "2026-05-18T08:57:22.466648+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12280520225,
+      "watched_at": "2026-05-17T20:45:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Dhurandhar: The Revenge",
+        "year": 2026,
+        "ids": {
+          "trakt": 1313407,
+          "slug": "dhurandhar-the-revenge-2026",
+          "imdb": "tt39139925",
+          "tmdb": 1582770
+        }
+      }
+    },
     {
       "id": 12269588296,
       "watched_at": "2026-05-13T17:12:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "reservoir-dogs-1992",
           "imdb": "tt0105236",
           "tmdb": 500
-        }
-      }
-    },
-    {
-      "id": 12085738788,
-      "watched_at": "2026-03-14T20:26:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Death Wish",
-        "year": 2018,
-        "ids": {
-          "trakt": 238823,
-          "slug": "death-wish-2018",
-          "imdb": "tt1137450",
-          "tmdb": 395990
         }
       }
     }
