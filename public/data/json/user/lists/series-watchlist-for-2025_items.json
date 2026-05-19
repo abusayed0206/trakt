@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-18T08:57:24.090342+00:00",
+    "fetched_at": "2026-05-19T08:44:41.778793+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -356,29 +356,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1405406",
-          "plex": {
-            "guid": "5d9c082ae98e47001eb0946f",
-            "slug": "the-vampire-diaries"
-          },
-          "slug": "the-vampire-diaries",
-          "tmdb": 18165,
-          "tvdb": 95491,
-          "trakt": 18083
-        },
-        "year": 2009,
-        "title": "The Vampire Diaries",
-        "aired_episodes": 171
-      },
-      "rank": 27,
-      "id": 1153031251,
-      "listed_at": "2025-01-08T18:17:15.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0413573",
           "plex": {
             "guid": "5d9c086c02391c001f5891bb",
@@ -396,6 +373,29 @@
       "rank": 47,
       "id": 1153031527,
       "listed_at": "2025-01-08T18:23:08.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1405406",
+          "plex": {
+            "guid": "5d9c082ae98e47001eb0946f",
+            "slug": "the-vampire-diaries"
+          },
+          "slug": "the-vampire-diaries",
+          "tmdb": 18165,
+          "tvdb": 95491,
+          "trakt": 18083
+        },
+        "year": 2009,
+        "title": "The Vampire Diaries",
+        "aired_episodes": 171
+      },
+      "rank": 27,
+      "id": 1153031251,
+      "listed_at": "2025-01-08T18:17:15.000Z",
       "notes": null
     },
     {
@@ -632,23 +632,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0979432",
+          "imdb": "tt11737520",
           "plex": {
-            "guid": "5d9c086dcb3ffa001f1b4ca3",
-            "slug": "boardwalk-empire"
+            "guid": "5f7c9b1c9b958e00415de6bb",
+            "slug": "one-piece-2023"
           },
-          "slug": "boardwalk-empire",
-          "tmdb": 1621,
-          "tvdb": 84947,
-          "trakt": 1610
+          "slug": "one-piece-2023",
+          "tmdb": 111110,
+          "tvdb": 392276,
+          "trakt": 184618
         },
-        "year": 2010,
-        "title": "Boardwalk Empire",
-        "aired_episodes": 56
+        "year": 2023,
+        "title": "ONE PIECE",
+        "aired_episodes": 16
       },
-      "rank": 31,
-      "id": 1153031261,
-      "listed_at": "2025-01-08T18:18:20.000Z",
+      "rank": 38,
+      "id": 1153031292,
+      "listed_at": "2025-01-08T18:22:11.000Z",
       "notes": null
     },
     {
@@ -678,46 +678,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt11737520",
+          "imdb": "tt0979432",
           "plex": {
-            "guid": "5f7c9b1c9b958e00415de6bb",
-            "slug": "one-piece-2023"
+            "guid": "5d9c086dcb3ffa001f1b4ca3",
+            "slug": "boardwalk-empire"
           },
-          "slug": "one-piece-2023",
-          "tmdb": 111110,
-          "tvdb": 392276,
-          "trakt": 184618
-        },
-        "year": 2023,
-        "title": "ONE PIECE",
-        "aired_episodes": 16
-      },
-      "rank": 38,
-      "id": 1153031292,
-      "listed_at": "2025-01-08T18:22:11.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt1474684",
-          "plex": {
-            "guid": "5d9c07f846115600200a611b",
-            "slug": "luther"
-          },
-          "slug": "luther",
-          "tmdb": 1426,
-          "tvdb": 159591,
-          "trakt": 1417
+          "slug": "boardwalk-empire",
+          "tmdb": 1621,
+          "tvdb": 84947,
+          "trakt": 1610
         },
         "year": 2010,
-        "title": "Luther",
-        "aired_episodes": 20
+        "title": "Boardwalk Empire",
+        "aired_episodes": 56
       },
-      "rank": 79,
-      "id": 1298875639,
-      "listed_at": "2025-08-08T17:07:39.000Z",
+      "rank": 31,
+      "id": 1153031261,
+      "listed_at": "2025-01-08T18:18:20.000Z",
       "notes": null
     },
     {
@@ -747,23 +724,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0364845",
+          "imdb": "tt1474684",
           "plex": {
-            "guid": "5d9c086fffd9ef001e994da0",
-            "slug": "ncis"
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
           },
-          "slug": "ncis",
-          "tmdb": 4614,
-          "tvdb": 72108,
-          "trakt": 4590
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
         },
-        "year": 2003,
-        "title": "NCIS",
-        "aired_episodes": 507
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
       },
-      "rank": 30,
-      "id": 1153031256,
-      "listed_at": "2025-01-08T18:17:47.000Z",
+      "rank": 79,
+      "id": 1298875639,
+      "listed_at": "2025-08-08T17:07:39.000Z",
       "notes": null
     },
     {
@@ -833,6 +810,29 @@
       "rank": 47,
       "id": 1273910724,
       "listed_at": "2025-07-08T19:03:09.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0364845",
+          "plex": {
+            "guid": "5d9c086fffd9ef001e994da0",
+            "slug": "ncis"
+          },
+          "slug": "ncis",
+          "tmdb": 4614,
+          "tvdb": 72108,
+          "trakt": 4590
+        },
+        "year": 2003,
+        "title": "NCIS",
+        "aired_episodes": 507
+      },
+      "rank": 30,
+      "id": 1153031256,
+      "listed_at": "2025-01-08T18:17:47.000Z",
       "notes": null
     },
     {
@@ -1046,29 +1046,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2294189",
-          "plex": {
-            "guid": "5d9c086e1cae62001f74c7cb",
-            "slug": "the-fall"
-          },
-          "slug": "the-fall",
-          "tmdb": 49010,
-          "tvdb": 258107,
-          "trakt": 48703
-        },
-        "year": 2013,
-        "title": "The Fall",
-        "aired_episodes": 17
-      },
-      "rank": 51,
-      "id": 1153419635,
-      "listed_at": "2025-01-09T10:27:58.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt3514324",
           "plex": {
             "guid": "5d9c083c7b5c2e001e657655",
@@ -1092,23 +1069,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0810788",
+          "imdb": "tt2294189",
           "plex": {
-            "guid": "5d9c087802391c001f58ba45",
-            "slug": "burn-notice"
+            "guid": "5d9c086e1cae62001f74c7cb",
+            "slug": "the-fall"
           },
-          "slug": "burn-notice",
-          "tmdb": 2919,
-          "tvdb": 80270,
-          "trakt": 2900
+          "slug": "the-fall",
+          "tmdb": 49010,
+          "tvdb": 258107,
+          "trakt": 48703
         },
-        "year": 2007,
-        "title": "Burn Notice",
-        "aired_episodes": 111
+        "year": 2013,
+        "title": "The Fall",
+        "aired_episodes": 17
       },
-      "rank": 61,
-      "id": 1286150874,
-      "listed_at": "2025-07-23T20:59:39.000Z",
+      "rank": 51,
+      "id": 1153419635,
+      "listed_at": "2025-01-09T10:27:58.000Z",
       "notes": null
     },
     {
@@ -1155,6 +1132,29 @@
       "rank": 18,
       "id": 1133528027,
       "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0810788",
+          "plex": {
+            "guid": "5d9c087802391c001f58ba45",
+            "slug": "burn-notice"
+          },
+          "slug": "burn-notice",
+          "tmdb": 2919,
+          "tvdb": 80270,
+          "trakt": 2900
+        },
+        "year": 2007,
+        "title": "Burn Notice",
+        "aired_episodes": 111
+      },
+      "rank": 61,
+      "id": 1286150874,
+      "listed_at": "2025-07-23T20:59:39.000Z",
       "notes": null
     },
     {
@@ -1322,29 +1322,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0247082",
-          "plex": {
-            "guid": "5d9c086c7d06d9001ffd27a2",
-            "slug": "csi-crime-scene-investigation"
-          },
-          "slug": "csi-crime-scene-investigation",
-          "tmdb": 1431,
-          "tvdb": 72546,
-          "trakt": 1422
-        },
-        "year": 2000,
-        "title": "CSI: Crime Scene Investigation",
-        "aired_episodes": 335
-      },
-      "rank": 19,
-      "id": 1133528028,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1103987",
           "plex": {
             "guid": "5d9c07f1ba6eb9001fb9789b",
@@ -1362,6 +1339,29 @@
       "rank": 72,
       "id": 1286151594,
       "listed_at": "2025-07-23T21:00:44.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0247082",
+          "plex": {
+            "guid": "5d9c086c7d06d9001ffd27a2",
+            "slug": "csi-crime-scene-investigation"
+          },
+          "slug": "csi-crime-scene-investigation",
+          "tmdb": 1431,
+          "tvdb": 72546,
+          "trakt": 1422
+        },
+        "year": 2000,
+        "title": "CSI: Crime Scene Investigation",
+        "aired_episodes": 335
+      },
+      "rank": 19,
+      "id": 1133528028,
+      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null
     },
     {
@@ -1552,29 +1552,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1492179",
-          "plex": {
-            "guid": "5d9c07f67b5c2e001e6505d7",
-            "slug": "strike-back"
-          },
-          "slug": "strike-back",
-          "tmdb": 32573,
-          "tvdb": 148581,
-          "trakt": 32433
-        },
-        "year": 2010,
-        "title": "Strike Back",
-        "aired_episodes": 76
-      },
-      "rank": 77,
-      "id": 1286152000,
-      "listed_at": "2025-07-23T21:01:19.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4655480",
           "plex": {
             "guid": "5d9c08683c3f87001f34eb20",
@@ -1592,6 +1569,29 @@
       "rank": 54,
       "id": 1283748591,
       "listed_at": "2025-07-21T12:19:19.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1492179",
+          "plex": {
+            "guid": "5d9c07f67b5c2e001e6505d7",
+            "slug": "strike-back"
+          },
+          "slug": "strike-back",
+          "tmdb": 32573,
+          "tvdb": 148581,
+          "trakt": 32433
+        },
+        "year": 2010,
+        "title": "Strike Back",
+        "aired_episodes": 76
+      },
+      "rank": 77,
+      "id": 1286152000,
+      "listed_at": "2025-07-23T21:01:19.000Z",
       "notes": null
     },
     {
