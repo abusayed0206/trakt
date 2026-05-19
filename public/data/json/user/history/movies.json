@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-18T08:57:22.466648+00:00",
+    "fetched_at": "2026-05-19T08:44:19.097187+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12282957077,
+      "watched_at": "2026-05-18T18:27:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "The Punisher: One Last Kill",
+        "year": 2026,
+        "ids": {
+          "trakt": 1178309,
+          "slug": "the-punisher-one-last-kill-2026",
+          "imdb": "tt36042156",
+          "tmdb": 1439930
+        }
+      }
+    },
     {
       "id": 12280520225,
       "watched_at": "2026-05-17T20:45:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "bad-boys-1995",
           "imdb": "tt0112442",
           "tmdb": 9737
-        }
-      }
-    },
-    {
-      "id": 12085809092,
-      "watched_at": "2026-03-14T21:11:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Reservoir Dogs",
-        "year": 1992,
-        "ids": {
-          "trakt": 392,
-          "slug": "reservoir-dogs-1992",
-          "imdb": "tt0105236",
-          "tmdb": 500
         }
       }
     }
