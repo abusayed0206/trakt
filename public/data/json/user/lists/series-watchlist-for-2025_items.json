@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-20T08:41:30.974300+00:00",
+    "fetched_at": "2026-05-21T08:46:59.476352+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -356,29 +356,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3749900",
-          "plex": {
-            "guid": "5d9c08390aaccd001f8ee512",
-            "slug": "gotham"
-          },
-          "slug": "gotham",
-          "tmdb": 60708,
-          "tvdb": 274431,
-          "trakt": 60278
-        },
-        "year": 2014,
-        "title": "Gotham",
-        "aired_episodes": 100
-      },
-      "rank": 78,
-      "id": 1287727091,
-      "listed_at": "2025-07-25T11:10:24.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1405406",
           "plex": {
             "guid": "5d9c082ae98e47001eb0946f",
@@ -396,6 +373,29 @@
       "rank": 27,
       "id": 1153031251,
       "listed_at": "2025-01-08T18:17:15.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt3749900",
+          "plex": {
+            "guid": "5d9c08390aaccd001f8ee512",
+            "slug": "gotham"
+          },
+          "slug": "gotham",
+          "tmdb": 60708,
+          "tvdb": 274431,
+          "trakt": 60278
+        },
+        "year": 2014,
+        "title": "Gotham",
+        "aired_episodes": 100
+      },
+      "rank": 78,
+      "id": 1287727091,
+      "listed_at": "2025-07-25T11:10:24.000Z",
       "notes": null
     },
     {
@@ -471,29 +471,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      },
-      "rank": 49,
-      "id": 1170422123,
-      "listed_at": "2025-02-07T11:01:15.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0285331",
           "plex": {
             "guid": "5d9c08713c3f87001f3505b6",
@@ -563,6 +540,29 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      },
+      "rank": 49,
+      "id": 1170422123,
+      "listed_at": "2025-02-07T11:01:15.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt11737520",
           "plex": {
             "guid": "5f7c9b1c9b958e00415de6bb",
@@ -609,29 +609,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 354
-      },
-      "rank": 8,
-      "id": 1127241236,
-      "listed_at": "2024-11-25T08:46:20.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt27497448",
           "plex": {
             "guid": "643cbf9ec1962a0897b7f6dd",
@@ -649,6 +626,29 @@
       "rank": 84,
       "id": 1400239921,
       "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0452046",
+          "plex": {
+            "guid": "5d9c080446115600200a6bbb",
+            "slug": "criminal-minds"
+          },
+          "slug": "criminal-minds",
+          "tmdb": 4057,
+          "tvdb": 75710,
+          "trakt": 4033
+        },
+        "year": 2005,
+        "title": "Criminal Minds",
+        "aired_episodes": 354
+      },
+      "rank": 8,
+      "id": 1127241236,
+      "listed_at": "2024-11-25T08:46:20.000Z",
       "notes": null
     },
     {
@@ -724,23 +724,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5114356",
+          "imdb": "tt0979432",
           "plex": {
-            "guid": "5d9c08057d06d9001ffcef28",
-            "slug": "legion"
+            "guid": "5d9c086dcb3ffa001f1b4ca3",
+            "slug": "boardwalk-empire"
           },
-          "slug": "legion",
-          "tmdb": 67195,
-          "tvdb": 320724,
-          "trakt": 113656
+          "slug": "boardwalk-empire",
+          "tmdb": 1621,
+          "tvdb": 84947,
+          "trakt": 1610
         },
-        "year": 2017,
-        "title": "Legion",
-        "aired_episodes": 27
+        "year": 2010,
+        "title": "Boardwalk Empire",
+        "aired_episodes": 56
       },
-      "rank": 50,
-      "id": 1176247212,
-      "listed_at": "2025-02-21T07:31:25.000Z",
+      "rank": 31,
+      "id": 1153031261,
+      "listed_at": "2025-01-08T18:18:20.000Z",
       "notes": null
     },
     {
@@ -764,29 +764,6 @@
       "rank": 53,
       "id": 1283744103,
       "listed_at": "2025-07-21T12:16:06.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt0979432",
-          "plex": {
-            "guid": "5d9c086dcb3ffa001f1b4ca3",
-            "slug": "boardwalk-empire"
-          },
-          "slug": "boardwalk-empire",
-          "tmdb": 1621,
-          "tvdb": 84947,
-          "trakt": 1610
-        },
-        "year": 2010,
-        "title": "Boardwalk Empire",
-        "aired_episodes": 56
-      },
-      "rank": 31,
-      "id": 1153031261,
-      "listed_at": "2025-01-08T18:18:20.000Z",
       "notes": null
     },
     {
@@ -862,23 +839,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2070791",
+          "imdb": "tt5114356",
           "plex": {
-            "guid": "5d9c086c02391c001f5891cb",
-            "slug": "revolution"
+            "guid": "5d9c08057d06d9001ffcef28",
+            "slug": "legion"
           },
-          "slug": "revolution",
-          "tmdb": 1410,
-          "tvdb": 258823,
-          "trakt": 1401
+          "slug": "legion",
+          "tmdb": 67195,
+          "tvdb": 320724,
+          "trakt": 113656
         },
-        "year": 2012,
-        "title": "Revolution",
-        "aired_episodes": 42
+        "year": 2017,
+        "title": "Legion",
+        "aired_episodes": 27
       },
-      "rank": 76,
-      "id": 1286151857,
-      "listed_at": "2025-07-23T21:01:09.000Z",
+      "rank": 50,
+      "id": 1176247212,
+      "listed_at": "2025-02-21T07:31:25.000Z",
       "notes": null
     },
     {
@@ -931,29 +908,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt8421350",
-          "plex": {
-            "guid": "5d9c0900ffd9ef001e99dd20",
-            "slug": "manifest"
-          },
-          "slug": "manifest",
-          "tmdb": 79696,
-          "tvdb": 349271,
-          "trakt": 133259
-        },
-        "year": 2018,
-        "title": "Manifest",
-        "aired_episodes": 62
-      },
-      "rank": 83,
-      "id": 1400239794,
-      "listed_at": "2026-01-01T22:05:43.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2934286",
           "plex": {
             "guid": "606ee676cc0fca002d430dcc",
@@ -971,6 +925,29 @@
       "rank": 25,
       "id": 1153031245,
       "listed_at": "2025-01-08T18:16:56.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt8421350",
+          "plex": {
+            "guid": "5d9c0900ffd9ef001e99dd20",
+            "slug": "manifest"
+          },
+          "slug": "manifest",
+          "tmdb": 79696,
+          "tvdb": 349271,
+          "trakt": 133259
+        },
+        "year": 2018,
+        "title": "Manifest",
+        "aired_episodes": 62
+      },
+      "rank": 83,
+      "id": 1400239794,
+      "listed_at": "2026-01-01T22:05:43.000Z",
       "notes": null
     },
     {
@@ -1046,6 +1023,29 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt2070791",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891cb",
+            "slug": "revolution"
+          },
+          "slug": "revolution",
+          "tmdb": 1410,
+          "tvdb": 258823,
+          "trakt": 1401
+        },
+        "year": 2012,
+        "title": "Revolution",
+        "aired_episodes": 42
+      },
+      "rank": 76,
+      "id": 1286151857,
+      "listed_at": "2025-07-23T21:01:09.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt2294189",
           "plex": {
             "guid": "5d9c086e1cae62001f74c7cb",
@@ -1069,23 +1069,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3514324",
+          "imdb": "tt15571732",
           "plex": {
-            "guid": "5d9c083c7b5c2e001e657655",
-            "slug": "scorpion"
+            "guid": "618fc471f4da835fbeee158d",
+            "slug": "agatha-all-along"
           },
-          "slug": "scorpion",
-          "tmdb": 60797,
-          "tvdb": 281630,
-          "trakt": 60356
+          "slug": "agatha-all-along",
+          "tmdb": 138501,
+          "tvdb": 412429,
+          "trakt": 191186
         },
-        "year": 2014,
-        "title": "Scorpion",
-        "aired_episodes": 93
+        "year": 2024,
+        "title": "Agatha All Along",
+        "aired_episodes": 9
       },
-      "rank": 17,
-      "id": 1133528026,
-      "listed_at": "2024-12-04T17:14:17.000Z",
+      "rank": 34,
+      "id": 1153031275,
+      "listed_at": "2025-01-08T18:20:08.000Z",
       "notes": null
     },
     {
@@ -1115,23 +1115,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt15571732",
+          "imdb": "tt3514324",
           "plex": {
-            "guid": "618fc471f4da835fbeee158d",
-            "slug": "agatha-all-along"
+            "guid": "5d9c083c7b5c2e001e657655",
+            "slug": "scorpion"
           },
-          "slug": "agatha-all-along",
-          "tmdb": 138501,
-          "tvdb": 412429,
-          "trakt": 191186
+          "slug": "scorpion",
+          "tmdb": 60797,
+          "tvdb": 281630,
+          "trakt": 60356
         },
-        "year": 2024,
-        "title": "Agatha All Along",
-        "aired_episodes": 9
+        "year": 2014,
+        "title": "Scorpion",
+        "aired_episodes": 93
       },
-      "rank": 34,
-      "id": 1153031275,
-      "listed_at": "2025-01-08T18:20:08.000Z",
+      "rank": 17,
+      "id": 1133528026,
+      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null
     },
     {
@@ -1184,29 +1184,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0810788",
-          "plex": {
-            "guid": "5d9c087802391c001f58ba45",
-            "slug": "burn-notice"
-          },
-          "slug": "burn-notice",
-          "tmdb": 2919,
-          "tvdb": 80270,
-          "trakt": 2900
-        },
-        "year": 2007,
-        "title": "Burn Notice",
-        "aired_episodes": 111
-      },
-      "rank": 61,
-      "id": 1286150874,
-      "listed_at": "2025-07-23T20:59:39.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt11743610",
           "plex": {
             "guid": "6050e8434e71c2002c6d9ab6",
@@ -1230,46 +1207,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3865236",
+          "imdb": "tt0810788",
           "plex": {
-            "guid": "5d9c08552df347001e3aff45",
-            "slug": "into-the-badlands"
+            "guid": "5d9c087802391c001f58ba45",
+            "slug": "burn-notice"
           },
-          "slug": "into-the-badlands",
-          "tmdb": 47450,
-          "tvdb": 289079,
-          "trakt": 82217
+          "slug": "burn-notice",
+          "tmdb": 2919,
+          "tvdb": 80270,
+          "trakt": 2900
         },
-        "year": 2015,
-        "title": "Into the Badlands",
-        "aired_episodes": 32
+        "year": 2007,
+        "title": "Burn Notice",
+        "aired_episodes": 111
       },
-      "rank": 66,
-      "id": 1286151361,
-      "listed_at": "2025-07-23T21:00:15.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt2805096",
-          "plex": {
-            "guid": "5d9c08482df347001e3aed3c",
-            "slug": "chicago-p-d"
-          },
-          "slug": "chicago-p-d",
-          "tmdb": 58841,
-          "tvdb": 269641,
-          "trakt": 58454
-        },
-        "year": 2014,
-        "title": "Chicago P.D.",
-        "aired_episodes": 264
-      },
-      "rank": 41,
-      "id": 1153031321,
-      "listed_at": "2025-01-08T18:22:47.000Z",
+      "rank": 61,
+      "id": 1286150874,
+      "listed_at": "2025-07-23T20:59:39.000Z",
       "notes": null
     },
     {
@@ -1316,6 +1270,52 @@
       "rank": 74,
       "id": 1286151728,
       "listed_at": "2025-07-23T21:00:58.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt3865236",
+          "plex": {
+            "guid": "5d9c08552df347001e3aff45",
+            "slug": "into-the-badlands"
+          },
+          "slug": "into-the-badlands",
+          "tmdb": 47450,
+          "tvdb": 289079,
+          "trakt": 82217
+        },
+        "year": 2015,
+        "title": "Into the Badlands",
+        "aired_episodes": 32
+      },
+      "rank": 66,
+      "id": 1286151361,
+      "listed_at": "2025-07-23T21:00:15.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2805096",
+          "plex": {
+            "guid": "5d9c08482df347001e3aed3c",
+            "slug": "chicago-p-d"
+          },
+          "slug": "chicago-p-d",
+          "tmdb": 58841,
+          "tvdb": 269641,
+          "trakt": 58454
+        },
+        "year": 2014,
+        "title": "Chicago P.D.",
+        "aired_episodes": 264
+      },
+      "rank": 41,
+      "id": 1153031321,
+      "listed_at": "2025-01-08T18:22:47.000Z",
       "notes": null
     },
     {
@@ -1391,52 +1391,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0118421",
-          "plex": {
-            "guid": "5d9c0871ffd9ef001e9955bc",
-            "slug": "oz"
-          },
-          "slug": "oz",
-          "tmdb": 3322,
-          "tvdb": 70682,
-          "trakt": 3300
-        },
-        "year": 1997,
-        "title": "Oz",
-        "aired_episodes": 56
-      },
-      "rank": 20,
-      "id": 1133528029,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt5164196",
-          "plex": {
-            "guid": "5d9c0804ba2e21001f18d35d",
-            "slug": "lethal-weapon"
-          },
-          "slug": "lethal-weapon",
-          "tmdb": 67116,
-          "tvdb": 311790,
-          "trakt": 107717
-        },
-        "year": 2016,
-        "title": "Lethal Weapon",
-        "aired_episodes": 55
-      },
-      "rank": 70,
-      "id": 1286151517,
-      "listed_at": "2025-07-23T21:00:31.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1441135",
           "plex": {
             "guid": "5d9c0836ba6eb9001fb9eb12",
@@ -1454,6 +1408,29 @@
       "rank": 64,
       "id": 1286151019,
       "listed_at": "2025-07-23T20:59:54.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0118421",
+          "plex": {
+            "guid": "5d9c0871ffd9ef001e9955bc",
+            "slug": "oz"
+          },
+          "slug": "oz",
+          "tmdb": 3322,
+          "tvdb": 70682,
+          "trakt": 3300
+        },
+        "year": 1997,
+        "title": "Oz",
+        "aired_episodes": 56
+      },
+      "rank": 20,
+      "id": 1133528029,
+      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null
     },
     {
@@ -1500,6 +1477,29 @@
       "rank": 52,
       "id": 1273903687,
       "listed_at": "2025-07-08T18:50:06.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5164196",
+          "plex": {
+            "guid": "5d9c0804ba2e21001f18d35d",
+            "slug": "lethal-weapon"
+          },
+          "slug": "lethal-weapon",
+          "tmdb": 67116,
+          "tvdb": 311790,
+          "trakt": 107717
+        },
+        "year": 2016,
+        "title": "Lethal Weapon",
+        "aired_episodes": 55
+      },
+      "rank": 70,
+      "id": 1286151517,
+      "listed_at": "2025-07-23T21:00:31.000Z",
       "notes": null
     },
     {
@@ -1702,7 +1702,7 @@
         },
         "year": 2024,
         "title": "Criminal Record",
-        "aired_episodes": 12
+        "aired_episodes": 13
       },
       "rank": 46,
       "id": 1153031519,
