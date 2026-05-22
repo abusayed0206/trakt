@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-21T08:46:59.476352+00:00",
+    "fetched_at": "2026-05-22T08:37:42.649399+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -586,29 +586,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1219024",
-          "plex": {
-            "guid": "5d9c086c3c3f87001f34f644",
-            "slug": "castle-2009"
-          },
-          "slug": "castle",
-          "tmdb": 1419,
-          "tvdb": 83462,
-          "trakt": 1410
-        },
-        "year": 2009,
-        "title": "Castle",
-        "aired_episodes": 173
-      },
-      "rank": 33,
-      "id": 1153031271,
-      "listed_at": "2025-01-08T18:19:46.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt27497448",
           "plex": {
             "guid": "643cbf9ec1962a0897b7f6dd",
@@ -626,6 +603,29 @@
       "rank": 84,
       "id": 1400239921,
       "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1219024",
+          "plex": {
+            "guid": "5d9c086c3c3f87001f34f644",
+            "slug": "castle-2009"
+          },
+          "slug": "castle",
+          "tmdb": 1419,
+          "tvdb": 83462,
+          "trakt": 1410
+        },
+        "year": 2009,
+        "title": "Castle",
+        "aired_episodes": 173
+      },
+      "rank": 33,
+      "id": 1153031271,
+      "listed_at": "2025-01-08T18:19:46.000Z",
       "notes": null
     },
     {
@@ -885,29 +885,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0364845",
-          "plex": {
-            "guid": "5d9c086fffd9ef001e994da0",
-            "slug": "ncis"
-          },
-          "slug": "ncis",
-          "tmdb": 4614,
-          "tvdb": 72108,
-          "trakt": 4590
-        },
-        "year": 2003,
-        "title": "NCIS",
-        "aired_episodes": 507
-      },
-      "rank": 30,
-      "id": 1153031256,
-      "listed_at": "2025-01-08T18:17:47.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2934286",
           "plex": {
             "guid": "606ee676cc0fca002d430dcc",
@@ -925,6 +902,29 @@
       "rank": 25,
       "id": 1153031245,
       "listed_at": "2025-01-08T18:16:56.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0364845",
+          "plex": {
+            "guid": "5d9c086fffd9ef001e994da0",
+            "slug": "ncis"
+          },
+          "slug": "ncis",
+          "tmdb": 4614,
+          "tvdb": 72108,
+          "trakt": 4590
+        },
+        "year": 2003,
+        "title": "NCIS",
+        "aired_episodes": 507
+      },
+      "rank": 30,
+      "id": 1153031256,
+      "listed_at": "2025-01-08T18:17:47.000Z",
       "notes": null
     },
     {
@@ -1138,29 +1138,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0203259",
-          "plex": {
-            "guid": "5d9c0875e98e47001eb10c6a",
-            "slug": "law-and-order-special-victims-unit"
-          },
-          "slug": "law-order-special-victims-unit",
-          "tmdb": 2734,
-          "tvdb": 75692,
-          "trakt": 2716
-        },
-        "year": 1999,
-        "title": "Law & Order: Special Victims Unit",
-        "aired_episodes": 594
-      },
-      "rank": 18,
-      "id": 1133528027,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt19231492",
           "plex": {
             "guid": "5fd2a1b82de5fd002dd4c7b1",
@@ -1200,6 +1177,29 @@
       },
       "rank": 21,
       "id": 1133528030,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0203259",
+          "plex": {
+            "guid": "5d9c0875e98e47001eb10c6a",
+            "slug": "law-and-order-special-victims-unit"
+          },
+          "slug": "law-order-special-victims-unit",
+          "tmdb": 2734,
+          "tvdb": 75692,
+          "trakt": 2716
+        },
+        "year": 1999,
+        "title": "Law & Order: Special Victims Unit",
+        "aired_episodes": 594
+      },
+      "rank": 18,
+      "id": 1133528027,
       "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null
     },
@@ -1253,29 +1253,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt4428122",
-          "plex": {
-            "guid": "5d9c0869ffd9ef001e993df2",
-            "slug": "quantico"
-          },
-          "slug": "quantico",
-          "tmdb": 62816,
-          "tvdb": 295515,
-          "trakt": 98885
-        },
-        "year": 2015,
-        "title": "Quantico",
-        "aired_episodes": 57
-      },
-      "rank": 74,
-      "id": 1286151728,
-      "listed_at": "2025-07-23T21:00:58.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt3865236",
           "plex": {
             "guid": "5d9c08552df347001e3aff45",
@@ -1316,6 +1293,29 @@
       "rank": 41,
       "id": 1153031321,
       "listed_at": "2025-01-08T18:22:47.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt4428122",
+          "plex": {
+            "guid": "5d9c0869ffd9ef001e993df2",
+            "slug": "quantico"
+          },
+          "slug": "quantico",
+          "tmdb": 62816,
+          "tvdb": 295515,
+          "trakt": 98885
+        },
+        "year": 2015,
+        "title": "Quantico",
+        "aired_episodes": 57
+      },
+      "rank": 74,
+      "id": 1286151728,
+      "listed_at": "2025-07-23T21:00:58.000Z",
       "notes": null
     },
     {
@@ -1391,29 +1391,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1441135",
-          "plex": {
-            "guid": "5d9c0836ba6eb9001fb9eb12",
-            "slug": "flashforward"
-          },
-          "slug": "flashforward",
-          "tmdb": 19092,
-          "tvdb": 84024,
-          "trakt": 19003
-        },
-        "year": 2009,
-        "title": "FlashForward",
-        "aired_episodes": 22
-      },
-      "rank": 64,
-      "id": 1286151019,
-      "listed_at": "2025-07-23T20:59:54.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0118421",
           "plex": {
             "guid": "5d9c0871ffd9ef001e9955bc",
@@ -1437,23 +1414,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1378167",
+          "imdb": "tt1441135",
           "plex": {
-            "guid": "5d9c07ec08fddd001f28e266",
-            "slug": "ncis-los-angeles"
+            "guid": "5d9c0836ba6eb9001fb9eb12",
+            "slug": "flashforward"
           },
-          "slug": "ncis-los-angeles",
-          "tmdb": 17610,
-          "tvdb": 95441,
-          "trakt": 17532
+          "slug": "flashforward",
+          "tmdb": 19092,
+          "tvdb": 84024,
+          "trakt": 19003
         },
         "year": 2009,
-        "title": "NCIS: Los Angeles",
-        "aired_episodes": 323
+        "title": "FlashForward",
+        "aired_episodes": 22
       },
-      "rank": 73,
-      "id": 1286151708,
-      "listed_at": "2025-07-23T21:00:54.000Z",
+      "rank": 64,
+      "id": 1286151019,
+      "listed_at": "2025-07-23T20:59:54.000Z",
       "notes": null
     },
     {
@@ -1477,6 +1454,29 @@
       "rank": 52,
       "id": 1273903687,
       "listed_at": "2025-07-08T18:50:06.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1378167",
+          "plex": {
+            "guid": "5d9c07ec08fddd001f28e266",
+            "slug": "ncis-los-angeles"
+          },
+          "slug": "ncis-los-angeles",
+          "tmdb": 17610,
+          "tvdb": 95441,
+          "trakt": 17532
+        },
+        "year": 2009,
+        "title": "NCIS: Los Angeles",
+        "aired_episodes": 323
+      },
+      "rank": 73,
+      "id": 1286151708,
+      "listed_at": "2025-07-23T21:00:54.000Z",
       "notes": null
     },
     {
@@ -1598,29 +1598,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1492179",
-          "plex": {
-            "guid": "5d9c07f67b5c2e001e6505d7",
-            "slug": "strike-back"
-          },
-          "slug": "strike-back",
-          "tmdb": 32573,
-          "tvdb": 148581,
-          "trakt": 32433
-        },
-        "year": 2010,
-        "title": "Strike Back",
-        "aired_episodes": 76
-      },
-      "rank": 77,
-      "id": 1286152000,
-      "listed_at": "2025-07-23T21:01:19.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt13875494",
           "plex": {
             "guid": "6339b5e5bc01498ae59c016c",
@@ -1638,6 +1615,29 @@
       "rank": 13,
       "id": 1129591871,
       "listed_at": "2024-11-28T07:51:50.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1492179",
+          "plex": {
+            "guid": "5d9c07f67b5c2e001e6505d7",
+            "slug": "strike-back"
+          },
+          "slug": "strike-back",
+          "tmdb": 32573,
+          "tvdb": 148581,
+          "trakt": 32433
+        },
+        "year": 2010,
+        "title": "Strike Back",
+        "aired_episodes": 76
+      },
+      "rank": 77,
+      "id": 1286152000,
+      "listed_at": "2025-07-23T21:01:19.000Z",
       "notes": null
     },
     {
@@ -1667,29 +1667,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5345490",
-          "plex": {
-            "guid": "5d9c07fc0aaccd001f8ec1b6",
-            "slug": "24-legacy"
-          },
-          "slug": "24-legacy",
-          "tmdb": 66789,
-          "tvdb": 311787,
-          "trakt": 107716
-        },
-        "year": 2017,
-        "title": "24: Legacy",
-        "aired_episodes": 12
-      },
-      "rank": 58,
-      "id": 1286150796,
-      "listed_at": "2025-07-23T20:59:21.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt21088136",
           "plex": {
             "guid": "62b1b378e2ad35049f91ee10",
@@ -1707,6 +1684,29 @@
       "rank": 46,
       "id": 1153031519,
       "listed_at": "2025-01-08T18:23:06.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5345490",
+          "plex": {
+            "guid": "5d9c07fc0aaccd001f8ec1b6",
+            "slug": "24-legacy"
+          },
+          "slug": "24-legacy",
+          "tmdb": 66789,
+          "tvdb": 311787,
+          "trakt": 107716
+        },
+        "year": 2017,
+        "title": "24: Legacy",
+        "aired_episodes": 12
+      },
+      "rank": 58,
+      "id": 1286150796,
+      "listed_at": "2025-07-23T20:59:21.000Z",
       "notes": null
     },
     {
