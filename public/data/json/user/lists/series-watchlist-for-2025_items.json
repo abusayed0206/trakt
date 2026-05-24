@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-23T07:56:26.289436+00:00",
+    "fetched_at": "2026-05-24T08:04:28.088524+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -793,29 +793,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5114356",
-          "plex": {
-            "guid": "5d9c08057d06d9001ffcef28",
-            "slug": "legion"
-          },
-          "slug": "legion",
-          "tmdb": 67195,
-          "tvdb": 320724,
-          "trakt": 113656
-        },
-        "year": 2017,
-        "title": "Legion",
-        "aired_episodes": 27
-      },
-      "rank": 50,
-      "id": 1176247212,
-      "listed_at": "2025-02-21T07:31:25.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1474684",
           "plex": {
             "guid": "5d9c07f846115600200a611b",
@@ -856,6 +833,29 @@
       "rank": 42,
       "id": 1153031323,
       "listed_at": "2025-01-08T18:22:51.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5114356",
+          "plex": {
+            "guid": "5d9c08057d06d9001ffcef28",
+            "slug": "legion"
+          },
+          "slug": "legion",
+          "tmdb": 67195,
+          "tvdb": 320724,
+          "trakt": 113656
+        },
+        "year": 2017,
+        "title": "Legion",
+        "aired_episodes": 27
+      },
+      "rank": 50,
+      "id": 1176247212,
+      "listed_at": "2025-02-21T07:31:25.000Z",
       "notes": null
     },
     {
@@ -1092,29 +1092,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3514324",
-          "plex": {
-            "guid": "5d9c083c7b5c2e001e657655",
-            "slug": "scorpion"
-          },
-          "slug": "scorpion",
-          "tmdb": 60797,
-          "tvdb": 281630,
-          "trakt": 60356
-        },
-        "year": 2014,
-        "title": "Scorpion",
-        "aired_episodes": 93
-      },
-      "rank": 17,
-      "id": 1133528026,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2402207",
           "plex": {
             "guid": "5d9c083c7b5c2e001e657660",
@@ -1132,6 +1109,29 @@
       "rank": 71,
       "id": 1286151520,
       "listed_at": "2025-07-23T21:00:34.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt3514324",
+          "plex": {
+            "guid": "5d9c083c7b5c2e001e657655",
+            "slug": "scorpion"
+          },
+          "slug": "scorpion",
+          "tmdb": 60797,
+          "tvdb": 281630,
+          "trakt": 60356
+        },
+        "year": 2014,
+        "title": "Scorpion",
+        "aired_episodes": 93
+      },
+      "rank": 17,
+      "id": 1133528026,
+      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null
     },
     {
@@ -1345,29 +1345,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2189221",
-          "plex": {
-            "guid": "5d9c082c08fddd001f2944ca",
-            "slug": "defiance"
-          },
-          "slug": "defiance",
-          "tmdb": 51704,
-          "tvdb": 255326,
-          "trakt": 51377
-        },
-        "year": 2013,
-        "title": "Defiance",
-        "aired_episodes": 38
-      },
-      "rank": 63,
-      "id": 1286150899,
-      "listed_at": "2025-07-23T20:59:49.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1103987",
           "plex": {
             "guid": "5d9c07f1ba6eb9001fb9789b",
@@ -1385,6 +1362,29 @@
       "rank": 72,
       "id": 1286151594,
       "listed_at": "2025-07-23T21:00:44.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2189221",
+          "plex": {
+            "guid": "5d9c082c08fddd001f2944ca",
+            "slug": "defiance"
+          },
+          "slug": "defiance",
+          "tmdb": 51704,
+          "tvdb": 255326,
+          "trakt": 51377
+        },
+        "year": 2013,
+        "title": "Defiance",
+        "aired_episodes": 38
+      },
+      "rank": 63,
+      "id": 1286150899,
+      "listed_at": "2025-07-23T20:59:49.000Z",
       "notes": null
     },
     {
@@ -1690,29 +1690,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5345490",
-          "plex": {
-            "guid": "5d9c07fc0aaccd001f8ec1b6",
-            "slug": "24-legacy"
-          },
-          "slug": "24-legacy",
-          "tmdb": 66789,
-          "tvdb": 311787,
-          "trakt": 107716
-        },
-        "year": 2017,
-        "title": "24: Legacy",
-        "aired_episodes": 12
-      },
-      "rank": 58,
-      "id": 1286150796,
-      "listed_at": "2025-07-23T20:59:21.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt26591147",
           "plex": {
             "guid": "645bf5428fbf681e141ac983",
@@ -1730,6 +1707,29 @@
       "rank": 80,
       "id": 1316607181,
       "listed_at": "2025-09-16T07:21:17.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5345490",
+          "plex": {
+            "guid": "5d9c07fc0aaccd001f8ec1b6",
+            "slug": "24-legacy"
+          },
+          "slug": "24-legacy",
+          "tmdb": 66789,
+          "tvdb": 311787,
+          "trakt": 107716
+        },
+        "year": 2017,
+        "title": "24: Legacy",
+        "aired_episodes": 12
+      },
+      "rank": 58,
+      "id": 1286150796,
+      "listed_at": "2025-07-23T20:59:21.000Z",
       "notes": null
     },
     {
