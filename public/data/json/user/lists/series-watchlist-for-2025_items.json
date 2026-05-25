@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-24T08:04:28.088524+00:00",
+    "fetched_at": "2026-05-25T09:37:08.920084+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -747,29 +747,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2375692",
-          "plex": {
-            "guid": "5d9c08562df347001e3affeb",
-            "slug": "black-sails"
-          },
-          "slug": "black-sails",
-          "tmdb": 47665,
-          "tvdb": 262407,
-          "trakt": 47374
-        },
-        "year": 2014,
-        "title": "Black Sails",
-        "aired_episodes": 38
-      },
-      "rank": 53,
-      "id": 1283744103,
-      "listed_at": "2025-07-21T12:16:06.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt7587890",
           "plex": {
             "guid": "5d9c08ffe264b7001fc4d397",
@@ -787,6 +764,29 @@
       "rank": 29,
       "id": 1153031255,
       "listed_at": "2025-01-08T18:17:39.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2375692",
+          "plex": {
+            "guid": "5d9c08562df347001e3affeb",
+            "slug": "black-sails"
+          },
+          "slug": "black-sails",
+          "tmdb": 47665,
+          "tvdb": 262407,
+          "trakt": 47374
+        },
+        "year": 2014,
+        "title": "Black Sails",
+        "aired_episodes": 38
+      },
+      "rank": 53,
+      "id": 1283744103,
+      "listed_at": "2025-07-21T12:16:06.000Z",
       "notes": null
     },
     {
@@ -1610,7 +1610,7 @@
         },
         "year": 2024,
         "title": "Tracker",
-        "aired_episodes": 54
+        "aired_episodes": 55
       },
       "rank": 13,
       "id": 1129591871,
@@ -1782,23 +1782,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3729898",
+          "imdb": "tt0118379",
           "plex": {
-            "guid": "5d9c0816e9d5a1001f4d7297",
-            "slug": "hap-and-leonard"
+            "guid": "5d9c080002391c001f57e84c",
+            "slug": "la-femme-nikita"
           },
-          "slug": "hap-and-leonard",
-          "tmdb": 64835,
-          "tvdb": 305687,
-          "trakt": 104614
+          "slug": "la-femme-nikita",
+          "tmdb": 167,
+          "tvdb": 78527,
+          "trakt": 166
         },
-        "year": 2016,
-        "title": "Hap and Leonard",
-        "aired_episodes": 18
+        "year": 1997,
+        "title": "La Femme Nikita",
+        "aired_episodes": 96
       },
-      "rank": 65,
-      "id": 1286151153,
-      "listed_at": "2025-07-23T21:00:08.000Z",
+      "rank": 68,
+      "id": 1286151412,
+      "listed_at": "2025-07-23T21:00:22.000Z",
       "notes": null
     },
     {
@@ -1828,23 +1828,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0118379",
+          "imdb": "tt3729898",
           "plex": {
-            "guid": "5d9c080002391c001f57e84c",
-            "slug": "la-femme-nikita"
+            "guid": "5d9c0816e9d5a1001f4d7297",
+            "slug": "hap-and-leonard"
           },
-          "slug": "la-femme-nikita",
-          "tmdb": 167,
-          "tvdb": 78527,
-          "trakt": 166
+          "slug": "hap-and-leonard",
+          "tmdb": 64835,
+          "tvdb": 305687,
+          "trakt": 104614
         },
-        "year": 1997,
-        "title": "La Femme Nikita",
-        "aired_episodes": 96
+        "year": 2016,
+        "title": "Hap and Leonard",
+        "aired_episodes": 18
       },
-      "rank": 68,
-      "id": 1286151412,
-      "listed_at": "2025-07-23T21:00:22.000Z",
+      "rank": 65,
+      "id": 1286151153,
+      "listed_at": "2025-07-23T21:00:08.000Z",
       "notes": null
     },
     {
