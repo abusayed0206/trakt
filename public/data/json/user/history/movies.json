@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-26T08:50:15.735490+00:00",
+    "fetched_at": "2026-05-27T08:53:02.166956+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12310418095,
+      "watched_at": "2026-05-27T07:38:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Eraser: Reborn",
+        "year": 2022,
+        "ids": {
+          "trakt": 739758,
+          "slug": "eraser-reborn-2022",
+          "imdb": "tt15422240",
+          "tmdb": 923597
+        }
+      }
+    },
+    {
+      "id": 12307949741,
+      "watched_at": "2026-05-26T19:06:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Tom Clancy's Jack Ryan: Ghost War",
+        "year": 2026,
+        "ids": {
+          "trakt": 1127320,
+          "slug": "tom-clancy-s-jack-ryan-ghost-war-2026",
+          "imdb": "tt34378301",
+          "tmdb": 1380291
+        }
+      }
+    },
     {
       "id": 12282957077,
       "watched_at": "2026-05-18T18:27:00.000Z",
@@ -132,38 +164,6 @@
           "slug": "bad-boys-for-life-2020",
           "imdb": "tt1502397",
           "tmdb": 38700
-        }
-      }
-    },
-    {
-      "id": 12150297090,
-      "watched_at": "2026-03-31T14:11:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Bad Boys II",
-        "year": 2003,
-        "ids": {
-          "trakt": 4429,
-          "slug": "bad-boys-ii-2003",
-          "imdb": "tt0172156",
-          "tmdb": 8961
-        }
-      }
-    },
-    {
-      "id": 12150296300,
-      "watched_at": "2026-03-29T14:11:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Bad Boys",
-        "year": 1995,
-        "ids": {
-          "trakt": 5003,
-          "slug": "bad-boys-1995",
-          "imdb": "tt0112442",
-          "tmdb": 9737
         }
       }
     }

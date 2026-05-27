@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-26T08:50:15.909386+00:00",
+    "fetched_at": "2026-05-27T08:53:02.625728+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 829
+    "count": 831
   },
   "data": [
     {
@@ -8397,7 +8397,7 @@
       "last_watched_at": "2024-05-13T12:37:00.000Z",
       "last_updated_at": "2024-05-13T12:37:01.000Z",
       "movie": {
-        "title": "The Night Comes for Us",
+        "title": "The Night Comes For Us",
         "year": 2018,
         "ids": {
           "trakt": 296711,
@@ -11454,6 +11454,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2026-05-27T07:38:00.000Z",
+      "last_updated_at": "2026-05-27T07:38:46.000Z",
+      "movie": {
+        "title": "Eraser: Reborn",
+        "year": 2022,
+        "ids": {
+          "trakt": 739758,
+          "slug": "eraser-reborn-2022",
+          "imdb": "tt15422240",
+          "tmdb": 923597
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2024-10-26T09:50:00.000Z",
       "last_updated_at": "2024-10-26T09:50:34.000Z",
       "movie": {
@@ -12379,6 +12394,21 @@
           "slug": "apex-2026",
           "imdb": "tt16431404",
           "tmdb": 1318447
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-05-26T19:06:00.000Z",
+      "last_updated_at": "2026-05-26T19:06:25.000Z",
+      "movie": {
+        "title": "Tom Clancy's Jack Ryan: Ghost War",
+        "year": 2026,
+        "ids": {
+          "trakt": 1127320,
+          "slug": "tom-clancy-s-jack-ryan-ghost-war-2026",
+          "imdb": "tt34378301",
+          "tmdb": 1380291
         }
       }
     },
