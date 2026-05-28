@@ -1,6 +1,30 @@
 {
   "movies": [
     {
+      "tmdb_id": 1125899,
+      "title": "Cleaner",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1125899_poster.jpg",
+      "last_watched_at": "2026-05-27T18:04:00.000Z"
+    },
+    {
+      "tmdb_id": 604685,
+      "title": "Den of Thieves 2: Pantera",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/604685_poster.jpg",
+      "last_watched_at": "2026-05-27T16:07:00.000Z"
+    },
+    {
+      "tmdb_id": 923597,
+      "title": "Eraser: Reborn",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/923597_poster.jpg",
+      "last_watched_at": "2026-05-27T07:38:00.000Z"
+    },
+    {
+      "tmdb_id": 1380291,
+      "title": "Tom Clancy's Jack Ryan: Ghost War",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1380291_poster.jpg",
+      "last_watched_at": "2026-05-26T19:06:00.000Z"
+    },
+    {
       "tmdb_id": 1439930,
       "title": "The Punisher: One Last Kill",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1439930_poster.jpg",
@@ -35,30 +59,6 @@
       "title": "Avatar: Fire and Ash",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/83533_poster.jpg",
       "last_watched_at": "2026-04-10T14:11:00.000Z"
-    },
-    {
-      "tmdb_id": 38700,
-      "title": "Bad Boys for Life",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/38700_poster.jpg",
-      "last_watched_at": "2026-04-05T17:00:00.000Z"
-    },
-    {
-      "tmdb_id": 573435,
-      "title": "Bad Boys: Ride or Die",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/573435_poster.jpg",
-      "last_watched_at": "2026-04-05T17:00:00.000Z"
-    },
-    {
-      "tmdb_id": 8961,
-      "title": "Bad Boys II",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/8961_poster.jpg",
-      "last_watched_at": "2026-03-31T14:11:00.000Z"
-    },
-    {
-      "tmdb_id": 9737,
-      "title": "Bad Boys",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/9737_poster.jpg",
-      "last_watched_at": "2026-03-29T14:11:00.000Z"
     }
   ],
   "shows": [
@@ -79,7 +79,7 @@
     {
       "tmdb_id": 76479,
       "title": "The Boys",
-      "season": 3,
+      "season": 5,
       "available_seasons": [
         1,
         2,
@@ -87,42 +87,42 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/76479/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/76479/5/season_5_poster.jpg",
       "last_watched_at": "2026-05-20T09:26:00.000Z"
     },
     {
       "tmdb_id": 202555,
       "title": "Daredevil: Born Again",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/202555/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/202555/2/season_2_poster.jpg",
       "last_watched_at": "2026-05-10T22:30:00.000Z"
     },
     {
       "tmdb_id": 1412,
       "title": "Arrow",
-      "season": 2,
-      "available_seasons": [
-        1,
-        2,
-        3
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/2/season_2_poster.jpg",
-      "last_watched_at": "2026-04-19T20:26:00.000Z"
-    },
-    {
-      "tmdb_id": 129552,
-      "title": "The Night Agent",
       "season": 3,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/129552/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/3/season_3_poster.jpg",
+      "last_watched_at": "2026-04-19T20:26:00.000Z"
+    },
+    {
+      "tmdb_id": 129552,
+      "title": "The Night Agent",
+      "season": 1,
+      "available_seasons": [
+        1,
+        2,
+        3
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/129552/1/season_1_poster.jpg",
       "last_watched_at": "2026-03-08T21:54:00.000Z"
     },
     {
@@ -138,7 +138,7 @@
     {
       "tmdb_id": 66732,
       "title": "Stranger Things",
-      "season": 3,
+      "season": 4,
       "available_seasons": [
         1,
         2,
@@ -146,19 +146,19 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/4/season_4_poster.jpg",
       "last_watched_at": "2026-01-01T10:15:00.000Z"
     },
     {
       "tmdb_id": 1973,
       "title": "24",
-      "season": 1,
+      "season": 3,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/3/season_3_poster.jpg",
       "last_watched_at": "2025-12-20T20:34:00.000Z"
     },
     {
@@ -176,12 +176,12 @@
     {
       "tmdb_id": 1415,
       "title": "Elementary",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/1/season_1_poster.jpg",
       "last_watched_at": "2025-09-10T09:38:00.000Z"
     }
   ]
