@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-27T08:53:38.981980+00:00",
+    "fetched_at": "2026-05-28T08:59:47.710204+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -1691,27 +1691,6 @@
       "type": "movie",
       "movie": {
         "ids": {
-          "imdb": "tt15433956",
-          "plex": {
-            "guid": "613230a13a368785a499f186",
-            "slug": "hanu-man"
-          },
-          "slug": "hanu-man-2024",
-          "tmdb": 869760,
-          "trakt": 695719
-        },
-        "year": 2024,
-        "title": "Hanu-Man"
-      },
-      "rank": 687,
-      "id": 1286141346,
-      "listed_at": "2025-07-23T20:44:37.000Z",
-      "notes": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
           "imdb": "tt3460252",
           "plex": {
             "guid": "5d776ae4594b2b001e6c8d46",
@@ -2104,6 +2083,27 @@
       },
       "rank": 102,
       "id": 1286140643,
+      "listed_at": "2025-07-23T20:44:25.000Z",
+      "notes": null
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt0120711",
+          "plex": {
+            "guid": "5d7768354de0ee001fccb983",
+            "slug": "babylon-5-in-the-beginning"
+          },
+          "slug": "babylon-5-in-the-beginning-1998",
+          "tmdb": 10940,
+          "trakt": 6088
+        },
+        "year": 1998,
+        "title": "Babylon 5: In the Beginning"
+      },
+      "rank": 128,
+      "id": 1286140669,
       "listed_at": "2025-07-23T20:44:25.000Z",
       "notes": null
     }

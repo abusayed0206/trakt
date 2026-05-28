@@ -1,12 +1,44 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-27T08:53:02.166956+00:00",
+    "fetched_at": "2026-05-28T08:59:46.136716+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12312151280,
+      "watched_at": "2026-05-27T18:04:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Cleaner",
+        "year": 2025,
+        "ids": {
+          "trakt": 905958,
+          "slug": "cleaner-2025",
+          "imdb": "tt27812086",
+          "tmdb": 1125899
+        }
+      }
+    },
+    {
+      "id": 12311759169,
+      "watched_at": "2026-05-27T16:07:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Den of Thieves 2: Pantera",
+        "year": 2025,
+        "ids": {
+          "trakt": 449452,
+          "slug": "den-of-thieves-2-pantera-2025",
+          "imdb": "tt8008948",
+          "tmdb": 604685
+        }
+      }
+    },
     {
       "id": 12310418095,
       "watched_at": "2026-05-27T07:38:00.000Z",
@@ -132,38 +164,6 @@
           "slug": "avatar-fire-and-ash-2025",
           "imdb": "tt1757678",
           "tmdb": 83533
-        }
-      }
-    },
-    {
-      "id": 12169686650,
-      "watched_at": "2026-04-05T17:00:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Bad Boys: Ride or Die",
-        "year": 2024,
-        "ids": {
-          "trakt": 424256,
-          "slug": "bad-boys-ride-or-die-2024",
-          "imdb": "tt4919268",
-          "tmdb": 573435
-        }
-      }
-    },
-    {
-      "id": 12169686508,
-      "watched_at": "2026-04-05T17:00:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Bad Boys for Life",
-        "year": 2020,
-        "ids": {
-          "trakt": 25039,
-          "slug": "bad-boys-for-life-2020",
-          "imdb": "tt1502397",
-          "tmdb": 38700
         }
       }
     }
