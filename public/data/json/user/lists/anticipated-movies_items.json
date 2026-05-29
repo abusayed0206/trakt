@@ -1,33 +1,12 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-28T08:59:47.203174+00:00",
+    "fetched_at": "2026-05-29T08:57:15.759613+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
-    "count": 10
+    "count": 9
   },
   "data": [
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt1757678",
-          "plex": {
-            "guid": "5d7768cc9ab54400214eba10",
-            "slug": "avatar-fire-and-ash"
-          },
-          "slug": "avatar-fire-and-ash-2025",
-          "tmdb": 83533,
-          "trakt": 62544
-        },
-        "year": 2025,
-        "title": "Avatar: Fire and Ash"
-      },
-      "rank": 4,
-      "id": 1174076303,
-      "listed_at": "2025-02-16T04:14:41.000Z",
-      "notes": null
-    },
     {
       "type": "show",
       "show": {
@@ -55,27 +34,6 @@
       "type": "movie",
       "movie": {
         "ids": {
-          "imdb": "tt3095356",
-          "plex": {
-            "guid": "5d776a4cad5437001f778f51",
-            "slug": "avatar-4"
-          },
-          "slug": "avatar-4-2029",
-          "tmdb": 216527,
-          "trakt": 133603
-        },
-        "year": 2029,
-        "title": "Avatar 4"
-      },
-      "rank": 5,
-      "id": 1174076306,
-      "listed_at": "2025-02-16T04:14:44.000Z",
-      "notes": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
           "imdb": "tt21357150",
           "plex": {
             "guid": "62deb8bf9576053a6b5c5ee7",
@@ -97,21 +55,21 @@
       "type": "movie",
       "movie": {
         "ids": {
-          "imdb": "tt5637536",
+          "imdb": "tt3095356",
           "plex": {
-            "guid": "5d776c3596b655001fe2989e",
-            "slug": "avatar-5"
+            "guid": "5d776a4cad5437001f778f51",
+            "slug": "avatar-4"
           },
-          "slug": "avatar-5-2031",
-          "tmdb": 393209,
-          "trakt": 235669
+          "slug": "avatar-4-2029",
+          "tmdb": 216527,
+          "trakt": 133603
         },
-        "year": 2031,
-        "title": "Avatar 5"
+        "year": 2029,
+        "title": "Avatar 4"
       },
-      "rank": 7,
-      "id": 1174076315,
-      "listed_at": "2025-02-16T04:14:54.000Z",
+      "rank": 5,
+      "id": 1174076306,
+      "listed_at": "2025-02-16T04:14:44.000Z",
       "notes": null
     },
     {
@@ -133,6 +91,27 @@
       "rank": 19,
       "id": 1285064667,
       "listed_at": "2025-07-22T20:05:17.000Z",
+      "notes": null
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt5637536",
+          "plex": {
+            "guid": "5d776c3596b655001fe2989e",
+            "slug": "avatar-5"
+          },
+          "slug": "avatar-5-2031",
+          "tmdb": 393209,
+          "trakt": 235669
+        },
+        "year": 2031,
+        "title": "Avatar 5"
+      },
+      "rank": 7,
+      "id": 1174076315,
+      "listed_at": "2025-02-16T04:14:54.000Z",
       "notes": null
     },
     {

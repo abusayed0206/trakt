@@ -1,12 +1,60 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-28T08:59:46.136716+00:00",
+    "fetched_at": "2026-05-29T08:56:49.241003+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12316124109,
+      "watched_at": "2026-05-29T05:49:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Elevation",
+        "year": 2024,
+        "ids": {
+          "trakt": 832652,
+          "slug": "elevation-2024-11-08",
+          "imdb": "tt23558280",
+          "tmdb": 1035048
+        }
+      }
+    },
+    {
+      "id": 12314611599,
+      "watched_at": "2026-05-28T15:54:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Mardaani 3",
+        "year": 2026,
+        "ids": {
+          "trakt": 1096028,
+          "slug": "mardaani-3-2026",
+          "imdb": "tt27673536",
+          "tmdb": 1339876
+        }
+      }
+    },
+    {
+      "id": 12314350317,
+      "watched_at": "2026-05-28T11:49:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Peaky Blinders: The Immortal Man",
+        "year": 2026,
+        "ids": {
+          "trakt": 701249,
+          "slug": "peaky-blinders-the-immortal-man-2026",
+          "imdb": "tt15574124",
+          "tmdb": 875828
+        }
+      }
+    },
     {
       "id": 12312151280,
       "watched_at": "2026-05-27T18:04:00.000Z",
@@ -116,54 +164,6 @@
           "slug": "jana-nayagan",
           "imdb": "tt33379543",
           "tmdb": 1235877
-        }
-      }
-    },
-    {
-      "id": 12267467236,
-      "watched_at": "2026-05-12T17:12:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Apex",
-        "year": 2026,
-        "ids": {
-          "trakt": 1077748,
-          "slug": "apex-2026",
-          "imdb": "tt16431404",
-          "tmdb": 1318447
-        }
-      }
-    },
-    {
-      "id": 12205519109,
-      "watched_at": "2026-04-20T09:42:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Infernal Affairs",
-        "year": 2002,
-        "ids": {
-          "trakt": 5937,
-          "slug": "infernal-affairs-2002",
-          "imdb": "tt0338564",
-          "tmdb": 10775
-        }
-      }
-    },
-    {
-      "id": 12181302020,
-      "watched_at": "2026-04-10T14:11:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Avatar: Fire and Ash",
-        "year": 2025,
-        "ids": {
-          "trakt": 62544,
-          "slug": "avatar-fire-and-ash-2025",
-          "imdb": "tt1757678",
-          "tmdb": 83533
         }
       }
     }

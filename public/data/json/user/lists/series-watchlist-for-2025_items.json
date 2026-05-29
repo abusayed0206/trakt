@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-28T08:59:47.059435+00:00",
+    "fetched_at": "2026-05-29T08:57:10.623420+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -126,29 +126,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2467372",
-          "plex": {
-            "guid": "5d9c086e08fddd001f29a991",
-            "slug": "brooklyn-nine-nine"
-          },
-          "slug": "brooklyn-nine-nine",
-          "tmdb": 48891,
-          "tvdb": 269586,
-          "trakt": 48587
-        },
-        "year": 2013,
-        "title": "Brooklyn Nine-Nine",
-        "aired_episodes": 152
-      },
-      "rank": 6,
-      "id": 1118270166,
-      "listed_at": "2024-11-11T17:12:57.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt5180504",
           "plex": {
             "guid": "5d9c08e6ba6eb9001fbac2b1",
@@ -166,6 +143,29 @@
       "rank": 35,
       "id": 1153031279,
       "listed_at": "2025-01-08T18:20:42.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2467372",
+          "plex": {
+            "guid": "5d9c086e08fddd001f29a991",
+            "slug": "brooklyn-nine-nine"
+          },
+          "slug": "brooklyn-nine-nine",
+          "tmdb": 48891,
+          "tvdb": 269586,
+          "trakt": 48587
+        },
+        "year": 2013,
+        "title": "Brooklyn Nine-Nine",
+        "aired_episodes": 152
+      },
+      "rank": 6,
+      "id": 1118270166,
+      "listed_at": "2024-11-11T17:12:57.000Z",
       "notes": null
     },
     {
@@ -264,29 +264,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2364582",
-          "plex": {
-            "guid": "5d9c086c46115600200aa2f6",
-            "slug": "marvels-agents-of-s-h-i-e-l-d"
-          },
-          "slug": "marvel-s-agents-of-s-h-i-e-l-d",
-          "tmdb": 1403,
-          "tvdb": 263365,
-          "trakt": 1394
-        },
-        "year": 2013,
-        "title": "Marvel's Agents of S.H.I.E.L.D.",
-        "aired_episodes": 136
-      },
-      "rank": 26,
-      "id": 1153031249,
-      "listed_at": "2025-01-08T18:17:10.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2802850",
           "plex": {
             "guid": "5d9c0838ffd9ef001e98fd77",
@@ -304,6 +281,29 @@
       "rank": 52,
       "id": 1237230371,
       "listed_at": "2025-05-26T15:50:16.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2364582",
+          "plex": {
+            "guid": "5d9c086c46115600200aa2f6",
+            "slug": "marvels-agents-of-s-h-i-e-l-d"
+          },
+          "slug": "marvel-s-agents-of-s-h-i-e-l-d",
+          "tmdb": 1403,
+          "tvdb": 263365,
+          "trakt": 1394
+        },
+        "year": 2013,
+        "title": "Marvel's Agents of S.H.I.E.L.D.",
+        "aired_episodes": 136
+      },
+      "rank": 26,
+      "id": 1153031249,
+      "listed_at": "2025-01-08T18:17:10.000Z",
       "notes": null
     },
     {
@@ -356,29 +356,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3749900",
-          "plex": {
-            "guid": "5d9c08390aaccd001f8ee512",
-            "slug": "gotham"
-          },
-          "slug": "gotham",
-          "tmdb": 60708,
-          "tvdb": 274431,
-          "trakt": 60278
-        },
-        "year": 2014,
-        "title": "Gotham",
-        "aired_episodes": 100
-      },
-      "rank": 78,
-      "id": 1287727091,
-      "listed_at": "2025-07-25T11:10:24.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0413573",
           "plex": {
             "guid": "5d9c086c02391c001f5891bb",
@@ -402,23 +379,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1405406",
+          "imdb": "tt3749900",
           "plex": {
-            "guid": "5d9c082ae98e47001eb0946f",
-            "slug": "the-vampire-diaries"
+            "guid": "5d9c08390aaccd001f8ee512",
+            "slug": "gotham"
           },
-          "slug": "the-vampire-diaries",
-          "tmdb": 18165,
-          "tvdb": 95491,
-          "trakt": 18083
+          "slug": "gotham",
+          "tmdb": 60708,
+          "tvdb": 274431,
+          "trakt": 60278
         },
-        "year": 2009,
-        "title": "The Vampire Diaries",
-        "aired_episodes": 171
+        "year": 2014,
+        "title": "Gotham",
+        "aired_episodes": 100
       },
-      "rank": 27,
-      "id": 1153031251,
-      "listed_at": "2025-01-08T18:17:15.000Z",
+      "rank": 78,
+      "id": 1287727091,
+      "listed_at": "2025-07-25T11:10:24.000Z",
       "notes": null
     },
     {
@@ -442,6 +419,29 @@
       "rank": 44,
       "id": 1153031441,
       "listed_at": "2025-01-08T18:22:58.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1405406",
+          "plex": {
+            "guid": "5d9c082ae98e47001eb0946f",
+            "slug": "the-vampire-diaries"
+          },
+          "slug": "the-vampire-diaries",
+          "tmdb": 18165,
+          "tvdb": 95491,
+          "trakt": 18083
+        },
+        "year": 2009,
+        "title": "The Vampire Diaries",
+        "aired_episodes": 171
+      },
+      "rank": 27,
+      "id": 1153031251,
+      "listed_at": "2025-01-08T18:17:15.000Z",
       "notes": null
     },
     {
@@ -494,29 +494,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0285331",
-          "plex": {
-            "guid": "5d9c08713c3f87001f3505b6",
-            "slug": "24"
-          },
-          "slug": "24-2001",
-          "tmdb": 1973,
-          "tvdb": 76290,
-          "trakt": 1960
-        },
-        "year": 2001,
-        "title": "24",
-        "aired_episodes": 204
-      },
-      "rank": 10,
-      "id": 1127241238,
-      "listed_at": "2024-11-25T08:46:20.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt27497448",
           "plex": {
             "guid": "643cbf9ec1962a0897b7f6dd",
@@ -540,23 +517,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5057054",
+          "imdb": "tt0285331",
           "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
+            "guid": "5d9c08713c3f87001f3505b6",
+            "slug": "24"
           },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
+          "slug": "24-2001",
+          "tmdb": 1973,
+          "tvdb": 76290,
+          "trakt": 1960
         },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
+        "year": 2001,
+        "title": "24",
+        "aired_episodes": 204
       },
-      "rank": 16,
-      "id": 1133528025,
-      "listed_at": "2024-12-04T17:14:17.000Z",
+      "rank": 10,
+      "id": 1127241238,
+      "listed_at": "2024-11-25T08:46:20.000Z",
       "notes": null
     },
     {
@@ -580,6 +557,29 @@
       "rank": 81,
       "id": 1372615448,
       "listed_at": "2025-11-24T21:13:59.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5057054",
+          "plex": {
+            "guid": "5d9c08dcffd9ef001e99bb8c",
+            "slug": "tom-clancys-jack-ryan"
+          },
+          "slug": "tom-clancy-s-jack-ryan",
+          "tmdb": 73375,
+          "tvdb": 336261,
+          "trakt": 124381
+        },
+        "year": 2018,
+        "title": "Tom Clancy's Jack Ryan",
+        "aired_episodes": 30
+      },
+      "rank": 16,
+      "id": 1133528025,
+      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null
     },
     {
@@ -655,29 +655,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5348176",
-          "plex": {
-            "guid": "5d9c08da4eefaa001f5e44af",
-            "slug": "barry"
-          },
-          "slug": "barry",
-          "tmdb": 73107,
-          "tvdb": 333072,
-          "trakt": 122709
-        },
-        "year": 2018,
-        "title": "Barry",
-        "aired_episodes": 32
-      },
-      "rank": 51,
-      "id": 1179046309,
-      "listed_at": "2025-02-25T06:26:59.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2149175",
           "plex": {
             "guid": "5d9c0869e98e47001eb0ee17",
@@ -701,23 +678,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0452046",
+          "imdb": "tt5348176",
           "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
+            "guid": "5d9c08da4eefaa001f5e44af",
+            "slug": "barry"
           },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
+          "slug": "barry",
+          "tmdb": 73107,
+          "tvdb": 333072,
+          "trakt": 122709
         },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 356
+        "year": 2018,
+        "title": "Barry",
+        "aired_episodes": 32
       },
-      "rank": 8,
-      "id": 1127241236,
-      "listed_at": "2024-11-25T08:46:20.000Z",
+      "rank": 51,
+      "id": 1179046309,
+      "listed_at": "2025-02-25T06:26:59.000Z",
       "notes": null
     },
     {
@@ -770,6 +747,29 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt0452046",
+          "plex": {
+            "guid": "5d9c080446115600200a6bbb",
+            "slug": "criminal-minds"
+          },
+          "slug": "criminal-minds",
+          "tmdb": 4057,
+          "tvdb": 75710,
+          "trakt": 4033
+        },
+        "year": 2005,
+        "title": "Criminal Minds",
+        "aired_episodes": 356
+      },
+      "rank": 8,
+      "id": 1127241236,
+      "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt0979432",
           "plex": {
             "guid": "5d9c086dcb3ffa001f1b4ca3",
@@ -787,29 +787,6 @@
       "rank": 31,
       "id": 1153031261,
       "listed_at": "2025-01-08T18:18:20.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt4179452",
-          "plex": {
-            "guid": "5d9c08030aaccd001f8ec836",
-            "slug": "the-last-kingdom"
-          },
-          "slug": "the-last-kingdom",
-          "tmdb": 63333,
-          "tvdb": 298566,
-          "trakt": 100688
-        },
-        "year": 2015,
-        "title": "The Last Kingdom",
-        "aired_episodes": 46
-      },
-      "rank": 42,
-      "id": 1153031323,
-      "listed_at": "2025-01-08T18:22:51.000Z",
       "notes": null
     },
     {
@@ -856,6 +833,29 @@
       "rank": 79,
       "id": 1298875639,
       "listed_at": "2025-08-08T17:07:39.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt4179452",
+          "plex": {
+            "guid": "5d9c08030aaccd001f8ec836",
+            "slug": "the-last-kingdom"
+          },
+          "slug": "the-last-kingdom",
+          "tmdb": 63333,
+          "tvdb": 298566,
+          "trakt": 100688
+        },
+        "year": 2015,
+        "title": "The Last Kingdom",
+        "aired_episodes": 46
+      },
+      "rank": 42,
+      "id": 1153031323,
+      "listed_at": "2025-01-08T18:22:51.000Z",
       "notes": null
     },
     {
@@ -954,29 +954,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2654620",
-          "plex": {
-            "guid": "5d9c085602391c001f5871c9",
-            "slug": "the-strain"
-          },
-          "slug": "the-strain",
-          "tmdb": 47640,
-          "tvdb": 276564,
-          "trakt": 47350
-        },
-        "year": 2014,
-        "title": "The Strain",
-        "aired_episodes": 46
-      },
-      "rank": 82,
-      "id": 1377268265,
-      "listed_at": "2025-12-01T10:22:35.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4301160",
           "plex": {
             "guid": "61e18a2de138f522072f4bc0",
@@ -994,6 +971,29 @@
       "rank": 52,
       "id": 1179046549,
       "listed_at": "2025-02-25T06:27:33.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2654620",
+          "plex": {
+            "guid": "5d9c085602391c001f5871c9",
+            "slug": "the-strain"
+          },
+          "slug": "the-strain",
+          "tmdb": 47640,
+          "tvdb": 276564,
+          "trakt": 47350
+        },
+        "year": 2014,
+        "title": "The Strain",
+        "aired_episodes": 46
+      },
+      "rank": 82,
+      "id": 1377268265,
+      "listed_at": "2025-12-01T10:22:35.000Z",
       "notes": null
     },
     {
@@ -1276,29 +1276,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0247082",
-          "plex": {
-            "guid": "5d9c086c7d06d9001ffd27a2",
-            "slug": "csi-crime-scene-investigation"
-          },
-          "slug": "csi-crime-scene-investigation",
-          "tmdb": 1431,
-          "tvdb": 72546,
-          "trakt": 1422
-        },
-        "year": 2000,
-        "title": "CSI: Crime Scene Investigation",
-        "aired_episodes": 335
-      },
-      "rank": 19,
-      "id": 1133528028,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2189221",
           "plex": {
             "guid": "5d9c082c08fddd001f2944ca",
@@ -1316,29 +1293,6 @@
       "rank": 63,
       "id": 1286150899,
       "listed_at": "2025-07-23T20:59:49.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt1441135",
-          "plex": {
-            "guid": "5d9c0836ba6eb9001fb9eb12",
-            "slug": "flashforward"
-          },
-          "slug": "flashforward",
-          "tmdb": 19092,
-          "tvdb": 84024,
-          "trakt": 19003
-        },
-        "year": 2009,
-        "title": "FlashForward",
-        "aired_episodes": 22
-      },
-      "rank": 64,
-      "id": 1286151019,
-      "listed_at": "2025-07-23T20:59:54.000Z",
       "notes": null
     },
     {
@@ -1368,6 +1322,52 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt0118421",
+          "plex": {
+            "guid": "5d9c0871ffd9ef001e9955bc",
+            "slug": "oz"
+          },
+          "slug": "oz",
+          "tmdb": 3322,
+          "tvdb": 70682,
+          "trakt": 3300
+        },
+        "year": 1997,
+        "title": "Oz",
+        "aired_episodes": 56
+      },
+      "rank": 20,
+      "id": 1133528029,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0247082",
+          "plex": {
+            "guid": "5d9c086c7d06d9001ffd27a2",
+            "slug": "csi-crime-scene-investigation"
+          },
+          "slug": "csi-crime-scene-investigation",
+          "tmdb": 1431,
+          "tvdb": 72546,
+          "trakt": 1422
+        },
+        "year": 2000,
+        "title": "CSI: Crime Scene Investigation",
+        "aired_episodes": 335
+      },
+      "rank": 19,
+      "id": 1133528028,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt2805096",
           "plex": {
             "guid": "5d9c08482df347001e3aed3c",
@@ -1391,6 +1391,29 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt1441135",
+          "plex": {
+            "guid": "5d9c0836ba6eb9001fb9eb12",
+            "slug": "flashforward"
+          },
+          "slug": "flashforward",
+          "tmdb": 19092,
+          "tvdb": 84024,
+          "trakt": 19003
+        },
+        "year": 2009,
+        "title": "FlashForward",
+        "aired_episodes": 22
+      },
+      "rank": 64,
+      "id": 1286151019,
+      "listed_at": "2025-07-23T20:59:54.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt1103987",
           "plex": {
             "guid": "5d9c07f1ba6eb9001fb9789b",
@@ -1408,29 +1431,6 @@
       "rank": 72,
       "id": 1286151594,
       "listed_at": "2025-07-23T21:00:44.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt0118421",
-          "plex": {
-            "guid": "5d9c0871ffd9ef001e9955bc",
-            "slug": "oz"
-          },
-          "slug": "oz",
-          "tmdb": 3322,
-          "tvdb": 70682,
-          "trakt": 3300
-        },
-        "year": 1997,
-        "title": "Oz",
-        "aired_episodes": 56
-      },
-      "rank": 20,
-      "id": 1133528029,
-      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null
     },
     {
