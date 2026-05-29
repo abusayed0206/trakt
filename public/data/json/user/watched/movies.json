@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-28T08:59:46.414379+00:00",
+    "fetched_at": "2026-05-29T08:56:49.574459+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 833
+    "count": 836
   },
   "data": [
     {
@@ -11244,6 +11244,21 @@
     },
     {
       "plays": 1,
+      "last_watched_at": "2026-05-28T11:49:00.000Z",
+      "last_updated_at": "2026-05-28T11:49:17.000Z",
+      "movie": {
+        "title": "Peaky Blinders: The Immortal Man",
+        "year": 2026,
+        "ids": {
+          "trakt": 701249,
+          "slug": "peaky-blinders-the-immortal-man-2026",
+          "imdb": "tt15574124",
+          "tmdb": 875828
+        }
+      }
+    },
+    {
+      "plays": 1,
       "last_watched_at": "2024-08-22T10:34:00.000Z",
       "last_updated_at": "2024-08-22T10:34:58.000Z",
       "movie": {
@@ -11809,6 +11824,21 @@
           "slug": "drishyam-2-2022",
           "imdb": "tt15501640",
           "tmdb": 1029827
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-05-29T05:49:00.000Z",
+      "last_updated_at": "2026-05-29T05:49:47.000Z",
+      "movie": {
+        "title": "Elevation",
+        "year": 2024,
+        "ids": {
+          "trakt": 832652,
+          "slug": "elevation-2024-11-08",
+          "imdb": "tt23558280",
+          "tmdb": 1035048
         }
       }
     },
@@ -12424,6 +12454,21 @@
           "slug": "apex-2026",
           "imdb": "tt16431404",
           "tmdb": 1318447
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-05-28T15:54:00.000Z",
+      "last_updated_at": "2026-05-28T15:54:24.000Z",
+      "movie": {
+        "title": "Mardaani 3",
+        "year": 2026,
+        "ids": {
+          "trakt": 1096028,
+          "slug": "mardaani-3-2026",
+          "imdb": "tt27673536",
+          "tmdb": 1339876
         }
       }
     },
