@@ -1,6 +1,24 @@
 {
   "movies": [
     {
+      "tmdb_id": 1035048,
+      "title": "Elevation",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1035048_poster.jpg",
+      "last_watched_at": "2026-05-29T05:49:00.000Z"
+    },
+    {
+      "tmdb_id": 1339876,
+      "title": "Mardaani 3",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1339876_poster.jpg",
+      "last_watched_at": "2026-05-28T15:54:00.000Z"
+    },
+    {
+      "tmdb_id": 875828,
+      "title": "Peaky Blinders: The Immortal Man",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/875828_poster.jpg",
+      "last_watched_at": "2026-05-28T11:49:00.000Z"
+    },
+    {
       "tmdb_id": 1125899,
       "title": "Cleaner",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1125899_poster.jpg",
@@ -41,31 +59,13 @@
       "title": "Jana Nayagan",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1235877_poster.jpg",
       "last_watched_at": "2026-05-13T17:12:00.000Z"
-    },
-    {
-      "tmdb_id": 1318447,
-      "title": "Apex",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1318447_poster.jpg",
-      "last_watched_at": "2026-05-12T17:12:00.000Z"
-    },
-    {
-      "tmdb_id": 10775,
-      "title": "Infernal Affairs",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/10775_poster.jpg",
-      "last_watched_at": "2026-04-20T09:42:00.000Z"
-    },
-    {
-      "tmdb_id": 83533,
-      "title": "Avatar: Fire and Ash",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/83533_poster.jpg",
-      "last_watched_at": "2026-04-10T14:11:00.000Z"
     }
   ],
   "shows": [
     {
       "tmdb_id": 4057,
       "title": "Criminal Minds",
-      "season": 5,
+      "season": 1,
       "available_seasons": [
         1,
         2,
@@ -73,13 +73,13 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/5/season_5_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/1/season_1_poster.jpg",
       "last_watched_at": "2026-05-23T09:18:00.000Z"
     },
     {
       "tmdb_id": 76479,
       "title": "The Boys",
-      "season": 5,
+      "season": 3,
       "available_seasons": [
         1,
         2,
@@ -87,30 +87,30 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/76479/5/season_5_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/76479/3/season_3_poster.jpg",
       "last_watched_at": "2026-05-20T09:26:00.000Z"
     },
     {
       "tmdb_id": 202555,
       "title": "Daredevil: Born Again",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/202555/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/202555/1/season_1_poster.jpg",
       "last_watched_at": "2026-05-10T22:30:00.000Z"
     },
     {
       "tmdb_id": 1412,
       "title": "Arrow",
-      "season": 3,
+      "season": 1,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/1/season_1_poster.jpg",
       "last_watched_at": "2026-04-19T20:26:00.000Z"
     },
     {
@@ -138,7 +138,7 @@
     {
       "tmdb_id": 66732,
       "title": "Stranger Things",
-      "season": 4,
+      "season": 1,
       "available_seasons": [
         1,
         2,
@@ -146,42 +146,42 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/4/season_4_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/66732/1/season_1_poster.jpg",
       "last_watched_at": "2026-01-01T10:15:00.000Z"
     },
     {
       "tmdb_id": 1973,
       "title": "24",
+      "season": 2,
+      "available_seasons": [
+        1,
+        2,
+        3
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/2/season_2_poster.jpg",
+      "last_watched_at": "2025-12-20T20:34:00.000Z"
+    },
+    {
+      "tmdb_id": 110316,
+      "title": "Alice in Borderland",
       "season": 3,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1973/3/season_3_poster.jpg",
-      "last_watched_at": "2025-12-20T20:34:00.000Z"
-    },
-    {
-      "tmdb_id": 110316,
-      "title": "Alice in Borderland",
-      "season": 1,
-      "available_seasons": [
-        1,
-        2,
-        3
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/110316/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/110316/3/season_3_poster.jpg",
       "last_watched_at": "2025-09-26T20:33:00.000Z"
     },
     {
       "tmdb_id": 1415,
       "title": "Elementary",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1415/2/season_2_poster.jpg",
       "last_watched_at": "2025-09-10T09:38:00.000Z"
     }
   ]
