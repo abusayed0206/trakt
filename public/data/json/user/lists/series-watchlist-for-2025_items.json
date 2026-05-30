@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-29T08:57:10.623420+00:00",
+    "fetched_at": "2026-05-30T08:03:53.355916+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -264,29 +264,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      },
-      "rank": 52,
-      "id": 1237230371,
-      "listed_at": "2025-05-26T15:50:16.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2364582",
           "plex": {
             "guid": "5d9c086c46115600200aa2f6",
@@ -310,23 +287,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt7660850",
+          "imdb": "tt2802850",
           "plex": {
-            "guid": "5d9c08ed46115600200ade5e",
-            "slug": "succession"
+            "guid": "5d9c0838ffd9ef001e98fd77",
+            "slug": "fargo"
           },
-          "slug": "succession",
-          "tmdb": 76331,
-          "tvdb": 338186,
-          "trakt": 125479
+          "slug": "fargo",
+          "tmdb": 60622,
+          "tvdb": 269613,
+          "trakt": 60203
         },
-        "year": 2018,
-        "title": "Succession",
-        "aired_episodes": 39
+        "year": 2014,
+        "title": "Fargo",
+        "aired_episodes": 51
       },
-      "rank": 51,
-      "id": 1275439151,
-      "listed_at": "2025-07-10T08:59:30.000Z",
+      "rank": 52,
+      "id": 1237230371,
+      "listed_at": "2025-05-26T15:50:16.000Z",
       "notes": null
     },
     {
@@ -356,46 +333,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0413573",
+          "imdb": "tt7660850",
           "plex": {
-            "guid": "5d9c086c02391c001f5891bb",
-            "slug": "greys-anatomy"
+            "guid": "5d9c08ed46115600200ade5e",
+            "slug": "succession"
           },
-          "slug": "grey-s-anatomy",
-          "tmdb": 1416,
-          "tvdb": 73762,
-          "trakt": 1407
+          "slug": "succession",
+          "tmdb": 76331,
+          "tvdb": 338186,
+          "trakt": 125479
         },
-        "year": 2005,
-        "title": "Grey's Anatomy",
-        "aired_episodes": 465
+        "year": 2018,
+        "title": "Succession",
+        "aired_episodes": 39
       },
-      "rank": 47,
-      "id": 1153031527,
-      "listed_at": "2025-01-08T18:23:08.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt3749900",
-          "plex": {
-            "guid": "5d9c08390aaccd001f8ee512",
-            "slug": "gotham"
-          },
-          "slug": "gotham",
-          "tmdb": 60708,
-          "tvdb": 274431,
-          "trakt": 60278
-        },
-        "year": 2014,
-        "title": "Gotham",
-        "aired_episodes": 100
-      },
-      "rank": 78,
-      "id": 1287727091,
-      "listed_at": "2025-07-25T11:10:24.000Z",
+      "rank": 51,
+      "id": 1275439151,
+      "listed_at": "2025-07-10T08:59:30.000Z",
       "notes": null
     },
     {
@@ -425,23 +379,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1405406",
+          "imdb": "tt3749900",
           "plex": {
-            "guid": "5d9c082ae98e47001eb0946f",
-            "slug": "the-vampire-diaries"
+            "guid": "5d9c08390aaccd001f8ee512",
+            "slug": "gotham"
           },
-          "slug": "the-vampire-diaries",
-          "tmdb": 18165,
-          "tvdb": 95491,
-          "trakt": 18083
+          "slug": "gotham",
+          "tmdb": 60708,
+          "tvdb": 274431,
+          "trakt": 60278
         },
-        "year": 2009,
-        "title": "The Vampire Diaries",
-        "aired_episodes": 171
+        "year": 2014,
+        "title": "Gotham",
+        "aired_episodes": 100
       },
-      "rank": 27,
-      "id": 1153031251,
-      "listed_at": "2025-01-08T18:17:15.000Z",
+      "rank": 78,
+      "id": 1287727091,
+      "listed_at": "2025-07-25T11:10:24.000Z",
       "notes": null
     },
     {
@@ -471,6 +425,52 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt27497448",
+          "plex": {
+            "guid": "643cbf9ec1962a0897b7f6dd",
+            "slug": "a-knight-of-the-seven-kingdoms"
+          },
+          "slug": "a-knight-of-the-seven-kingdoms",
+          "tmdb": 224372,
+          "tvdb": 433631,
+          "trakt": 204141
+        },
+        "year": 2026,
+        "title": "A Knight of the Seven Kingdoms",
+        "aired_episodes": 6
+      },
+      "rank": 84,
+      "id": 1400239921,
+      "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0413573",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bb",
+            "slug": "greys-anatomy"
+          },
+          "slug": "grey-s-anatomy",
+          "tmdb": 1416,
+          "tvdb": 73762,
+          "trakt": 1407
+        },
+        "year": 2005,
+        "title": "Grey's Anatomy",
+        "aired_episodes": 465
+      },
+      "rank": 47,
+      "id": 1153031527,
+      "listed_at": "2025-01-08T18:23:08.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt11737520",
           "plex": {
             "guid": "5f7c9b1c9b958e00415de6bb",
@@ -494,23 +494,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt27497448",
+          "imdb": "tt1405406",
           "plex": {
-            "guid": "643cbf9ec1962a0897b7f6dd",
-            "slug": "a-knight-of-the-seven-kingdoms"
+            "guid": "5d9c082ae98e47001eb0946f",
+            "slug": "the-vampire-diaries"
           },
-          "slug": "a-knight-of-the-seven-kingdoms",
-          "tmdb": 224372,
-          "tvdb": 433631,
-          "trakt": 204141
+          "slug": "the-vampire-diaries",
+          "tmdb": 18165,
+          "tvdb": 95491,
+          "trakt": 18083
         },
-        "year": 2026,
-        "title": "A Knight of the Seven Kingdoms",
-        "aired_episodes": 6
+        "year": 2009,
+        "title": "The Vampire Diaries",
+        "aired_episodes": 171
       },
-      "rank": 84,
-      "id": 1400239921,
-      "listed_at": "2026-01-01T22:05:50.000Z",
+      "rank": 27,
+      "id": 1153031251,
+      "listed_at": "2025-01-08T18:17:15.000Z",
       "notes": null
     },
     {
@@ -540,23 +540,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1442449",
+          "imdb": "tt31938062",
           "plex": {
-            "guid": "5d9c0833ba2e21001f18ea2b",
-            "slug": "spartacus"
+            "guid": "66047594f2781fe94954a721",
+            "slug": "the-pitt"
           },
-          "slug": "spartacus",
-          "tmdb": 46296,
-          "tvdb": 129261,
-          "trakt": 46038
+          "slug": "the-pitt",
+          "tmdb": 250307,
+          "tvdb": 448176,
+          "trakt": 232884
         },
-        "year": 2010,
-        "title": "Spartacus",
-        "aired_episodes": 33
+        "year": 2025,
+        "title": "The Pitt",
+        "aired_episodes": 30
       },
-      "rank": 81,
-      "id": 1372615448,
-      "listed_at": "2025-11-24T21:13:59.000Z",
+      "rank": 47,
+      "id": 1273910724,
+      "listed_at": "2025-07-08T19:03:09.000Z",
       "notes": null
     },
     {
@@ -586,23 +586,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt31938062",
+          "imdb": "tt1442449",
           "plex": {
-            "guid": "66047594f2781fe94954a721",
-            "slug": "the-pitt"
+            "guid": "5d9c0833ba2e21001f18ea2b",
+            "slug": "spartacus"
           },
-          "slug": "the-pitt",
-          "tmdb": 250307,
-          "tvdb": 448176,
-          "trakt": 232884
+          "slug": "spartacus",
+          "tmdb": 46296,
+          "tvdb": 129261,
+          "trakt": 46038
         },
-        "year": 2025,
-        "title": "The Pitt",
-        "aired_episodes": 30
+        "year": 2010,
+        "title": "Spartacus",
+        "aired_episodes": 33
       },
-      "rank": 47,
-      "id": 1273910724,
-      "listed_at": "2025-07-08T19:03:09.000Z",
+      "rank": 81,
+      "id": 1372615448,
+      "listed_at": "2025-11-24T21:13:59.000Z",
       "notes": null
     },
     {
@@ -678,6 +678,29 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt31510819",
+          "plex": {
+            "guid": "65e04d051f43644ac5a79a99",
+            "slug": "mobland"
+          },
+          "slug": "mobland",
+          "tmdb": 247718,
+          "tvdb": 446831,
+          "trakt": 228595
+        },
+        "year": 2025,
+        "title": "MobLand",
+        "aired_episodes": 10
+      },
+      "rank": 55,
+      "id": 1285066962,
+      "listed_at": "2025-07-22T20:09:52.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt5348176",
           "plex": {
             "guid": "5d9c08da4eefaa001f5e44af",
@@ -718,52 +741,6 @@
       "rank": 29,
       "id": 1153031255,
       "listed_at": "2025-01-08T18:17:39.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt31510819",
-          "plex": {
-            "guid": "65e04d051f43644ac5a79a99",
-            "slug": "mobland"
-          },
-          "slug": "mobland",
-          "tmdb": 247718,
-          "tvdb": 446831,
-          "trakt": 228595
-        },
-        "year": 2025,
-        "title": "MobLand",
-        "aired_episodes": 10
-      },
-      "rank": 55,
-      "id": 1285066962,
-      "listed_at": "2025-07-22T20:09:52.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 356
-      },
-      "rank": 8,
-      "id": 1127241236,
-      "listed_at": "2024-11-25T08:46:20.000Z",
       "notes": null
     },
     {
@@ -833,6 +810,29 @@
       "rank": 79,
       "id": 1298875639,
       "listed_at": "2025-08-08T17:07:39.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0452046",
+          "plex": {
+            "guid": "5d9c080446115600200a6bbb",
+            "slug": "criminal-minds"
+          },
+          "slug": "criminal-minds",
+          "tmdb": 4057,
+          "tvdb": 75710,
+          "trakt": 4033
+        },
+        "year": 2005,
+        "title": "Criminal Minds",
+        "aired_episodes": 356
+      },
+      "rank": 8,
+      "id": 1127241236,
+      "listed_at": "2024-11-25T08:46:20.000Z",
       "notes": null
     },
     {
@@ -931,29 +931,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0364845",
-          "plex": {
-            "guid": "5d9c086fffd9ef001e994da0",
-            "slug": "ncis"
-          },
-          "slug": "ncis",
-          "tmdb": 4614,
-          "tvdb": 72108,
-          "trakt": 4590
-        },
-        "year": 2003,
-        "title": "NCIS",
-        "aired_episodes": 507
-      },
-      "rank": 30,
-      "id": 1153031256,
-      "listed_at": "2025-01-08T18:17:47.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4301160",
           "plex": {
             "guid": "61e18a2de138f522072f4bc0",
@@ -1000,6 +977,29 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt0364845",
+          "plex": {
+            "guid": "5d9c086fffd9ef001e994da0",
+            "slug": "ncis"
+          },
+          "slug": "ncis",
+          "tmdb": 4614,
+          "tvdb": 72108,
+          "trakt": 4590
+        },
+        "year": 2003,
+        "title": "NCIS",
+        "aired_episodes": 507
+      },
+      "rank": 30,
+      "id": 1153031256,
+      "listed_at": "2025-01-08T18:17:47.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt15571732",
           "plex": {
             "guid": "618fc471f4da835fbeee158d",
@@ -1023,29 +1023,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1637727",
-          "plex": {
-            "guid": "5d9c08672df347001e3b1712",
-            "slug": "the-killing-us"
-          },
-          "slug": "the-killing-2011",
-          "tmdb": 34415,
-          "tvdb": 210171,
-          "trakt": 34268
-        },
-        "year": 2011,
-        "title": "The Killing",
-        "aired_episodes": 44
-      },
-      "rank": 52,
-      "id": 1283744090,
-      "listed_at": "2025-07-21T12:16:01.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2070791",
           "plex": {
             "guid": "5d9c086c02391c001f5891cb",
@@ -1063,6 +1040,29 @@
       "rank": 76,
       "id": 1286151857,
       "listed_at": "2025-07-23T21:01:09.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1637727",
+          "plex": {
+            "guid": "5d9c08672df347001e3b1712",
+            "slug": "the-killing-us"
+          },
+          "slug": "the-killing-2011",
+          "tmdb": 34415,
+          "tvdb": 210171,
+          "trakt": 34268
+        },
+        "year": 2011,
+        "title": "The Killing",
+        "aired_episodes": 44
+      },
+      "rank": 52,
+      "id": 1283744090,
+      "listed_at": "2025-07-21T12:16:01.000Z",
       "notes": null
     },
     {
@@ -1138,29 +1138,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2402207",
-          "plex": {
-            "guid": "5d9c083c7b5c2e001e657660",
-            "slug": "the-last-ship"
-          },
-          "slug": "the-last-ship",
-          "tmdb": 60802,
-          "tvdb": 269533,
-          "trakt": 60360
-        },
-        "year": 2014,
-        "title": "The Last Ship",
-        "aired_episodes": 56
-      },
-      "rank": 71,
-      "id": 1286151520,
-      "listed_at": "2025-07-23T21:00:34.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt3514324",
           "plex": {
             "guid": "5d9c083c7b5c2e001e657655",
@@ -1178,6 +1155,29 @@
       "rank": 17,
       "id": 1133528026,
       "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2402207",
+          "plex": {
+            "guid": "5d9c083c7b5c2e001e657660",
+            "slug": "the-last-ship"
+          },
+          "slug": "the-last-ship",
+          "tmdb": 60802,
+          "tvdb": 269533,
+          "trakt": 60360
+        },
+        "year": 2014,
+        "title": "The Last Ship",
+        "aired_episodes": 56
+      },
+      "rank": 71,
+      "id": 1286151520,
+      "listed_at": "2025-07-23T21:00:34.000Z",
       "notes": null
     },
     {
@@ -1207,29 +1207,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0203259",
-          "plex": {
-            "guid": "5d9c0875e98e47001eb10c6a",
-            "slug": "law-and-order-special-victims-unit"
-          },
-          "slug": "law-order-special-victims-unit",
-          "tmdb": 2734,
-          "tvdb": 75692,
-          "trakt": 2716
-        },
-        "year": 1999,
-        "title": "Law & Order: Special Victims Unit",
-        "aired_episodes": 594
-      },
-      "rank": 18,
-      "id": 1133528027,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt11311302",
           "plex": {
             "guid": "5e26ebca8596ec003d4aac42",
@@ -1247,6 +1224,29 @@
       "rank": 11,
       "id": 1127241239,
       "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0203259",
+          "plex": {
+            "guid": "5d9c0875e98e47001eb10c6a",
+            "slug": "law-and-order-special-victims-unit"
+          },
+          "slug": "law-order-special-victims-unit",
+          "tmdb": 2734,
+          "tvdb": 75692,
+          "trakt": 2716
+        },
+        "year": 1999,
+        "title": "Law & Order: Special Victims Unit",
+        "aired_episodes": 594
+      },
+      "rank": 18,
+      "id": 1133528027,
+      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null
     },
     {
@@ -1276,29 +1276,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2189221",
-          "plex": {
-            "guid": "5d9c082c08fddd001f2944ca",
-            "slug": "defiance"
-          },
-          "slug": "defiance",
-          "tmdb": 51704,
-          "tvdb": 255326,
-          "trakt": 51377
-        },
-        "year": 2013,
-        "title": "Defiance",
-        "aired_episodes": 38
-      },
-      "rank": 63,
-      "id": 1286150899,
-      "listed_at": "2025-07-23T20:59:49.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4428122",
           "plex": {
             "guid": "5d9c0869ffd9ef001e993df2",
@@ -1322,23 +1299,69 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0118421",
+          "imdb": "tt1103987",
           "plex": {
-            "guid": "5d9c0871ffd9ef001e9955bc",
-            "slug": "oz"
+            "guid": "5d9c07f1ba6eb9001fb9789b",
+            "slug": "leverage"
           },
-          "slug": "oz",
-          "tmdb": 3322,
-          "tvdb": 70682,
-          "trakt": 3300
+          "slug": "leverage",
+          "tmdb": 7482,
+          "tvdb": 82339,
+          "trakt": 7438
         },
-        "year": 1997,
-        "title": "Oz",
-        "aired_episodes": 56
+        "year": 2008,
+        "title": "Leverage",
+        "aired_episodes": 77
       },
-      "rank": 20,
-      "id": 1133528029,
-      "listed_at": "2024-12-04T17:14:17.000Z",
+      "rank": 72,
+      "id": 1286151594,
+      "listed_at": "2025-07-23T21:00:44.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2189221",
+          "plex": {
+            "guid": "5d9c082c08fddd001f2944ca",
+            "slug": "defiance"
+          },
+          "slug": "defiance",
+          "tmdb": 51704,
+          "tvdb": 255326,
+          "trakt": 51377
+        },
+        "year": 2013,
+        "title": "Defiance",
+        "aired_episodes": 38
+      },
+      "rank": 63,
+      "id": 1286150899,
+      "listed_at": "2025-07-23T20:59:49.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1441135",
+          "plex": {
+            "guid": "5d9c0836ba6eb9001fb9eb12",
+            "slug": "flashforward"
+          },
+          "slug": "flashforward",
+          "tmdb": 19092,
+          "tvdb": 84024,
+          "trakt": 19003
+        },
+        "year": 2009,
+        "title": "FlashForward",
+        "aired_episodes": 22
+      },
+      "rank": 64,
+      "id": 1286151019,
+      "listed_at": "2025-07-23T20:59:54.000Z",
       "notes": null
     },
     {
@@ -1391,46 +1414,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1441135",
+          "imdb": "tt0118421",
           "plex": {
-            "guid": "5d9c0836ba6eb9001fb9eb12",
-            "slug": "flashforward"
+            "guid": "5d9c0871ffd9ef001e9955bc",
+            "slug": "oz"
           },
-          "slug": "flashforward",
-          "tmdb": 19092,
-          "tvdb": 84024,
-          "trakt": 19003
+          "slug": "oz",
+          "tmdb": 3322,
+          "tvdb": 70682,
+          "trakt": 3300
         },
-        "year": 2009,
-        "title": "FlashForward",
-        "aired_episodes": 22
+        "year": 1997,
+        "title": "Oz",
+        "aired_episodes": 56
       },
-      "rank": 64,
-      "id": 1286151019,
-      "listed_at": "2025-07-23T20:59:54.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt1103987",
-          "plex": {
-            "guid": "5d9c07f1ba6eb9001fb9789b",
-            "slug": "leverage"
-          },
-          "slug": "leverage",
-          "tmdb": 7482,
-          "tvdb": 82339,
-          "trakt": 7438
-        },
-        "year": 2008,
-        "title": "Leverage",
-        "aired_episodes": 77
-      },
-      "rank": 72,
-      "id": 1286151594,
-      "listed_at": "2025-07-23T21:00:44.000Z",
+      "rank": 20,
+      "id": 1133528029,
+      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null
     },
     {
@@ -1552,29 +1552,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt10323338",
-          "plex": {
-            "guid": "5d9c09242192ba001f31c845",
-            "slug": "9-1-1-lone-star"
-          },
-          "slug": "9-1-1-lone-star",
-          "tmdb": 89393,
-          "tvdb": 364080,
-          "trakt": 147906
-        },
-        "year": 2020,
-        "title": "9-1-1: Lone Star",
-        "aired_episodes": 72
-      },
-      "rank": 24,
-      "id": 1147927571,
-      "listed_at": "2024-12-31T02:39:56.000Z",
-      "notes": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1492179",
           "plex": {
             "guid": "5d9c07f67b5c2e001e6505d7",
@@ -1615,6 +1592,29 @@
       "rank": 48,
       "id": 1273919887,
       "listed_at": "2025-07-08T19:13:08.000Z",
+      "notes": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt10323338",
+          "plex": {
+            "guid": "5d9c09242192ba001f31c845",
+            "slug": "9-1-1-lone-star"
+          },
+          "slug": "9-1-1-lone-star",
+          "tmdb": 89393,
+          "tvdb": 364080,
+          "trakt": 147906
+        },
+        "year": 2020,
+        "title": "9-1-1: Lone Star",
+        "aired_episodes": 72
+      },
+      "rank": 24,
+      "id": 1147927571,
+      "listed_at": "2024-12-31T02:39:56.000Z",
       "notes": null
     },
     {
