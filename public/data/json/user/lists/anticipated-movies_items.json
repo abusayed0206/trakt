@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-30T08:03:53.685484+00:00",
+    "fetched_at": "2026-05-31T08:28:17.560251+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -28,7 +28,8 @@
       "rank": 2,
       "id": 1174075727,
       "listed_at": "2025-02-16T04:11:19.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -49,7 +50,8 @@
       "rank": 8,
       "id": 1174076317,
       "listed_at": "2025-02-16T04:14:59.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -70,7 +72,8 @@
       "rank": 5,
       "id": 1174076306,
       "listed_at": "2025-02-16T04:14:44.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -91,7 +94,8 @@
       "rank": 19,
       "id": 1285064667,
       "listed_at": "2025-07-22T20:05:17.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -112,7 +116,8 @@
       "rank": 7,
       "id": 1174076315,
       "listed_at": "2025-02-16T04:14:54.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -133,7 +138,8 @@
       "rank": 9,
       "id": 1174076320,
       "listed_at": "2025-02-16T04:15:03.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -154,7 +160,8 @@
       "rank": 16,
       "id": 1210621808,
       "listed_at": "2025-04-14T10:15:39.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -175,7 +182,8 @@
       "rank": 1,
       "id": 1173832904,
       "listed_at": "2025-02-15T16:49:19.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -196,7 +204,8 @@
       "rank": 15,
       "id": 1205938473,
       "listed_at": "2025-04-03T16:21:59.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     }
   ]
 }

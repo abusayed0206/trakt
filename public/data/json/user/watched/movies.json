@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-30T08:03:52.555911+00:00",
+    "fetched_at": "2026-05-31T08:28:16.173661+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 836
+    "count": 837
   },
   "data": [
     {
@@ -12214,6 +12214,21 @@
           "slug": "hostile-forces-2023",
           "imdb": "tt13646080",
           "tmdb": 1163574
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-05-30T14:54:00.000Z",
+      "last_updated_at": "2026-05-30T14:54:22.000Z",
+      "movie": {
+        "title": "Crime 101",
+        "year": 2026,
+        "ids": {
+          "trakt": 944042,
+          "slug": "crime-101-2026",
+          "imdb": "tt32430579",
+          "tmdb": 1171145
         }
       }
     },
