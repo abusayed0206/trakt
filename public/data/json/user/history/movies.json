@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-30T08:03:52.374762+00:00",
+    "fetched_at": "2026-05-31T08:28:15.743151+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12319527818,
+      "watched_at": "2026-05-30T14:54:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Crime 101",
+        "year": 2026,
+        "ids": {
+          "trakt": 944042,
+          "slug": "crime-101-2026",
+          "imdb": "tt32430579",
+          "tmdb": 1171145
+        }
+      }
+    },
     {
       "id": 12316124109,
       "watched_at": "2026-05-29T05:49:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "dhurandhar-the-revenge-2026",
           "imdb": "tt39139925",
           "tmdb": 1582770
-        }
-      }
-    },
-    {
-      "id": 12269588296,
-      "watched_at": "2026-05-13T17:12:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Jana Nayagan",
-        "year": null,
-        "ids": {
-          "trakt": 999770,
-          "slug": "jana-nayagan",
-          "imdb": "tt33379543",
-          "tmdb": 1235877
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-05-30T08:03:54.147304+00:00",
+    "fetched_at": "2026-05-31T08:28:18.230161+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -26,7 +26,8 @@
       "rank": 1677,
       "id": 1286142419,
       "listed_at": "2025-07-23T20:44:59.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -47,7 +48,8 @@
       "rank": 862,
       "id": 1286141533,
       "listed_at": "2025-07-23T20:44:41.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -68,7 +70,8 @@
       "rank": 486,
       "id": 1286141093,
       "listed_at": "2025-07-23T20:44:32.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -89,7 +92,8 @@
       "rank": 1779,
       "id": 1286142523,
       "listed_at": "2025-07-23T20:45:01.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -110,7 +114,8 @@
       "rank": 1313,
       "id": 1286142042,
       "listed_at": "2025-07-23T20:44:52.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -131,7 +136,8 @@
       "rank": 1412,
       "id": 1286142141,
       "listed_at": "2025-07-23T20:44:54.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -152,7 +158,8 @@
       "rank": 1468,
       "id": 1286142197,
       "listed_at": "2025-07-23T20:44:54.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -173,7 +180,8 @@
       "rank": 197,
       "id": 1286140738,
       "listed_at": "2025-07-23T20:44:25.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -194,7 +202,8 @@
       "rank": 1505,
       "id": 1286142236,
       "listed_at": "2025-07-23T20:44:56.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -215,7 +224,8 @@
       "rank": 19,
       "id": 1286140559,
       "listed_at": "2025-07-23T20:44:23.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -236,7 +246,8 @@
       "rank": 21,
       "id": 1286140561,
       "listed_at": "2025-07-23T20:44:23.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -257,7 +268,8 @@
       "rank": 234,
       "id": 1286140787,
       "listed_at": "2025-07-23T20:44:27.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -278,7 +290,8 @@
       "rank": 503,
       "id": 1286141161,
       "listed_at": "2025-07-23T20:44:35.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -299,7 +312,8 @@
       "rank": 808,
       "id": 1286141479,
       "listed_at": "2025-07-23T20:44:41.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -320,7 +334,8 @@
       "rank": 1333,
       "id": 1286142062,
       "listed_at": "2025-07-23T20:44:52.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -341,7 +356,8 @@
       "rank": 1334,
       "id": 1286142063,
       "listed_at": "2025-07-23T20:44:52.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -362,7 +378,8 @@
       "rank": 1336,
       "id": 1286142065,
       "listed_at": "2025-07-23T20:44:52.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -383,7 +400,8 @@
       "rank": 1342,
       "id": 1286142071,
       "listed_at": "2025-07-23T20:44:52.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -404,7 +422,8 @@
       "rank": 17,
       "id": 1286140557,
       "listed_at": "2025-07-23T20:44:23.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -425,7 +444,8 @@
       "rank": 304,
       "id": 1286140908,
       "listed_at": "2025-07-23T20:44:29.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -446,7 +466,8 @@
       "rank": 545,
       "id": 1286141203,
       "listed_at": "2025-07-23T20:44:35.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -467,7 +488,8 @@
       "rank": 836,
       "id": 1286141507,
       "listed_at": "2025-07-23T20:44:41.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -488,7 +510,8 @@
       "rank": 953,
       "id": 1286141624,
       "listed_at": "2025-07-23T20:44:43.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -509,7 +532,8 @@
       "rank": 1214,
       "id": 1286141933,
       "listed_at": "2025-07-23T20:44:50.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -530,7 +554,8 @@
       "rank": 1424,
       "id": 1286142153,
       "listed_at": "2025-07-23T20:44:54.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -551,7 +576,8 @@
       "rank": 1710,
       "id": 1286142454,
       "listed_at": "2025-07-23T20:45:01.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -572,7 +598,8 @@
       "rank": 1788,
       "id": 1286142532,
       "listed_at": "2025-07-23T20:45:01.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -593,7 +620,8 @@
       "rank": 538,
       "id": 1286141196,
       "listed_at": "2025-07-23T20:44:35.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -614,7 +642,8 @@
       "rank": 591,
       "id": 1286141249,
       "listed_at": "2025-07-23T20:44:35.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -635,7 +664,8 @@
       "rank": 686,
       "id": 1286141345,
       "listed_at": "2025-07-23T20:44:37.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -656,7 +686,8 @@
       "rank": 819,
       "id": 1286141490,
       "listed_at": "2025-07-23T20:44:41.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -677,7 +708,8 @@
       "rank": 851,
       "id": 1286141522,
       "listed_at": "2025-07-23T20:44:41.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -698,7 +730,8 @@
       "rank": 903,
       "id": 1286141574,
       "listed_at": "2025-07-23T20:44:43.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -719,7 +752,8 @@
       "rank": 935,
       "id": 1286141606,
       "listed_at": "2025-07-23T20:44:43.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -740,7 +774,8 @@
       "rank": 960,
       "id": 1286141631,
       "listed_at": "2025-07-23T20:44:43.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -761,7 +796,8 @@
       "rank": 995,
       "id": 1286141666,
       "listed_at": "2025-07-23T20:44:43.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -782,7 +818,8 @@
       "rank": 1250,
       "id": 1286141969,
       "listed_at": "2025-07-23T20:44:50.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -803,7 +840,8 @@
       "rank": 1401,
       "id": 1286142130,
       "listed_at": "2025-07-23T20:44:54.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -824,7 +862,8 @@
       "rank": 1423,
       "id": 1286142152,
       "listed_at": "2025-07-23T20:44:54.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -845,7 +884,8 @@
       "rank": 1600,
       "id": 1286142331,
       "listed_at": "2025-07-23T20:44:56.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -866,7 +906,8 @@
       "rank": 1740,
       "id": 1286142484,
       "listed_at": "2025-07-23T20:45:01.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -887,7 +928,8 @@
       "rank": 1824,
       "id": 1286145682,
       "listed_at": "2025-07-23T20:50:27.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -908,7 +950,8 @@
       "rank": 448,
       "id": 1286141055,
       "listed_at": "2025-07-23T20:44:32.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -929,7 +972,8 @@
       "rank": 480,
       "id": 1286141087,
       "listed_at": "2025-07-23T20:44:32.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -950,7 +994,8 @@
       "rank": 780,
       "id": 1286141440,
       "listed_at": "2025-07-23T20:44:39.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -971,7 +1016,8 @@
       "rank": 794,
       "id": 1286141454,
       "listed_at": "2025-07-23T20:44:39.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -992,7 +1038,8 @@
       "rank": 799,
       "id": 1286141459,
       "listed_at": "2025-07-23T20:44:39.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1013,7 +1060,8 @@
       "rank": 979,
       "id": 1286141650,
       "listed_at": "2025-07-23T20:44:43.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1034,7 +1082,8 @@
       "rank": 1229,
       "id": 1286141948,
       "listed_at": "2025-07-23T20:44:50.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1055,7 +1104,8 @@
       "rank": 1290,
       "id": 1286142009,
       "listed_at": "2025-07-23T20:44:50.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1076,7 +1126,8 @@
       "rank": 1343,
       "id": 1286142072,
       "listed_at": "2025-07-23T20:44:52.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1097,7 +1148,8 @@
       "rank": 1380,
       "id": 1286142109,
       "listed_at": "2025-07-23T20:44:52.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1118,7 +1170,8 @@
       "rank": 1575,
       "id": 1286142306,
       "listed_at": "2025-07-23T20:44:56.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1139,7 +1192,8 @@
       "rank": 1655,
       "id": 1286142397,
       "listed_at": "2025-07-23T20:44:59.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1160,7 +1214,8 @@
       "rank": 183,
       "id": 1286140724,
       "listed_at": "2025-07-23T20:44:25.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1181,7 +1236,8 @@
       "rank": 185,
       "id": 1286140726,
       "listed_at": "2025-07-23T20:44:25.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1202,7 +1258,8 @@
       "rank": 218,
       "id": 1286140771,
       "listed_at": "2025-07-23T20:44:27.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1223,7 +1280,8 @@
       "rank": 357,
       "id": 1286140961,
       "listed_at": "2025-07-23T20:44:29.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1244,7 +1302,8 @@
       "rank": 434,
       "id": 1286141041,
       "listed_at": "2025-07-23T20:44:32.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1265,7 +1324,8 @@
       "rank": 714,
       "id": 1286141374,
       "listed_at": "2025-07-23T20:44:39.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1286,7 +1346,8 @@
       "rank": 767,
       "id": 1286141427,
       "listed_at": "2025-07-23T20:44:39.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1307,7 +1368,8 @@
       "rank": 885,
       "id": 1286141556,
       "listed_at": "2025-07-23T20:44:41.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1328,7 +1390,8 @@
       "rank": 946,
       "id": 1286141617,
       "listed_at": "2025-07-23T20:44:43.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1349,7 +1412,8 @@
       "rank": 998,
       "id": 1286141669,
       "listed_at": "2025-07-23T20:44:43.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1370,7 +1434,8 @@
       "rank": 1102,
       "id": 1286141818,
       "listed_at": "2025-07-23T20:44:48.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1391,7 +1456,8 @@
       "rank": 1153,
       "id": 1286141869,
       "listed_at": "2025-07-23T20:44:48.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1412,7 +1478,8 @@
       "rank": 1587,
       "id": 1286142318,
       "listed_at": "2025-07-23T20:44:56.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1433,7 +1500,8 @@
       "rank": 1621,
       "id": 1286142363,
       "listed_at": "2025-07-23T20:44:59.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1454,7 +1522,8 @@
       "rank": 1649,
       "id": 1286142391,
       "listed_at": "2025-07-23T20:44:59.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1475,7 +1544,8 @@
       "rank": 1708,
       "id": 1286142452,
       "listed_at": "2025-07-23T20:45:01.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1496,7 +1566,8 @@
       "rank": 1804,
       "id": 1286142559,
       "listed_at": "2025-07-23T20:45:03.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1517,7 +1588,8 @@
       "rank": 1815,
       "id": 1286142570,
       "listed_at": "2025-07-23T20:45:03.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1538,7 +1610,8 @@
       "rank": 97,
       "id": 1286140637,
       "listed_at": "2025-07-23T20:44:23.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1559,7 +1632,8 @@
       "rank": 237,
       "id": 1286140790,
       "listed_at": "2025-07-23T20:44:27.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1580,7 +1654,8 @@
       "rank": 269,
       "id": 1286140822,
       "listed_at": "2025-07-23T20:44:27.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1601,7 +1676,8 @@
       "rank": 285,
       "id": 1286140838,
       "listed_at": "2025-07-23T20:44:27.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1622,7 +1698,8 @@
       "rank": 528,
       "id": 1286141186,
       "listed_at": "2025-07-23T20:44:35.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1643,7 +1720,8 @@
       "rank": 553,
       "id": 1286141211,
       "listed_at": "2025-07-23T20:44:35.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1664,7 +1742,8 @@
       "rank": 617,
       "id": 1286141276,
       "listed_at": "2025-07-23T20:44:37.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1685,7 +1764,8 @@
       "rank": 628,
       "id": 1286141287,
       "listed_at": "2025-07-23T20:44:37.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1706,7 +1786,8 @@
       "rank": 699,
       "id": 1286141358,
       "listed_at": "2025-07-23T20:44:37.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1727,7 +1808,8 @@
       "rank": 722,
       "id": 1286141382,
       "listed_at": "2025-07-23T20:44:39.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1748,7 +1830,8 @@
       "rank": 724,
       "id": 1286141384,
       "listed_at": "2025-07-23T20:44:39.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1769,7 +1852,8 @@
       "rank": 807,
       "id": 1286141478,
       "listed_at": "2025-07-23T20:44:41.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1790,7 +1874,8 @@
       "rank": 921,
       "id": 1286141592,
       "listed_at": "2025-07-23T20:44:43.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1811,7 +1896,8 @@
       "rank": 942,
       "id": 1286141613,
       "listed_at": "2025-07-23T20:44:43.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1832,7 +1918,8 @@
       "rank": 999,
       "id": 1286141670,
       "listed_at": "2025-07-23T20:44:43.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1853,7 +1940,8 @@
       "rank": 1062,
       "id": 1286141734,
       "listed_at": "2025-07-23T20:44:46.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1874,7 +1962,8 @@
       "rank": 1084,
       "id": 1286141756,
       "listed_at": "2025-07-23T20:44:46.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1895,7 +1984,8 @@
       "rank": 1265,
       "id": 1286141984,
       "listed_at": "2025-07-23T20:44:50.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1916,7 +2006,8 @@
       "rank": 1274,
       "id": 1286141993,
       "listed_at": "2025-07-23T20:44:50.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1937,7 +2028,8 @@
       "rank": 1623,
       "id": 1286142365,
       "listed_at": "2025-07-23T20:44:59.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1958,7 +2050,8 @@
       "rank": 1633,
       "id": 1286142375,
       "listed_at": "2025-07-23T20:44:59.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -1979,7 +2072,8 @@
       "rank": 1776,
       "id": 1286142520,
       "listed_at": "2025-07-23T20:45:01.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -2000,7 +2094,8 @@
       "rank": 1796,
       "id": 1286142540,
       "listed_at": "2025-07-23T20:45:01.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -2021,7 +2116,8 @@
       "rank": 11,
       "id": 1286140551,
       "listed_at": "2025-07-23T20:44:23.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -2042,7 +2138,8 @@
       "rank": 81,
       "id": 1286140621,
       "listed_at": "2025-07-23T20:44:23.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -2063,7 +2160,8 @@
       "rank": 98,
       "id": 1286140638,
       "listed_at": "2025-07-23T20:44:23.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -2084,7 +2182,8 @@
       "rank": 102,
       "id": 1286140643,
       "listed_at": "2025-07-23T20:44:25.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     },
     {
       "type": "movie",
@@ -2105,7 +2204,8 @@
       "rank": 128,
       "id": 1286140669,
       "listed_at": "2025-07-23T20:44:25.000Z",
-      "notes": null
+      "notes": null,
+      "my_rating": 0
     }
   ]
 }
