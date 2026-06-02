@@ -1,12 +1,132 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-01T10:38:59.160733+00:00",
+    "fetched_at": "2026-06-02T09:50:05.743304+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12327083726,
+      "watched_at": "2026-06-01T17:42:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 4,
+        "title": "A Mistake I'll Never Make Again",
+        "ids": {
+          "trakt": 13527578,
+          "tvdb": 11610259,
+          "imdb": "tt33452926",
+          "tmdb": 6540112,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Spider-Noir",
+        "year": 2026,
+        "ids": {
+          "trakt": 202400,
+          "slug": "spider-noir",
+          "tvdb": 450033,
+          "imdb": "tt30460310",
+          "tmdb": 220102,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12327083676,
+      "watched_at": "2026-06-01T17:42:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 3,
+        "title": "Double Cross",
+        "ids": {
+          "trakt": 13527574,
+          "tvdb": 11610258,
+          "imdb": "tt33452921",
+          "tmdb": 6540111,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Spider-Noir",
+        "year": 2026,
+        "ids": {
+          "trakt": 202400,
+          "slug": "spider-noir",
+          "tvdb": 450033,
+          "imdb": "tt30460310",
+          "tmdb": 220102,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12327083564,
+      "watched_at": "2026-06-01T17:41:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 2,
+        "title": "Tread Lightly",
+        "ids": {
+          "trakt": 11872338,
+          "tvdb": 11610257,
+          "imdb": "tt32365977",
+          "tmdb": 5346894,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Spider-Noir",
+        "year": 2026,
+        "ids": {
+          "trakt": 202400,
+          "slug": "spider-noir",
+          "tvdb": 450033,
+          "imdb": "tt30460310",
+          "tmdb": 220102,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12327083504,
+      "watched_at": "2026-06-01T17:41:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 1,
+        "title": "Step into My Office",
+        "ids": {
+          "trakt": 7319725,
+          "tvdb": 10494663,
+          "imdb": "tt31632368",
+          "tmdb": 4223774,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Spider-Noir",
+        "year": 2026,
+        "ids": {
+          "trakt": 202400,
+          "slug": "spider-noir",
+          "tvdb": 450033,
+          "imdb": "tt30460310",
+          "tmdb": 220102,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12295614257,
       "watched_at": "2026-05-23T09:18:00.000Z",
@@ -183,126 +303,6 @@
           "tvdb": 355567,
           "imdb": "tt1190634",
           "tmdb": 76479,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12253232262,
-      "watched_at": "2026-05-06T17:56:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 10,
-        "title": "The Slave of Duty",
-        "ids": {
-          "trakt": 291503,
-          "tvdb": 1291161,
-          "imdb": "tt1558286",
-          "tmdb": 283248,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12242172829,
-      "watched_at": "2026-05-03T21:24:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 6,
-        "title": "The Eyes Have It",
-        "ids": {
-          "trakt": 291499,
-          "tvdb": 1189811,
-          "imdb": "tt1522955",
-          "tmdb": 283240,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12242093537,
-      "watched_at": "2026-05-03T20:44:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 5,
-        "title": "Cradle to Grave",
-        "ids": {
-          "trakt": 291498,
-          "tvdb": 1154801,
-          "imdb": "tt1522954",
-          "tmdb": 283233,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12241867674,
-      "watched_at": "2026-05-03T20:02:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 4,
-        "title": "Hopeless",
-        "ids": {
-          "trakt": 291497,
-          "tvdb": 1069771,
-          "imdb": "tt1497465",
-          "tmdb": 283231,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
           "tvrage": null
         }
       }
