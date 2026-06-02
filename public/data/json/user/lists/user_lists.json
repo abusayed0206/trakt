@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-01T10:39:00.343467+00:00",
+    "fetched_at": "2026-06-02T09:50:10.542434+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/user_lists.json",
@@ -51,7 +51,7 @@
         "vip": true,
         "vip_ep": false,
         "vip_cover_image": null,
-        "director": false
+        "director": null
       },
       "total_count": 4
     },
@@ -99,13 +99,13 @@
         "vip": true,
         "vip_ep": false,
         "vip_cover_image": null,
-        "director": false
+        "director": null
       },
       "total_count": 4
     },
     {
       "name": "MDBLIST",
-      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/mdblist\r\nUpdated at 2026-05-31 14:36:59",
+      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/mdblist\r\nUpdated at 2026-06-01 23:26:49",
       "privacy": "public",
       "share_link": "https://app.trakt.tv/users/lrs/lists/mdblist",
       "type": "personal",
@@ -114,8 +114,8 @@
       "sort_by": "rank",
       "sort_how": "asc",
       "created_at": "2026-01-01T22:03:25.000Z",
-      "updated_at": "2026-05-31T11:36:59.000Z",
-      "item_count": 3865,
+      "updated_at": "2026-06-01T20:26:49.000Z",
+      "item_count": 3864,
       "comment_count": 0,
       "likes": 1,
       "ids": {
@@ -147,7 +147,7 @@
         "vip": true,
         "vip_ep": false,
         "vip_cover_image": null,
-        "director": false
+        "director": null
       },
       "total_count": 4
     },
@@ -195,7 +195,7 @@
         "vip": true,
         "vip_ep": false,
         "vip_cover_image": null,
-        "director": false
+        "director": null
       },
       "total_count": 4
     }

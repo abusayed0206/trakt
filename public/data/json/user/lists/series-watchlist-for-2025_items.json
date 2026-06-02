@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-01T10:39:00.569544+00:00",
+    "fetched_at": "2026-06-02T09:50:10.794073+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -1067,30 +1067,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2070791",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891cb",
-            "slug": "revolution"
-          },
-          "slug": "revolution",
-          "tmdb": 1410,
-          "tvdb": 258823,
-          "trakt": 1401
-        },
-        "year": 2012,
-        "title": "Revolution",
-        "aired_episodes": 42
-      },
-      "rank": 76,
-      "id": 1286151857,
-      "listed_at": "2025-07-23T21:01:09.000Z",
-      "notes": null,
-      "my_rating": 0
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1637727",
           "plex": {
             "guid": "5d9c08672df347001e3b1712",
@@ -1108,6 +1084,30 @@
       "rank": 52,
       "id": 1283744090,
       "listed_at": "2025-07-21T12:16:01.000Z",
+      "notes": null,
+      "my_rating": 0
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2070791",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891cb",
+            "slug": "revolution"
+          },
+          "slug": "revolution",
+          "tmdb": 1410,
+          "tvdb": 258823,
+          "trakt": 1401
+        },
+        "year": 2012,
+        "title": "Revolution",
+        "aired_episodes": 42
+      },
+      "rank": 76,
+      "id": 1286151857,
+      "listed_at": "2025-07-23T21:01:09.000Z",
       "notes": null,
       "my_rating": 0
     },
@@ -1523,30 +1523,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1378167",
-          "plex": {
-            "guid": "5d9c07ec08fddd001f28e266",
-            "slug": "ncis-los-angeles"
-          },
-          "slug": "ncis-los-angeles",
-          "tmdb": 17610,
-          "tvdb": 95441,
-          "trakt": 17532
-        },
-        "year": 2009,
-        "title": "NCIS: Los Angeles",
-        "aired_episodes": 323
-      },
-      "rank": 73,
-      "id": 1286151708,
-      "listed_at": "2025-07-23T21:00:54.000Z",
-      "notes": null,
-      "my_rating": 0
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt3520702",
           "plex": {
             "guid": "5d9c0850e264b7001fc41047",
@@ -1564,6 +1540,30 @@
       "rank": 60,
       "id": 1286150872,
       "listed_at": "2025-07-23T20:59:36.000Z",
+      "notes": null,
+      "my_rating": 0
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1378167",
+          "plex": {
+            "guid": "5d9c07ec08fddd001f28e266",
+            "slug": "ncis-los-angeles"
+          },
+          "slug": "ncis-los-angeles",
+          "tmdb": 17610,
+          "tvdb": 95441,
+          "trakt": 17532
+        },
+        "year": 2009,
+        "title": "NCIS: Los Angeles",
+        "aired_episodes": 323
+      },
+      "rank": 73,
+      "id": 1286151708,
+      "listed_at": "2025-07-23T21:00:54.000Z",
       "notes": null,
       "my_rating": 0
     },
