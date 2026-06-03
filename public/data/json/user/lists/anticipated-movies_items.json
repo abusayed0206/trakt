@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-02T09:50:11.081165+00:00",
+    "fetched_at": "2026-06-03T10:22:15.623317+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -35,28 +35,6 @@
       "type": "movie",
       "movie": {
         "ids": {
-          "imdb": "tt3095356",
-          "plex": {
-            "guid": "5d776a4cad5437001f778f51",
-            "slug": "avatar-4"
-          },
-          "slug": "avatar-4-2029",
-          "tmdb": 216527,
-          "trakt": 133603
-        },
-        "year": 2029,
-        "title": "Avatar 4"
-      },
-      "rank": 5,
-      "id": 1174076306,
-      "listed_at": "2025-02-16T04:14:44.000Z",
-      "notes": null,
-      "my_rating": 0
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
           "imdb": "tt21357150",
           "plex": {
             "guid": "62deb8bf9576053a6b5c5ee7",
@@ -72,6 +50,28 @@
       "rank": 8,
       "id": 1174076317,
       "listed_at": "2025-02-16T04:14:59.000Z",
+      "notes": null,
+      "my_rating": 0
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt3095356",
+          "plex": {
+            "guid": "5d776a4cad5437001f778f51",
+            "slug": "avatar-4"
+          },
+          "slug": "avatar-4-2029",
+          "tmdb": 216527,
+          "trakt": 133603
+        },
+        "year": 2029,
+        "title": "Avatar 4"
+      },
+      "rank": 5,
+      "id": 1174076306,
+      "listed_at": "2025-02-16T04:14:44.000Z",
       "notes": null,
       "my_rating": 0
     },
