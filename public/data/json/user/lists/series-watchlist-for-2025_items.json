@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-04T09:38:10.453096+00:00",
+    "fetched_at": "2026-06-05T08:56:40.148615+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -1859,30 +1859,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0118379",
-          "plex": {
-            "guid": "5d9c080002391c001f57e84c",
-            "slug": "la-femme-nikita"
-          },
-          "slug": "la-femme-nikita",
-          "tmdb": 167,
-          "tvdb": 78527,
-          "trakt": 166
-        },
-        "year": 1997,
-        "title": "La Femme Nikita",
-        "aired_episodes": 96
-      },
-      "rank": 68,
-      "id": 1286151412,
-      "listed_at": "2025-07-23T21:00:22.000Z",
-      "notes": null,
-      "my_rating": 0
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt3729898",
           "plex": {
             "guid": "5d9c0816e9d5a1001f4d7297",
@@ -1924,6 +1900,30 @@
       "rank": 62,
       "id": 1286150898,
       "listed_at": "2025-07-23T20:59:45.000Z",
+      "notes": null,
+      "my_rating": 0
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0118379",
+          "plex": {
+            "guid": "5d9c080002391c001f57e84c",
+            "slug": "la-femme-nikita"
+          },
+          "slug": "la-femme-nikita",
+          "tmdb": 167,
+          "tvdb": 78527,
+          "trakt": 166
+        },
+        "year": 1997,
+        "title": "La Femme Nikita",
+        "aired_episodes": 96
+      },
+      "rank": 68,
+      "id": 1286151412,
+      "listed_at": "2025-07-23T21:00:22.000Z",
       "notes": null,
       "my_rating": 0
     },
