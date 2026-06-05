@@ -1,12 +1,222 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-04T09:38:06.204155+00:00",
+    "fetched_at": "2026-06-05T08:56:38.922191+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12336626555,
+      "watched_at": "2026-06-04T20:53:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 7,
+        "title": "Chin Chin",
+        "ids": {
+          "trakt": 14129940,
+          "tvdb": 11753174,
+          "imdb": "tt41839200",
+          "tmdb": 7174707,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Citadel",
+        "year": 2023,
+        "ids": {
+          "trakt": 171028,
+          "slug": "citadel",
+          "tvdb": 393268,
+          "imdb": "tt9794044",
+          "tmdb": 114922,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12336584061,
+      "watched_at": "2026-06-04T20:31:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 6,
+        "title": "Highlands",
+        "ids": {
+          "trakt": 14129939,
+          "tvdb": 11753172,
+          "imdb": "tt41303489",
+          "tmdb": 7174705,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Citadel",
+        "year": 2023,
+        "ids": {
+          "trakt": 171028,
+          "slug": "citadel",
+          "tvdb": 393268,
+          "imdb": "tt9794044",
+          "tmdb": 114922,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12336535285,
+      "watched_at": "2026-06-04T20:04:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 5,
+        "title": "Heirlooms",
+        "ids": {
+          "trakt": 14129938,
+          "tvdb": 11753169,
+          "imdb": "tt41303486",
+          "tmdb": 7174704,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Citadel",
+        "year": 2023,
+        "ids": {
+          "trakt": 171028,
+          "slug": "citadel",
+          "tvdb": 393268,
+          "imdb": "tt9794044",
+          "tmdb": 114922,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12336467407,
+      "watched_at": "2026-06-04T19:36:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 4,
+        "title": "Unreasonable",
+        "ids": {
+          "trakt": 14129937,
+          "tvdb": 11753167,
+          "imdb": "tt41303485",
+          "tmdb": 7174703,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Citadel",
+        "year": 2023,
+        "ids": {
+          "trakt": 171028,
+          "slug": "citadel",
+          "tvdb": 393268,
+          "imdb": "tt9794044",
+          "tmdb": 114922,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12336354741,
+      "watched_at": "2026-06-04T19:02:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 3,
+        "title": "Chinos",
+        "ids": {
+          "trakt": 14129928,
+          "tvdb": 11753165,
+          "imdb": "tt41303483",
+          "tmdb": 7174701,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Citadel",
+        "year": 2023,
+        "ids": {
+          "trakt": 171028,
+          "slug": "citadel",
+          "tvdb": 393268,
+          "imdb": "tt9794044",
+          "tmdb": 114922,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12336231251,
+      "watched_at": "2026-06-04T18:26:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 2,
+        "title": "Cold Plunge",
+        "ids": {
+          "trakt": 14129927,
+          "tvdb": 11753163,
+          "imdb": "tt41303482",
+          "tmdb": 7174698,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Citadel",
+        "year": 2023,
+        "ids": {
+          "trakt": 171028,
+          "slug": "citadel",
+          "tvdb": 393268,
+          "imdb": "tt9794044",
+          "tmdb": 114922,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12336180607,
+      "watched_at": "2026-06-04T17:50:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 1,
+        "title": "Baked Alaskas",
+        "ids": {
+          "trakt": 13018336,
+          "tvdb": 11753161,
+          "imdb": "tt27853864",
+          "tmdb": 6142416,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Citadel",
+        "year": 2023,
+        "ids": {
+          "trakt": 171028,
+          "slug": "citadel",
+          "tvdb": 393268,
+          "imdb": "tt9794044",
+          "tmdb": 114922,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12330618445,
       "watched_at": "2026-06-02T13:15:00.000Z",
@@ -93,216 +303,6 @@
           "tvdb": 450033,
           "imdb": "tt30460310",
           "tmdb": 220102,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12330617389,
-      "watched_at": "2026-06-02T13:14:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 5,
-        "title": "Betrayal",
-        "ids": {
-          "trakt": 13527583,
-          "tvdb": 11610260,
-          "imdb": "tt33498865",
-          "tmdb": 6540113,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Spider-Noir",
-        "year": 2026,
-        "ids": {
-          "trakt": 202400,
-          "slug": "spider-noir",
-          "tvdb": 450033,
-          "imdb": "tt30460310",
-          "tmdb": 220102,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12327083726,
-      "watched_at": "2026-06-01T17:42:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 4,
-        "title": "A Mistake I'll Never Make Again",
-        "ids": {
-          "trakt": 13527578,
-          "tvdb": 11610259,
-          "imdb": "tt33452926",
-          "tmdb": 6540112,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Spider-Noir",
-        "year": 2026,
-        "ids": {
-          "trakt": 202400,
-          "slug": "spider-noir",
-          "tvdb": 450033,
-          "imdb": "tt30460310",
-          "tmdb": 220102,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12327083676,
-      "watched_at": "2026-06-01T17:42:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 3,
-        "title": "Double Cross",
-        "ids": {
-          "trakt": 13527574,
-          "tvdb": 11610258,
-          "imdb": "tt33452921",
-          "tmdb": 6540111,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Spider-Noir",
-        "year": 2026,
-        "ids": {
-          "trakt": 202400,
-          "slug": "spider-noir",
-          "tvdb": 450033,
-          "imdb": "tt30460310",
-          "tmdb": 220102,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12327083564,
-      "watched_at": "2026-06-01T17:41:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 2,
-        "title": "Tread Lightly",
-        "ids": {
-          "trakt": 11872338,
-          "tvdb": 11610257,
-          "imdb": "tt32365977",
-          "tmdb": 5346894,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Spider-Noir",
-        "year": 2026,
-        "ids": {
-          "trakt": 202400,
-          "slug": "spider-noir",
-          "tvdb": 450033,
-          "imdb": "tt30460310",
-          "tmdb": 220102,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12327083504,
-      "watched_at": "2026-06-01T17:41:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 1,
-        "title": "Step into My Office",
-        "ids": {
-          "trakt": 7319725,
-          "tvdb": 10494663,
-          "imdb": "tt31632368",
-          "tmdb": 4223774,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Spider-Noir",
-        "year": 2026,
-        "ids": {
-          "trakt": 202400,
-          "slug": "spider-noir",
-          "tvdb": 450033,
-          "imdb": "tt30460310",
-          "tmdb": 220102,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12295614257,
-      "watched_at": "2026-05-23T09:18:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 12,
-        "title": "The Uncanny Valley",
-        "ids": {
-          "trakt": 291505,
-          "tvdb": 1291171,
-          "imdb": "tt1560814",
-          "tmdb": 283255,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12287083481,
-      "watched_at": "2026-05-20T09:26:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 8,
-        "title": "Blood and Bone",
-        "ids": {
-          "trakt": 12138436,
-          "tvdb": 11194629,
-          "imdb": "tt33023494",
-          "tmdb": 6745012,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "The Boys",
-        "year": 2019,
-        "ids": {
-          "trakt": 139960,
-          "slug": "the-boys-2019",
-          "tvdb": 355567,
-          "imdb": "tt1190634",
-          "tmdb": 76479,
           "tvrage": null
         }
       }
