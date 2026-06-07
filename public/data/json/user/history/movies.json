@@ -1,12 +1,60 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-06T08:07:32.816138+00:00",
+    "fetched_at": "2026-06-07T08:36:47.818109+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12342284670,
+      "watched_at": "2026-06-07T07:54:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Project Hail Mary",
+        "year": 2026,
+        "ids": {
+          "trakt": 531178,
+          "slug": "project-hail-mary-2026",
+          "imdb": "tt12042730",
+          "tmdb": 687163
+        }
+      }
+    },
+    {
+      "id": 12341078993,
+      "watched_at": "2026-06-06T19:22:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "The Lincoln Lawyer",
+        "year": 2011,
+        "ids": {
+          "trakt": 35197,
+          "slug": "the-lincoln-lawyer-2011",
+          "imdb": "tt1189340",
+          "tmdb": 50348
+        }
+      }
+    },
+    {
+      "id": 12340596798,
+      "watched_at": "2026-06-06T15:53:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "Training Day",
+        "year": 2001,
+        "ids": {
+          "trakt": 1394,
+          "slug": "training-day-2001",
+          "imdb": "tt0139654",
+          "tmdb": 2034
+        }
+      }
+    },
     {
       "id": 12319527818,
       "watched_at": "2026-05-30T14:54:00.000Z",
@@ -116,54 +164,6 @@
           "slug": "eraser-reborn-2022",
           "imdb": "tt15422240",
           "tmdb": 923597
-        }
-      }
-    },
-    {
-      "id": 12307949741,
-      "watched_at": "2026-05-26T19:06:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Tom Clancy's Jack Ryan: Ghost War",
-        "year": 2026,
-        "ids": {
-          "trakt": 1127320,
-          "slug": "tom-clancy-s-jack-ryan-ghost-war-2026",
-          "imdb": "tt34378301",
-          "tmdb": 1380291
-        }
-      }
-    },
-    {
-      "id": 12282957077,
-      "watched_at": "2026-05-18T18:27:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "The Punisher: One Last Kill",
-        "year": 2026,
-        "ids": {
-          "trakt": 1178309,
-          "slug": "the-punisher-one-last-kill-2026",
-          "imdb": "tt36042156",
-          "tmdb": 1439930
-        }
-      }
-    },
-    {
-      "id": 12280520225,
-      "watched_at": "2026-05-17T20:45:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "title": "Dhurandhar: The Revenge",
-        "year": 2026,
-        "ids": {
-          "trakt": 1313407,
-          "slug": "dhurandhar-the-revenge-2026",
-          "imdb": "tt39139925",
-          "tmdb": 1582770
         }
       }
     }

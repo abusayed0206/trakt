@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-06T08:07:33.201996+00:00",
+    "fetched_at": "2026-06-07T08:36:48.612115+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 837
+    "count": 840
   },
   "data": [
     {
@@ -2089,6 +2089,21 @@
           "slug": "lara-croft-tomb-raider-the-cradle-of-life-2003",
           "imdb": "tt0325703",
           "tmdb": 1996
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-06-06T15:53:00.000Z",
+      "last_updated_at": "2026-06-06T15:53:47.000Z",
+      "movie": {
+        "title": "Training Day",
+        "year": 2001,
+        "ids": {
+          "trakt": 1394,
+          "slug": "training-day-2001",
+          "imdb": "tt0139654",
+          "tmdb": 2034
         }
       }
     },
@@ -4369,6 +4384,21 @@
           "slug": "i-saw-the-devil-2010",
           "imdb": "tt1588170",
           "tmdb": 49797
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-06-06T19:22:00.000Z",
+      "last_updated_at": "2026-06-06T19:22:35.000Z",
+      "movie": {
+        "title": "The Lincoln Lawyer",
+        "year": 2011,
+        "ids": {
+          "trakt": 35197,
+          "slug": "the-lincoln-lawyer-2011",
+          "imdb": "tt1189340",
+          "tmdb": 50348
         }
       }
     },
@@ -10279,6 +10309,21 @@
           "slug": "hacked-2014",
           "imdb": "tt4815766",
           "tmdb": 352473
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-06-07T07:54:00.000Z",
+      "last_updated_at": "2026-06-07T07:54:38.000Z",
+      "movie": {
+        "title": "Project Hail Mary",
+        "year": 2026,
+        "ids": {
+          "trakt": 531178,
+          "slug": "project-hail-mary-2026",
+          "imdb": "tt12042730",
+          "tmdb": 687163
         }
       }
     },

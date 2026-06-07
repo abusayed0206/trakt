@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-06T08:07:35.904061+00:00",
+    "fetched_at": "2026-06-07T08:36:54.187486+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -33,28 +33,6 @@
       "type": "movie",
       "movie": {
         "ids": {
-          "imdb": "tt6019206",
-          "plex": {
-            "guid": "5d776c6e96b655001fe3071d",
-            "slug": "kill-bill-the-whole-bloody-affair"
-          },
-          "slug": "kill-bill-the-whole-bloody-affair-2011",
-          "tmdb": 414419,
-          "trakt": 259317
-        },
-        "year": 2011,
-        "title": "Kill Bill: The Whole Bloody Affair"
-      },
-      "rank": 862,
-      "id": 1286141533,
-      "listed_at": "2025-07-23T20:44:41.000Z",
-      "notes": null,
-      "my_rating": 0
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
           "imdb": "tt0080684",
           "plex": {
             "guid": "5d77682a880197001ec91562",
@@ -70,28 +48,6 @@
       "rank": 486,
       "id": 1286141093,
       "listed_at": "2025-07-23T20:44:32.000Z",
-      "notes": null,
-      "my_rating": 0
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt21386522",
-          "plex": {
-            "guid": "62e3e6ff79f2b770b991cad4",
-            "slug": "wrestlemania-xl"
-          },
-          "slug": "wrestlemania-xl-saturday-2024",
-          "tmdb": 1005576,
-          "trakt": 808511
-        },
-        "year": 2024,
-        "title": "WrestleMania XL Saturday"
-      },
-      "rank": 1779,
-      "id": 1286142523,
-      "listed_at": "2025-07-23T20:45:01.000Z",
       "notes": null,
       "my_rating": 0
     },
@@ -2203,6 +2159,50 @@
       },
       "rank": 128,
       "id": 1286140669,
+      "listed_at": "2025-07-23T20:44:25.000Z",
+      "notes": null,
+      "my_rating": 0
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt0120601",
+          "plex": {
+            "guid": "5d776826103a2d001f564156",
+            "slug": "being-john-malkovich"
+          },
+          "slug": "being-john-malkovich-1999",
+          "tmdb": 492,
+          "trakt": 386
+        },
+        "year": 1999,
+        "title": "Being John Malkovich"
+      },
+      "rank": 166,
+      "id": 1286140707,
+      "listed_at": "2025-07-23T20:44:25.000Z",
+      "notes": null,
+      "my_rating": 0
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt2562232",
+          "plex": {
+            "guid": "5d776a1bfb0d55001f53aa67",
+            "slug": "birdman-or-the-unexpected-virtue-of-ignorance"
+          },
+          "slug": "birdman-or-the-unexpected-virtue-of-ignorance-2014",
+          "tmdb": 194662,
+          "trakt": 121489
+        },
+        "year": 2014,
+        "title": "Birdman or (The Unexpected Virtue of Ignorance)"
+      },
+      "rank": 188,
+      "id": 1286140729,
       "listed_at": "2025-07-23T20:44:25.000Z",
       "notes": null,
       "my_rating": 0
