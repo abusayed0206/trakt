@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-07T08:36:47.818109+00:00",
+    "fetched_at": "2026-06-08T10:06:36.221944+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12344772780,
+      "watched_at": "2026-06-08T07:08:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Watcher",
+        "year": 2022,
+        "ids": {
+          "trakt": 641879,
+          "slug": "watcher-2022",
+          "imdb": "tt12004038",
+          "tmdb": 807356
+        }
+      }
+    },
     {
       "id": 12342284670,
       "watched_at": "2026-06-07T07:54:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "den-of-thieves-2-pantera-2025",
           "imdb": "tt8008948",
           "tmdb": 604685
-        }
-      }
-    },
-    {
-      "id": 12310418095,
-      "watched_at": "2026-05-27T07:38:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Eraser: Reborn",
-        "year": 2022,
-        "ids": {
-          "trakt": 739758,
-          "slug": "eraser-reborn-2022",
-          "imdb": "tt15422240",
-          "tmdb": 923597
         }
       }
     }

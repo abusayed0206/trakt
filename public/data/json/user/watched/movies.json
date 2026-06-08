@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-07T08:36:48.612115+00:00",
+    "fetched_at": "2026-06-08T10:06:36.915190+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 840
+    "count": 841
   },
   "data": [
     {
@@ -10924,6 +10924,21 @@
           "slug": "the-killer-2023",
           "imdb": "tt1136617",
           "tmdb": 800158
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-06-08T07:08:00.000Z",
+      "last_updated_at": "2026-06-08T07:08:21.000Z",
+      "movie": {
+        "title": "Watcher",
+        "year": 2022,
+        "ids": {
+          "trakt": 641879,
+          "slug": "watcher-2022",
+          "imdb": "tt12004038",
+          "tmdb": 807356
         }
       }
     },
