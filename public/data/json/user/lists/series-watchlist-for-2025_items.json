@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-07T08:36:50.219161+00:00",
+    "fetched_at": "2026-06-08T10:06:40.281836+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -515,30 +515,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1405406",
-          "plex": {
-            "guid": "5d9c082ae98e47001eb0946f",
-            "slug": "the-vampire-diaries"
-          },
-          "slug": "the-vampire-diaries",
-          "tmdb": 18165,
-          "tvdb": 95491,
-          "trakt": 18083
-        },
-        "year": 2009,
-        "title": "The Vampire Diaries",
-        "aired_episodes": 171
-      },
-      "rank": 27,
-      "id": 1153031251,
-      "listed_at": "2025-01-08T18:17:15.000Z",
-      "notes": null,
-      "my_rating": 0
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt31938062",
           "plex": {
             "guid": "66047594f2781fe94954a721",
@@ -556,6 +532,30 @@
       "rank": 47,
       "id": 1273910724,
       "listed_at": "2025-07-08T19:03:09.000Z",
+      "notes": null,
+      "my_rating": 0
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1405406",
+          "plex": {
+            "guid": "5d9c082ae98e47001eb0946f",
+            "slug": "the-vampire-diaries"
+          },
+          "slug": "the-vampire-diaries",
+          "tmdb": 18165,
+          "tvdb": 95491,
+          "trakt": 18083
+        },
+        "year": 2009,
+        "title": "The Vampire Diaries",
+        "aired_episodes": 171
+      },
+      "rank": 27,
+      "id": 1153031251,
+      "listed_at": "2025-01-08T18:17:15.000Z",
       "notes": null,
       "my_rating": 0
     },
