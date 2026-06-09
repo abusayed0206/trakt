@@ -1,12 +1,282 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-08T10:06:36.387257+00:00",
+    "fetched_at": "2026-06-09T08:47:28.660644+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12347147324,
+      "watched_at": "2026-06-09T08:30:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 1,
+        "title": "Cargo",
+        "ids": {
+          "trakt": 3391405,
+          "tvdb": 7347093,
+          "imdb": "tt8327754",
+          "tmdb": 1872205,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12346051562,
+      "watched_at": "2026-06-08T20:09:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 8,
+        "title": "Inshallah",
+        "ids": {
+          "trakt": 3099734,
+          "tvdb": 6775607,
+          "imdb": "tt5982096",
+          "tmdb": 1560800,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12346018018,
+      "watched_at": "2026-06-08T19:54:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 7,
+        "title": "The Boy",
+        "ids": {
+          "trakt": 3099733,
+          "tvdb": 6775606,
+          "imdb": "tt5982092",
+          "tmdb": 1560799,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12345972523,
+      "watched_at": "2026-06-08T19:21:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 6,
+        "title": "Sources and Methods",
+        "ids": {
+          "trakt": 3099732,
+          "tvdb": 6775605,
+          "imdb": "tt5980368",
+          "tmdb": 1560798,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12345840566,
+      "watched_at": "2026-06-08T18:15:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 5,
+        "title": "End of Honor",
+        "ids": {
+          "trakt": 3099731,
+          "tvdb": 6775604,
+          "imdb": "tt5980366",
+          "tmdb": 1560797,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12345746808,
+      "watched_at": "2026-06-08T17:24:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 4,
+        "title": "The Wolf",
+        "ids": {
+          "trakt": 2886942,
+          "tvdb": 6545669,
+          "imdb": "tt5973872",
+          "tmdb": 1560796,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12345626511,
+      "watched_at": "2026-06-08T16:14:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 3,
+        "title": "Black 22",
+        "ids": {
+          "trakt": 2886940,
+          "tvdb": 6545668,
+          "imdb": "tt5973870",
+          "tmdb": 1560795,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12345484508,
+      "watched_at": "2026-06-08T15:05:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 2,
+        "title": "French Connection",
+        "ids": {
+          "trakt": 2886938,
+          "tvdb": 6545667,
+          "imdb": "tt5972924",
+          "tmdb": 1560794,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12345420949,
+      "watched_at": "2026-06-08T14:29:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 1,
+        "title": "Pilot",
+        "ids": {
+          "trakt": 2875712,
+          "tvdb": 6530568,
+          "imdb": "tt5970182",
+          "tmdb": 1439513,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12336626555,
       "watched_at": "2026-06-04T20:53:00.000Z",
@@ -33,276 +303,6 @@
           "tvdb": 393268,
           "imdb": "tt9794044",
           "tmdb": 114922,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12336584061,
-      "watched_at": "2026-06-04T20:31:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 6,
-        "title": "Highlands",
-        "ids": {
-          "trakt": 14129939,
-          "tvdb": 11753172,
-          "imdb": "tt41303489",
-          "tmdb": 7174705,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Citadel",
-        "year": 2023,
-        "ids": {
-          "trakt": 171028,
-          "slug": "citadel",
-          "tvdb": 393268,
-          "imdb": "tt9794044",
-          "tmdb": 114922,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12336535285,
-      "watched_at": "2026-06-04T20:04:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 5,
-        "title": "Heirlooms",
-        "ids": {
-          "trakt": 14129938,
-          "tvdb": 11753169,
-          "imdb": "tt41303486",
-          "tmdb": 7174704,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Citadel",
-        "year": 2023,
-        "ids": {
-          "trakt": 171028,
-          "slug": "citadel",
-          "tvdb": 393268,
-          "imdb": "tt9794044",
-          "tmdb": 114922,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12336467407,
-      "watched_at": "2026-06-04T19:36:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 4,
-        "title": "Unreasonable",
-        "ids": {
-          "trakt": 14129937,
-          "tvdb": 11753167,
-          "imdb": "tt41303485",
-          "tmdb": 7174703,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Citadel",
-        "year": 2023,
-        "ids": {
-          "trakt": 171028,
-          "slug": "citadel",
-          "tvdb": 393268,
-          "imdb": "tt9794044",
-          "tmdb": 114922,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12336354741,
-      "watched_at": "2026-06-04T19:02:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 3,
-        "title": "Chinos",
-        "ids": {
-          "trakt": 14129928,
-          "tvdb": 11753165,
-          "imdb": "tt41303483",
-          "tmdb": 7174701,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Citadel",
-        "year": 2023,
-        "ids": {
-          "trakt": 171028,
-          "slug": "citadel",
-          "tvdb": 393268,
-          "imdb": "tt9794044",
-          "tmdb": 114922,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12336231251,
-      "watched_at": "2026-06-04T18:26:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 2,
-        "title": "Cold Plunge",
-        "ids": {
-          "trakt": 14129927,
-          "tvdb": 11753163,
-          "imdb": "tt41303482",
-          "tmdb": 7174698,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Citadel",
-        "year": 2023,
-        "ids": {
-          "trakt": 171028,
-          "slug": "citadel",
-          "tvdb": 393268,
-          "imdb": "tt9794044",
-          "tmdb": 114922,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12336180607,
-      "watched_at": "2026-06-04T17:50:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 1,
-        "title": "Baked Alaskas",
-        "ids": {
-          "trakt": 13018336,
-          "tvdb": 11753161,
-          "imdb": "tt27853864",
-          "tmdb": 6142416,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Citadel",
-        "year": 2023,
-        "ids": {
-          "trakt": 171028,
-          "slug": "citadel",
-          "tvdb": 393268,
-          "imdb": "tt9794044",
-          "tmdb": 114922,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12330618445,
-      "watched_at": "2026-06-02T13:15:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 8,
-        "title": "The Man in the Mask",
-        "ids": {
-          "trakt": 13527591,
-          "tvdb": 11610263,
-          "imdb": "tt33498883",
-          "tmdb": 6540116,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Spider-Noir",
-        "year": 2026,
-        "ids": {
-          "trakt": 202400,
-          "slug": "spider-noir",
-          "tvdb": 450033,
-          "imdb": "tt30460310",
-          "tmdb": 220102,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12330618383,
-      "watched_at": "2026-06-02T13:15:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 7,
-        "title": "Nobody's Hero",
-        "ids": {
-          "trakt": 13527590,
-          "tvdb": 11610262,
-          "imdb": "tt33498878",
-          "tmdb": 6540115,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Spider-Noir",
-        "year": 2026,
-        "ids": {
-          "trakt": 202400,
-          "slug": "spider-noir",
-          "tvdb": 450033,
-          "imdb": "tt30460310",
-          "tmdb": 220102,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12330618322,
-      "watched_at": "2026-06-02T13:15:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 6,
-        "title": "Nightmare on a Gurney",
-        "ids": {
-          "trakt": 13527587,
-          "tvdb": 11610261,
-          "imdb": "tt33498870",
-          "tmdb": 6540114,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Spider-Noir",
-        "year": 2026,
-        "ids": {
-          "trakt": 202400,
-          "slug": "spider-noir",
-          "tvdb": 450033,
-          "imdb": "tt30460310",
-          "tmdb": 220102,
           "tvrage": null
         }
       }

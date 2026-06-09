@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-08T10:06:40.281836+00:00",
+    "fetched_at": "2026-06-09T08:47:33.348218+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -419,30 +419,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0106179",
-          "plex": {
-            "guid": "5d9c0806e264b7001fc3a3a8",
-            "slug": "the-x-files"
-          },
-          "slug": "the-x-files",
-          "tmdb": 4087,
-          "tvdb": 77398,
-          "trakt": 4063
-        },
-        "year": 1993,
-        "title": "The X-Files",
-        "aired_episodes": 218
-      },
-      "rank": 38,
-      "id": 1153031283,
-      "listed_at": "2025-01-08T18:21:14.000Z",
-      "notes": null,
-      "my_rating": 0
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt27497448",
           "plex": {
             "guid": "643cbf9ec1962a0897b7f6dd",
@@ -460,6 +436,30 @@
       "rank": 84,
       "id": 1400239921,
       "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null,
+      "my_rating": 0
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0106179",
+          "plex": {
+            "guid": "5d9c0806e264b7001fc3a3a8",
+            "slug": "the-x-files"
+          },
+          "slug": "the-x-files",
+          "tmdb": 4087,
+          "tvdb": 77398,
+          "trakt": 4063
+        },
+        "year": 1993,
+        "title": "The X-Files",
+        "aired_episodes": 218
+      },
+      "rank": 38,
+      "id": 1153031283,
+      "listed_at": "2025-01-08T18:21:14.000Z",
       "notes": null,
       "my_rating": 0
     },
