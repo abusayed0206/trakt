@@ -1,12 +1,282 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-10T09:05:05.377148+00:00",
+    "fetched_at": "2026-06-11T09:51:16.814131+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12351510752,
+      "watched_at": "2026-06-11T09:08:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 2,
+        "title": "Convergence",
+        "ids": {
+          "trakt": 7547002,
+          "tvdb": 9782576,
+          "imdb": "tt27666392",
+          "tmdb": 4424830,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12351449878,
+      "watched_at": "2026-06-11T08:22:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 1,
+        "title": "Triage",
+        "ids": {
+          "trakt": 7547001,
+          "tvdb": 9782575,
+          "imdb": "tt15683364",
+          "tmdb": 4424826,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12350059849,
+      "watched_at": "2026-06-10T17:19:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 8,
+        "title": "Star on the Wall",
+        "ids": {
+          "trakt": 6744141,
+          "tvdb": 9374325,
+          "imdb": "tt10944986",
+          "tmdb": 3978065,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12350001364,
+      "watched_at": "2026-06-10T16:34:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 7,
+        "title": "Moscow Rules",
+        "ids": {
+          "trakt": 6744140,
+          "tvdb": 9374324,
+          "imdb": "tt14179768",
+          "tmdb": 3978064,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12349956747,
+      "watched_at": "2026-06-10T16:02:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 6,
+        "title": "Ghosts",
+        "ids": {
+          "trakt": 6744139,
+          "tvdb": 9374323,
+          "imdb": "tt15108854",
+          "tmdb": 3978063,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12349855547,
+      "watched_at": "2026-06-10T15:05:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 5,
+        "title": "Druz'ya I Vragi",
+        "ids": {
+          "trakt": 6744138,
+          "tvdb": 9374322,
+          "imdb": "tt15088996",
+          "tmdb": 3978062,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12349824186,
+      "watched_at": "2026-06-10T14:43:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 4,
+        "title": "Our Death's Keeper",
+        "ids": {
+          "trakt": 6744137,
+          "tvdb": 9374321,
+          "imdb": "tt13498252",
+          "tmdb": 3978061,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12349377469,
+      "watched_at": "2026-06-10T09:51:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 3,
+        "title": "Running with Wolves",
+        "ids": {
+          "trakt": 6744136,
+          "tvdb": 9374320,
+          "imdb": "tt13498250",
+          "tmdb": 3978060,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12349350182,
+      "watched_at": "2026-06-10T09:31:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 2,
+        "title": "Old Haunts",
+        "ids": {
+          "trakt": 6744135,
+          "tvdb": 9374319,
+          "imdb": "tt13498242",
+          "tmdb": 3978059,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12348373691,
       "watched_at": "2026-06-09T20:48:00.000Z",
@@ -21,276 +291,6 @@
           "tvdb": 9371178,
           "imdb": "tt9826514",
           "tmdb": 3978058,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12347861531,
-      "watched_at": "2026-06-09T16:46:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 8,
-        "title": "Strongman",
-        "ids": {
-          "trakt": 3697682,
-          "tvdb": 7347129,
-          "imdb": "tt8327808",
-          "tmdb": 1872212,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12347836437,
-      "watched_at": "2026-06-09T16:31:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 7,
-        "title": "Dios y Federación",
-        "ids": {
-          "trakt": 3697649,
-          "tvdb": 7347125,
-          "imdb": "tt8327804",
-          "tmdb": 1872211,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12347788341,
-      "watched_at": "2026-06-09T16:00:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 6,
-        "title": "Persona Non Grata",
-        "ids": {
-          "trakt": 3697648,
-          "tvdb": 7347120,
-          "imdb": "tt8327810",
-          "tmdb": 1872210,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12347738533,
-      "watched_at": "2026-06-09T15:36:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 5,
-        "title": "Blue Gold",
-        "ids": {
-          "trakt": 3697609,
-          "tvdb": 7347108,
-          "imdb": "tt8327794",
-          "tmdb": 1872209,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12347546725,
-      "watched_at": "2026-06-09T13:30:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 4,
-        "title": "Dressed to Kill",
-        "ids": {
-          "trakt": 3697579,
-          "tvdb": 7347103,
-          "imdb": "tt8327792",
-          "tmdb": 1872208,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12347204014,
-      "watched_at": "2026-06-09T09:40:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 3,
-        "title": "Orinoco",
-        "ids": {
-          "trakt": 3697572,
-          "tvdb": 7347099,
-          "imdb": "tt8327758",
-          "tmdb": 1872207,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12347172526,
-      "watched_at": "2026-06-09T09:00:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 2,
-        "title": "Tertia Optio",
-        "ids": {
-          "trakt": 3697551,
-          "tvdb": 7347095,
-          "imdb": "tt8327788",
-          "tmdb": 1872206,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12347147324,
-      "watched_at": "2026-06-09T08:30:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 1,
-        "title": "Cargo",
-        "ids": {
-          "trakt": 3391405,
-          "tvdb": 7347093,
-          "imdb": "tt8327754",
-          "tmdb": 1872205,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12346051562,
-      "watched_at": "2026-06-08T20:09:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 8,
-        "title": "Inshallah",
-        "ids": {
-          "trakt": 3099734,
-          "tvdb": 6775607,
-          "imdb": "tt5982096",
-          "tmdb": 1560800,
           "tvrage": null
         }
       },
