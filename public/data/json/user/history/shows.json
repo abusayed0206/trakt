@@ -1,12 +1,132 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-11T09:51:16.814131+00:00",
+    "fetched_at": "2026-06-12T09:45:23.718030+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12351843494,
+      "watched_at": "2026-06-11T13:41:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 6,
+        "title": "Proof of Concept",
+        "ids": {
+          "trakt": 7547006,
+          "tvdb": 9782580,
+          "imdb": "tt27666400",
+          "tmdb": 4424838,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12351673914,
+      "watched_at": "2026-06-11T11:38:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 5,
+        "title": "Wukong",
+        "ids": {
+          "trakt": 7547005,
+          "tvdb": 9782579,
+          "imdb": "tt27666395",
+          "tmdb": 4424837,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12351620024,
+      "watched_at": "2026-06-11T10:59:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 4,
+        "title": "Bethesda",
+        "ids": {
+          "trakt": 7547004,
+          "tvdb": 9782578,
+          "imdb": "tt27666396",
+          "tmdb": 4424835,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12351579347,
+      "watched_at": "2026-06-11T10:09:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 4,
+        "number": 3,
+        "title": "Sacrifices",
+        "ids": {
+          "trakt": 7547003,
+          "tvdb": 9782577,
+          "imdb": "tt27666393",
+          "tmdb": 4424832,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12351510752,
       "watched_at": "2026-06-11T09:08:00.000Z",
@@ -171,126 +291,6 @@
           "tvdb": 9374322,
           "imdb": "tt15088996",
           "tmdb": 3978062,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12349824186,
-      "watched_at": "2026-06-10T14:43:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 4,
-        "title": "Our Death's Keeper",
-        "ids": {
-          "trakt": 6744137,
-          "tvdb": 9374321,
-          "imdb": "tt13498252",
-          "tmdb": 3978061,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12349377469,
-      "watched_at": "2026-06-10T09:51:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 3,
-        "title": "Running with Wolves",
-        "ids": {
-          "trakt": 6744136,
-          "tvdb": 9374320,
-          "imdb": "tt13498250",
-          "tmdb": 3978060,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12349350182,
-      "watched_at": "2026-06-10T09:31:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 2,
-        "title": "Old Haunts",
-        "ids": {
-          "trakt": 6744135,
-          "tvdb": 9374319,
-          "imdb": "tt13498242",
-          "tmdb": 3978059,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12348373691,
-      "watched_at": "2026-06-09T20:48:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 3,
-        "number": 1,
-        "title": "Falcon",
-        "ids": {
-          "trakt": 6744134,
-          "tvdb": 9371178,
-          "imdb": "tt9826514",
-          "tmdb": 3978058,
           "tvrage": null
         }
       },
