@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-12T09:45:25.391676+00:00",
+    "fetched_at": "2026-06-13T08:38:48.586426+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -29,7 +29,7 @@
       "id": 1153031309,
       "listed_at": "2025-01-08T18:22:39.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -53,7 +53,7 @@
       "id": 1285066985,
       "listed_at": "2025-07-22T20:10:01.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -77,7 +77,7 @@
       "id": 1153031269,
       "listed_at": "2025-01-08T18:19:06.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -101,7 +101,7 @@
       "id": 1153032159,
       "listed_at": "2025-01-08T18:25:38.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -125,7 +125,7 @@
       "id": 1153032156,
       "listed_at": "2025-01-08T18:25:36.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -149,7 +149,7 @@
       "id": 1153031279,
       "listed_at": "2025-01-08T18:20:42.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -173,7 +173,7 @@
       "id": 1118270166,
       "listed_at": "2024-11-11T17:12:57.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -197,7 +197,7 @@
       "id": 1126580873,
       "listed_at": "2024-11-24T14:36:46.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -221,7 +221,7 @@
       "id": 1286148826,
       "listed_at": "2025-07-23T20:56:07.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -245,7 +245,7 @@
       "id": 1153031436,
       "listed_at": "2025-01-08T18:22:54.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -269,7 +269,7 @@
       "id": 1153031282,
       "listed_at": "2025-01-08T18:21:13.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -293,7 +293,7 @@
       "id": 1237230371,
       "listed_at": "2025-05-26T15:50:16.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -317,7 +317,7 @@
       "id": 1153031249,
       "listed_at": "2025-01-08T18:17:10.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -341,7 +341,7 @@
       "id": 1275439151,
       "listed_at": "2025-07-10T08:59:30.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -365,7 +365,7 @@
       "id": 1153031516,
       "listed_at": "2025-01-08T18:23:05.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -389,7 +389,7 @@
       "id": 1153031441,
       "listed_at": "2025-01-08T18:22:58.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -413,7 +413,7 @@
       "id": 1287727091,
       "listed_at": "2025-07-25T11:10:24.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -437,7 +437,7 @@
       "id": 1400239921,
       "listed_at": "2026-01-01T22:05:50.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -461,7 +461,7 @@
       "id": 1153031283,
       "listed_at": "2025-01-08T18:21:14.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -485,7 +485,7 @@
       "id": 1153031527,
       "listed_at": "2025-01-08T18:23:08.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -509,7 +509,7 @@
       "id": 1153031292,
       "listed_at": "2025-01-08T18:22:11.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -533,7 +533,7 @@
       "id": 1273910724,
       "listed_at": "2025-07-08T19:03:09.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -557,7 +557,7 @@
       "id": 1153031251,
       "listed_at": "2025-01-08T18:17:15.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -581,7 +581,7 @@
       "id": 1127241238,
       "listed_at": "2024-11-25T08:46:20.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -605,7 +605,7 @@
       "id": 1133528025,
       "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -629,7 +629,7 @@
       "id": 1372615448,
       "listed_at": "2025-11-24T21:13:59.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -653,7 +653,7 @@
       "id": 1170422123,
       "listed_at": "2025-02-07T11:01:15.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -677,7 +677,7 @@
       "id": 1153031271,
       "listed_at": "2025-01-08T18:19:46.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -701,7 +701,7 @@
       "id": 1275428908,
       "listed_at": "2025-07-10T08:39:37.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -725,7 +725,7 @@
       "id": 1285066962,
       "listed_at": "2025-07-22T20:09:52.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -749,7 +749,7 @@
       "id": 1179046309,
       "listed_at": "2025-02-25T06:26:59.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -773,7 +773,7 @@
       "id": 1153031255,
       "listed_at": "2025-01-08T18:17:39.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -797,7 +797,7 @@
       "id": 1153031261,
       "listed_at": "2025-01-08T18:18:20.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -821,7 +821,7 @@
       "id": 1283744103,
       "listed_at": "2025-07-21T12:16:06.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -845,7 +845,7 @@
       "id": 1298875639,
       "listed_at": "2025-08-08T17:07:39.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -869,7 +869,7 @@
       "id": 1127241236,
       "listed_at": "2024-11-25T08:46:20.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -893,7 +893,7 @@
       "id": 1153031323,
       "listed_at": "2025-01-08T18:22:51.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -917,7 +917,7 @@
       "id": 1153031245,
       "listed_at": "2025-01-08T18:16:56.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -941,7 +941,7 @@
       "id": 1176247212,
       "listed_at": "2025-02-21T07:31:25.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -965,7 +965,7 @@
       "id": 1400239794,
       "listed_at": "2026-01-01T22:05:43.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -989,7 +989,7 @@
       "id": 1179046549,
       "listed_at": "2025-02-25T06:27:33.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1013,7 +1013,7 @@
       "id": 1377268265,
       "listed_at": "2025-12-01T10:22:35.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1037,7 +1037,7 @@
       "id": 1153031256,
       "listed_at": "2025-01-08T18:17:47.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1061,7 +1061,7 @@
       "id": 1153031275,
       "listed_at": "2025-01-08T18:20:08.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1085,7 +1085,7 @@
       "id": 1283744090,
       "listed_at": "2025-07-21T12:16:01.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1109,7 +1109,7 @@
       "id": 1286151857,
       "listed_at": "2025-07-23T21:01:09.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1133,7 +1133,7 @@
       "id": 1153031296,
       "listed_at": "2025-01-08T18:22:20.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1157,7 +1157,7 @@
       "id": 1153419635,
       "listed_at": "2025-01-09T10:27:58.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1181,7 +1181,7 @@
       "id": 1133528030,
       "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1205,7 +1205,7 @@
       "id": 1286151520,
       "listed_at": "2025-07-23T21:00:34.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1229,7 +1229,7 @@
       "id": 1286150874,
       "listed_at": "2025-07-23T20:59:39.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1253,7 +1253,7 @@
       "id": 1133528026,
       "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1277,7 +1277,7 @@
       "id": 1127241239,
       "listed_at": "2024-11-25T08:46:20.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1301,7 +1301,7 @@
       "id": 1133528027,
       "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1325,7 +1325,7 @@
       "id": 1286151361,
       "listed_at": "2025-07-23T21:00:15.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1349,7 +1349,7 @@
       "id": 1286150899,
       "listed_at": "2025-07-23T20:59:49.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1373,7 +1373,7 @@
       "id": 1286151019,
       "listed_at": "2025-07-23T20:59:54.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1397,7 +1397,7 @@
       "id": 1286151728,
       "listed_at": "2025-07-23T21:00:58.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1421,7 +1421,7 @@
       "id": 1286151594,
       "listed_at": "2025-07-23T21:00:44.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1445,7 +1445,7 @@
       "id": 1133528028,
       "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1469,7 +1469,7 @@
       "id": 1153031321,
       "listed_at": "2025-01-08T18:22:47.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1493,7 +1493,7 @@
       "id": 1133528029,
       "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1517,7 +1517,7 @@
       "id": 1273903687,
       "listed_at": "2025-07-08T18:50:06.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1541,7 +1541,7 @@
       "id": 1286150872,
       "listed_at": "2025-07-23T20:59:36.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1565,7 +1565,7 @@
       "id": 1286151708,
       "listed_at": "2025-07-23T21:00:54.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1589,7 +1589,7 @@
       "id": 1286151517,
       "listed_at": "2025-07-23T21:00:31.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1613,7 +1613,7 @@
       "id": 1129591871,
       "listed_at": "2024-11-28T07:51:50.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1637,7 +1637,7 @@
       "id": 1147927571,
       "listed_at": "2024-12-31T02:39:56.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1661,7 +1661,7 @@
       "id": 1273919887,
       "listed_at": "2025-07-08T19:13:08.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1685,7 +1685,7 @@
       "id": 1286152000,
       "listed_at": "2025-07-23T21:01:19.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1709,7 +1709,7 @@
       "id": 1283748591,
       "listed_at": "2025-07-21T12:19:19.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1733,7 +1733,7 @@
       "id": 1286151465,
       "listed_at": "2025-07-23T21:00:26.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1757,7 +1757,7 @@
       "id": 1153031519,
       "listed_at": "2025-01-08T18:23:06.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1781,7 +1781,7 @@
       "id": 1316607181,
       "listed_at": "2025-09-16T07:21:17.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1805,7 +1805,7 @@
       "id": 1286150796,
       "listed_at": "2025-07-23T20:59:21.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1829,7 +1829,7 @@
       "id": 1273920117,
       "listed_at": "2025-07-08T19:13:28.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1853,7 +1853,7 @@
       "id": 1286150812,
       "listed_at": "2025-07-23T20:59:26.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1877,7 +1877,7 @@
       "id": 1286151153,
       "listed_at": "2025-07-23T21:00:08.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1901,7 +1901,7 @@
       "id": 1286150898,
       "listed_at": "2025-07-23T20:59:45.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1925,7 +1925,7 @@
       "id": 1286151412,
       "listed_at": "2025-07-23T21:00:22.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1949,7 +1949,7 @@
       "id": 1286151743,
       "listed_at": "2025-07-23T21:01:04.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1973,7 +1973,7 @@
       "id": 1395330443,
       "listed_at": "2025-12-25T06:19:31.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -1997,7 +1997,7 @@
       "id": 1153420500,
       "listed_at": "2025-01-09T10:31:55.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "show",
@@ -2021,7 +2021,7 @@
       "id": 1286151372,
       "listed_at": "2025-07-23T21:00:18.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     }
   ]
 }
