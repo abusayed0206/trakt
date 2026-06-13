@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-12T09:45:25.552382+00:00",
+    "fetched_at": "2026-06-13T08:38:49.487457+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/anticipated-movies_items.json",
@@ -29,7 +29,7 @@
       "id": 1174075727,
       "listed_at": "2025-02-16T04:11:19.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "movie",
@@ -51,7 +51,7 @@
       "id": 1174076317,
       "listed_at": "2025-02-16T04:14:59.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "movie",
@@ -73,7 +73,7 @@
       "id": 1174076306,
       "listed_at": "2025-02-16T04:14:44.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "movie",
@@ -95,7 +95,7 @@
       "id": 1285064667,
       "listed_at": "2025-07-22T20:05:17.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "movie",
@@ -117,7 +117,7 @@
       "id": 1174076315,
       "listed_at": "2025-02-16T04:14:54.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "movie",
@@ -128,18 +128,18 @@
             "guid": "627b6fad4ff557b9d6566f44",
             "slug": "the-batman-part-ii"
           },
-          "slug": "untitled-the-batman-sequel-2027",
+          "slug": "the-batman-part-ii-2027",
           "tmdb": 806704,
           "trakt": 640991
         },
         "year": 2027,
-        "title": "Untitled The Batman Sequel"
+        "title": "The Batman: Part II"
       },
       "rank": 9,
       "id": 1174076320,
       "listed_at": "2025-02-16T04:15:03.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "movie",
@@ -161,7 +161,7 @@
       "id": 1210621808,
       "listed_at": "2025-04-14T10:15:39.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "movie",
@@ -183,7 +183,7 @@
       "id": 1173832904,
       "listed_at": "2025-02-15T16:49:19.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     },
     {
       "type": "movie",
@@ -205,7 +205,7 @@
       "id": 1205938473,
       "listed_at": "2025-04-03T16:21:59.000Z",
       "notes": null,
-      "my_rating": 0
+      "my_rating": null
     }
   ]
 }
