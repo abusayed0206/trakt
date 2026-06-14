@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-13T08:38:46.817922+00:00",
+    "fetched_at": "2026-06-14T08:54:29.266289+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,359 +8,9 @@
   },
   "data": [
     {
-      "plays": 30,
-      "last_watched_at": "2026-06-11T13:41:00.000Z",
-      "last_updated_at": "2026-06-11T13:41:55.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2026-06-08T14:29:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2026-06-08T15:05:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2026-06-08T16:14:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2026-06-08T17:24:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2026-06-08T18:15:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2026-06-08T19:21:00.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2026-06-08T19:54:00.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2026-06-08T20:09:00.000Z"
-            }
-          ]
-        },
-        {
-          "number": 2,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2026-06-09T08:30:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2026-06-09T09:00:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2026-06-09T09:40:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2026-06-09T13:30:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2026-06-09T15:36:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2026-06-09T16:00:00.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2026-06-09T16:31:00.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2026-06-09T16:46:00.000Z"
-            }
-          ]
-        },
-        {
-          "number": 3,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2026-06-09T20:48:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2026-06-10T09:31:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2026-06-10T09:51:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2026-06-10T14:43:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2026-06-10T15:05:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2026-06-10T16:02:00.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2026-06-10T16:34:00.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2026-06-10T17:19:00.000Z"
-            }
-          ]
-        },
-        {
-          "number": 4,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2026-06-11T08:22:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2026-06-11T09:08:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2026-06-11T10:09:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2026-06-11T10:59:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2026-06-11T11:38:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2026-06-11T13:41:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 13,
-      "last_watched_at": "2026-06-04T20:53:00.000Z",
-      "last_updated_at": "2026-06-04T20:53:56.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Citadel",
-        "year": 2023,
-        "ids": {
-          "trakt": 171028,
-          "slug": "citadel",
-          "tvdb": 393268,
-          "imdb": "tt9794044",
-          "tmdb": 114922,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2023-09-17T17:40:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2023-09-17T17:40:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2023-09-17T17:40:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2023-10-14T09:54:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2023-09-17T17:41:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2023-09-17T17:41:00.000Z"
-            }
-          ]
-        },
-        {
-          "number": 2,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2026-06-04T17:50:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2026-06-04T18:26:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2026-06-04T19:02:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2026-06-04T19:36:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2026-06-04T20:04:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2026-06-04T20:31:00.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2026-06-04T20:53:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 8,
-      "last_watched_at": "2026-06-02T13:15:00.000Z",
-      "last_updated_at": "2026-06-02T13:15:28.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Spider-Noir",
-        "year": 2026,
-        "ids": {
-          "trakt": 202400,
-          "slug": "spider-noir",
-          "tvdb": 450033,
-          "imdb": "tt30460310",
-          "tmdb": 220102,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2026-06-01T17:41:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2026-06-01T17:41:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2026-06-01T17:42:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2026-06-01T17:42:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2026-06-02T13:14:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2026-06-02T13:15:00.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2026-06-02T13:15:00.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2026-06-02T13:15:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 103,
-      "last_watched_at": "2026-05-23T09:18:00.000Z",
-      "last_updated_at": "2026-05-23T09:18:02.000Z",
+      "plays": 107,
+      "last_watched_at": "2026-06-13T20:50:00.000Z",
+      "last_updated_at": "2026-06-13T20:50:59.000Z",
       "reset_at": null,
       "show": {
         "title": "Criminal Minds",
@@ -884,6 +534,21 @@
               "last_watched_at": "2026-05-03T21:24:00.000Z"
             },
             {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2026-06-13T19:54:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2026-06-13T19:59:00.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2026-06-13T20:00:00.000Z"
+            },
+            {
               "number": 10,
               "plays": 1,
               "last_watched_at": "2026-05-06T17:56:00.000Z"
@@ -897,6 +562,361 @@
               "number": 12,
               "plays": 1,
               "last_watched_at": "2026-05-23T09:18:00.000Z"
+            },
+            {
+              "number": 13,
+              "plays": 1,
+              "last_watched_at": "2026-06-13T20:50:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plays": 30,
+      "last_watched_at": "2026-06-11T13:41:00.000Z",
+      "last_updated_at": "2026-06-11T13:41:55.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Tom Clancy's Jack Ryan",
+        "year": 2018,
+        "ids": {
+          "trakt": 124381,
+          "slug": "tom-clancy-s-jack-ryan",
+          "tvdb": 336261,
+          "imdb": "tt5057054",
+          "tmdb": 73375,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2026-06-08T14:29:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2026-06-08T15:05:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2026-06-08T16:14:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2026-06-08T17:24:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2026-06-08T18:15:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2026-06-08T19:21:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2026-06-08T19:54:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2026-06-08T20:09:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2026-06-09T08:30:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2026-06-09T09:00:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2026-06-09T09:40:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2026-06-09T13:30:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2026-06-09T15:36:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2026-06-09T16:00:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2026-06-09T16:31:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2026-06-09T16:46:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2026-06-09T20:48:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2026-06-10T09:31:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2026-06-10T09:51:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2026-06-10T14:43:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2026-06-10T15:05:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2026-06-10T16:02:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2026-06-10T16:34:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2026-06-10T17:19:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2026-06-11T08:22:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2026-06-11T09:08:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2026-06-11T10:09:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2026-06-11T10:59:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2026-06-11T11:38:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2026-06-11T13:41:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plays": 13,
+      "last_watched_at": "2026-06-04T20:53:00.000Z",
+      "last_updated_at": "2026-06-04T20:53:56.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Citadel",
+        "year": 2023,
+        "ids": {
+          "trakt": 171028,
+          "slug": "citadel",
+          "tvdb": 393268,
+          "imdb": "tt9794044",
+          "tmdb": 114922,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2023-09-17T17:40:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2023-09-17T17:40:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2023-09-17T17:40:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2023-10-14T09:54:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2023-09-17T17:41:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2023-09-17T17:41:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2026-06-04T17:50:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2026-06-04T18:26:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2026-06-04T19:02:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2026-06-04T19:36:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2026-06-04T20:04:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2026-06-04T20:31:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2026-06-04T20:53:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plays": 8,
+      "last_watched_at": "2026-06-02T13:15:00.000Z",
+      "last_updated_at": "2026-06-02T13:15:28.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Spider-Noir",
+        "year": 2026,
+        "ids": {
+          "trakt": 202400,
+          "slug": "spider-noir",
+          "tvdb": 450033,
+          "imdb": "tt30460310",
+          "tmdb": 220102,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2026-06-01T17:41:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2026-06-01T17:41:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2026-06-01T17:42:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2026-06-01T17:42:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2026-06-02T13:14:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2026-06-02T13:15:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2026-06-02T13:15:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2026-06-02T13:15:00.000Z"
             }
           ]
         }
