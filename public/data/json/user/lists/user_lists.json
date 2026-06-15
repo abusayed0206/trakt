@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-14T08:54:31.125235+00:00",
+    "fetched_at": "2026-06-15T11:31:11.600497+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/user_lists.json",
@@ -18,8 +18,8 @@
       "sort_by": "popularity",
       "sort_how": "desc",
       "created_at": "2024-01-18T16:02:04.000Z",
-      "updated_at": "2026-01-01T22:05:50.000Z",
-      "item_count": 84,
+      "updated_at": "2026-06-14T18:29:38.000Z",
+      "item_count": 86,
       "comment_count": 0,
       "likes": 0,
       "ids": {

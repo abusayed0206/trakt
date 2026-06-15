@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-14T08:54:30.147129+00:00",
+    "fetched_at": "2026-06-15T11:31:10.982602+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/movies.json",
-    "count": 22
+    "count": 23
   },
   "data": [
     {
@@ -422,6 +422,28 @@
       "rank": 23,
       "id": 1285064215,
       "listed_at": "2025-07-22T20:04:33.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt22084616",
+          "plex": {
+            "guid": "5ed8a6246e2d7200411126cf",
+            "slug": "spider-man-brand-new-day"
+          },
+          "slug": "spider-man-brand-new-day-2026",
+          "tmdb": 969681,
+          "trakt": 905132
+        },
+        "year": 2026,
+        "title": "Spider-Man: Brand New Day"
+      },
+      "rank": 23,
+      "id": 1480028623,
+      "listed_at": "2026-06-15T04:25:39.000Z",
       "notes": null,
       "my_rating": null
     },

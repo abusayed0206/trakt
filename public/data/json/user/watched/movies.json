@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-14T08:54:28.966993+00:00",
+    "fetched_at": "2026-06-15T11:31:09.378326+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 841
+    "count": 842
   },
   "data": [
     {
@@ -3814,6 +3814,21 @@
           "slug": "the-mechanic-2011",
           "imdb": "tt0472399",
           "tmdb": 27582
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-06-15T11:01:00.000Z",
+      "last_updated_at": "2026-06-15T11:01:20.000Z",
+      "movie": {
+        "title": "Mother",
+        "year": 2009,
+        "ids": {
+          "trakt": 19004,
+          "slug": "mother-2009",
+          "imdb": "tt1216496",
+          "tmdb": 30018
         }
       }
     },
@@ -11701,7 +11716,7 @@
         "year": 2011,
         "ids": {
           "trakt": 791669,
-          "slug": "3-d-sex-and-zen-extreme-ecstasy-2011-04-14",
+          "slug": "3-d-sex-and-zen-extreme-ecstasy-2011",
           "imdb": "tt1365048",
           "tmdb": 67308
         }
@@ -11746,7 +11761,7 @@
         "year": 1991,
         "ids": {
           "trakt": 798259,
-          "slug": "sex-and-zen-1991-11-30",
+          "slug": "sex-and-zen-1991",
           "imdb": "tt0105287",
           "tmdb": 45491
         }
@@ -11761,7 +11776,7 @@
         "year": 1998,
         "ids": {
           "trakt": 800879,
-          "slug": "sex-and-zen-iii-1998-04-23",
+          "slug": "sex-and-zen-iii-1998",
           "imdb": "tt0133196",
           "tmdb": 123338
         }
