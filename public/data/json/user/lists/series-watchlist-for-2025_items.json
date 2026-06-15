@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-14T08:54:32.135709+00:00",
+    "fetched_at": "2026-06-15T11:31:11.983076+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
-    "count": 84
+    "count": 86
   },
   "data": [
     {
@@ -635,6 +635,30 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt5875444",
+          "plex": {
+            "guid": "5e1622a54f2292003e912fcf",
+            "slug": "slow-horses"
+          },
+          "slug": "slow-horses",
+          "tmdb": 95480,
+          "tvdb": 372264,
+          "trakt": 155534
+        },
+        "year": 2022,
+        "title": "Slow Horses",
+        "aired_episodes": 30
+      },
+      "rank": 85,
+      "id": 1479836841,
+      "listed_at": "2026-06-14T18:26:36.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt2191671",
           "plex": {
             "guid": "5d9c086c02391c001f5891bf",
@@ -652,6 +676,30 @@
       "rank": 49,
       "id": 1170422123,
       "listed_at": "2025-02-07T11:01:15.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt10155688",
+          "plex": {
+            "guid": "5e21a3bafa5376004190dccc",
+            "slug": "mare-of-easttown"
+          },
+          "slug": "mare-of-easttown",
+          "tmdb": 115004,
+          "tvdb": 370112,
+          "trakt": 153275
+        },
+        "year": 2021,
+        "title": "Mare of Easttown",
+        "aired_episodes": 7
+      },
+      "rank": 86,
+      "id": 1479837603,
+      "listed_at": "2026-06-14T18:29:38.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1571,30 +1619,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5164196",
-          "plex": {
-            "guid": "5d9c0804ba2e21001f18d35d",
-            "slug": "lethal-weapon"
-          },
-          "slug": "lethal-weapon",
-          "tmdb": 67116,
-          "tvdb": 311790,
-          "trakt": 107717
-        },
-        "year": 2016,
-        "title": "Lethal Weapon",
-        "aired_episodes": 55
-      },
-      "rank": 70,
-      "id": 1286151517,
-      "listed_at": "2025-07-23T21:00:31.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt13875494",
           "plex": {
             "guid": "6339b5e5bc01498ae59c016c",
@@ -1612,6 +1636,30 @@
       "rank": 13,
       "id": 1129591871,
       "listed_at": "2024-11-28T07:51:50.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5164196",
+          "plex": {
+            "guid": "5d9c0804ba2e21001f18d35d",
+            "slug": "lethal-weapon"
+          },
+          "slug": "lethal-weapon",
+          "tmdb": 67116,
+          "tvdb": 311790,
+          "trakt": 107717
+        },
+        "year": 2016,
+        "title": "Lethal Weapon",
+        "aired_episodes": 55
+      },
+      "rank": 70,
+      "id": 1286151517,
+      "listed_at": "2025-07-23T21:00:31.000Z",
       "notes": null,
       "my_rating": null
     },

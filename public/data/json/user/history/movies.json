@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-14T08:54:28.436741+00:00",
+    "fetched_at": "2026-06-15T11:31:08.653333+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12360506912,
+      "watched_at": "2026-06-15T11:01:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "Mother",
+        "year": 2009,
+        "ids": {
+          "trakt": 19004,
+          "slug": "mother-2009",
+          "imdb": "tt1216496",
+          "tmdb": 30018
+        }
+      }
+    },
     {
       "id": 12344772780,
       "watched_at": "2026-06-08T07:08:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "cleaner-2025",
           "imdb": "tt27812086",
           "tmdb": 1125899
-        }
-      }
-    },
-    {
-      "id": 12311759169,
-      "watched_at": "2026-05-27T16:07:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Den of Thieves 2: Pantera",
-        "year": 2025,
-        "ids": {
-          "trakt": 449452,
-          "slug": "den-of-thieves-2-pantera-2025",
-          "imdb": "tt8008948",
-          "tmdb": 604685
         }
       }
     }

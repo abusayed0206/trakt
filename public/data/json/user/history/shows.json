@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-14T08:54:28.611551+00:00",
+    "fetched_at": "2026-06-15T11:31:09.011367+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
@@ -8,19 +8,19 @@
   },
   "data": [
     {
-      "id": 12356992050,
-      "watched_at": "2026-06-13T20:50:00.000Z",
+      "id": 12359092533,
+      "watched_at": "2026-06-14T18:36:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 5,
-        "number": 13,
-        "title": "Risky Business",
+        "season": 6,
+        "number": 1,
+        "title": "The Longest Night",
         "ids": {
-          "trakt": 291506,
-          "tvdb": 1309641,
-          "imdb": "tt1560564",
-          "tmdb": 283251,
+          "trakt": 291517,
+          "tvdb": 2583901,
+          "imdb": "tt1692557",
+          "tmdb": 283290,
           "tvrage": null
         }
       },
@@ -38,19 +38,79 @@
       }
     },
     {
-      "id": 12356905610,
-      "watched_at": "2026-06-13T20:00:00.000Z",
+      "id": 12358957227,
+      "watched_at": "2026-06-14T17:14:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 5,
+        "number": 23,
+        "title": "Our Darkest Hour",
+        "ids": {
+          "trakt": 291516,
+          "tvdb": 2105961,
+          "imdb": "tt1647025",
+          "tmdb": 283277,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12358715168,
+      "watched_at": "2026-06-14T15:25:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 5,
+        "number": 22,
+        "title": "The Internet Is Forever",
+        "ids": {
+          "trakt": 291515,
+          "tvdb": 2101231,
+          "imdb": "tt1647502",
+          "tmdb": 283276,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Criminal Minds",
+        "year": 2005,
+        "ids": {
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12358656039,
+      "watched_at": "2026-06-14T14:58:00.000Z",
       "action": "watch",
       "type": "episode",
       "episode": {
         "season": 5,
-        "number": 9,
-        "title": "100",
+        "number": 14,
+        "title": "Parasite",
         "ids": {
-          "trakt": 291502,
-          "tvdb": 1269651,
-          "imdb": "tt1539650",
-          "tmdb": 283245,
+          "trakt": 291507,
+          "tvdb": 1542441,
+          "imdb": "tt1583441",
+          "tmdb": 283257,
           "tvrage": null
         }
       },
@@ -68,19 +128,19 @@
       }
     },
     {
-      "id": 12356902252,
-      "watched_at": "2026-06-13T19:59:00.000Z",
+      "id": 12358650058,
+      "watched_at": "2026-06-14T14:53:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
         "season": 5,
-        "number": 8,
-        "title": "Outfoxed",
+        "number": 21,
+        "title": "Exit Wounds",
         "ids": {
-          "trakt": 291501,
-          "tvdb": 1247171,
-          "imdb": "tt1532433",
-          "tmdb": 283237,
+          "trakt": 291514,
+          "tvdb": 1962441,
+          "imdb": "tt1624256",
+          "tmdb": 283274,
           "tvrage": null
         }
       },
@@ -98,19 +158,19 @@
       }
     },
     {
-      "id": 12356888804,
-      "watched_at": "2026-06-13T19:54:00.000Z",
+      "id": 12358585100,
+      "watched_at": "2026-06-14T14:14:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
         "season": 5,
-        "number": 7,
-        "title": "The Performer",
+        "number": 20,
+        "title": "...A Thousand Words",
         "ids": {
-          "trakt": 291500,
-          "tvdb": 1206471,
-          "imdb": "tt1533210",
-          "tmdb": 283242,
+          "trakt": 291513,
+          "tvdb": 2067351,
+          "imdb": "tt1624560",
+          "tmdb": 955074,
           "tvrage": null
         }
       },
@@ -128,181 +188,121 @@
       }
     },
     {
-      "id": 12351843494,
-      "watched_at": "2026-06-11T13:41:00.000Z",
+      "id": 12358536246,
+      "watched_at": "2026-06-14T13:42:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 4,
-        "number": 6,
-        "title": "Proof of Concept",
+        "season": 5,
+        "number": 19,
+        "title": "Rite of Passage",
         "ids": {
-          "trakt": 7547006,
-          "tvdb": 9782580,
-          "imdb": "tt27666400",
-          "tmdb": 4424838,
+          "trakt": 291512,
+          "tvdb": 1901971,
+          "imdb": "tt1624257",
+          "tmdb": 283267,
           "tvrage": null
         }
       },
       "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
+        "title": "Criminal Minds",
+        "year": 2005,
         "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
           "tvrage": null
         }
       }
     },
     {
-      "id": 12351673914,
-      "watched_at": "2026-06-11T11:38:00.000Z",
+      "id": 12358390834,
+      "watched_at": "2026-06-14T12:23:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 4,
-        "number": 5,
-        "title": "Wukong",
+        "season": 5,
+        "number": 18,
+        "title": "The Fight",
         "ids": {
-          "trakt": 7547005,
-          "tvdb": 9782579,
-          "imdb": "tt27666395",
-          "tmdb": 4424837,
+          "trakt": 291511,
+          "tvdb": 1849621,
+          "imdb": "tt1619514",
+          "tmdb": 283262,
           "tvrage": null
         }
       },
       "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
+        "title": "Criminal Minds",
+        "year": 2005,
         "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
           "tvrage": null
         }
       }
     },
     {
-      "id": 12351620024,
-      "watched_at": "2026-06-11T10:59:00.000Z",
+      "id": 12358346317,
+      "watched_at": "2026-06-14T11:41:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 4,
-        "number": 4,
-        "title": "Bethesda",
+        "season": 5,
+        "number": 17,
+        "title": "Solitary Man",
         "ids": {
-          "trakt": 7547004,
-          "tvdb": 9782578,
-          "imdb": "tt27666396",
-          "tmdb": 4424835,
+          "trakt": 291510,
+          "tvdb": 1641471,
+          "imdb": "tt1591778",
+          "tmdb": 283284,
           "tvrage": null
         }
       },
       "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
+        "title": "Criminal Minds",
+        "year": 2005,
         "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
           "tvrage": null
         }
       }
     },
     {
-      "id": 12351579347,
-      "watched_at": "2026-06-11T10:09:00.000Z",
+      "id": 12358299551,
+      "watched_at": "2026-06-14T11:02:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 4,
-        "number": 3,
-        "title": "Sacrifices",
+        "season": 5,
+        "number": 16,
+        "title": "Mosley Lane",
         "ids": {
-          "trakt": 7547003,
-          "tvdb": 9782577,
-          "imdb": "tt27666393",
-          "tmdb": 4424832,
+          "trakt": 291509,
+          "tvdb": 1641461,
+          "imdb": "tt1592610",
+          "tmdb": 283279,
           "tvrage": null
         }
       },
       "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
+        "title": "Criminal Minds",
+        "year": 2005,
         "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12351510752,
-      "watched_at": "2026-06-11T09:08:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 2,
-        "title": "Convergence",
-        "ids": {
-          "trakt": 7547002,
-          "tvdb": 9782576,
-          "imdb": "tt27666392",
-          "tmdb": 4424830,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12351449878,
-      "watched_at": "2026-06-11T08:22:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 4,
-        "number": 1,
-        "title": "Triage",
-        "ids": {
-          "trakt": 7547001,
-          "tvdb": 9782575,
-          "imdb": "tt15683364",
-          "tmdb": 4424826,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Tom Clancy's Jack Ryan",
-        "year": 2018,
-        "ids": {
-          "trakt": 124381,
-          "slug": "tom-clancy-s-jack-ryan",
-          "tvdb": 336261,
-          "imdb": "tt5057054",
-          "tmdb": 73375,
+          "trakt": 4033,
+          "slug": "criminal-minds",
+          "tvdb": 75710,
+          "imdb": "tt0452046",
+          "tmdb": 4057,
           "tvrage": null
         }
       }
