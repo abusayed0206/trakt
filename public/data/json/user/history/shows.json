@@ -1,12 +1,192 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-18T09:56:20.579785+00:00",
+    "fetched_at": "2026-06-19T10:02:14.075571+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12368482546,
+      "watched_at": "2026-06-18T21:51:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 6,
+        "title": "Episode 6",
+        "ids": {
+          "trakt": 13700792,
+          "tvdb": 11534299,
+          "imdb": "tt38028385",
+          "tmdb": 6665611,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Night Manager",
+        "year": 2016,
+        "ids": {
+          "trakt": 94686,
+          "slug": "the-night-manager",
+          "tvdb": 290508,
+          "imdb": "tt1399664",
+          "tmdb": 61859,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12368482545,
+      "watched_at": "2026-06-18T21:51:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 5,
+        "title": "Episode 5",
+        "ids": {
+          "trakt": 13700790,
+          "tvdb": 11534298,
+          "imdb": "tt38028383",
+          "tmdb": 6665610,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Night Manager",
+        "year": 2016,
+        "ids": {
+          "trakt": 94686,
+          "slug": "the-night-manager",
+          "tvdb": 290508,
+          "imdb": "tt1399664",
+          "tmdb": 61859,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12368482544,
+      "watched_at": "2026-06-18T21:51:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 4,
+        "title": "Episode 4",
+        "ids": {
+          "trakt": 13700788,
+          "tvdb": 11534297,
+          "imdb": "tt38028382",
+          "tmdb": 6665609,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Night Manager",
+        "year": 2016,
+        "ids": {
+          "trakt": 94686,
+          "slug": "the-night-manager",
+          "tvdb": 290508,
+          "imdb": "tt1399664",
+          "tmdb": 61859,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12368482543,
+      "watched_at": "2026-06-18T21:51:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 3,
+        "title": "Episode 3",
+        "ids": {
+          "trakt": 13700785,
+          "tvdb": 11534296,
+          "imdb": "tt38028381",
+          "tmdb": 6665608,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Night Manager",
+        "year": 2016,
+        "ids": {
+          "trakt": 94686,
+          "slug": "the-night-manager",
+          "tvdb": 290508,
+          "imdb": "tt1399664",
+          "tmdb": 61859,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12368482542,
+      "watched_at": "2026-06-18T21:51:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 2,
+        "title": "Episode 2",
+        "ids": {
+          "trakt": 13700784,
+          "tvdb": 11534295,
+          "imdb": "tt38028379",
+          "tmdb": 6665607,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Night Manager",
+        "year": 2016,
+        "ids": {
+          "trakt": 94686,
+          "slug": "the-night-manager",
+          "tvdb": 290508,
+          "imdb": "tt1399664",
+          "tmdb": 61859,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12368482541,
+      "watched_at": "2026-06-18T21:51:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 1,
+        "title": "Episode 1",
+        "ids": {
+          "trakt": 13700782,
+          "tvdb": 11441612,
+          "imdb": "tt32117798",
+          "tmdb": 6665606,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "The Night Manager",
+        "year": 2016,
+        "ids": {
+          "trakt": 94686,
+          "slug": "the-night-manager",
+          "tvdb": 290508,
+          "imdb": "tt1399664",
+          "tmdb": 61859,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12359092533,
       "watched_at": "2026-06-14T18:36:00.000Z",
@@ -111,186 +291,6 @@
           "tvdb": 1542441,
           "imdb": "tt1583441",
           "tmdb": 283257,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12358650058,
-      "watched_at": "2026-06-14T14:53:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 21,
-        "title": "Exit Wounds",
-        "ids": {
-          "trakt": 291514,
-          "tvdb": 1962441,
-          "imdb": "tt1624256",
-          "tmdb": 283274,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12358585100,
-      "watched_at": "2026-06-14T14:14:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 20,
-        "title": "...A Thousand Words",
-        "ids": {
-          "trakt": 291513,
-          "tvdb": 2067351,
-          "imdb": "tt1624560",
-          "tmdb": 955074,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12358536246,
-      "watched_at": "2026-06-14T13:42:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 19,
-        "title": "Rite of Passage",
-        "ids": {
-          "trakt": 291512,
-          "tvdb": 1901971,
-          "imdb": "tt1624257",
-          "tmdb": 283267,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12358390834,
-      "watched_at": "2026-06-14T12:23:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 18,
-        "title": "The Fight",
-        "ids": {
-          "trakt": 291511,
-          "tvdb": 1849621,
-          "imdb": "tt1619514",
-          "tmdb": 283262,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12358346317,
-      "watched_at": "2026-06-14T11:41:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 17,
-        "title": "Solitary Man",
-        "ids": {
-          "trakt": 291510,
-          "tvdb": 1641471,
-          "imdb": "tt1591778",
-          "tmdb": 283284,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Criminal Minds",
-        "year": 2005,
-        "ids": {
-          "trakt": 4033,
-          "slug": "criminal-minds",
-          "tvdb": 75710,
-          "imdb": "tt0452046",
-          "tmdb": 4057,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12358299551,
-      "watched_at": "2026-06-14T11:02:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 5,
-        "number": 16,
-        "title": "Mosley Lane",
-        "ids": {
-          "trakt": 291509,
-          "tvdb": 1641461,
-          "imdb": "tt1592610",
-          "tmdb": 283279,
           "tvrage": null
         }
       },
