@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-19T10:02:14.282593+00:00",
+    "fetched_at": "2026-06-20T08:33:45.346015+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 842
+    "count": 843
   },
   "data": [
     {
@@ -3469,6 +3469,21 @@
           "slug": "sniper-3-2004",
           "imdb": "tt0408196",
           "tmdb": 14247
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2024-06-29T14:40:00.000Z",
+      "last_updated_at": "2026-06-19T14:40:29.000Z",
+      "movie": {
+        "title": "Ip Man",
+        "year": 2008,
+        "ids": {
+          "trakt": 8923,
+          "slug": "ip-man-2008",
+          "imdb": "tt1220719",
+          "tmdb": 14756
         }
       }
     },
