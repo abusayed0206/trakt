@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-19T10:02:16.893238+00:00",
+    "fetched_at": "2026-06-20T08:33:47.462487+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2025_items.json",
@@ -731,30 +731,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2149175",
-          "plex": {
-            "guid": "5d9c0869e98e47001eb0ee17",
-            "slug": "the-americans-2013"
-          },
-          "slug": "the-americans-2013",
-          "tmdb": 46533,
-          "tvdb": 261690,
-          "trakt": 46263
-        },
-        "year": 2013,
-        "title": "The Americans",
-        "aired_episodes": 75
-      },
-      "rank": 50,
-      "id": 1275428908,
-      "listed_at": "2025-07-10T08:39:37.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt31510819",
           "plex": {
             "guid": "65e04d051f43644ac5a79a99",
@@ -772,6 +748,30 @@
       "rank": 55,
       "id": 1285066962,
       "listed_at": "2025-07-22T20:09:52.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2149175",
+          "plex": {
+            "guid": "5d9c0869e98e47001eb0ee17",
+            "slug": "the-americans-2013"
+          },
+          "slug": "the-americans-2013",
+          "tmdb": 46533,
+          "tvdb": 261690,
+          "trakt": 46263
+        },
+        "year": 2013,
+        "title": "The Americans",
+        "aired_episodes": 75
+      },
+      "rank": 50,
+      "id": 1275428908,
+      "listed_at": "2025-07-10T08:39:37.000Z",
       "notes": null,
       "my_rating": null
     },
