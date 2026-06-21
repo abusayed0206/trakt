@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-20T08:33:45.346015+00:00",
+    "fetched_at": "2026-06-21T09:09:37.513400+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 843
+    "count": 844
   },
   "data": [
     {
@@ -3184,6 +3184,21 @@
           "slug": "public-enemies-2009",
           "imdb": "tt1152836",
           "tmdb": 11322
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-06-20T20:17:00.000Z",
+      "last_updated_at": "2026-06-20T20:17:31.000Z",
+      "movie": {
+        "title": "A Bittersweet Life",
+        "year": 2005,
+        "ids": {
+          "trakt": 6440,
+          "slug": "a-bittersweet-life-2005",
+          "imdb": "tt0456912",
+          "tmdb": 11344
         }
       }
     },
