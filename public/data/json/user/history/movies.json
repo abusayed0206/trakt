@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-20T08:33:44.727380+00:00",
+    "fetched_at": "2026-06-21T09:09:36.975599+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12372811902,
+      "watched_at": "2026-06-20T20:17:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "title": "A Bittersweet Life",
+        "year": 2005,
+        "ids": {
+          "trakt": 6440,
+          "slug": "a-bittersweet-life-2005",
+          "imdb": "tt0456912",
+          "tmdb": 11344
+        }
+      }
+    },
     {
       "id": 12360506912,
       "watched_at": "2026-06-15T11:01:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "peaky-blinders-the-immortal-man-2026",
           "imdb": "tt15574124",
           "tmdb": 875828
-        }
-      }
-    },
-    {
-      "id": 12312151280,
-      "watched_at": "2026-05-27T18:04:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Cleaner",
-        "year": 2025,
-        "ids": {
-          "trakt": 905958,
-          "slug": "cleaner-2025",
-          "imdb": "tt27812086",
-          "tmdb": 1125899
         }
       }
     }
