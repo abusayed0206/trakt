@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-21T09:09:37.513400+00:00",
+    "fetched_at": "2026-06-22T11:16:38.109227+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
-    "count": 844
+    "count": 845
   },
   "data": [
     {
@@ -12559,6 +12559,21 @@
           "slug": "dhurandhar-2025",
           "imdb": "tt33014583",
           "tmdb": 1291608
+        }
+      }
+    },
+    {
+      "plays": 1,
+      "last_watched_at": "2026-06-22T05:03:00.000Z",
+      "last_updated_at": "2026-06-22T05:03:36.000Z",
+      "movie": {
+        "title": "Patriot",
+        "year": 2026,
+        "ids": {
+          "trakt": 1060232,
+          "slug": "patriot-2026",
+          "imdb": "tt33412884",
+          "tmdb": 1300501
         }
       }
     },
