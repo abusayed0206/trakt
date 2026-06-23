@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "tmdb_id": 1300501,
+      "title": "Patriot",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1300501_poster.jpg",
+      "last_watched_at": "2026-06-22T05:03:00.000Z"
+    },
+    {
       "tmdb_id": 11344,
       "title": "A Bittersweet Life",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/11344_poster.jpg",
@@ -53,30 +59,24 @@
       "title": "Mardaani 3",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1339876_poster.jpg",
       "last_watched_at": "2026-05-28T15:54:00.000Z"
-    },
-    {
-      "tmdb_id": 875828,
-      "title": "Peaky Blinders: The Immortal Man",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/875828_poster.jpg",
-      "last_watched_at": "2026-05-28T11:49:00.000Z"
     }
   ],
   "shows": [
     {
       "tmdb_id": 61859,
       "title": "The Night Manager",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/61859/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/61859/2/season_2_poster.jpg",
       "last_watched_at": "2026-06-18T21:51:00.000Z"
     },
     {
       "tmdb_id": 4057,
       "title": "Criminal Minds",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2,
@@ -85,7 +85,7 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/1/season_1_poster.jpg",
       "last_watched_at": "2026-06-14T18:36:00.000Z"
     },
     {
@@ -104,12 +104,12 @@
     {
       "tmdb_id": 114922,
       "title": "Citadel",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/114922/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/114922/2/season_2_poster.jpg",
       "last_watched_at": "2026-06-04T20:53:00.000Z"
     },
     {
@@ -139,24 +139,24 @@
     {
       "tmdb_id": 202555,
       "title": "Daredevil: Born Again",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/202555/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/202555/1/season_1_poster.jpg",
       "last_watched_at": "2026-05-10T22:30:00.000Z"
     },
     {
       "tmdb_id": 1412,
       "title": "Arrow",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/2/season_2_poster.jpg",
       "last_watched_at": "2026-04-19T20:26:00.000Z"
     },
     {
