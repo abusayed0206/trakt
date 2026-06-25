@@ -63,6 +63,16 @@
   ],
   "shows": [
     {
+      "tmdb_id": 115004,
+      "title": "Mare of Easttown",
+      "season": 1,
+      "available_seasons": [
+        1
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/115004/1/season_1_poster.jpg",
+      "last_watched_at": "2026-06-23T13:19:00.000Z"
+    },
+    {
       "tmdb_id": 61859,
       "title": "The Night Manager",
       "season": 1,
@@ -76,7 +86,7 @@
     {
       "tmdb_id": 4057,
       "title": "Criminal Minds",
-      "season": 5,
+      "season": 6,
       "available_seasons": [
         1,
         2,
@@ -85,31 +95,31 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/5/season_5_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/6/season_6_poster.jpg",
       "last_watched_at": "2026-06-14T18:36:00.000Z"
     },
     {
       "tmdb_id": 73375,
       "title": "Tom Clancy's Jack Ryan",
-      "season": 1,
+      "season": 4,
       "available_seasons": [
         1,
         2,
         3,
         4
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/73375/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/73375/4/season_4_poster.jpg",
       "last_watched_at": "2026-06-11T13:41:00.000Z"
     },
     {
       "tmdb_id": 114922,
       "title": "Citadel",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/114922/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/114922/2/season_2_poster.jpg",
       "last_watched_at": "2026-06-04T20:53:00.000Z"
     },
     {
@@ -125,7 +135,7 @@
     {
       "tmdb_id": 76479,
       "title": "The Boys",
-      "season": 4,
+      "season": 5,
       "available_seasons": [
         1,
         2,
@@ -133,53 +143,43 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/76479/4/season_4_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/76479/5/season_5_poster.jpg",
       "last_watched_at": "2026-05-20T09:26:00.000Z"
     },
     {
       "tmdb_id": 202555,
       "title": "Daredevil: Born Again",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/202555/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/202555/2/season_2_poster.jpg",
       "last_watched_at": "2026-05-10T22:30:00.000Z"
     },
     {
       "tmdb_id": 1412,
       "title": "Arrow",
+      "season": 1,
+      "available_seasons": [
+        1,
+        2,
+        3
+      ],
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/1/season_1_poster.jpg",
+      "last_watched_at": "2026-04-19T20:26:00.000Z"
+    },
+    {
+      "tmdb_id": 129552,
+      "title": "The Night Agent",
       "season": 3,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/3/season_3_poster.jpg",
-      "last_watched_at": "2026-04-19T20:26:00.000Z"
-    },
-    {
-      "tmdb_id": 129552,
-      "title": "The Night Agent",
-      "season": 2,
-      "available_seasons": [
-        1,
-        2,
-        3
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/129552/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/129552/3/season_3_poster.jpg",
       "last_watched_at": "2026-03-08T21:54:00.000Z"
-    },
-    {
-      "tmdb_id": 225171,
-      "title": "Pluribus",
-      "season": 1,
-      "available_seasons": [
-        1
-      ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/225171/1/season_1_poster.jpg",
-      "last_watched_at": "2026-01-01T14:56:00.000Z"
     }
   ]
 }
