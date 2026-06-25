@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-24T08:40:06.774930+00:00",
+    "fetched_at": "2026-06-25T08:36:24.955920+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
-    "count": 23
+    "count": 29
   },
   "data": [
     {
@@ -70,28 +70,6 @@
       "rank": 10,
       "id": 1278771456,
       "listed_at": "2025-07-15T15:09:21.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt32118013",
-          "plex": {
-            "guid": "661efd526902ce206b735135",
-            "slug": "bhaje-vaayu-vegam"
-          },
-          "slug": "bhaje-vaayu-vegam-2024",
-          "tmdb": 962108,
-          "trakt": 773651
-        },
-        "year": 2024,
-        "title": "Bhaje Vaayu Vegam"
-      },
-      "rank": 11,
-      "id": 1186968821,
-      "listed_at": "2025-03-06T12:28:17.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -180,28 +158,6 @@
       "rank": 13,
       "id": 1281569913,
       "listed_at": "2025-07-19T07:18:25.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt1718199",
-          "plex": {
-            "guid": "5d7768afad5437001f74d0a9",
-            "slug": "dragon-2011"
-          },
-          "slug": "dragon-2011",
-          "tmdb": 70057,
-          "trakt": 51251
-        },
-        "year": 2011,
-        "title": "Dragon"
-      },
-      "rank": 15,
-      "id": 1217641286,
-      "listed_at": "2025-05-01T07:43:18.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -448,6 +404,30 @@
       "my_rating": null
     },
     {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0286486",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891c3",
+            "slug": "the-shield"
+          },
+          "slug": "the-shield",
+          "tmdb": 1414,
+          "tvdb": 78261,
+          "trakt": 1405
+        },
+        "year": 2002,
+        "title": "The Shield",
+        "aired_episodes": 88
+      },
+      "rank": 24,
+      "id": 1484764166,
+      "listed_at": "2026-06-24T09:27:44.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
       "type": "movie",
       "movie": {
         "ids": {
@@ -466,6 +446,30 @@
       "rank": 25,
       "id": 1290228070,
       "listed_at": "2025-07-28T13:19:02.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0407362",
+          "plex": {
+            "guid": "5d9c08cdba6eb9001fbaa78e",
+            "slug": "battlestar-galactica-1"
+          },
+          "slug": "battlestar-galactica-2004",
+          "tmdb": 1972,
+          "tvdb": 73545,
+          "trakt": 1959
+        },
+        "year": 2004,
+        "title": "Battlestar Galactica",
+        "aired_episodes": 73
+      },
+      "rank": 25,
+      "id": 1484764178,
+      "listed_at": "2026-06-24T09:27:45.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -492,6 +496,30 @@
       "my_rating": null
     },
     {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0185906",
+          "plex": {
+            "guid": "5d9c086fffd9ef001e994da4",
+            "slug": "band-of-brothers"
+          },
+          "slug": "band-of-brothers",
+          "tmdb": 4613,
+          "tvdb": 74205,
+          "trakt": 4589
+        },
+        "year": 2001,
+        "title": "Band of Brothers",
+        "aired_episodes": 10
+      },
+      "rank": 26,
+      "id": 1484764180,
+      "listed_at": "2026-06-24T09:27:46.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
       "type": "movie",
       "movie": {
         "ids": {
@@ -510,6 +538,124 @@
       "rank": 27,
       "id": 1285065712,
       "listed_at": "2025-07-22T20:07:01.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt4179452",
+          "plex": {
+            "guid": "5d9c08030aaccd001f8ec836",
+            "slug": "the-last-kingdom"
+          },
+          "slug": "the-last-kingdom",
+          "tmdb": 63333,
+          "tvdb": 298566,
+          "trakt": 100688
+        },
+        "year": 2015,
+        "title": "The Last Kingdom",
+        "aired_episodes": 46
+      },
+      "rank": 27,
+      "id": 1484764181,
+      "listed_at": "2026-06-24T09:27:47.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2364582",
+          "plex": {
+            "guid": "5d9c086c46115600200aa2f6",
+            "slug": "marvels-agents-of-s-h-i-e-l-d"
+          },
+          "slug": "marvel-s-agents-of-s-h-i-e-l-d",
+          "tmdb": 1403,
+          "tvdb": 263365,
+          "trakt": 1394
+        },
+        "year": 2013,
+        "title": "Marvel's Agents of S.H.I.E.L.D.",
+        "aired_episodes": 136
+      },
+      "rank": 28,
+      "id": 1484764182,
+      "listed_at": "2026-06-24T09:27:47.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt7235466",
+          "plex": {
+            "guid": "5d9c08e9705e7a001e6e645b",
+            "slug": "9-1-1"
+          },
+          "slug": "9-1-1",
+          "tmdb": 75219,
+          "tvdb": 337907,
+          "trakt": 125308
+        },
+        "year": 2018,
+        "title": "9-1-1",
+        "aired_episodes": 142
+      },
+      "rank": 29,
+      "id": 1484764184,
+      "listed_at": "2026-06-24T09:27:48.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt33296751",
+          "plex": {
+            "guid": "66d3f92a96f3a722ecbd8f01",
+            "slug": "tuner-2025"
+          },
+          "slug": "tuner-2026",
+          "tmdb": 1340206,
+          "trakt": 1096313
+        },
+        "year": 2026,
+        "title": "Tuner"
+      },
+      "rank": 29,
+      "id": 1484795126,
+      "listed_at": "2026-06-24T11:05:23.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2805096",
+          "plex": {
+            "guid": "5d9c08482df347001e3aed3c",
+            "slug": "chicago-p-d"
+          },
+          "slug": "chicago-p-d",
+          "tmdb": 58841,
+          "tvdb": 269641,
+          "trakt": 58454
+        },
+        "year": 2014,
+        "title": "Chicago P.D.",
+        "aired_episodes": 264
+      },
+      "rank": 30,
+      "id": 1484764186,
+      "listed_at": "2026-06-24T09:27:49.000Z",
       "notes": null,
       "my_rating": null
     }
