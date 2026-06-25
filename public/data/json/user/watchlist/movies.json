@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-24T08:40:07.136882+00:00",
+    "fetched_at": "2026-06-25T08:36:25.244359+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/movies.json",
-    "count": 23
+    "count": 22
   },
   "data": [
     {
@@ -70,28 +70,6 @@
       "rank": 10,
       "id": 1278771456,
       "listed_at": "2025-07-15T15:09:21.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt32118013",
-          "plex": {
-            "guid": "661efd526902ce206b735135",
-            "slug": "bhaje-vaayu-vegam"
-          },
-          "slug": "bhaje-vaayu-vegam-2024",
-          "tmdb": 962108,
-          "trakt": 773651
-        },
-        "year": 2024,
-        "title": "Bhaje Vaayu Vegam"
-      },
-      "rank": 11,
-      "id": 1186968821,
-      "listed_at": "2025-03-06T12:28:17.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -180,28 +158,6 @@
       "rank": 13,
       "id": 1281569913,
       "listed_at": "2025-07-19T07:18:25.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt1718199",
-          "plex": {
-            "guid": "5d7768afad5437001f74d0a9",
-            "slug": "dragon-2011"
-          },
-          "slug": "dragon-2011",
-          "tmdb": 70057,
-          "trakt": 51251
-        },
-        "year": 2011,
-        "title": "Dragon"
-      },
-      "rank": 15,
-      "id": 1217641286,
-      "listed_at": "2025-05-01T07:43:18.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -510,6 +466,28 @@
       "rank": 27,
       "id": 1285065712,
       "listed_at": "2025-07-22T20:07:01.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt33296751",
+          "plex": {
+            "guid": "66d3f92a96f3a722ecbd8f01",
+            "slug": "tuner-2025"
+          },
+          "slug": "tuner-2026",
+          "tmdb": 1340206,
+          "trakt": 1096313
+        },
+        "year": 2026,
+        "title": "Tuner"
+      },
+      "rank": 29,
+      "id": 1484795126,
+      "listed_at": "2026-06-24T11:05:23.000Z",
       "notes": null,
       "my_rating": null
     }

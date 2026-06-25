@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-24T08:40:06.548503+00:00",
+    "fetched_at": "2026-06-25T08:36:24.417431+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,9 @@
   },
   "data": [
     {
-      "plays": 1,
-      "last_watched_at": "2026-06-23T13:19:00.000Z",
-      "last_updated_at": "2026-06-23T13:19:47.000Z",
+      "plays": 7,
+      "last_watched_at": "2026-06-25T08:31:00.000Z",
+      "last_updated_at": "2026-06-25T08:31:47.000Z",
       "reset_at": null,
       "show": {
         "title": "Mare of Easttown",
@@ -30,8 +30,138 @@
           "episodes": [
             {
               "number": 1,
+              "plays": 2,
+              "last_watched_at": "2026-06-24T09:09:00.000Z"
+            },
+            {
+              "number": 2,
               "plays": 1,
-              "last_watched_at": "2026-06-23T13:19:00.000Z"
+              "last_watched_at": "2026-06-24T10:03:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2026-06-24T16:25:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2026-06-25T07:30:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2026-06-25T08:06:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2026-06-25T08:31:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "plays": 16,
+      "last_watched_at": "2026-06-24T09:02:00.000Z",
+      "last_updated_at": "2026-06-24T09:02:10.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "Signal",
+        "year": 2016,
+        "ids": {
+          "trakt": 104413,
+          "slug": "signal",
+          "tvdb": 305167,
+          "imdb": "tt5332206",
+          "tmdb": 64840,
+          "tvrage": null
+        }
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2025-07-06T07:13:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2025-07-06T08:53:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2025-07-06T09:53:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2025-07-06T10:28:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2025-07-06T15:45:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2025-07-06T19:35:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2025-07-07T05:38:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2025-07-07T11:07:00.000Z"
+            },
+            {
+              "number": 9,
+              "plays": 1,
+              "last_watched_at": "2025-07-07T11:55:00.000Z"
+            },
+            {
+              "number": 10,
+              "plays": 1,
+              "last_watched_at": "2025-07-07T12:44:00.000Z"
+            },
+            {
+              "number": 11,
+              "plays": 1,
+              "last_watched_at": "2025-07-07T13:28:00.000Z"
+            },
+            {
+              "number": 12,
+              "plays": 1,
+              "last_watched_at": "2025-07-07T13:57:00.000Z"
+            },
+            {
+              "number": 13,
+              "plays": 1,
+              "last_watched_at": "2025-07-07T14:11:00.000Z"
+            },
+            {
+              "number": 14,
+              "plays": 1,
+              "last_watched_at": "2025-07-07T15:43:00.000Z"
+            },
+            {
+              "number": 15,
+              "plays": 1,
+              "last_watched_at": "2026-06-24T09:02:00.000Z"
+            },
+            {
+              "number": 16,
+              "plays": 1,
+              "last_watched_at": "2026-06-24T09:02:00.000Z"
             }
           ]
         }
@@ -3883,101 +4013,6 @@
       ]
     },
     {
-      "plays": 14,
-      "last_watched_at": "2025-07-07T15:43:00.000Z",
-      "last_updated_at": "2025-07-07T15:43:45.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "Signal",
-        "year": 2016,
-        "ids": {
-          "trakt": 104413,
-          "slug": "signal",
-          "tvdb": 305167,
-          "imdb": "tt5332206",
-          "tmdb": 64840,
-          "tvrage": null
-        }
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2025-07-06T07:13:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2025-07-06T08:53:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2025-07-06T09:53:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2025-07-06T10:28:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2025-07-06T15:45:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2025-07-06T19:35:00.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2025-07-07T05:38:00.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2025-07-07T11:07:00.000Z"
-            },
-            {
-              "number": 9,
-              "plays": 1,
-              "last_watched_at": "2025-07-07T11:55:00.000Z"
-            },
-            {
-              "number": 10,
-              "plays": 1,
-              "last_watched_at": "2025-07-07T12:44:00.000Z"
-            },
-            {
-              "number": 11,
-              "plays": 1,
-              "last_watched_at": "2025-07-07T13:28:00.000Z"
-            },
-            {
-              "number": 12,
-              "plays": 1,
-              "last_watched_at": "2025-07-07T13:57:00.000Z"
-            },
-            {
-              "number": 13,
-              "plays": 1,
-              "last_watched_at": "2025-07-07T14:11:00.000Z"
-            },
-            {
-              "number": 14,
-              "plays": 1,
-              "last_watched_at": "2025-07-07T15:43:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "plays": 1,
       "last_watched_at": "2025-07-04T09:26:00.000Z",
       "last_updated_at": "2025-07-04T09:26:03.000Z",
@@ -5038,9 +5073,9 @@
       ]
     },
     {
-      "plays": 32,
+      "plays": 33,
       "last_watched_at": "2025-06-08T11:29:00.000Z",
-      "last_updated_at": "2025-06-08T11:30:00.000Z",
+      "last_updated_at": "2026-06-24T09:14:36.000Z",
       "reset_at": null,
       "show": {
         "title": "Black Mirror",
@@ -5092,6 +5127,11 @@
               "number": 3,
               "plays": 1,
               "last_watched_at": "2023-10-14T10:13:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "1970-01-01T00:00:00.000Z"
             }
           ]
         },
