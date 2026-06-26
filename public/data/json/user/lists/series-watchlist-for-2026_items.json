@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-25T08:36:26.156794+00:00",
+    "fetched_at": "2026-06-26T08:39:53.304231+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -731,30 +731,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1219024",
-          "plex": {
-            "guid": "5d9c086c3c3f87001f34f644",
-            "slug": "castle-2009"
-          },
-          "slug": "castle",
-          "tmdb": 1419,
-          "tvdb": 83462,
-          "trakt": 1410
-        },
-        "year": 2009,
-        "title": "Castle",
-        "aired_episodes": 173
-      },
-      "rank": 33,
-      "id": 1153031271,
-      "listed_at": "2025-01-08T18:19:46.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt31510819",
           "plex": {
             "guid": "65e04d051f43644ac5a79a99",
@@ -772,6 +748,30 @@
       "rank": 55,
       "id": 1285066962,
       "listed_at": "2025-07-22T20:09:52.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1219024",
+          "plex": {
+            "guid": "5d9c086c3c3f87001f34f644",
+            "slug": "castle-2009"
+          },
+          "slug": "castle",
+          "tmdb": 1419,
+          "tvdb": 83462,
+          "trakt": 1410
+        },
+        "year": 2009,
+        "title": "Castle",
+        "aired_episodes": 173
+      },
+      "rank": 33,
+      "id": 1153031271,
+      "listed_at": "2025-01-08T18:19:46.000Z",
       "notes": null,
       "my_rating": null
     },

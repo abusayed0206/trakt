@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-25T08:36:23.892495+00:00",
+    "fetched_at": "2026-06-26T08:39:50.717255+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12383076790,
+      "watched_at": "2026-06-25T09:15:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 7,
+        "title": "Sacrament",
+        "ids": {
+          "trakt": 5127983,
+          "tvdb": 8371186,
+          "imdb": "tt11610562",
+          "tmdb": 2888599,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Mare of Easttown",
+        "year": 2021,
+        "ids": {
+          "trakt": 153275,
+          "slug": "mare-of-easttown",
+          "tvdb": 370112,
+          "imdb": "tt10155688",
+          "tmdb": 115004,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12383025884,
       "watched_at": "2026-06-25T08:31:00.000Z",
@@ -273,36 +303,6 @@
           "tvdb": 370112,
           "imdb": "tt10155688",
           "tmdb": 115004,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12368482546,
-      "watched_at": "2026-06-18T21:51:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 6,
-        "title": "Episode 6",
-        "ids": {
-          "trakt": 13700792,
-          "tvdb": 11534299,
-          "imdb": "tt38028385",
-          "tmdb": 6665611,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "The Night Manager",
-        "year": 2016,
-        "ids": {
-          "trakt": 94686,
-          "slug": "the-night-manager",
-          "tvdb": 290508,
-          "imdb": "tt1399664",
-          "tmdb": 61859,
           "tvrage": null
         }
       }
