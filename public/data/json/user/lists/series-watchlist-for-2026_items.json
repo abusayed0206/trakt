@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-27T08:10:47.996499+00:00",
+    "fetched_at": "2026-06-28T08:33:54.601743+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -1163,30 +1163,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0364845",
-          "plex": {
-            "guid": "5d9c086fffd9ef001e994da0",
-            "slug": "ncis"
-          },
-          "slug": "ncis",
-          "tmdb": 4614,
-          "tvdb": 72108,
-          "trakt": 4590
-        },
-        "year": 2003,
-        "title": "NCIS",
-        "aired_episodes": 507
-      },
-      "rank": 30,
-      "id": 1153031256,
-      "listed_at": "2025-01-08T18:17:47.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt15571732",
           "plex": {
             "guid": "618fc471f4da835fbeee158d",
@@ -1204,6 +1180,30 @@
       "rank": 34,
       "id": 1153031275,
       "listed_at": "2025-01-08T18:20:08.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0364845",
+          "plex": {
+            "guid": "5d9c086fffd9ef001e994da0",
+            "slug": "ncis"
+          },
+          "slug": "ncis",
+          "tmdb": 4614,
+          "tvdb": 72108,
+          "trakt": 4590
+        },
+        "year": 2003,
+        "title": "NCIS",
+        "aired_episodes": 507
+      },
+      "rank": 30,
+      "id": 1153031256,
+      "listed_at": "2025-01-08T18:17:47.000Z",
       "notes": null,
       "my_rating": null
     },
