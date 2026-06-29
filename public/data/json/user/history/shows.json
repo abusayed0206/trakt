@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-28T08:33:52.066261+00:00",
+    "fetched_at": "2026-06-29T10:10:36.042165+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12392992702,
+      "watched_at": "2026-06-29T09:05:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 1,
+        "title": "The Crocodile's Dilemma",
+        "ids": {
+          "trakt": 961272,
+          "tvdb": 4626050,
+          "imdb": "tt3097534",
+          "tmdb": 973327,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Fargo",
+        "year": 2014,
+        "ids": {
+          "trakt": 60203,
+          "slug": "fargo",
+          "tvdb": 269613,
+          "imdb": "tt2802850",
+          "tmdb": 60622,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12383076790,
       "watched_at": "2026-06-25T09:15:00.000Z",
@@ -273,36 +303,6 @@
           "tvdb": 305167,
           "imdb": "tt5332206",
           "tmdb": 64840,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12379068412,
-      "watched_at": "2026-06-23T13:19:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 1,
-        "title": "Miss Lady Hawk Herself",
-        "ids": {
-          "trakt": 4806226,
-          "tvdb": 8197081,
-          "imdb": "tt11033898",
-          "tmdb": 2722173,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Mare of Easttown",
-        "year": 2021,
-        "ids": {
-          "trakt": 153275,
-          "slug": "mare-of-easttown",
-          "tvdb": 370112,
-          "imdb": "tt10155688",
-          "tmdb": 115004,
           "tvrage": null
         }
       }
