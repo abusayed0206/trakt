@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-29T10:10:39.681060+00:00",
+    "fetched_at": "2026-06-30T08:43:02.171651+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -539,30 +539,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt11737520",
-          "plex": {
-            "guid": "5f7c9b1c9b958e00415de6bb",
-            "slug": "one-piece-2023"
-          },
-          "slug": "one-piece-2023",
-          "tmdb": 111110,
-          "tvdb": 392276,
-          "trakt": 184618
-        },
-        "year": 2023,
-        "title": "ONE PIECE",
-        "aired_episodes": 16
-      },
-      "rank": 38,
-      "id": 1153031292,
-      "listed_at": "2025-01-08T18:22:11.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt31938062",
           "plex": {
             "guid": "66047594f2781fe94954a721",
@@ -580,6 +556,30 @@
       "rank": 47,
       "id": 1273910724,
       "listed_at": "2025-07-08T19:03:09.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt11737520",
+          "plex": {
+            "guid": "5f7c9b1c9b958e00415de6bb",
+            "slug": "one-piece-2023"
+          },
+          "slug": "one-piece-2023",
+          "tmdb": 111110,
+          "tvdb": 392276,
+          "trakt": 184618
+        },
+        "year": 2023,
+        "title": "ONE PIECE",
+        "aired_episodes": 16
+      },
+      "rank": 38,
+      "id": 1153031292,
+      "listed_at": "2025-01-08T18:22:11.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -851,30 +851,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5348176",
-          "plex": {
-            "guid": "5d9c08da4eefaa001f5e44af",
-            "slug": "barry"
-          },
-          "slug": "barry",
-          "tmdb": 73107,
-          "tvdb": 333072,
-          "trakt": 122709
-        },
-        "year": 2018,
-        "title": "Barry",
-        "aired_episodes": 32
-      },
-      "rank": 51,
-      "id": 1179046309,
-      "listed_at": "2025-02-25T06:26:59.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt7587890",
           "plex": {
             "guid": "5d9c08ffe264b7001fc4d397",
@@ -892,6 +868,30 @@
       "rank": 29,
       "id": 1153031255,
       "listed_at": "2025-01-08T18:17:39.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5348176",
+          "plex": {
+            "guid": "5d9c08da4eefaa001f5e44af",
+            "slug": "barry"
+          },
+          "slug": "barry",
+          "tmdb": 73107,
+          "tvdb": 333072,
+          "trakt": 122709
+        },
+        "year": 2018,
+        "title": "Barry",
+        "aired_episodes": 32
+      },
+      "rank": 51,
+      "id": 1179046309,
+      "listed_at": "2025-02-25T06:26:59.000Z",
       "notes": null,
       "my_rating": null
     },
