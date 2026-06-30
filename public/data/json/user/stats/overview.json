@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-29T10:10:35.501793+00:00",
+    "fetched_at": "2026-06-30T08:42:59.360662+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/stats/overview.json",
@@ -10,7 +10,7 @@
     "movies": {
       "plays": 867,
       "watched": 846,
-      "minutes": 107312,
+      "minutes": 107311,
       "collected": 0,
       "ratings": 16,
       "comments": 8
@@ -26,9 +26,9 @@
       "comments": 1
     },
     "episodes": {
-      "plays": 4999,
-      "watched": 4465,
-      "minutes": 238009,
+      "plays": 5006,
+      "watched": 4472,
+      "minutes": 238368,
       "collected": 8,
       "ratings": 1,
       "comments": 8

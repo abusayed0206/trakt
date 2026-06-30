@@ -1,12 +1,222 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-29T10:10:36.042165+00:00",
+    "fetched_at": "2026-06-30T08:42:59.644897+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12397740240,
+      "watched_at": "2026-06-30T08:18:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 8,
+        "title": "The Heap",
+        "ids": {
+          "trakt": 961279,
+          "tvdb": 4808535,
+          "imdb": "tt3468290",
+          "tmdb": 976004,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Fargo",
+        "year": 2014,
+        "ids": {
+          "trakt": 60203,
+          "slug": "fargo",
+          "tvdb": 269613,
+          "imdb": "tt2802850",
+          "tmdb": 60622,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12393594504,
+      "watched_at": "2026-06-29T16:03:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 7,
+        "title": "Who Shaves the Barber?",
+        "ids": {
+          "trakt": 961278,
+          "tvdb": 4808534,
+          "imdb": "tt3578728",
+          "tmdb": 975584,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Fargo",
+        "year": 2014,
+        "ids": {
+          "trakt": 60203,
+          "slug": "fargo",
+          "tvdb": 269613,
+          "imdb": "tt2802850",
+          "tmdb": 60622,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12393546397,
+      "watched_at": "2026-06-29T15:25:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 6,
+        "title": "Buridan's Ass",
+        "ids": {
+          "trakt": 961277,
+          "tvdb": 4808533,
+          "imdb": "tt3551076",
+          "tmdb": 975375,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Fargo",
+        "year": 2014,
+        "ids": {
+          "trakt": 60203,
+          "slug": "fargo",
+          "tvdb": 269613,
+          "imdb": "tt2802850",
+          "tmdb": 60622,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12393517419,
+      "watched_at": "2026-06-29T14:57:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 5,
+        "title": "The Six Ungraspables",
+        "ids": {
+          "trakt": 961276,
+          "tvdb": 4808531,
+          "imdb": "tt3514096",
+          "tmdb": 974720,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Fargo",
+        "year": 2014,
+        "ids": {
+          "trakt": 60203,
+          "slug": "fargo",
+          "tvdb": 269613,
+          "imdb": "tt2802850",
+          "tmdb": 60622,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12393296266,
+      "watched_at": "2026-06-29T13:26:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 4,
+        "title": "Eating the Blame",
+        "ids": {
+          "trakt": 961275,
+          "tvdb": 4808530,
+          "imdb": "tt3578722",
+          "tmdb": 974417,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Fargo",
+        "year": 2014,
+        "ids": {
+          "trakt": 60203,
+          "slug": "fargo",
+          "tvdb": 269613,
+          "imdb": "tt2802850",
+          "tmdb": 60622,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12393249562,
+      "watched_at": "2026-06-29T13:02:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 3,
+        "title": "A Muddy Road",
+        "ids": {
+          "trakt": 961274,
+          "tvdb": 4808529,
+          "imdb": "tt3519062",
+          "tmdb": 974158,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Fargo",
+        "year": 2014,
+        "ids": {
+          "trakt": 60203,
+          "slug": "fargo",
+          "tvdb": 269613,
+          "imdb": "tt2802850",
+          "tmdb": 60622,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12393200991,
+      "watched_at": "2026-06-29T12:22:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 2,
+        "title": "The Rooster Prince",
+        "ids": {
+          "trakt": 961273,
+          "tvdb": 4808528,
+          "imdb": "tt3296848",
+          "tmdb": 973953,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Fargo",
+        "year": 2014,
+        "ids": {
+          "trakt": 60203,
+          "slug": "fargo",
+          "tvdb": 269613,
+          "imdb": "tt2802850",
+          "tmdb": 60622,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12392992702,
       "watched_at": "2026-06-29T09:05:00.000Z",
@@ -93,216 +303,6 @@
           "tvdb": 370112,
           "imdb": "tt10155688",
           "tmdb": 115004,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12382968784,
-      "watched_at": "2026-06-25T08:06:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 5,
-        "title": "Illusions",
-        "ids": {
-          "trakt": 4946914,
-          "tvdb": 8324652,
-          "imdb": "tt11610556",
-          "tmdb": 2778344,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Mare of Easttown",
-        "year": 2021,
-        "ids": {
-          "trakt": 153275,
-          "slug": "mare-of-easttown",
-          "tvdb": 370112,
-          "imdb": "tt10155688",
-          "tmdb": 115004,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12382938376,
-      "watched_at": "2026-06-25T07:30:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 4,
-        "title": "Poor Sisyphus",
-        "ids": {
-          "trakt": 4946910,
-          "tvdb": 8324651,
-          "imdb": "tt11610552",
-          "tmdb": 2778343,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Mare of Easttown",
-        "year": 2021,
-        "ids": {
-          "trakt": 153275,
-          "slug": "mare-of-easttown",
-          "tvdb": 370112,
-          "imdb": "tt10155688",
-          "tmdb": 115004,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12381365153,
-      "watched_at": "2026-06-24T16:25:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 3,
-        "title": "Enter Number Two",
-        "ids": {
-          "trakt": 4946904,
-          "tvdb": 8324650,
-          "imdb": "tt11610550",
-          "tmdb": 2778342,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Mare of Easttown",
-        "year": 2021,
-        "ids": {
-          "trakt": 153275,
-          "slug": "mare-of-easttown",
-          "tvdb": 370112,
-          "imdb": "tt10155688",
-          "tmdb": 115004,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12380896374,
-      "watched_at": "2026-06-24T10:03:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 2,
-        "title": "Fathers",
-        "ids": {
-          "trakt": 4806227,
-          "tvdb": 8197624,
-          "imdb": "tt11610548",
-          "tmdb": 2778310,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Mare of Easttown",
-        "year": 2021,
-        "ids": {
-          "trakt": 153275,
-          "slug": "mare-of-easttown",
-          "tvdb": 370112,
-          "imdb": "tt10155688",
-          "tmdb": 115004,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12380804304,
-      "watched_at": "2026-06-24T09:09:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 1,
-        "title": "Miss Lady Hawk Herself",
-        "ids": {
-          "trakt": 4806226,
-          "tvdb": 8197081,
-          "imdb": "tt11033898",
-          "tmdb": 2722173,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Mare of Easttown",
-        "year": 2021,
-        "ids": {
-          "trakt": 153275,
-          "slug": "mare-of-easttown",
-          "tvdb": 370112,
-          "imdb": "tt10155688",
-          "tmdb": 115004,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12380796057,
-      "watched_at": "2026-06-24T09:02:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 16,
-        "title": "If You Don't Give Up",
-        "ids": {
-          "trakt": 2145510,
-          "tvdb": 5507056,
-          "imdb": null,
-          "tmdb": 1160230,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Signal",
-        "year": 2016,
-        "ids": {
-          "trakt": 104413,
-          "slug": "signal",
-          "tvdb": 305167,
-          "imdb": "tt5332206",
-          "tmdb": 64840,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12380796043,
-      "watched_at": "2026-06-24T09:02:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 15,
-        "title": "Is It Really You?",
-        "ids": {
-          "trakt": 2145508,
-          "tvdb": 5507055,
-          "imdb": null,
-          "tmdb": 1160229,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Signal",
-        "year": 2016,
-        "ids": {
-          "trakt": 104413,
-          "slug": "signal",
-          "tvdb": 305167,
-          "imdb": "tt5332206",
-          "tmdb": 64840,
           "tvrage": null
         }
       }
