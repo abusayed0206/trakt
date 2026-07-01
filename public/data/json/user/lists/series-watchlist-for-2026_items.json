@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-30T08:43:02.171651+00:00",
+    "fetched_at": "2026-07-01T09:00:43.604651+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -1547,30 +1547,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1441135",
-          "plex": {
-            "guid": "5d9c0836ba6eb9001fb9eb12",
-            "slug": "flashforward"
-          },
-          "slug": "flashforward",
-          "tmdb": 19092,
-          "tvdb": 84024,
-          "trakt": 19003
-        },
-        "year": 2009,
-        "title": "FlashForward",
-        "aired_episodes": 22
-      },
-      "rank": 64,
-      "id": 1286151019,
-      "listed_at": "2025-07-23T20:59:54.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4428122",
           "plex": {
             "guid": "5d9c0869ffd9ef001e993df2",
@@ -1588,6 +1564,30 @@
       "rank": 74,
       "id": 1286151728,
       "listed_at": "2025-07-23T21:00:58.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1441135",
+          "plex": {
+            "guid": "5d9c0836ba6eb9001fb9eb12",
+            "slug": "flashforward"
+          },
+          "slug": "flashforward",
+          "tmdb": 19092,
+          "tvdb": 84024,
+          "trakt": 19003
+        },
+        "year": 2009,
+        "title": "FlashForward",
+        "aired_episodes": 22
+      },
+      "rank": 64,
+      "id": 1286151019,
+      "listed_at": "2025-07-23T20:59:54.000Z",
       "notes": null,
       "my_rating": null
     },
