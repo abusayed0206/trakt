@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-06-30T08:42:59.644897+00:00",
+    "fetched_at": "2026-07-01T09:00:40.726399+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
@@ -8,19 +8,79 @@
   },
   "data": [
     {
-      "id": 12397740240,
-      "watched_at": "2026-06-30T08:18:00.000Z",
+      "id": 12399313113,
+      "watched_at": "2026-06-30T21:39:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 1,
+        "season": 2,
+        "number": 10,
+        "title": "Palindrome",
+        "ids": {
+          "trakt": 1744932,
+          "tvdb": 5370812,
+          "imdb": "tt3886622",
+          "tmdb": 1131247,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Fargo",
+        "year": 2014,
+        "ids": {
+          "trakt": 60203,
+          "slug": "fargo",
+          "tvdb": 269613,
+          "imdb": "tt2802850",
+          "tmdb": 60622,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12399245794,
+      "watched_at": "2026-06-30T21:22:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
+        "number": 9,
+        "title": "The Castle",
+        "ids": {
+          "trakt": 1744930,
+          "tvdb": 5369448,
+          "imdb": "tt4001090",
+          "tmdb": 1131246,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Fargo",
+        "year": 2014,
+        "ids": {
+          "trakt": 60203,
+          "slug": "fargo",
+          "tvdb": 269613,
+          "imdb": "tt2802850",
+          "tmdb": 60622,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12398950012,
+      "watched_at": "2026-06-30T20:50:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 2,
         "number": 8,
-        "title": "The Heap",
+        "title": "Loplop",
         "ids": {
-          "trakt": 961279,
-          "tvdb": 4808535,
-          "imdb": "tt3468290",
-          "tmdb": 976004,
+          "trakt": 1744928,
+          "tvdb": 5369447,
+          "imdb": "tt4001088",
+          "tmdb": 1131245,
           "tvrage": null
         }
       },
@@ -38,19 +98,19 @@
       }
     },
     {
-      "id": 12393594504,
-      "watched_at": "2026-06-29T16:03:00.000Z",
+      "id": 12398860266,
+      "watched_at": "2026-06-30T20:19:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 1,
+        "season": 2,
         "number": 7,
-        "title": "Who Shaves the Barber?",
+        "title": "Did You Do This? No, You Did It!",
         "ids": {
-          "trakt": 961278,
-          "tvdb": 4808534,
-          "imdb": "tt3578728",
-          "tmdb": 975584,
+          "trakt": 1744925,
+          "tvdb": 5360676,
+          "imdb": "tt4001092",
+          "tmdb": 1131244,
           "tvrage": null
         }
       },
@@ -68,19 +128,19 @@
       }
     },
     {
-      "id": 12393546397,
-      "watched_at": "2026-06-29T15:25:00.000Z",
+      "id": 12398552630,
+      "watched_at": "2026-06-30T19:25:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 1,
+        "season": 2,
         "number": 6,
-        "title": "Buridan's Ass",
+        "title": "Rhinoceros",
         "ids": {
-          "trakt": 961277,
-          "tvdb": 4808533,
-          "imdb": "tt3551076",
-          "tmdb": 975375,
+          "trakt": 1744922,
+          "tvdb": 5360675,
+          "imdb": "tt4001082",
+          "tmdb": 1131243,
           "tvrage": null
         }
       },
@@ -98,19 +158,19 @@
       }
     },
     {
-      "id": 12393517419,
-      "watched_at": "2026-06-29T14:57:00.000Z",
+      "id": 12398505291,
+      "watched_at": "2026-06-30T18:53:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 1,
+        "season": 2,
         "number": 5,
-        "title": "The Six Ungraspables",
+        "title": "The Gift of the Magi",
         "ids": {
-          "trakt": 961276,
-          "tvdb": 4808531,
-          "imdb": "tt3514096",
-          "tmdb": 974720,
+          "trakt": 1744919,
+          "tvdb": 5360674,
+          "imdb": "tt4001084",
+          "tmdb": 1131242,
           "tvrage": null
         }
       },
@@ -128,19 +188,19 @@
       }
     },
     {
-      "id": 12393296266,
-      "watched_at": "2026-06-29T13:26:00.000Z",
+      "id": 12398425454,
+      "watched_at": "2026-06-30T18:12:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 1,
+        "season": 2,
         "number": 4,
-        "title": "Eating the Blame",
+        "title": "Fear and Trembling",
         "ids": {
-          "trakt": 961275,
-          "tvdb": 4808530,
-          "imdb": "tt3578722",
-          "tmdb": 974417,
+          "trakt": 1744917,
+          "tvdb": 5359705,
+          "imdb": "tt4001070",
+          "tmdb": 1110336,
           "tvrage": null
         }
       },
@@ -158,19 +218,19 @@
       }
     },
     {
-      "id": 12393249562,
-      "watched_at": "2026-06-29T13:02:00.000Z",
+      "id": 12398356216,
+      "watched_at": "2026-06-30T17:38:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 1,
+        "season": 2,
         "number": 3,
-        "title": "A Muddy Road",
+        "title": "The Myth of Sisyphus",
         "ids": {
-          "trakt": 961274,
-          "tvdb": 4808529,
-          "imdb": "tt3519062",
-          "tmdb": 974158,
+          "trakt": 1744915,
+          "tvdb": 5344820,
+          "imdb": "tt4001074",
+          "tmdb": 1110335,
           "tvrage": null
         }
       },
@@ -188,19 +248,19 @@
       }
     },
     {
-      "id": 12393200991,
-      "watched_at": "2026-06-29T12:22:00.000Z",
+      "id": 12398121422,
+      "watched_at": "2026-06-30T15:08:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 1,
+        "season": 2,
         "number": 2,
-        "title": "The Rooster Prince",
+        "title": "Before the Law",
         "ids": {
-          "trakt": 961273,
-          "tvdb": 4808528,
-          "imdb": "tt3296848",
-          "tmdb": 973953,
+          "trakt": 1744912,
+          "tvdb": 5343365,
+          "imdb": "tt4001064",
+          "tmdb": 1110320,
           "tvrage": null
         }
       },
@@ -218,19 +278,19 @@
       }
     },
     {
-      "id": 12392992702,
-      "watched_at": "2026-06-29T09:05:00.000Z",
+      "id": 12398016677,
+      "watched_at": "2026-06-30T13:33:00.000Z",
       "action": "scrobble",
       "type": "episode",
       "episode": {
-        "season": 1,
+        "season": 2,
         "number": 1,
-        "title": "The Crocodile's Dilemma",
+        "title": "Waiting for Dutch",
         "ids": {
-          "trakt": 961272,
-          "tvdb": 4626050,
-          "imdb": "tt3097534",
-          "tmdb": 973327,
+          "trakt": 1744910,
+          "tvdb": 5300871,
+          "imdb": "tt3836974",
+          "tmdb": 1095691,
           "tvrage": null
         }
       },
@@ -243,66 +303,6 @@
           "tvdb": 269613,
           "imdb": "tt2802850",
           "tmdb": 60622,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12383076790,
-      "watched_at": "2026-06-25T09:15:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 7,
-        "title": "Sacrament",
-        "ids": {
-          "trakt": 5127983,
-          "tvdb": 8371186,
-          "imdb": "tt11610562",
-          "tmdb": 2888599,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Mare of Easttown",
-        "year": 2021,
-        "ids": {
-          "trakt": 153275,
-          "slug": "mare-of-easttown",
-          "tvdb": 370112,
-          "imdb": "tt10155688",
-          "tmdb": 115004,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12383025884,
-      "watched_at": "2026-06-25T08:31:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 6,
-        "title": "Sore Must Be the Storm",
-        "ids": {
-          "trakt": 4946918,
-          "tvdb": 8355786,
-          "imdb": "tt11610558",
-          "tmdb": 2778345,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Mare of Easttown",
-        "year": 2021,
-        "ids": {
-          "trakt": 153275,
-          "slug": "mare-of-easttown",
-          "tvdb": 370112,
-          "imdb": "tt10155688",
-          "tmdb": 115004,
           "tvrage": null
         }
       }
