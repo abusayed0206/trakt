@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-01T09:00:43.604651+00:00",
+    "fetched_at": "2026-07-02T08:29:52.614718+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -1139,30 +1139,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2654620",
-          "plex": {
-            "guid": "5d9c085602391c001f5871c9",
-            "slug": "the-strain"
-          },
-          "slug": "the-strain",
-          "tmdb": 47640,
-          "tvdb": 276564,
-          "trakt": 47350
-        },
-        "year": 2014,
-        "title": "The Strain",
-        "aired_episodes": 46
-      },
-      "rank": 82,
-      "id": 1377268265,
-      "listed_at": "2025-12-01T10:22:35.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt15571732",
           "plex": {
             "guid": "618fc471f4da835fbeee158d",
@@ -1180,6 +1156,30 @@
       "rank": 34,
       "id": 1153031275,
       "listed_at": "2025-01-08T18:20:08.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2654620",
+          "plex": {
+            "guid": "5d9c085602391c001f5871c9",
+            "slug": "the-strain"
+          },
+          "slug": "the-strain",
+          "tmdb": 47640,
+          "tvdb": 276564,
+          "trakt": 47350
+        },
+        "year": 2014,
+        "title": "The Strain",
+        "aired_episodes": 46
+      },
+      "rank": 82,
+      "id": 1377268265,
+      "listed_at": "2025-12-01T10:22:35.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1235,30 +1235,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2070791",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891cb",
-            "slug": "revolution"
-          },
-          "slug": "revolution",
-          "tmdb": 1410,
-          "tvdb": 258823,
-          "trakt": 1401
-        },
-        "year": 2012,
-        "title": "Revolution",
-        "aired_episodes": 42
-      },
-      "rank": 76,
-      "id": 1286151857,
-      "listed_at": "2025-07-23T21:01:09.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt19231492",
           "plex": {
             "guid": "5fd2a1b82de5fd002dd4c7b1",
@@ -1276,6 +1252,30 @@
       "rank": 39,
       "id": 1153031296,
       "listed_at": "2025-01-08T18:22:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2070791",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891cb",
+            "slug": "revolution"
+          },
+          "slug": "revolution",
+          "tmdb": 1410,
+          "tvdb": 258823,
+          "trakt": 1401
+        },
+        "year": 2012,
+        "title": "Revolution",
+        "aired_episodes": 42
+      },
+      "rank": 76,
+      "id": 1286151857,
+      "listed_at": "2025-07-23T21:01:09.000Z",
       "notes": null,
       "my_rating": null
     },
