@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-02T08:29:52.614718+00:00",
+    "fetched_at": "2026-07-03T08:36:37.065513+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -419,23 +419,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0407362",
+          "imdb": "tt27497448",
           "plex": {
-            "guid": "5d9c08cdba6eb9001fbaa78e",
-            "slug": "battlestar-galactica-1"
+            "guid": "643cbf9ec1962a0897b7f6dd",
+            "slug": "a-knight-of-the-seven-kingdoms"
           },
-          "slug": "battlestar-galactica-2004",
-          "tmdb": 1972,
-          "tvdb": 73545,
-          "trakt": 1959
+          "slug": "a-knight-of-the-seven-kingdoms",
+          "tmdb": 224372,
+          "tvdb": 433631,
+          "trakt": 204141
         },
-        "year": 2004,
-        "title": "Battlestar Galactica",
-        "aired_episodes": 73
+        "year": 2026,
+        "title": "A Knight of the Seven Kingdoms",
+        "aired_episodes": 6
       },
-      "rank": 44,
-      "id": 1153031441,
-      "listed_at": "2025-01-08T18:22:58.000Z",
+      "rank": 84,
+      "id": 1400239921,
+      "listed_at": "2026-01-01T22:05:50.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -467,23 +467,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt27497448",
+          "imdb": "tt0407362",
           "plex": {
-            "guid": "643cbf9ec1962a0897b7f6dd",
-            "slug": "a-knight-of-the-seven-kingdoms"
+            "guid": "5d9c08cdba6eb9001fbaa78e",
+            "slug": "battlestar-galactica-1"
           },
-          "slug": "a-knight-of-the-seven-kingdoms",
-          "tmdb": 224372,
-          "tvdb": 433631,
-          "trakt": 204141
+          "slug": "battlestar-galactica-2004",
+          "tmdb": 1972,
+          "tvdb": 73545,
+          "trakt": 1959
         },
-        "year": 2026,
-        "title": "A Knight of the Seven Kingdoms",
-        "aired_episodes": 6
+        "year": 2004,
+        "title": "Battlestar Galactica",
+        "aired_episodes": 73
       },
-      "rank": 84,
-      "id": 1400239921,
-      "listed_at": "2026-01-01T22:05:50.000Z",
+      "rank": 44,
+      "id": 1153031441,
+      "listed_at": "2025-01-08T18:22:58.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -515,30 +515,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0413573",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bb",
-            "slug": "greys-anatomy"
-          },
-          "slug": "grey-s-anatomy",
-          "tmdb": 1416,
-          "tvdb": 73762,
-          "trakt": 1407
-        },
-        "year": 2005,
-        "title": "Grey's Anatomy",
-        "aired_episodes": 465
-      },
-      "rank": 47,
-      "id": 1153031527,
-      "listed_at": "2025-01-08T18:23:08.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt31938062",
           "plex": {
             "guid": "66047594f2781fe94954a721",
@@ -556,6 +532,30 @@
       "rank": 47,
       "id": 1273910724,
       "listed_at": "2025-07-08T19:03:09.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0413573",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bb",
+            "slug": "greys-anatomy"
+          },
+          "slug": "grey-s-anatomy",
+          "tmdb": 1416,
+          "tvdb": 73762,
+          "trakt": 1407
+        },
+        "year": 2005,
+        "title": "Grey's Anatomy",
+        "aired_episodes": 465
+      },
+      "rank": 47,
+      "id": 1153031527,
+      "listed_at": "2025-01-08T18:23:08.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -827,30 +827,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2401256",
-          "plex": {
-            "guid": "5d9c0818ffd9ef001e98cd31",
-            "slug": "the-night-of"
-          },
-          "slug": "the-night-of",
-          "tmdb": 66276,
-          "tvdb": 310516,
-          "trakt": 196851
-        },
-        "year": 2016,
-        "title": "The Night Of",
-        "aired_episodes": 8
-      },
-      "rank": 88,
-      "id": 1484756718,
-      "listed_at": "2026-06-24T09:12:14.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt7587890",
           "plex": {
             "guid": "5d9c08ffe264b7001fc4d397",
@@ -868,6 +844,30 @@
       "rank": 29,
       "id": 1153031255,
       "listed_at": "2025-01-08T18:17:39.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2401256",
+          "plex": {
+            "guid": "5d9c0818ffd9ef001e98cd31",
+            "slug": "the-night-of"
+          },
+          "slug": "the-night-of",
+          "tmdb": 66276,
+          "tvdb": 310516,
+          "trakt": 196851
+        },
+        "year": 2016,
+        "title": "The Night Of",
+        "aired_episodes": 8
+      },
+      "rank": 88,
+      "id": 1484756718,
+      "listed_at": "2026-06-24T09:12:14.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -947,6 +947,30 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt0452046",
+          "plex": {
+            "guid": "5d9c080446115600200a6bbb",
+            "slug": "criminal-minds"
+          },
+          "slug": "criminal-minds",
+          "tmdb": 4057,
+          "tvdb": 75710,
+          "trakt": 4033
+        },
+        "year": 2005,
+        "title": "Criminal Minds",
+        "aired_episodes": 361
+      },
+      "rank": 8,
+      "id": 1127241236,
+      "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt1474684",
           "plex": {
             "guid": "5d9c07f846115600200a611b",
@@ -964,30 +988,6 @@
       "rank": 79,
       "id": 1298875639,
       "listed_at": "2025-08-08T17:07:39.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 360
-      },
-      "rank": 8,
-      "id": 1127241236,
-      "listed_at": "2024-11-25T08:46:20.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1163,30 +1163,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2654620",
-          "plex": {
-            "guid": "5d9c085602391c001f5871c9",
-            "slug": "the-strain"
-          },
-          "slug": "the-strain",
-          "tmdb": 47640,
-          "tvdb": 276564,
-          "trakt": 47350
-        },
-        "year": 2014,
-        "title": "The Strain",
-        "aired_episodes": 46
-      },
-      "rank": 82,
-      "id": 1377268265,
-      "listed_at": "2025-12-01T10:22:35.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0364845",
           "plex": {
             "guid": "5d9c086fffd9ef001e994da0",
@@ -1204,6 +1180,30 @@
       "rank": 30,
       "id": 1153031256,
       "listed_at": "2025-01-08T18:17:47.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2654620",
+          "plex": {
+            "guid": "5d9c085602391c001f5871c9",
+            "slug": "the-strain"
+          },
+          "slug": "the-strain",
+          "tmdb": 47640,
+          "tvdb": 276564,
+          "trakt": 47350
+        },
+        "year": 2014,
+        "title": "The Strain",
+        "aired_episodes": 46
+      },
+      "rank": 82,
+      "id": 1377268265,
+      "listed_at": "2025-12-01T10:22:35.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1739,30 +1739,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1378167",
-          "plex": {
-            "guid": "5d9c07ec08fddd001f28e266",
-            "slug": "ncis-los-angeles"
-          },
-          "slug": "ncis-los-angeles",
-          "tmdb": 17610,
-          "tvdb": 95441,
-          "trakt": 17532
-        },
-        "year": 2009,
-        "title": "NCIS: Los Angeles",
-        "aired_episodes": 323
-      },
-      "rank": 73,
-      "id": 1286151708,
-      "listed_at": "2025-07-23T21:00:54.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt13875494",
           "plex": {
             "guid": "6339b5e5bc01498ae59c016c",
@@ -1780,6 +1756,30 @@
       "rank": 13,
       "id": 1129591871,
       "listed_at": "2024-11-28T07:51:50.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1378167",
+          "plex": {
+            "guid": "5d9c07ec08fddd001f28e266",
+            "slug": "ncis-los-angeles"
+          },
+          "slug": "ncis-los-angeles",
+          "tmdb": 17610,
+          "tvdb": 95441,
+          "trakt": 17532
+        },
+        "year": 2009,
+        "title": "NCIS: Los Angeles",
+        "aired_episodes": 323
+      },
+      "rank": 73,
+      "id": 1286151708,
+      "listed_at": "2025-07-23T21:00:54.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -2123,30 +2123,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0207919",
-          "plex": {
-            "guid": "5d9c087302391c001f58a9ae",
-            "slug": "relic-hunter"
-          },
-          "slug": "relic-hunter",
-          "tmdb": 2855,
-          "tvdb": 73810,
-          "trakt": 2836
-        },
-        "year": 1999,
-        "title": "Relic Hunter",
-        "aired_episodes": 66
-      },
-      "rank": 75,
-      "id": 1286151743,
-      "listed_at": "2025-07-23T21:01:04.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt36188448",
           "plex": {
             "guid": "65524be313943daa7922b474",
@@ -2164,6 +2140,30 @@
       "rank": 82,
       "id": 1395330443,
       "listed_at": "2025-12-25T06:19:31.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0207919",
+          "plex": {
+            "guid": "5d9c087302391c001f58a9ae",
+            "slug": "relic-hunter"
+          },
+          "slug": "relic-hunter",
+          "tmdb": 2855,
+          "tvdb": 73810,
+          "trakt": 2836
+        },
+        "year": 1999,
+        "title": "Relic Hunter",
+        "aired_episodes": 66
+      },
+      "rank": 75,
+      "id": 1286151743,
+      "listed_at": "2025-07-23T21:01:04.000Z",
       "notes": null,
       "my_rating": null
     },
