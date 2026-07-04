@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-03T08:36:37.065513+00:00",
+    "fetched_at": "2026-07-04T08:12:34.407883+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -491,30 +491,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0106179",
-          "plex": {
-            "guid": "5d9c0806e264b7001fc3a3a8",
-            "slug": "the-x-files"
-          },
-          "slug": "the-x-files",
-          "tmdb": 4087,
-          "tvdb": 77398,
-          "trakt": 4063
-        },
-        "year": 1993,
-        "title": "The X-Files",
-        "aired_episodes": 218
-      },
-      "rank": 38,
-      "id": 1153031283,
-      "listed_at": "2025-01-08T18:21:14.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt31938062",
           "plex": {
             "guid": "66047594f2781fe94954a721",
@@ -556,6 +532,30 @@
       "rank": 47,
       "id": 1153031527,
       "listed_at": "2025-01-08T18:23:08.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0106179",
+          "plex": {
+            "guid": "5d9c0806e264b7001fc3a3a8",
+            "slug": "the-x-files"
+          },
+          "slug": "the-x-files",
+          "tmdb": 4087,
+          "tvdb": 77398,
+          "trakt": 4063
+        },
+        "year": 1993,
+        "title": "The X-Files",
+        "aired_episodes": 218
+      },
+      "rank": 38,
+      "id": 1153031283,
+      "listed_at": "2025-01-08T18:21:14.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -683,30 +683,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      },
-      "rank": 49,
-      "id": 1170422123,
-      "listed_at": "2025-02-07T11:01:15.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt10155688",
           "plex": {
             "guid": "5e21a3bafa5376004190dccc",
@@ -724,6 +700,30 @@
       "rank": 86,
       "id": 1479837603,
       "listed_at": "2026-06-14T18:29:38.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      },
+      "rank": 49,
+      "id": 1170422123,
+      "listed_at": "2025-02-07T11:01:15.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1115,30 +1115,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1489428",
-          "plex": {
-            "guid": "5d9c086c7d06d9001ffd279a",
-            "slug": "justified"
-          },
-          "slug": "justified",
-          "tmdb": 1436,
-          "tvdb": 134241,
-          "trakt": 1427
-        },
-        "year": 2010,
-        "title": "Justified",
-        "aired_episodes": 78
-      },
-      "rank": 90,
-      "id": 1484756891,
-      "listed_at": "2026-06-24T09:12:45.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt15571732",
           "plex": {
             "guid": "618fc471f4da835fbeee158d",
@@ -1156,6 +1132,30 @@
       "rank": 34,
       "id": 1153031275,
       "listed_at": "2025-01-08T18:20:08.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1489428",
+          "plex": {
+            "guid": "5d9c086c7d06d9001ffd279a",
+            "slug": "justified"
+          },
+          "slug": "justified",
+          "tmdb": 1436,
+          "tvdb": 134241,
+          "trakt": 1427
+        },
+        "year": 2010,
+        "title": "Justified",
+        "aired_episodes": 78
+      },
+      "rank": 90,
+      "id": 1484756891,
+      "listed_at": "2026-06-24T09:12:45.000Z",
       "notes": null,
       "my_rating": null
     },
