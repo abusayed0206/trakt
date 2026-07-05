@@ -1,12 +1,252 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-04T08:12:30.548519+00:00",
+    "fetched_at": "2026-07-05T08:27:32.464054+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 12956298358,
+      "watched_at": "2026-07-04T20:59:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 8,
+        "title": "Episode 8",
+        "ids": {
+          "trakt": 13262999,
+          "tvdb": 11781977,
+          "imdb": "tt34821890",
+          "tmdb": 6829102,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "I Will Find You",
+        "year": 2026,
+        "ids": {
+          "trakt": 265319,
+          "slug": "i-will-find-you",
+          "tvdb": 457173,
+          "imdb": "tt34771210",
+          "tmdb": 278178,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12952548667,
+      "watched_at": "2026-07-04T20:35:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 7,
+        "title": "Episode 7",
+        "ids": {
+          "trakt": 13262998,
+          "tvdb": 11781976,
+          "imdb": "tt34821889",
+          "tmdb": 6829101,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "I Will Find You",
+        "year": 2026,
+        "ids": {
+          "trakt": 265319,
+          "slug": "i-will-find-you",
+          "tvdb": 457173,
+          "imdb": "tt34771210",
+          "tmdb": 278178,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12949232885,
+      "watched_at": "2026-07-04T20:13:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 6,
+        "title": "Episode 6",
+        "ids": {
+          "trakt": 13262997,
+          "tvdb": 11781975,
+          "imdb": "tt34821888",
+          "tmdb": 6829100,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "I Will Find You",
+        "year": 2026,
+        "ids": {
+          "trakt": 265319,
+          "slug": "i-will-find-you",
+          "tvdb": 457173,
+          "imdb": "tt34771210",
+          "tmdb": 278178,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12944583458,
+      "watched_at": "2026-07-04T19:43:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 5,
+        "title": "Episode 5",
+        "ids": {
+          "trakt": 13262995,
+          "tvdb": 11781974,
+          "imdb": "tt34821885",
+          "tmdb": 6829099,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "I Will Find You",
+        "year": 2026,
+        "ids": {
+          "trakt": 265319,
+          "slug": "i-will-find-you",
+          "tvdb": 457173,
+          "imdb": "tt34771210",
+          "tmdb": 278178,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12939215901,
+      "watched_at": "2026-07-04T19:12:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 4,
+        "title": "Episode 4",
+        "ids": {
+          "trakt": 13262994,
+          "tvdb": 11781973,
+          "imdb": "tt34821884",
+          "tmdb": 6829098,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "I Will Find You",
+        "year": 2026,
+        "ids": {
+          "trakt": 265319,
+          "slug": "i-will-find-you",
+          "tvdb": 457173,
+          "imdb": "tt34771210",
+          "tmdb": 278178,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12931975368,
+      "watched_at": "2026-07-04T18:24:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 3,
+        "title": "Episode 3",
+        "ids": {
+          "trakt": 13262993,
+          "tvdb": 11781972,
+          "imdb": "tt34821883",
+          "tmdb": 6829097,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "I Will Find You",
+        "year": 2026,
+        "ids": {
+          "trakt": 265319,
+          "slug": "i-will-find-you",
+          "tvdb": 457173,
+          "imdb": "tt34771210",
+          "tmdb": 278178,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12927702798,
+      "watched_at": "2026-07-04T17:57:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 2,
+        "title": "Episode 2",
+        "ids": {
+          "trakt": 13262992,
+          "tvdb": 11781971,
+          "imdb": "tt34821882",
+          "tmdb": 6829096,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "I Will Find You",
+        "year": 2026,
+        "ids": {
+          "trakt": 265319,
+          "slug": "i-will-find-you",
+          "tvdb": 457173,
+          "imdb": "tt34771210",
+          "tmdb": 278178,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 12921877306,
+      "watched_at": "2026-07-04T17:22:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 1,
+        "number": 1,
+        "title": "Episode 1",
+        "ids": {
+          "trakt": 13262990,
+          "tvdb": 10827238,
+          "imdb": "tt34821881",
+          "tmdb": 6343846,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "I Will Find You",
+        "year": 2026,
+        "ids": {
+          "trakt": 265319,
+          "slug": "i-will-find-you",
+          "tvdb": 457173,
+          "imdb": "tt34771210",
+          "tmdb": 278178,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12399313113,
       "watched_at": "2026-06-30T21:39:00.000Z",
@@ -51,246 +291,6 @@
           "tvdb": 5369448,
           "imdb": "tt4001090",
           "tmdb": 1131246,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Fargo",
-        "year": 2014,
-        "ids": {
-          "trakt": 60203,
-          "slug": "fargo",
-          "tvdb": 269613,
-          "imdb": "tt2802850",
-          "tmdb": 60622,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12398950012,
-      "watched_at": "2026-06-30T20:50:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 8,
-        "title": "Loplop",
-        "ids": {
-          "trakt": 1744928,
-          "tvdb": 5369447,
-          "imdb": "tt4001088",
-          "tmdb": 1131245,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Fargo",
-        "year": 2014,
-        "ids": {
-          "trakt": 60203,
-          "slug": "fargo",
-          "tvdb": 269613,
-          "imdb": "tt2802850",
-          "tmdb": 60622,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12398860266,
-      "watched_at": "2026-06-30T20:19:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 7,
-        "title": "Did You Do This? No, You Did It!",
-        "ids": {
-          "trakt": 1744925,
-          "tvdb": 5360676,
-          "imdb": "tt4001092",
-          "tmdb": 1131244,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Fargo",
-        "year": 2014,
-        "ids": {
-          "trakt": 60203,
-          "slug": "fargo",
-          "tvdb": 269613,
-          "imdb": "tt2802850",
-          "tmdb": 60622,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12398552630,
-      "watched_at": "2026-06-30T19:25:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 6,
-        "title": "Rhinoceros",
-        "ids": {
-          "trakt": 1744922,
-          "tvdb": 5360675,
-          "imdb": "tt4001082",
-          "tmdb": 1131243,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Fargo",
-        "year": 2014,
-        "ids": {
-          "trakt": 60203,
-          "slug": "fargo",
-          "tvdb": 269613,
-          "imdb": "tt2802850",
-          "tmdb": 60622,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12398505291,
-      "watched_at": "2026-06-30T18:53:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 5,
-        "title": "The Gift of the Magi",
-        "ids": {
-          "trakt": 1744919,
-          "tvdb": 5360674,
-          "imdb": "tt4001084",
-          "tmdb": 1131242,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Fargo",
-        "year": 2014,
-        "ids": {
-          "trakt": 60203,
-          "slug": "fargo",
-          "tvdb": 269613,
-          "imdb": "tt2802850",
-          "tmdb": 60622,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12398425454,
-      "watched_at": "2026-06-30T18:12:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 4,
-        "title": "Fear and Trembling",
-        "ids": {
-          "trakt": 1744917,
-          "tvdb": 5359705,
-          "imdb": "tt4001070",
-          "tmdb": 1110336,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Fargo",
-        "year": 2014,
-        "ids": {
-          "trakt": 60203,
-          "slug": "fargo",
-          "tvdb": 269613,
-          "imdb": "tt2802850",
-          "tmdb": 60622,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12398356216,
-      "watched_at": "2026-06-30T17:38:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 3,
-        "title": "The Myth of Sisyphus",
-        "ids": {
-          "trakt": 1744915,
-          "tvdb": 5344820,
-          "imdb": "tt4001074",
-          "tmdb": 1110335,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Fargo",
-        "year": 2014,
-        "ids": {
-          "trakt": 60203,
-          "slug": "fargo",
-          "tvdb": 269613,
-          "imdb": "tt2802850",
-          "tmdb": 60622,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12398121422,
-      "watched_at": "2026-06-30T15:08:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 2,
-        "title": "Before the Law",
-        "ids": {
-          "trakt": 1744912,
-          "tvdb": 5343365,
-          "imdb": "tt4001064",
-          "tmdb": 1110320,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Fargo",
-        "year": 2014,
-        "ids": {
-          "trakt": 60203,
-          "slug": "fargo",
-          "tvdb": 269613,
-          "imdb": "tt2802850",
-          "tmdb": 60622,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12398016677,
-      "watched_at": "2026-06-30T13:33:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 1,
-        "title": "Waiting for Dutch",
-        "ids": {
-          "trakt": 1744910,
-          "tvdb": 5300871,
-          "imdb": "tt3836974",
-          "tmdb": 1095691,
           "tvrage": null
         }
       },

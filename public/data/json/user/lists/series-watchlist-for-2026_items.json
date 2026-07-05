@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-04T08:12:34.407883+00:00",
+    "fetched_at": "2026-07-05T08:27:34.808339+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -251,30 +251,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0185906",
-          "plex": {
-            "guid": "5d9c086fffd9ef001e994da4",
-            "slug": "band-of-brothers"
-          },
-          "slug": "band-of-brothers",
-          "tmdb": 4613,
-          "tvdb": 74205,
-          "trakt": 4589
-        },
-        "year": 2001,
-        "title": "Band of Brothers",
-        "aired_episodes": 10
-      },
-      "rank": 43,
-      "id": 1153031436,
-      "listed_at": "2025-01-08T18:22:54.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0141842",
           "plex": {
             "guid": "5d9c086c46115600200aa302",
@@ -292,6 +268,30 @@
       "rank": 37,
       "id": 1153031282,
       "listed_at": "2025-01-08T18:21:13.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0185906",
+          "plex": {
+            "guid": "5d9c086fffd9ef001e994da4",
+            "slug": "band-of-brothers"
+          },
+          "slug": "band-of-brothers",
+          "tmdb": 4613,
+          "tvdb": 74205,
+          "trakt": 4589
+        },
+        "year": 2001,
+        "title": "Band of Brothers",
+        "aired_episodes": 10
+      },
+      "rank": 43,
+      "id": 1153031436,
+      "listed_at": "2025-01-08T18:22:54.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -755,6 +755,30 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt2699128",
+          "plex": {
+            "guid": "5d9c0825e264b7001fc3d22e",
+            "slug": "the-leftovers"
+          },
+          "slug": "the-leftovers",
+          "tmdb": 54344,
+          "tvdb": 269689,
+          "trakt": 54001
+        },
+        "year": 2014,
+        "title": "The Leftovers",
+        "aired_episodes": 28
+      },
+      "rank": 87,
+      "id": 1484747959,
+      "listed_at": "2026-06-24T08:46:05.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt1219024",
           "plex": {
             "guid": "5d9c086c3c3f87001f34f644",
@@ -796,30 +820,6 @@
       "rank": 50,
       "id": 1275428908,
       "listed_at": "2025-07-10T08:39:37.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt2699128",
-          "plex": {
-            "guid": "5d9c0825e264b7001fc3d22e",
-            "slug": "the-leftovers"
-          },
-          "slug": "the-leftovers",
-          "tmdb": 54344,
-          "tvdb": 269689,
-          "trakt": 54001
-        },
-        "year": 2014,
-        "title": "The Leftovers",
-        "aired_episodes": 28
-      },
-      "rank": 87,
-      "id": 1484747959,
-      "listed_at": "2026-06-24T08:46:05.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -971,30 +971,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1474684",
-          "plex": {
-            "guid": "5d9c07f846115600200a611b",
-            "slug": "luther"
-          },
-          "slug": "luther",
-          "tmdb": 1426,
-          "tvdb": 159591,
-          "trakt": 1417
-        },
-        "year": 2010,
-        "title": "Luther",
-        "aired_episodes": 20
-      },
-      "rank": 79,
-      "id": 1298875639,
-      "listed_at": "2025-08-08T17:07:39.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4179452",
           "plex": {
             "guid": "5d9c08030aaccd001f8ec836",
@@ -1012,6 +988,30 @@
       "rank": 42,
       "id": 1153031323,
       "listed_at": "2025-01-08T18:22:51.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      },
+      "rank": 79,
+      "id": 1298875639,
+      "listed_at": "2025-08-08T17:07:39.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1379,30 +1379,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0810788",
-          "plex": {
-            "guid": "5d9c087802391c001f58ba45",
-            "slug": "burn-notice"
-          },
-          "slug": "burn-notice",
-          "tmdb": 2919,
-          "tvdb": 80270,
-          "trakt": 2900
-        },
-        "year": 2007,
-        "title": "Burn Notice",
-        "aired_episodes": 111
-      },
-      "rank": 61,
-      "id": 1286150874,
-      "listed_at": "2025-07-23T20:59:39.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt3514324",
           "plex": {
             "guid": "5d9c083c7b5c2e001e657655",
@@ -1420,6 +1396,30 @@
       "rank": 17,
       "id": 1133528026,
       "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0810788",
+          "plex": {
+            "guid": "5d9c087802391c001f58ba45",
+            "slug": "burn-notice"
+          },
+          "slug": "burn-notice",
+          "tmdb": 2919,
+          "tvdb": 80270,
+          "trakt": 2900
+        },
+        "year": 2007,
+        "title": "Burn Notice",
+        "aired_episodes": 111
+      },
+      "rank": 61,
+      "id": 1286150874,
+      "listed_at": "2025-07-23T20:59:39.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1523,30 +1523,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2189221",
-          "plex": {
-            "guid": "5d9c082c08fddd001f2944ca",
-            "slug": "defiance"
-          },
-          "slug": "defiance",
-          "tmdb": 51704,
-          "tvdb": 255326,
-          "trakt": 51377
-        },
-        "year": 2013,
-        "title": "Defiance",
-        "aired_episodes": 38
-      },
-      "rank": 63,
-      "id": 1286150899,
-      "listed_at": "2025-07-23T20:59:49.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4428122",
           "plex": {
             "guid": "5d9c0869ffd9ef001e993df2",
@@ -1564,6 +1540,30 @@
       "rank": 74,
       "id": 1286151728,
       "listed_at": "2025-07-23T21:00:58.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2189221",
+          "plex": {
+            "guid": "5d9c082c08fddd001f2944ca",
+            "slug": "defiance"
+          },
+          "slug": "defiance",
+          "tmdb": 51704,
+          "tvdb": 255326,
+          "trakt": 51377
+        },
+        "year": 2013,
+        "title": "Defiance",
+        "aired_episodes": 38
+      },
+      "rank": 63,
+      "id": 1286150899,
+      "listed_at": "2025-07-23T20:59:49.000Z",
       "notes": null,
       "my_rating": null
     },
