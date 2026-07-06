@@ -1,12 +1,28 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-05T08:27:32.092253+00:00",
+    "fetched_at": "2026-07-06T09:36:48.126309+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 13062230456,
+      "watched_at": "2026-07-05T15:14:00.000Z",
+      "action": "scrobble",
+      "type": "movie",
+      "movie": {
+        "title": "True Lies",
+        "year": 1994,
+        "ids": {
+          "trakt": 23560,
+          "slug": "true-lies-1994",
+          "imdb": "tt0111503",
+          "tmdb": 36955
+        }
+      }
+    },
     {
       "id": 12376405439,
       "watched_at": "2026-06-22T05:03:00.000Z",
@@ -148,22 +164,6 @@
           "slug": "elevation-2024-11-08",
           "imdb": "tt23558280",
           "tmdb": 1035048
-        }
-      }
-    },
-    {
-      "id": 12314611599,
-      "watched_at": "2026-05-28T15:54:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "title": "Mardaani 3",
-        "year": 2026,
-        "ids": {
-          "trakt": 1096028,
-          "slug": "mardaani-3-2026",
-          "imdb": "tt27673536",
-          "tmdb": 1339876
         }
       }
     }

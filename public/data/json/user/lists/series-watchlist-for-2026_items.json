@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-05T08:27:34.808339+00:00",
+    "fetched_at": "2026-07-06T09:36:50.983159+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -539,6 +539,30 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt1405406",
+          "plex": {
+            "guid": "5d9c082ae98e47001eb0946f",
+            "slug": "the-vampire-diaries"
+          },
+          "slug": "the-vampire-diaries",
+          "tmdb": 18165,
+          "tvdb": 95491,
+          "trakt": 18083
+        },
+        "year": 2009,
+        "title": "The Vampire Diaries",
+        "aired_episodes": 171
+      },
+      "rank": 27,
+      "id": 1153031251,
+      "listed_at": "2025-01-08T18:17:15.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt0106179",
           "plex": {
             "guid": "5d9c0806e264b7001fc3a3a8",
@@ -580,30 +604,6 @@
       "rank": 38,
       "id": 1153031292,
       "listed_at": "2025-01-08T18:22:11.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt1405406",
-          "plex": {
-            "guid": "5d9c082ae98e47001eb0946f",
-            "slug": "the-vampire-diaries"
-          },
-          "slug": "the-vampire-diaries",
-          "tmdb": 18165,
-          "tvdb": 95491,
-          "trakt": 18083
-        },
-        "year": 2009,
-        "title": "The Vampire Diaries",
-        "aired_episodes": 171
-      },
-      "rank": 27,
-      "id": 1153031251,
-      "listed_at": "2025-01-08T18:17:15.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1091,30 +1091,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt4301160",
-          "plex": {
-            "guid": "61e18a2de138f522072f4bc0",
-            "slug": "black-bird"
-          },
-          "slug": "black-bird",
-          "tmdb": 155537,
-          "tvdb": 401998,
-          "trakt": 180817
-        },
-        "year": 2022,
-        "title": "Black Bird",
-        "aired_episodes": 6
-      },
-      "rank": 52,
-      "id": 1179046549,
-      "listed_at": "2025-02-25T06:27:33.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt15571732",
           "plex": {
             "guid": "618fc471f4da835fbeee158d",
@@ -1132,6 +1108,30 @@
       "rank": 34,
       "id": 1153031275,
       "listed_at": "2025-01-08T18:20:08.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt4301160",
+          "plex": {
+            "guid": "61e18a2de138f522072f4bc0",
+            "slug": "black-bird"
+          },
+          "slug": "black-bird",
+          "tmdb": 155537,
+          "tvdb": 401998,
+          "trakt": 180817
+        },
+        "year": 2022,
+        "title": "Black Bird",
+        "aired_episodes": 6
+      },
+      "rank": 52,
+      "id": 1179046549,
+      "listed_at": "2025-02-25T06:27:33.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1259,30 +1259,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2070791",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891cb",
-            "slug": "revolution"
-          },
-          "slug": "revolution",
-          "tmdb": 1410,
-          "tvdb": 258823,
-          "trakt": 1401
-        },
-        "year": 2012,
-        "title": "Revolution",
-        "aired_episodes": 42
-      },
-      "rank": 76,
-      "id": 1286151857,
-      "listed_at": "2025-07-23T21:01:09.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2294189",
           "plex": {
             "guid": "5d9c086e1cae62001f74c7cb",
@@ -1300,6 +1276,30 @@
       "rank": 51,
       "id": 1153419635,
       "listed_at": "2025-01-09T10:27:58.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2070791",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891cb",
+            "slug": "revolution"
+          },
+          "slug": "revolution",
+          "tmdb": 1410,
+          "tvdb": 258823,
+          "trakt": 1401
+        },
+        "year": 2012,
+        "title": "Revolution",
+        "aired_episodes": 42
+      },
+      "rank": 76,
+      "id": 1286151857,
+      "listed_at": "2025-07-23T21:01:09.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1571,6 +1571,30 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt0247082",
+          "plex": {
+            "guid": "5d9c086c7d06d9001ffd27a2",
+            "slug": "csi-crime-scene-investigation"
+          },
+          "slug": "csi-crime-scene-investigation",
+          "tmdb": 1431,
+          "tvdb": 72546,
+          "trakt": 1422
+        },
+        "year": 2000,
+        "title": "CSI: Crime Scene Investigation",
+        "aired_episodes": 335
+      },
+      "rank": 19,
+      "id": 1133528028,
+      "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt1441135",
           "plex": {
             "guid": "5d9c0836ba6eb9001fb9eb12",
@@ -1612,30 +1636,6 @@
       "rank": 72,
       "id": 1286151594,
       "listed_at": "2025-07-23T21:00:44.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt0247082",
-          "plex": {
-            "guid": "5d9c086c7d06d9001ffd27a2",
-            "slug": "csi-crime-scene-investigation"
-          },
-          "slug": "csi-crime-scene-investigation",
-          "tmdb": 1431,
-          "tvdb": 72546,
-          "trakt": 1422
-        },
-        "year": 2000,
-        "title": "CSI: Crime Scene Investigation",
-        "aired_episodes": 335
-      },
-      "rank": 19,
-      "id": 1133528028,
-      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1859,30 +1859,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1492179",
-          "plex": {
-            "guid": "5d9c07f67b5c2e001e6505d7",
-            "slug": "strike-back"
-          },
-          "slug": "strike-back",
-          "tmdb": 32573,
-          "tvdb": 148581,
-          "trakt": 32433
-        },
-        "year": 2010,
-        "title": "Strike Back",
-        "aired_episodes": 76
-      },
-      "rank": 77,
-      "id": 1286152000,
-      "listed_at": "2025-07-23T21:01:19.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4655480",
           "plex": {
             "guid": "5d9c08683c3f87001f34eb20",
@@ -1900,6 +1876,30 @@
       "rank": 54,
       "id": 1283748591,
       "listed_at": "2025-07-21T12:19:19.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1492179",
+          "plex": {
+            "guid": "5d9c07f67b5c2e001e6505d7",
+            "slug": "strike-back"
+          },
+          "slug": "strike-back",
+          "tmdb": 32573,
+          "tvdb": 148581,
+          "trakt": 32433
+        },
+        "year": 2010,
+        "title": "Strike Back",
+        "aired_episodes": 76
+      },
+      "rank": 77,
+      "id": 1286152000,
+      "listed_at": "2025-07-23T21:01:19.000Z",
       "notes": null,
       "my_rating": null
     },
