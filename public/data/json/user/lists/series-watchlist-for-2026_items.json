@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-06T09:36:50.983159+00:00",
+    "fetched_at": "2026-07-07T08:51:21.413492+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -563,30 +563,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0106179",
-          "plex": {
-            "guid": "5d9c0806e264b7001fc3a3a8",
-            "slug": "the-x-files"
-          },
-          "slug": "the-x-files",
-          "tmdb": 4087,
-          "tvdb": 77398,
-          "trakt": 4063
-        },
-        "year": 1993,
-        "title": "The X-Files",
-        "aired_episodes": 218
-      },
-      "rank": 38,
-      "id": 1153031283,
-      "listed_at": "2025-01-08T18:21:14.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt11737520",
           "plex": {
             "guid": "5f7c9b1c9b958e00415de6bb",
@@ -604,6 +580,30 @@
       "rank": 38,
       "id": 1153031292,
       "listed_at": "2025-01-08T18:22:11.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0106179",
+          "plex": {
+            "guid": "5d9c0806e264b7001fc3a3a8",
+            "slug": "the-x-files"
+          },
+          "slug": "the-x-files",
+          "tmdb": 4087,
+          "tvdb": 77398,
+          "trakt": 4063
+        },
+        "year": 1993,
+        "title": "The X-Files",
+        "aired_episodes": 218
+      },
+      "rank": 38,
+      "id": 1153031283,
+      "listed_at": "2025-01-08T18:21:14.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -731,30 +731,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt31510819",
-          "plex": {
-            "guid": "65e04d051f43644ac5a79a99",
-            "slug": "mobland"
-          },
-          "slug": "mobland",
-          "tmdb": 247718,
-          "tvdb": 446831,
-          "trakt": 228595
-        },
-        "year": 2025,
-        "title": "MobLand",
-        "aired_episodes": 10
-      },
-      "rank": 55,
-      "id": 1285066962,
-      "listed_at": "2025-07-22T20:09:52.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2699128",
           "plex": {
             "guid": "5d9c0825e264b7001fc3d22e",
@@ -772,6 +748,30 @@
       "rank": 87,
       "id": 1484747959,
       "listed_at": "2026-06-24T08:46:05.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt31510819",
+          "plex": {
+            "guid": "65e04d051f43644ac5a79a99",
+            "slug": "mobland"
+          },
+          "slug": "mobland",
+          "tmdb": 247718,
+          "tvdb": 446831,
+          "trakt": 228595
+        },
+        "year": 2025,
+        "title": "MobLand",
+        "aired_episodes": 10
+      },
+      "rank": 55,
+      "id": 1285066962,
+      "listed_at": "2025-07-22T20:09:52.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -899,30 +899,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0979432",
-          "plex": {
-            "guid": "5d9c086dcb3ffa001f1b4ca3",
-            "slug": "boardwalk-empire"
-          },
-          "slug": "boardwalk-empire",
-          "tmdb": 1621,
-          "tvdb": 84947,
-          "trakt": 1610
-        },
-        "year": 2010,
-        "title": "Boardwalk Empire",
-        "aired_episodes": 56
-      },
-      "rank": 31,
-      "id": 1153031261,
-      "listed_at": "2025-01-08T18:18:20.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2375692",
           "plex": {
             "guid": "5d9c08562df347001e3affeb",
@@ -940,6 +916,30 @@
       "rank": 53,
       "id": 1283744103,
       "listed_at": "2025-07-21T12:16:06.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0979432",
+          "plex": {
+            "guid": "5d9c086dcb3ffa001f1b4ca3",
+            "slug": "boardwalk-empire"
+          },
+          "slug": "boardwalk-empire",
+          "tmdb": 1621,
+          "tvdb": 84947,
+          "trakt": 1610
+        },
+        "year": 2010,
+        "title": "Boardwalk Empire",
+        "aired_episodes": 56
+      },
+      "rank": 31,
+      "id": 1153031261,
+      "listed_at": "2025-01-08T18:18:20.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1595,30 +1595,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1441135",
-          "plex": {
-            "guid": "5d9c0836ba6eb9001fb9eb12",
-            "slug": "flashforward"
-          },
-          "slug": "flashforward",
-          "tmdb": 19092,
-          "tvdb": 84024,
-          "trakt": 19003
-        },
-        "year": 2009,
-        "title": "FlashForward",
-        "aired_episodes": 22
-      },
-      "rank": 64,
-      "id": 1286151019,
-      "listed_at": "2025-07-23T20:59:54.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1103987",
           "plex": {
             "guid": "5d9c07f1ba6eb9001fb9789b",
@@ -1636,6 +1612,30 @@
       "rank": 72,
       "id": 1286151594,
       "listed_at": "2025-07-23T21:00:44.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1441135",
+          "plex": {
+            "guid": "5d9c0836ba6eb9001fb9eb12",
+            "slug": "flashforward"
+          },
+          "slug": "flashforward",
+          "tmdb": 19092,
+          "tvdb": 84024,
+          "trakt": 19003
+        },
+        "year": 2009,
+        "title": "FlashForward",
+        "aired_episodes": 22
+      },
+      "rank": 64,
+      "id": 1286151019,
+      "listed_at": "2025-07-23T20:59:54.000Z",
       "notes": null,
       "my_rating": null
     },
