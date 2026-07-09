@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-08T07:56:01.102489+00:00",
+    "fetched_at": "2026-07-09T08:53:11.713890+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -803,30 +803,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2149175",
-          "plex": {
-            "guid": "5d9c0869e98e47001eb0ee17",
-            "slug": "the-americans-2013"
-          },
-          "slug": "the-americans-2013",
-          "tmdb": 46533,
-          "tvdb": 261690,
-          "trakt": 46263
-        },
-        "year": 2013,
-        "title": "The Americans",
-        "aired_episodes": 75
-      },
-      "rank": 50,
-      "id": 1275428908,
-      "listed_at": "2025-07-10T08:39:37.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt7587890",
           "plex": {
             "guid": "5d9c08ffe264b7001fc4d397",
@@ -844,6 +820,30 @@
       "rank": 29,
       "id": 1153031255,
       "listed_at": "2025-01-08T18:17:39.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2149175",
+          "plex": {
+            "guid": "5d9c0869e98e47001eb0ee17",
+            "slug": "the-americans-2013"
+          },
+          "slug": "the-americans-2013",
+          "tmdb": 46533,
+          "tvdb": 261690,
+          "trakt": 46263
+        },
+        "year": 2013,
+        "title": "The Americans",
+        "aired_episodes": 75
+      },
+      "rank": 50,
+      "id": 1275428908,
+      "listed_at": "2025-07-10T08:39:37.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -899,30 +899,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 361
-      },
-      "rank": 8,
-      "id": 1127241236,
-      "listed_at": "2024-11-25T08:46:20.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2375692",
           "plex": {
             "guid": "5d9c08562df347001e3affeb",
@@ -947,23 +923,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0979432",
+          "imdb": "tt0452046",
           "plex": {
-            "guid": "5d9c086dcb3ffa001f1b4ca3",
-            "slug": "boardwalk-empire"
+            "guid": "5d9c080446115600200a6bbb",
+            "slug": "criminal-minds"
           },
-          "slug": "boardwalk-empire",
-          "tmdb": 1621,
-          "tvdb": 84947,
-          "trakt": 1610
+          "slug": "criminal-minds",
+          "tmdb": 4057,
+          "tvdb": 75710,
+          "trakt": 4033
         },
-        "year": 2010,
-        "title": "Boardwalk Empire",
-        "aired_episodes": 56
+        "year": 2005,
+        "title": "Criminal Minds",
+        "aired_episodes": 362
       },
-      "rank": 31,
-      "id": 1153031261,
-      "listed_at": "2025-01-08T18:18:20.000Z",
+      "rank": 8,
+      "id": 1127241236,
+      "listed_at": "2024-11-25T08:46:20.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -988,6 +964,30 @@
       "rank": 42,
       "id": 1153031323,
       "listed_at": "2025-01-08T18:22:51.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0979432",
+          "plex": {
+            "guid": "5d9c086dcb3ffa001f1b4ca3",
+            "slug": "boardwalk-empire"
+          },
+          "slug": "boardwalk-empire",
+          "tmdb": 1621,
+          "tvdb": 84947,
+          "trakt": 1610
+        },
+        "year": 2010,
+        "title": "Boardwalk Empire",
+        "aired_episodes": 56
+      },
+      "rank": 31,
+      "id": 1153031261,
+      "listed_at": "2025-01-08T18:18:20.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1595,23 +1595,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1103987",
+          "imdb": "tt2805096",
           "plex": {
-            "guid": "5d9c07f1ba6eb9001fb9789b",
-            "slug": "leverage"
+            "guid": "5d9c08482df347001e3aed3c",
+            "slug": "chicago-p-d"
           },
-          "slug": "leverage",
-          "tmdb": 7482,
-          "tvdb": 82339,
-          "trakt": 7438
+          "slug": "chicago-p-d",
+          "tmdb": 58841,
+          "tvdb": 269641,
+          "trakt": 58454
         },
-        "year": 2008,
-        "title": "Leverage",
-        "aired_episodes": 77
+        "year": 2014,
+        "title": "Chicago P.D.",
+        "aired_episodes": 264
       },
-      "rank": 72,
-      "id": 1286151594,
-      "listed_at": "2025-07-23T21:00:44.000Z",
+      "rank": 41,
+      "id": 1153031321,
+      "listed_at": "2025-01-08T18:22:47.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1643,23 +1643,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2805096",
+          "imdb": "tt1103987",
           "plex": {
-            "guid": "5d9c08482df347001e3aed3c",
-            "slug": "chicago-p-d"
+            "guid": "5d9c07f1ba6eb9001fb9789b",
+            "slug": "leverage"
           },
-          "slug": "chicago-p-d",
-          "tmdb": 58841,
-          "tvdb": 269641,
-          "trakt": 58454
+          "slug": "leverage",
+          "tmdb": 7482,
+          "tvdb": 82339,
+          "trakt": 7438
         },
-        "year": 2014,
-        "title": "Chicago P.D.",
-        "aired_episodes": 264
+        "year": 2008,
+        "title": "Leverage",
+        "aired_episodes": 77
       },
-      "rank": 41,
-      "id": 1153031321,
-      "listed_at": "2025-01-08T18:22:47.000Z",
+      "rank": 72,
+      "id": 1286151594,
+      "listed_at": "2025-07-23T21:00:44.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -2099,30 +2099,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0118379",
-          "plex": {
-            "guid": "5d9c080002391c001f57e84c",
-            "slug": "la-femme-nikita"
-          },
-          "slug": "la-femme-nikita",
-          "tmdb": 167,
-          "tvdb": 78527,
-          "trakt": 166
-        },
-        "year": 1997,
-        "title": "La Femme Nikita",
-        "aired_episodes": 96
-      },
-      "rank": 68,
-      "id": 1286151412,
-      "listed_at": "2025-07-23T21:00:22.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt36188448",
           "plex": {
             "guid": "65524be313943daa7922b474",
@@ -2140,6 +2116,30 @@
       "rank": 82,
       "id": 1395330443,
       "listed_at": "2025-12-25T06:19:31.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0118379",
+          "plex": {
+            "guid": "5d9c080002391c001f57e84c",
+            "slug": "la-femme-nikita"
+          },
+          "slug": "la-femme-nikita",
+          "tmdb": 167,
+          "tvdb": 78527,
+          "trakt": 166
+        },
+        "year": 1997,
+        "title": "La Femme Nikita",
+        "aired_episodes": 96
+      },
+      "rank": 68,
+      "id": 1286151412,
+      "listed_at": "2025-07-23T21:00:22.000Z",
       "notes": null,
       "my_rating": null
     },
