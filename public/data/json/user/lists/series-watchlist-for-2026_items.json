@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-09T08:53:11.713890+00:00",
+    "fetched_at": "2026-07-10T08:49:39.647155+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -395,30 +395,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0436992",
-          "plex": {
-            "guid": "5d9c082bd4f2a9001f7fe962",
-            "slug": "doctor-who-2005"
-          },
-          "slug": "doctor-who-2005",
-          "tmdb": 57243,
-          "tvdb": 78804,
-          "trakt": 56872
-        },
-        "year": 2005,
-        "title": "Doctor Who",
-        "aired_episodes": 153
-      },
-      "rank": 45,
-      "id": 1153031516,
-      "listed_at": "2025-01-08T18:23:05.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt27497448",
           "plex": {
             "guid": "643cbf9ec1962a0897b7f6dd",
@@ -436,6 +412,30 @@
       "rank": 84,
       "id": 1400239921,
       "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0436992",
+          "plex": {
+            "guid": "5d9c082bd4f2a9001f7fe962",
+            "slug": "doctor-who-2005"
+          },
+          "slug": "doctor-who-2005",
+          "tmdb": 57243,
+          "tvdb": 78804,
+          "trakt": 56872
+        },
+        "year": 2005,
+        "title": "Doctor Who",
+        "aired_episodes": 153
+      },
+      "rank": 45,
+      "id": 1153031516,
+      "listed_at": "2025-01-08T18:23:05.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -899,30 +899,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2375692",
-          "plex": {
-            "guid": "5d9c08562df347001e3affeb",
-            "slug": "black-sails"
-          },
-          "slug": "black-sails",
-          "tmdb": 47665,
-          "tvdb": 262407,
-          "trakt": 47374
-        },
-        "year": 2014,
-        "title": "Black Sails",
-        "aired_episodes": 38
-      },
-      "rank": 53,
-      "id": 1283744103,
-      "listed_at": "2025-07-21T12:16:06.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0452046",
           "plex": {
             "guid": "5d9c080446115600200a6bbb",
@@ -940,6 +916,30 @@
       "rank": 8,
       "id": 1127241236,
       "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2375692",
+          "plex": {
+            "guid": "5d9c08562df347001e3affeb",
+            "slug": "black-sails"
+          },
+          "slug": "black-sails",
+          "tmdb": 47665,
+          "tvdb": 262407,
+          "trakt": 47374
+        },
+        "year": 2014,
+        "title": "Black Sails",
+        "aired_episodes": 38
+      },
+      "rank": 53,
+      "id": 1283744103,
+      "listed_at": "2025-07-21T12:16:06.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1403,30 +1403,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0810788",
-          "plex": {
-            "guid": "5d9c087802391c001f58ba45",
-            "slug": "burn-notice"
-          },
-          "slug": "burn-notice",
-          "tmdb": 2919,
-          "tvdb": 80270,
-          "trakt": 2900
-        },
-        "year": 2007,
-        "title": "Burn Notice",
-        "aired_episodes": 111
-      },
-      "rank": 61,
-      "id": 1286150874,
-      "listed_at": "2025-07-23T20:59:39.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0286486",
           "plex": {
             "guid": "5d9c086c02391c001f5891c3",
@@ -1444,6 +1420,30 @@
       "rank": 89,
       "id": 1484756854,
       "listed_at": "2026-06-24T09:12:31.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0810788",
+          "plex": {
+            "guid": "5d9c087802391c001f58ba45",
+            "slug": "burn-notice"
+          },
+          "slug": "burn-notice",
+          "tmdb": 2919,
+          "tvdb": 80270,
+          "trakt": 2900
+        },
+        "year": 2007,
+        "title": "Burn Notice",
+        "aired_episodes": 111
+      },
+      "rank": 61,
+      "id": 1286150874,
+      "listed_at": "2025-07-23T20:59:39.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1499,30 +1499,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3865236",
-          "plex": {
-            "guid": "5d9c08552df347001e3aff45",
-            "slug": "into-the-badlands"
-          },
-          "slug": "into-the-badlands",
-          "tmdb": 47450,
-          "tvdb": 289079,
-          "trakt": 82217
-        },
-        "year": 2015,
-        "title": "Into the Badlands",
-        "aired_episodes": 32
-      },
-      "rank": 66,
-      "id": 1286151361,
-      "listed_at": "2025-07-23T21:00:15.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4428122",
           "plex": {
             "guid": "5d9c0869ffd9ef001e993df2",
@@ -1540,6 +1516,30 @@
       "rank": 74,
       "id": 1286151728,
       "listed_at": "2025-07-23T21:00:58.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt3865236",
+          "plex": {
+            "guid": "5d9c08552df347001e3aff45",
+            "slug": "into-the-badlands"
+          },
+          "slug": "into-the-badlands",
+          "tmdb": 47450,
+          "tvdb": 289079,
+          "trakt": 82217
+        },
+        "year": 2015,
+        "title": "Into the Badlands",
+        "aired_episodes": 32
+      },
+      "rank": 66,
+      "id": 1286151361,
+      "listed_at": "2025-07-23T21:00:15.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1619,30 +1619,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1441135",
-          "plex": {
-            "guid": "5d9c0836ba6eb9001fb9eb12",
-            "slug": "flashforward"
-          },
-          "slug": "flashforward",
-          "tmdb": 19092,
-          "tvdb": 84024,
-          "trakt": 19003
-        },
-        "year": 2009,
-        "title": "FlashForward",
-        "aired_episodes": 22
-      },
-      "rank": 64,
-      "id": 1286151019,
-      "listed_at": "2025-07-23T20:59:54.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1103987",
           "plex": {
             "guid": "5d9c07f1ba6eb9001fb9789b",
@@ -1660,6 +1636,30 @@
       "rank": 72,
       "id": 1286151594,
       "listed_at": "2025-07-23T21:00:44.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1441135",
+          "plex": {
+            "guid": "5d9c0836ba6eb9001fb9eb12",
+            "slug": "flashforward"
+          },
+          "slug": "flashforward",
+          "tmdb": 19092,
+          "tvdb": 84024,
+          "trakt": 19003
+        },
+        "year": 2009,
+        "title": "FlashForward",
+        "aired_episodes": 22
+      },
+      "rank": 64,
+      "id": 1286151019,
+      "listed_at": "2025-07-23T20:59:54.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1715,30 +1715,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3520702",
-          "plex": {
-            "guid": "5d9c0850e264b7001fc41047",
-            "slug": "bloodline"
-          },
-          "slug": "bloodline",
-          "tmdb": 61986,
-          "tvdb": 287314,
-          "trakt": 81282
-        },
-        "year": 2015,
-        "title": "Bloodline",
-        "aired_episodes": 33
-      },
-      "rank": 60,
-      "id": 1286150872,
-      "listed_at": "2025-07-23T20:59:36.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt13875494",
           "plex": {
             "guid": "6339b5e5bc01498ae59c016c",
@@ -1756,6 +1732,30 @@
       "rank": 13,
       "id": 1129591871,
       "listed_at": "2024-11-28T07:51:50.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt3520702",
+          "plex": {
+            "guid": "5d9c0850e264b7001fc41047",
+            "slug": "bloodline"
+          },
+          "slug": "bloodline",
+          "tmdb": 61986,
+          "tvdb": 287314,
+          "trakt": 81282
+        },
+        "year": 2015,
+        "title": "Bloodline",
+        "aired_episodes": 33
+      },
+      "rank": 60,
+      "id": 1286150872,
+      "listed_at": "2025-07-23T20:59:36.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -2051,30 +2051,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt4364202",
-          "plex": {
-            "guid": "5d9c0811ffd9ef001e98bd39",
-            "slug": "criminal-minds-beyond-borders"
-          },
-          "slug": "criminal-minds-beyond-borders",
-          "tmdb": 64481,
-          "tvdb": 296654,
-          "trakt": 99664
-        },
-        "year": 2016,
-        "title": "Criminal Minds: Beyond Borders",
-        "aired_episodes": 26
-      },
-      "rank": 62,
-      "id": 1286150898,
-      "listed_at": "2025-07-23T20:59:45.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt3729898",
           "plex": {
             "guid": "5d9c0816e9d5a1001f4d7297",
@@ -2092,6 +2068,30 @@
       "rank": 65,
       "id": 1286151153,
       "listed_at": "2025-07-23T21:00:08.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt4364202",
+          "plex": {
+            "guid": "5d9c0811ffd9ef001e98bd39",
+            "slug": "criminal-minds-beyond-borders"
+          },
+          "slug": "criminal-minds-beyond-borders",
+          "tmdb": 64481,
+          "tvdb": 296654,
+          "trakt": 99664
+        },
+        "year": 2016,
+        "title": "Criminal Minds: Beyond Borders",
+        "aired_episodes": 26
+      },
+      "rank": 62,
+      "id": 1286150898,
+      "listed_at": "2025-07-23T20:59:45.000Z",
       "notes": null,
       "my_rating": null
     },
