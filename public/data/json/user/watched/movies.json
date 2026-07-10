@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-09T08:53:10.880012+00:00",
+    "fetched_at": "2026-07-10T08:49:38.195249+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/movies.json",
@@ -377,11 +377,11 @@
             "guid": "66e75534d76a9d0b1b19ea26",
             "slug": "jana-nayagan-2026"
           },
-          "slug": "jana-nayagan",
+          "slug": "jana-nayagan-2026",
           "tmdb": 1235877,
           "trakt": 999770
         },
-        "year": null,
+        "year": 2026,
         "title": "Jana Nayagan"
       },
       "plays": 1,
