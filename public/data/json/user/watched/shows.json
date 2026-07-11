@@ -1,12 +1,34 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-10T08:49:38.440256+00:00",
+    "fetched_at": "2026-07-11T07:25:42.953686+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "plays": 50,
+      "last_watched_at": "2026-07-10T21:01:00.000Z",
+      "last_updated_at": "2026-07-10T21:01:00.000Z",
+      "reset_at": null,
+      "show": {
+        "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      }
+    },
     {
       "plays": 8,
       "last_watched_at": "2026-07-04T20:59:00.000Z",
@@ -379,28 +401,6 @@
         "year": 2020,
         "title": "Alice in Borderland",
         "aired_episodes": 22
-      }
-    },
-    {
-      "plays": 49,
-      "last_watched_at": "2025-09-10T09:38:00.000Z",
-      "last_updated_at": "2025-09-10T09:38:00.000Z",
-      "reset_at": null,
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
       }
     },
     {
@@ -2175,7 +2175,7 @@
             "guid": "62fd1594f6ed4fbc2dcfb417",
             "slug": "karagar-1"
           },
-          "slug": "karagar-2022",
+          "slug": "karagar",
           "tmdb": 207305,
           "tvdb": 423646,
           "trakt": 198389

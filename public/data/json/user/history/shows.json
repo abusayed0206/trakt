@@ -1,12 +1,42 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-10T08:49:37.907432+00:00",
+    "fetched_at": "2026-07-11T07:25:42.219901+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 13562298512,
+      "watched_at": "2026-07-10T21:01:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 1,
+        "title": "Enough Nemesis to Go Around",
+        "ids": {
+          "trakt": 75010,
+          "tvdb": 4912563,
+          "imdb": "tt3596108",
+          "tmdb": 1001512,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 12956298358,
       "watched_at": "2026-07-04T20:59:00.000Z",
@@ -261,36 +291,6 @@
           "tvdb": 5370812,
           "imdb": "tt3886622",
           "tmdb": 1131247,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Fargo",
-        "year": 2014,
-        "ids": {
-          "trakt": 60203,
-          "slug": "fargo",
-          "tvdb": 269613,
-          "imdb": "tt2802850",
-          "tmdb": 60622,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12399245794,
-      "watched_at": "2026-06-30T21:22:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 9,
-        "title": "The Castle",
-        "ids": {
-          "trakt": 1744930,
-          "tvdb": 5369448,
-          "imdb": "tt4001090",
-          "tmdb": 1131246,
           "tvrage": null
         }
       },
