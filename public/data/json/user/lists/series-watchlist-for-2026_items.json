@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-10T08:49:39.647155+00:00",
+    "fetched_at": "2026-07-11T07:25:43.712483+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -515,30 +515,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0413573",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bb",
-            "slug": "greys-anatomy"
-          },
-          "slug": "grey-s-anatomy",
-          "tmdb": 1416,
-          "tvdb": 73762,
-          "trakt": 1407
-        },
-        "year": 2005,
-        "title": "Grey's Anatomy",
-        "aired_episodes": 465
-      },
-      "rank": 47,
-      "id": 1153031527,
-      "listed_at": "2025-01-08T18:23:08.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1405406",
           "plex": {
             "guid": "5d9c082ae98e47001eb0946f",
@@ -556,6 +532,30 @@
       "rank": 27,
       "id": 1153031251,
       "listed_at": "2025-01-08T18:17:15.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0413573",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bb",
+            "slug": "greys-anatomy"
+          },
+          "slug": "grey-s-anatomy",
+          "tmdb": 1416,
+          "tvdb": 73762,
+          "trakt": 1407
+        },
+        "year": 2005,
+        "title": "Grey's Anatomy",
+        "aired_episodes": 465
+      },
+      "rank": 47,
+      "id": 1153031527,
+      "listed_at": "2025-01-08T18:23:08.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1571,30 +1571,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0247082",
-          "plex": {
-            "guid": "5d9c086c7d06d9001ffd27a2",
-            "slug": "csi-crime-scene-investigation"
-          },
-          "slug": "csi-crime-scene-investigation",
-          "tmdb": 1431,
-          "tvdb": 72546,
-          "trakt": 1422
-        },
-        "year": 2000,
-        "title": "CSI: Crime Scene Investigation",
-        "aired_episodes": 335
-      },
-      "rank": 19,
-      "id": 1133528028,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2805096",
           "plex": {
             "guid": "5d9c08482df347001e3aed3c",
@@ -1612,6 +1588,30 @@
       "rank": 41,
       "id": 1153031321,
       "listed_at": "2025-01-08T18:22:47.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0247082",
+          "plex": {
+            "guid": "5d9c086c7d06d9001ffd27a2",
+            "slug": "csi-crime-scene-investigation"
+          },
+          "slug": "csi-crime-scene-investigation",
+          "tmdb": 1431,
+          "tvdb": 72546,
+          "trakt": 1422
+        },
+        "year": 2000,
+        "title": "CSI: Crime Scene Investigation",
+        "aired_episodes": 335
+      },
+      "rank": 19,
+      "id": 1133528028,
+      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -2051,30 +2051,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3729898",
-          "plex": {
-            "guid": "5d9c0816e9d5a1001f4d7297",
-            "slug": "hap-and-leonard"
-          },
-          "slug": "hap-and-leonard",
-          "tmdb": 64835,
-          "tvdb": 305687,
-          "trakt": 104614
-        },
-        "year": 2016,
-        "title": "Hap and Leonard",
-        "aired_episodes": 18
-      },
-      "rank": 65,
-      "id": 1286151153,
-      "listed_at": "2025-07-23T21:00:08.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4364202",
           "plex": {
             "guid": "5d9c0811ffd9ef001e98bd39",
@@ -2092,6 +2068,30 @@
       "rank": 62,
       "id": 1286150898,
       "listed_at": "2025-07-23T20:59:45.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt3729898",
+          "plex": {
+            "guid": "5d9c0816e9d5a1001f4d7297",
+            "slug": "hap-and-leonard"
+          },
+          "slug": "hap-and-leonard",
+          "tmdb": 64835,
+          "tvdb": 305687,
+          "trakt": 104614
+        },
+        "year": 2016,
+        "title": "Hap and Leonard",
+        "aired_episodes": 18
+      },
+      "rank": 65,
+      "id": 1286151153,
+      "listed_at": "2025-07-23T21:00:08.000Z",
       "notes": null,
       "my_rating": null
     },
