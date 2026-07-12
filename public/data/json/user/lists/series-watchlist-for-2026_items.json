@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-11T07:25:43.712483+00:00",
+    "fetched_at": "2026-07-12T07:41:54.572686+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -155,30 +155,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5180504",
-          "plex": {
-            "guid": "5d9c08e6ba6eb9001fbac2b1",
-            "slug": "the-witcher"
-          },
-          "slug": "the-witcher-2019",
-          "tmdb": 71912,
-          "tvdb": 362696,
-          "trakt": 138163
-        },
-        "year": 2019,
-        "title": "The Witcher",
-        "aired_episodes": 32
-      },
-      "rank": 35,
-      "id": 1153031279,
-      "listed_at": "2025-01-08T18:20:42.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2467372",
           "plex": {
             "guid": "5d9c086e08fddd001f29a991",
@@ -196,6 +172,30 @@
       "rank": 6,
       "id": 1118270166,
       "listed_at": "2024-11-11T17:12:57.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5180504",
+          "plex": {
+            "guid": "5d9c08e6ba6eb9001fbac2b1",
+            "slug": "the-witcher"
+          },
+          "slug": "the-witcher-2019",
+          "tmdb": 71912,
+          "tvdb": 362696,
+          "trakt": 138163
+        },
+        "year": 2019,
+        "title": "The Witcher",
+        "aired_episodes": 32
+      },
+      "rank": 35,
+      "id": 1153031279,
+      "listed_at": "2025-01-08T18:20:42.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -443,30 +443,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3749900",
-          "plex": {
-            "guid": "5d9c08390aaccd001f8ee512",
-            "slug": "gotham"
-          },
-          "slug": "gotham",
-          "tmdb": 60708,
-          "tvdb": 274431,
-          "trakt": 60278
-        },
-        "year": 2014,
-        "title": "Gotham",
-        "aired_episodes": 100
-      },
-      "rank": 78,
-      "id": 1287727091,
-      "listed_at": "2025-07-25T11:10:24.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt31938062",
           "plex": {
             "guid": "66047594f2781fe94954a721",
@@ -484,6 +460,30 @@
       "rank": 47,
       "id": 1273910724,
       "listed_at": "2025-07-08T19:03:09.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt3749900",
+          "plex": {
+            "guid": "5d9c08390aaccd001f8ee512",
+            "slug": "gotham"
+          },
+          "slug": "gotham",
+          "tmdb": 60708,
+          "tvdb": 274431,
+          "trakt": 60278
+        },
+        "year": 2014,
+        "title": "Gotham",
+        "aired_episodes": 100
+      },
+      "rank": 78,
+      "id": 1287727091,
+      "listed_at": "2025-07-25T11:10:24.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1019,30 +1019,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2934286",
-          "plex": {
-            "guid": "606ee676cc0fca002d430dcc",
-            "slug": "halo"
-          },
-          "slug": "halo",
-          "tmdb": 52814,
-          "tvdb": 366524,
-          "trakt": 150109
-        },
-        "year": 2022,
-        "title": "Halo",
-        "aired_episodes": 17
-      },
-      "rank": 25,
-      "id": 1153031245,
-      "listed_at": "2025-01-08T18:16:56.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt5114356",
           "plex": {
             "guid": "5d9c08057d06d9001ffcef28",
@@ -1060,6 +1036,30 @@
       "rank": 50,
       "id": 1176247212,
       "listed_at": "2025-02-21T07:31:25.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2934286",
+          "plex": {
+            "guid": "606ee676cc0fca002d430dcc",
+            "slug": "halo"
+          },
+          "slug": "halo",
+          "tmdb": 52814,
+          "tvdb": 366524,
+          "trakt": 150109
+        },
+        "year": 2022,
+        "title": "Halo",
+        "aired_episodes": 17
+      },
+      "rank": 25,
+      "id": 1153031245,
+      "listed_at": "2025-01-08T18:16:56.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1547,30 +1547,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2189221",
-          "plex": {
-            "guid": "5d9c082c08fddd001f2944ca",
-            "slug": "defiance"
-          },
-          "slug": "defiance",
-          "tmdb": 51704,
-          "tvdb": 255326,
-          "trakt": 51377
-        },
-        "year": 2013,
-        "title": "Defiance",
-        "aired_episodes": 38
-      },
-      "rank": 63,
-      "id": 1286150899,
-      "listed_at": "2025-07-23T20:59:49.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2805096",
           "plex": {
             "guid": "5d9c08482df347001e3aed3c",
@@ -1619,23 +1595,23 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1103987",
+          "imdb": "tt2189221",
           "plex": {
-            "guid": "5d9c07f1ba6eb9001fb9789b",
-            "slug": "leverage"
+            "guid": "5d9c082c08fddd001f2944ca",
+            "slug": "defiance"
           },
-          "slug": "leverage",
-          "tmdb": 7482,
-          "tvdb": 82339,
-          "trakt": 7438
+          "slug": "defiance",
+          "tmdb": 51704,
+          "tvdb": 255326,
+          "trakt": 51377
         },
-        "year": 2008,
-        "title": "Leverage",
-        "aired_episodes": 77
+        "year": 2013,
+        "title": "Defiance",
+        "aired_episodes": 38
       },
-      "rank": 72,
-      "id": 1286151594,
-      "listed_at": "2025-07-23T21:00:44.000Z",
+      "rank": 63,
+      "id": 1286150899,
+      "listed_at": "2025-07-23T20:59:49.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1660,6 +1636,30 @@
       "rank": 64,
       "id": 1286151019,
       "listed_at": "2025-07-23T20:59:54.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1103987",
+          "plex": {
+            "guid": "5d9c07f1ba6eb9001fb9789b",
+            "slug": "leverage"
+          },
+          "slug": "leverage",
+          "tmdb": 7482,
+          "tvdb": 82339,
+          "trakt": 7438
+        },
+        "year": 2008,
+        "title": "Leverage",
+        "aired_episodes": 77
+      },
+      "rank": 72,
+      "id": 1286151594,
+      "listed_at": "2025-07-23T21:00:44.000Z",
       "notes": null,
       "my_rating": null
     },
