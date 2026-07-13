@@ -1,12 +1,72 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-12T07:41:51.460981+00:00",
+    "fetched_at": "2026-07-13T08:34:34.157668+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 13677991549,
+      "watched_at": "2026-07-12T18:16:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 2,
+        "title": "The Five Orange Pipz",
+        "ids": {
+          "trakt": 998936,
+          "tvdb": 4989524,
+          "imdb": "tt4038658",
+          "tmdb": 1012009,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 13674674421,
+      "watched_at": "2026-07-12T17:31:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 1,
+        "title": "Enough Nemesis to Go Around",
+        "ids": {
+          "trakt": 75010,
+          "tvdb": 4912563,
+          "imdb": "tt3596108",
+          "tmdb": 1001512,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 13562298512,
       "watched_at": "2026-07-10T21:01:00.000Z",
@@ -243,66 +303,6 @@
           "tvdb": 457173,
           "imdb": "tt34771210",
           "tmdb": 278178,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12921877306,
-      "watched_at": "2026-07-04T17:22:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 1,
-        "title": "Episode 1",
-        "ids": {
-          "trakt": 13262990,
-          "tvdb": 10827238,
-          "imdb": "tt34821881",
-          "tmdb": 6343846,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "I Will Find You",
-        "year": 2026,
-        "ids": {
-          "trakt": 265319,
-          "slug": "i-will-find-you",
-          "tvdb": 457173,
-          "imdb": "tt34771210",
-          "tmdb": 278178,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12399313113,
-      "watched_at": "2026-06-30T21:39:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 2,
-        "number": 10,
-        "title": "Palindrome",
-        "ids": {
-          "trakt": 1744932,
-          "tvdb": 5370812,
-          "imdb": "tt3886622",
-          "tmdb": 1131247,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "Fargo",
-        "year": 2014,
-        "ids": {
-          "trakt": 60203,
-          "slug": "fargo",
-          "tvdb": 269613,
-          "imdb": "tt2802850",
-          "tmdb": 60622,
           "tvrage": null
         }
       }
