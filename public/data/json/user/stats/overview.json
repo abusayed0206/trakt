@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-13T08:34:33.608524+00:00",
+    "fetched_at": "2026-07-14T07:26:38.339860+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/stats/overview.json",
@@ -36,7 +36,7 @@
     "network": {
       "friends": 1,
       "followers": 8,
-      "following": 10
+      "following": 11
     },
     "ratings": {
       "total": 21,
