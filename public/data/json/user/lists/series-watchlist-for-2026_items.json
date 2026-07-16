@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-15T07:30:25.899488+00:00",
+    "fetched_at": "2026-07-16T07:37:13.199171+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -515,30 +515,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0407362",
-          "plex": {
-            "guid": "5d9c08cdba6eb9001fbaa78e",
-            "slug": "battlestar-galactica-1"
-          },
-          "slug": "battlestar-galactica-2004",
-          "tmdb": 1972,
-          "tvdb": 73545,
-          "trakt": 1959
-        },
-        "year": 2004,
-        "title": "Battlestar Galactica",
-        "aired_episodes": 73
-      },
-      "rank": 44,
-      "id": 1153031441,
-      "listed_at": "2025-01-08T18:22:58.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0413573",
           "plex": {
             "guid": "5d9c086c02391c001f5891bb",
@@ -556,6 +532,30 @@
       "rank": 47,
       "id": 1153031527,
       "listed_at": "2025-01-08T18:23:08.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0407362",
+          "plex": {
+            "guid": "5d9c08cdba6eb9001fbaa78e",
+            "slug": "battlestar-galactica-1"
+          },
+          "slug": "battlestar-galactica-2004",
+          "tmdb": 1972,
+          "tvdb": 73545,
+          "trakt": 1959
+        },
+        "year": 2004,
+        "title": "Battlestar Galactica",
+        "aired_episodes": 73
+      },
+      "rank": 44,
+      "id": 1153031441,
+      "listed_at": "2025-01-08T18:22:58.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -899,30 +899,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 362
-      },
-      "rank": 8,
-      "id": 1127241236,
-      "listed_at": "2024-11-25T08:46:20.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4179452",
           "plex": {
             "guid": "5d9c08030aaccd001f8ec836",
@@ -940,6 +916,30 @@
       "rank": 42,
       "id": 1153031323,
       "listed_at": "2025-01-08T18:22:51.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0452046",
+          "plex": {
+            "guid": "5d9c080446115600200a6bbb",
+            "slug": "criminal-minds"
+          },
+          "slug": "criminal-minds",
+          "tmdb": 4057,
+          "tvdb": 75710,
+          "trakt": 4033
+        },
+        "year": 2005,
+        "title": "Criminal Minds",
+        "aired_episodes": 363
+      },
+      "rank": 8,
+      "id": 1127241236,
+      "listed_at": "2024-11-25T08:46:20.000Z",
       "notes": null,
       "my_rating": null
     },
