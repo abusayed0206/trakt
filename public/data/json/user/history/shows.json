@@ -1,12 +1,102 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-18T07:15:22.975398+00:00",
+    "fetched_at": "2026-07-19T07:40:49.489310+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 10
   },
   "data": [
+    {
+      "id": 13945782827,
+      "watched_at": "2026-07-18T21:38:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 5,
+        "title": "Rip Off",
+        "ids": {
+          "trakt": 998939,
+          "tvdb": 5039332,
+          "imdb": "tt4188090",
+          "tmdb": 1012012,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 13944776704,
+      "watched_at": "2026-07-18T20:53:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 4,
+        "title": "Bella",
+        "ids": {
+          "trakt": 998938,
+          "tvdb": 5032910,
+          "imdb": "tt4109322",
+          "tmdb": 1012011,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
+    {
+      "id": 13943559253,
+      "watched_at": "2026-07-18T19:53:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "season": 3,
+        "number": 3,
+        "title": "Just a Regular Irregular",
+        "ids": {
+          "trakt": 998937,
+          "tvdb": 5024397,
+          "imdb": "tt4166616",
+          "tmdb": 1012010,
+          "tvrage": null
+        }
+      },
+      "show": {
+        "title": "Elementary",
+        "year": 2012,
+        "ids": {
+          "trakt": 1406,
+          "slug": "elementary",
+          "tvdb": 255316,
+          "imdb": "tt2191671",
+          "tmdb": 1415,
+          "tvrage": null
+        }
+      }
+    },
     {
       "id": 13677991549,
       "watched_at": "2026-07-12T18:16:00.000Z",
@@ -201,96 +291,6 @@
           "tvdb": 11781974,
           "imdb": "tt34821885",
           "tmdb": 6829099,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "I Will Find You",
-        "year": 2026,
-        "ids": {
-          "trakt": 265319,
-          "slug": "i-will-find-you",
-          "tvdb": 457173,
-          "imdb": "tt34771210",
-          "tmdb": 278178,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12939215901,
-      "watched_at": "2026-07-04T19:12:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 4,
-        "title": "Episode 4",
-        "ids": {
-          "trakt": 13262994,
-          "tvdb": 11781973,
-          "imdb": "tt34821884",
-          "tmdb": 6829098,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "I Will Find You",
-        "year": 2026,
-        "ids": {
-          "trakt": 265319,
-          "slug": "i-will-find-you",
-          "tvdb": 457173,
-          "imdb": "tt34771210",
-          "tmdb": 278178,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12931975368,
-      "watched_at": "2026-07-04T18:24:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 3,
-        "title": "Episode 3",
-        "ids": {
-          "trakt": 13262993,
-          "tvdb": 11781972,
-          "imdb": "tt34821883",
-          "tmdb": 6829097,
-          "tvrage": null
-        }
-      },
-      "show": {
-        "title": "I Will Find You",
-        "year": 2026,
-        "ids": {
-          "trakt": 265319,
-          "slug": "i-will-find-you",
-          "tvdb": 457173,
-          "imdb": "tt34771210",
-          "tmdb": 278178,
-          "tvrage": null
-        }
-      }
-    },
-    {
-      "id": 12927702798,
-      "watched_at": "2026-07-04T17:57:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "season": 1,
-        "number": 2,
-        "title": "Episode 2",
-        "ids": {
-          "trakt": 13262992,
-          "tvdb": 11781971,
-          "imdb": "tt34821882",
-          "tmdb": 6829096,
           "tvrage": null
         }
       },
