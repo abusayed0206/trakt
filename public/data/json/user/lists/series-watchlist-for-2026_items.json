@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-18T07:15:24.371352+00:00",
+    "fetched_at": "2026-07-19T07:40:51.173086+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -1211,30 +1211,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1637727",
-          "plex": {
-            "guid": "5d9c08672df347001e3b1712",
-            "slug": "the-killing-us"
-          },
-          "slug": "the-killing-2011",
-          "tmdb": 34415,
-          "tvdb": 210171,
-          "trakt": 34268
-        },
-        "year": 2011,
-        "title": "The Killing",
-        "aired_episodes": 44
-      },
-      "rank": 52,
-      "id": 1283744090,
-      "listed_at": "2025-07-21T12:16:01.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt19231492",
           "plex": {
             "guid": "5fd2a1b82de5fd002dd4c7b1",
@@ -1252,6 +1228,30 @@
       "rank": 39,
       "id": 1153031296,
       "listed_at": "2025-01-08T18:22:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1637727",
+          "plex": {
+            "guid": "5d9c08672df347001e3b1712",
+            "slug": "the-killing-us"
+          },
+          "slug": "the-killing-2011",
+          "tmdb": 34415,
+          "tvdb": 210171,
+          "trakt": 34268
+        },
+        "year": 2011,
+        "title": "The Killing",
+        "aired_episodes": 44
+      },
+      "rank": 52,
+      "id": 1283744090,
+      "listed_at": "2025-07-21T12:16:01.000Z",
       "notes": null,
       "my_rating": null
     },
