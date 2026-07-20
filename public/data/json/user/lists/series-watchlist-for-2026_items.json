@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-19T07:40:51.173086+00:00",
+    "fetched_at": "2026-07-20T08:25:49.837940+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -1019,30 +1019,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2934286",
-          "plex": {
-            "guid": "606ee676cc0fca002d430dcc",
-            "slug": "halo"
-          },
-          "slug": "halo",
-          "tmdb": 52814,
-          "tvdb": 366524,
-          "trakt": 150109
-        },
-        "year": 2022,
-        "title": "Halo",
-        "aired_episodes": 17
-      },
-      "rank": 25,
-      "id": 1153031245,
-      "listed_at": "2025-01-08T18:16:56.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt5114356",
           "plex": {
             "guid": "5d9c08057d06d9001ffcef28",
@@ -1060,6 +1036,30 @@
       "rank": 50,
       "id": 1176247212,
       "listed_at": "2025-02-21T07:31:25.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2934286",
+          "plex": {
+            "guid": "606ee676cc0fca002d430dcc",
+            "slug": "halo"
+          },
+          "slug": "halo",
+          "tmdb": 52814,
+          "tvdb": 366524,
+          "trakt": 150109
+        },
+        "year": 2022,
+        "title": "Halo",
+        "aired_episodes": 17
+      },
+      "rank": 25,
+      "id": 1153031245,
+      "listed_at": "2025-01-08T18:16:56.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1211,30 +1211,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt19231492",
-          "plex": {
-            "guid": "5fd2a1b82de5fd002dd4c7b1",
-            "slug": "dark-matter-2024"
-          },
-          "slug": "dark-matter-2024",
-          "tmdb": 196322,
-          "tvdb": 393159,
-          "trakt": 170597
-        },
-        "year": 2024,
-        "title": "Dark Matter",
-        "aired_episodes": 9
-      },
-      "rank": 39,
-      "id": 1153031296,
-      "listed_at": "2025-01-08T18:22:20.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1637727",
           "plex": {
             "guid": "5d9c08672df347001e3b1712",
@@ -1252,6 +1228,30 @@
       "rank": 52,
       "id": 1283744090,
       "listed_at": "2025-07-21T12:16:01.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt19231492",
+          "plex": {
+            "guid": "5fd2a1b82de5fd002dd4c7b1",
+            "slug": "dark-matter-2024"
+          },
+          "slug": "dark-matter-2024",
+          "tmdb": 196322,
+          "tvdb": 393159,
+          "trakt": 170597
+        },
+        "year": 2024,
+        "title": "Dark Matter",
+        "aired_episodes": 9
+      },
+      "rank": 39,
+      "id": 1153031296,
+      "listed_at": "2025-01-08T18:22:20.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1427,30 +1427,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0810788",
-          "plex": {
-            "guid": "5d9c087802391c001f58ba45",
-            "slug": "burn-notice"
-          },
-          "slug": "burn-notice",
-          "tmdb": 2919,
-          "tvdb": 80270,
-          "trakt": 2900
-        },
-        "year": 2007,
-        "title": "Burn Notice",
-        "aired_episodes": 111
-      },
-      "rank": 61,
-      "id": 1286150874,
-      "listed_at": "2025-07-23T20:59:39.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt11311302",
           "plex": {
             "guid": "5e26ebca8596ec003d4aac42",
@@ -1468,6 +1444,30 @@
       "rank": 11,
       "id": 1127241239,
       "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0810788",
+          "plex": {
+            "guid": "5d9c087802391c001f58ba45",
+            "slug": "burn-notice"
+          },
+          "slug": "burn-notice",
+          "tmdb": 2919,
+          "tvdb": 80270,
+          "trakt": 2900
+        },
+        "year": 2007,
+        "title": "Burn Notice",
+        "aired_episodes": 111
+      },
+      "rank": 61,
+      "id": 1286150874,
+      "listed_at": "2025-07-23T20:59:39.000Z",
       "notes": null,
       "my_rating": null
     },
