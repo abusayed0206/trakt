@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-20T08:25:49.837940+00:00",
+    "fetched_at": "2026-07-21T07:55:51.509643+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -1019,30 +1019,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5114356",
-          "plex": {
-            "guid": "5d9c08057d06d9001ffcef28",
-            "slug": "legion"
-          },
-          "slug": "legion",
-          "tmdb": 67195,
-          "tvdb": 320724,
-          "trakt": 113656
-        },
-        "year": 2017,
-        "title": "Legion",
-        "aired_episodes": 27
-      },
-      "rank": 50,
-      "id": 1176247212,
-      "listed_at": "2025-02-21T07:31:25.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2934286",
           "plex": {
             "guid": "606ee676cc0fca002d430dcc",
@@ -1060,6 +1036,30 @@
       "rank": 25,
       "id": 1153031245,
       "listed_at": "2025-01-08T18:16:56.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5114356",
+          "plex": {
+            "guid": "5d9c08057d06d9001ffcef28",
+            "slug": "legion"
+          },
+          "slug": "legion",
+          "tmdb": 67195,
+          "tvdb": 320724,
+          "trakt": 113656
+        },
+        "year": 2017,
+        "title": "Legion",
+        "aired_episodes": 27
+      },
+      "rank": 50,
+      "id": 1176247212,
+      "listed_at": "2025-02-21T07:31:25.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1211,30 +1211,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1637727",
-          "plex": {
-            "guid": "5d9c08672df347001e3b1712",
-            "slug": "the-killing-us"
-          },
-          "slug": "the-killing-2011",
-          "tmdb": 34415,
-          "tvdb": 210171,
-          "trakt": 34268
-        },
-        "year": 2011,
-        "title": "The Killing",
-        "aired_episodes": 44
-      },
-      "rank": 52,
-      "id": 1283744090,
-      "listed_at": "2025-07-21T12:16:01.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt19231492",
           "plex": {
             "guid": "5fd2a1b82de5fd002dd4c7b1",
@@ -1252,6 +1228,30 @@
       "rank": 39,
       "id": 1153031296,
       "listed_at": "2025-01-08T18:22:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1637727",
+          "plex": {
+            "guid": "5d9c08672df347001e3b1712",
+            "slug": "the-killing-us"
+          },
+          "slug": "the-killing-2011",
+          "tmdb": 34415,
+          "tvdb": 210171,
+          "trakt": 34268
+        },
+        "year": 2011,
+        "title": "The Killing",
+        "aired_episodes": 44
+      },
+      "rank": 52,
+      "id": 1283744090,
+      "listed_at": "2025-07-21T12:16:01.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1283,30 +1283,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2070791",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891cb",
-            "slug": "revolution"
-          },
-          "slug": "revolution",
-          "tmdb": 1410,
-          "tvdb": 258823,
-          "trakt": 1401
-        },
-        "year": 2012,
-        "title": "Revolution",
-        "aired_episodes": 42
-      },
-      "rank": 76,
-      "id": 1286151857,
-      "listed_at": "2025-07-23T21:01:09.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt11743610",
           "plex": {
             "guid": "6050e8434e71c2002c6d9ab6",
@@ -1324,6 +1300,30 @@
       "rank": 21,
       "id": 1133528030,
       "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2070791",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891cb",
+            "slug": "revolution"
+          },
+          "slug": "revolution",
+          "tmdb": 1410,
+          "tvdb": 258823,
+          "trakt": 1401
+        },
+        "year": 2012,
+        "title": "Revolution",
+        "aired_episodes": 42
+      },
+      "rank": 76,
+      "id": 1286151857,
+      "listed_at": "2025-07-23T21:01:09.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1619,30 +1619,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1103987",
-          "plex": {
-            "guid": "5d9c07f1ba6eb9001fb9789b",
-            "slug": "leverage"
-          },
-          "slug": "leverage",
-          "tmdb": 7482,
-          "tvdb": 82339,
-          "trakt": 7438
-        },
-        "year": 2008,
-        "title": "Leverage",
-        "aired_episodes": 77
-      },
-      "rank": 72,
-      "id": 1286151594,
-      "listed_at": "2025-07-23T21:00:44.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1441135",
           "plex": {
             "guid": "5d9c0836ba6eb9001fb9eb12",
@@ -1660,6 +1636,30 @@
       "rank": 64,
       "id": 1286151019,
       "listed_at": "2025-07-23T20:59:54.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1103987",
+          "plex": {
+            "guid": "5d9c07f1ba6eb9001fb9789b",
+            "slug": "leverage"
+          },
+          "slug": "leverage",
+          "tmdb": 7482,
+          "tvdb": 82339,
+          "trakt": 7438
+        },
+        "year": 2008,
+        "title": "Leverage",
+        "aired_episodes": 77
+      },
+      "rank": 72,
+      "id": 1286151594,
+      "listed_at": "2025-07-23T21:00:44.000Z",
       "notes": null,
       "my_rating": null
     },
