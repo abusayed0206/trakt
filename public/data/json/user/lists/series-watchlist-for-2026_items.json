@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-21T07:55:51.509643+00:00",
+    "fetched_at": "2026-07-22T07:55:52.693991+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -467,30 +467,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3749900",
-          "plex": {
-            "guid": "5d9c08390aaccd001f8ee512",
-            "slug": "gotham"
-          },
-          "slug": "gotham",
-          "tmdb": 60708,
-          "tvdb": 274431,
-          "trakt": 60278
-        },
-        "year": 2014,
-        "title": "Gotham",
-        "aired_episodes": 100
-      },
-      "rank": 78,
-      "id": 1287727091,
-      "listed_at": "2025-07-25T11:10:24.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1405406",
           "plex": {
             "guid": "5d9c082ae98e47001eb0946f",
@@ -508,6 +484,30 @@
       "rank": 27,
       "id": 1153031251,
       "listed_at": "2025-01-08T18:17:15.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt3749900",
+          "plex": {
+            "guid": "5d9c08390aaccd001f8ee512",
+            "slug": "gotham"
+          },
+          "slug": "gotham",
+          "tmdb": 60708,
+          "tvdb": 274431,
+          "trakt": 60278
+        },
+        "year": 2014,
+        "title": "Gotham",
+        "aired_episodes": 100
+      },
+      "rank": 78,
+      "id": 1287727091,
+      "listed_at": "2025-07-25T11:10:24.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -707,30 +707,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      },
-      "rank": 49,
-      "id": 1170422123,
-      "listed_at": "2025-02-07T11:01:15.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2699128",
           "plex": {
             "guid": "5d9c0825e264b7001fc3d22e",
@@ -748,6 +724,30 @@
       "rank": 87,
       "id": 1484747959,
       "listed_at": "2026-06-24T08:46:05.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      },
+      "rank": 49,
+      "id": 1170422123,
+      "listed_at": "2025-02-07T11:01:15.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1019,30 +1019,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2934286",
-          "plex": {
-            "guid": "606ee676cc0fca002d430dcc",
-            "slug": "halo"
-          },
-          "slug": "halo",
-          "tmdb": 52814,
-          "tvdb": 366524,
-          "trakt": 150109
-        },
-        "year": 2022,
-        "title": "Halo",
-        "aired_episodes": 17
-      },
-      "rank": 25,
-      "id": 1153031245,
-      "listed_at": "2025-01-08T18:16:56.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt5114356",
           "plex": {
             "guid": "5d9c08057d06d9001ffcef28",
@@ -1060,6 +1036,30 @@
       "rank": 50,
       "id": 1176247212,
       "listed_at": "2025-02-21T07:31:25.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2934286",
+          "plex": {
+            "guid": "606ee676cc0fca002d430dcc",
+            "slug": "halo"
+          },
+          "slug": "halo",
+          "tmdb": 52814,
+          "tvdb": 366524,
+          "trakt": 150109
+        },
+        "year": 2022,
+        "title": "Halo",
+        "aired_episodes": 17
+      },
+      "rank": 25,
+      "id": 1153031245,
+      "listed_at": "2025-01-08T18:16:56.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1619,30 +1619,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1441135",
-          "plex": {
-            "guid": "5d9c0836ba6eb9001fb9eb12",
-            "slug": "flashforward"
-          },
-          "slug": "flashforward",
-          "tmdb": 19092,
-          "tvdb": 84024,
-          "trakt": 19003
-        },
-        "year": 2009,
-        "title": "FlashForward",
-        "aired_episodes": 22
-      },
-      "rank": 64,
-      "id": 1286151019,
-      "listed_at": "2025-07-23T20:59:54.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1103987",
           "plex": {
             "guid": "5d9c07f1ba6eb9001fb9789b",
@@ -1660,6 +1636,30 @@
       "rank": 72,
       "id": 1286151594,
       "listed_at": "2025-07-23T21:00:44.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1441135",
+          "plex": {
+            "guid": "5d9c0836ba6eb9001fb9eb12",
+            "slug": "flashforward"
+          },
+          "slug": "flashforward",
+          "tmdb": 19092,
+          "tvdb": 84024,
+          "trakt": 19003
+        },
+        "year": 2009,
+        "title": "FlashForward",
+        "aired_episodes": 22
+      },
+      "rank": 64,
+      "id": 1286151019,
+      "listed_at": "2025-07-23T20:59:54.000Z",
       "notes": null,
       "my_rating": null
     },
