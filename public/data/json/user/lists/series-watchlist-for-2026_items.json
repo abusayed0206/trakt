@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-22T07:55:52.693991+00:00",
+    "fetched_at": "2026-07-23T07:58:20.145473+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -539,30 +539,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0407362",
-          "plex": {
-            "guid": "5d9c08cdba6eb9001fbaa78e",
-            "slug": "battlestar-galactica-1"
-          },
-          "slug": "battlestar-galactica-2004",
-          "tmdb": 1972,
-          "tvdb": 73545,
-          "trakt": 1959
-        },
-        "year": 2004,
-        "title": "Battlestar Galactica",
-        "aired_episodes": 73
-      },
-      "rank": 44,
-      "id": 1153031441,
-      "listed_at": "2025-01-08T18:22:58.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt11737520",
           "plex": {
             "guid": "5f7c9b1c9b958e00415de6bb",
@@ -580,6 +556,30 @@
       "rank": 38,
       "id": 1153031292,
       "listed_at": "2025-01-08T18:22:11.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0407362",
+          "plex": {
+            "guid": "5d9c08cdba6eb9001fbaa78e",
+            "slug": "battlestar-galactica-1"
+          },
+          "slug": "battlestar-galactica-2004",
+          "tmdb": 1972,
+          "tvdb": 73545,
+          "trakt": 1959
+        },
+        "year": 2004,
+        "title": "Battlestar Galactica",
+        "aired_episodes": 73
+      },
+      "rank": 44,
+      "id": 1153031441,
+      "listed_at": "2025-01-08T18:22:58.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -935,7 +935,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       },
       "rank": 8,
       "id": 1127241236,
@@ -1379,30 +1379,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3514324",
-          "plex": {
-            "guid": "5d9c083c7b5c2e001e657655",
-            "slug": "scorpion"
-          },
-          "slug": "scorpion",
-          "tmdb": 60797,
-          "tvdb": 281630,
-          "trakt": 60356
-        },
-        "year": 2014,
-        "title": "Scorpion",
-        "aired_episodes": 93
-      },
-      "rank": 17,
-      "id": 1133528026,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0286486",
           "plex": {
             "guid": "5d9c086c02391c001f5891c3",
@@ -1420,6 +1396,30 @@
       "rank": 89,
       "id": 1484756854,
       "listed_at": "2026-06-24T09:12:31.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt3514324",
+          "plex": {
+            "guid": "5d9c083c7b5c2e001e657655",
+            "slug": "scorpion"
+          },
+          "slug": "scorpion",
+          "tmdb": 60797,
+          "tvdb": 281630,
+          "trakt": 60356
+        },
+        "year": 2014,
+        "title": "Scorpion",
+        "aired_episodes": 93
+      },
+      "rank": 17,
+      "id": 1133528026,
+      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1691,30 +1691,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1733785",
-          "plex": {
-            "guid": "5d9c084a46115600200a8cc6",
-            "slug": "the-bridge-2011"
-          },
-          "slug": "the-bridge",
-          "tmdb": 45016,
-          "tvdb": 252019,
-          "trakt": 44768
-        },
-        "year": 2011,
-        "title": "The Bridge",
-        "aired_episodes": 38
-      },
-      "rank": 52,
-      "id": 1273903687,
-      "listed_at": "2025-07-08T18:50:06.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt13875494",
           "plex": {
             "guid": "6339b5e5bc01498ae59c016c",
@@ -1732,6 +1708,30 @@
       "rank": 13,
       "id": 1129591871,
       "listed_at": "2024-11-28T07:51:50.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1733785",
+          "plex": {
+            "guid": "5d9c084a46115600200a8cc6",
+            "slug": "the-bridge-2011"
+          },
+          "slug": "the-bridge",
+          "tmdb": 45016,
+          "tvdb": 252019,
+          "trakt": 44768
+        },
+        "year": 2011,
+        "title": "The Bridge",
+        "aired_episodes": 38
+      },
+      "rank": 52,
+      "id": 1273903687,
+      "listed_at": "2025-07-08T18:50:06.000Z",
       "notes": null,
       "my_rating": null
     },

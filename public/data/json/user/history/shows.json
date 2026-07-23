@@ -1,12 +1,120 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-22T07:55:51.424767+00:00",
+    "fetched_at": "2026-07-23T07:58:18.395275+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14016426187,
+      "watched_at": "2026-07-22T20:05:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4300564",
+          "plex": {
+            "guid": "5d9c12782df347001e41c49c"
+          },
+          "tmdb": 1033272,
+          "tvdb": 5071885,
+          "trakt": 1411116
+        },
+        "title": "Seed Money",
+        "number": 10,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      }
+    },
+    {
+      "id": 14013562718,
+      "watched_at": "2026-07-22T16:48:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4165846",
+          "plex": {
+            "guid": "5d9c12782df347001e41c4a8"
+          },
+          "tmdb": 1023708,
+          "tvdb": 5066311,
+          "trakt": 998943
+        },
+        "title": "The Eternity Injection",
+        "number": 9,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      }
+    },
+    {
+      "id": 14012896195,
+      "watched_at": "2026-07-22T15:49:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4259236",
+          "plex": {
+            "guid": "5d9c12782df347001e41c494"
+          },
+          "tmdb": 1019262,
+          "tvdb": 5044928,
+          "trakt": 998942
+        },
+        "title": "End of Watch",
+        "number": 8,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      }
+    },
     {
       "id": 13979964914,
       "watched_at": "2026-07-20T18:04:00.000Z",
@@ -1912,7 +2020,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -1948,7 +2056,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -1984,7 +2092,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2020,7 +2128,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2056,7 +2164,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2092,7 +2200,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2128,7 +2236,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2164,7 +2272,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2200,7 +2308,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2236,7 +2344,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2272,7 +2380,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2308,7 +2416,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2344,7 +2452,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2380,7 +2488,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2416,7 +2524,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -2452,7 +2560,7 @@
         },
         "year": 2005,
         "title": "Criminal Minds",
-        "aired_episodes": 363
+        "aired_episodes": 364
       }
     },
     {
@@ -3497,114 +3605,6 @@
         "year": 2018,
         "title": "Tom Clancy's Jack Ryan",
         "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12345420949,
-      "watched_at": "2026-06-08T14:29:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt5970182",
-          "plex": {
-            "guid": "5de90108473b6d001f3d4092"
-          },
-          "tmdb": 1439513,
-          "tvdb": 6530568,
-          "trakt": 2875712
-        },
-        "title": "Pilot",
-        "number": 1,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12336626555,
-      "watched_at": "2026-06-04T20:53:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt41839200",
-          "plex": {
-            "guid": "69e8ac654bb15a46a75c1db5"
-          },
-          "tmdb": 7174707,
-          "tvdb": 11753174,
-          "trakt": 14129940
-        },
-        "title": "Chin Chin",
-        "number": 7,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt9794044",
-          "plex": {
-            "guid": "5e165ad891c203004123a1b5",
-            "slug": "citadel"
-          },
-          "slug": "citadel",
-          "tmdb": 114922,
-          "tvdb": 393268,
-          "trakt": 171028
-        },
-        "year": 2023,
-        "title": "Citadel",
-        "aired_episodes": 13
-      }
-    },
-    {
-      "id": 12336584061,
-      "watched_at": "2026-06-04T20:31:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt41303489",
-          "plex": {
-            "guid": "69e8ac654bb15a46a75c1db4"
-          },
-          "tmdb": 7174705,
-          "tvdb": 11753172,
-          "trakt": 14129939
-        },
-        "title": "Highlands",
-        "number": 6,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt9794044",
-          "plex": {
-            "guid": "5e165ad891c203004123a1b5",
-            "slug": "citadel"
-          },
-          "slug": "citadel",
-          "tmdb": 114922,
-          "tvdb": 393268,
-          "trakt": 171028
-        },
-        "year": 2023,
-        "title": "Citadel",
-        "aired_episodes": 13
       }
     }
   ]
