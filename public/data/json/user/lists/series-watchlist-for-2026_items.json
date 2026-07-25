@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-24T07:56:00.695550+00:00",
+    "fetched_at": "2026-07-25T07:34:17.152866+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -1403,30 +1403,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0286486",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891c3",
-            "slug": "the-shield"
-          },
-          "slug": "the-shield",
-          "tmdb": 1414,
-          "tvdb": 78261,
-          "trakt": 1405
-        },
-        "year": 2002,
-        "title": "The Shield",
-        "aired_episodes": 88
-      },
-      "rank": 89,
-      "id": 1484756854,
-      "listed_at": "2026-06-24T09:12:31.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt11311302",
           "plex": {
             "guid": "5e26ebca8596ec003d4aac42",
@@ -1444,6 +1420,30 @@
       "rank": 11,
       "id": 1127241239,
       "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0286486",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891c3",
+            "slug": "the-shield"
+          },
+          "slug": "the-shield",
+          "tmdb": 1414,
+          "tvdb": 78261,
+          "trakt": 1405
+        },
+        "year": 2002,
+        "title": "The Shield",
+        "aired_episodes": 88
+      },
+      "rank": 89,
+      "id": 1484756854,
+      "listed_at": "2026-06-24T09:12:31.000Z",
       "notes": null,
       "my_rating": null
     },
