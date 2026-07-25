@@ -1,12 +1,84 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-24T07:55:59.353036+00:00",
+    "fetched_at": "2026-07-25T07:34:15.932289+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14041518299,
+      "watched_at": "2026-07-24T17:25:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4214936",
+          "plex": {
+            "guid": "5d9c12782df347001e41c490"
+          },
+          "tmdb": 1033274,
+          "tvdb": 5078768,
+          "trakt": 1411118
+        },
+        "title": "The One That Got Away (2)",
+        "number": 12,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      }
+    },
+    {
+      "id": 14041164372,
+      "watched_at": "2026-07-24T16:47:00.000Z",
+      "action": "scrobble",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4300570",
+          "plex": {
+            "guid": "5d9c12782df347001e41c4a4"
+          },
+          "tmdb": 1033273,
+          "tvdb": 5077931,
+          "trakt": 1411117
+        },
+        "title": "The Illustrious Client (1)",
+        "number": 11,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      }
+    },
     {
       "id": 14016426187,
       "watched_at": "2026-07-22T20:05:00.000Z",
@@ -3516,78 +3588,6 @@
         },
         "title": "The Wolf",
         "number": 4,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12345626511,
-      "watched_at": "2026-06-08T16:14:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt5973870",
-          "plex": {
-            "guid": "5de9010a473b6d001f3d409a"
-          },
-          "tmdb": 1560795,
-          "tvdb": 6545668,
-          "trakt": 2886940
-        },
-        "title": "Black 22",
-        "number": 3,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12345484508,
-      "watched_at": "2026-06-08T15:05:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt5972924",
-          "plex": {
-            "guid": "5d9c1914e264b7001fce8028"
-          },
-          "tmdb": 1560794,
-          "tvdb": 6545667,
-          "trakt": 2886938
-        },
-        "title": "French Connection",
-        "number": 2,
         "season": 1
       },
       "show": {

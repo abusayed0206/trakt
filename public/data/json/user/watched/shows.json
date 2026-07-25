@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-24T07:55:59.817478+00:00",
+    "fetched_at": "2026-07-25T07:34:16.309730+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,9 @@
   },
   "data": [
     {
-      "plays": 60,
-      "last_watched_at": "2026-07-22T20:05:00.000Z",
-      "last_updated_at": "2026-07-22T20:05:00.000Z",
+      "plays": 62,
+      "last_watched_at": "2026-07-24T17:25:00.000Z",
+      "last_updated_at": "2026-07-24T17:25:00.000Z",
       "reset_at": null,
       "show": {
         "ids": {
