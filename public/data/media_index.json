@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T07:54:22.031061",
+  "last_updated": "2026-07-26T08:13:11.365652",
   "movies": {
     "posters": [
       "736732_poster.jpg",
@@ -11929,6 +11929,7 @@
       "227424_poster.jpg",
       "156933_poster.jpg",
       "51704_poster.jpg",
+      "219760_poster.jpg",
       "1438_poster.jpg",
       "1408_poster.jpg",
       "120998_poster.jpg",
@@ -12165,6 +12166,7 @@
       "45016_backdrop.jpg",
       "4607_backdrop.jpg",
       "60802_backdrop.jpg",
+      "219760_backdrop.jpg",
       "155346_backdrop.jpg",
       "226174_backdrop.jpg",
       "87508_backdrop.jpg",
@@ -13709,6 +13711,9 @@
       "196322": {
         "1": [
           "season_1_poster.jpg"
+        ],
+        "2": [
+          "season_2_poster.jpg"
         ]
       },
       "70523": {
@@ -15231,6 +15236,11 @@
         ],
         "4": [
           "season_4_poster.jpg"
+        ]
+      },
+      "219760": {
+        "1": [
+          "season_1_poster.jpg"
         ]
       },
       "57243": {
