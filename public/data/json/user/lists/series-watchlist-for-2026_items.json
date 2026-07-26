@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-25T07:34:17.152866+00:00",
+    "fetched_at": "2026-07-26T07:56:13.259801+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -1043,30 +1043,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2934286",
-          "plex": {
-            "guid": "606ee676cc0fca002d430dcc",
-            "slug": "halo"
-          },
-          "slug": "halo",
-          "tmdb": 52814,
-          "tvdb": 366524,
-          "trakt": 150109
-        },
-        "year": 2022,
-        "title": "Halo",
-        "aired_episodes": 17
-      },
-      "rank": 25,
-      "id": 1153031245,
-      "listed_at": "2025-01-08T18:16:56.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt8421350",
           "plex": {
             "guid": "5d9c0900ffd9ef001e99dd20",
@@ -1084,6 +1060,30 @@
       "rank": 83,
       "id": 1400239794,
       "listed_at": "2026-01-01T22:05:43.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2934286",
+          "plex": {
+            "guid": "606ee676cc0fca002d430dcc",
+            "slug": "halo"
+          },
+          "slug": "halo",
+          "tmdb": 52814,
+          "tvdb": 366524,
+          "trakt": 150109
+        },
+        "year": 2022,
+        "title": "Halo",
+        "aired_episodes": 17
+      },
+      "rank": 25,
+      "id": 1153031245,
+      "listed_at": "2025-01-08T18:16:56.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1619,30 +1619,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1441135",
-          "plex": {
-            "guid": "5d9c0836ba6eb9001fb9eb12",
-            "slug": "flashforward"
-          },
-          "slug": "flashforward",
-          "tmdb": 19092,
-          "tvdb": 84024,
-          "trakt": 19003
-        },
-        "year": 2009,
-        "title": "FlashForward",
-        "aired_episodes": 22
-      },
-      "rank": 64,
-      "id": 1286151019,
-      "listed_at": "2025-07-23T20:59:54.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1103987",
           "plex": {
             "guid": "5d9c07f1ba6eb9001fb9789b",
@@ -1660,6 +1636,30 @@
       "rank": 72,
       "id": 1286151594,
       "listed_at": "2025-07-23T21:00:44.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1441135",
+          "plex": {
+            "guid": "5d9c0836ba6eb9001fb9eb12",
+            "slug": "flashforward"
+          },
+          "slug": "flashforward",
+          "tmdb": 19092,
+          "tvdb": 84024,
+          "trakt": 19003
+        },
+        "year": 2009,
+        "title": "FlashForward",
+        "aired_episodes": 22
+      },
+      "rank": 64,
+      "id": 1286151019,
+      "listed_at": "2025-07-23T20:59:54.000Z",
       "notes": null,
       "my_rating": null
     },
