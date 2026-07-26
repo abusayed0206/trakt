@@ -1,12 +1,34 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-25T07:34:16.309730+00:00",
+    "fetched_at": "2026-07-26T07:56:12.757430+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "plays": 6,
+      "last_watched_at": "2026-07-25T21:30:00.000Z",
+      "last_updated_at": "2026-07-25T21:30:00.000Z",
+      "reset_at": null,
+      "show": {
+        "ids": {
+          "imdb": "tt26576161",
+          "plex": {
+            "guid": "63de97ef33e7813c6f545a68",
+            "slug": "the-terminal-list-dark-wolf"
+          },
+          "slug": "the-terminal-list-dark-wolf",
+          "tmdb": 219760,
+          "tvdb": 464185,
+          "trakt": 202250
+        },
+        "year": 2025,
+        "title": "The Terminal List: Dark Wolf",
+        "aired_episodes": 7
+      }
+    },
     {
       "plays": 62,
       "last_watched_at": "2026-07-24T17:25:00.000Z",
@@ -2183,28 +2205,6 @@
         "year": 2022,
         "title": "Karagar",
         "aired_episodes": 14
-      }
-    },
-    {
-      "plays": 20,
-      "last_watched_at": "2023-10-14T10:43:39.000Z",
-      "last_updated_at": "2023-10-14T10:43:39.000Z",
-      "reset_at": null,
-      "show": {
-        "ids": {
-          "imdb": "tt7605494",
-          "plex": {
-            "guid": null,
-            "slug": null
-          },
-          "slug": "byomkesh",
-          "tmdb": 75964,
-          "tvdb": 336335,
-          "trakt": 124407
-        },
-        "year": 2017,
-        "title": "Byomkesh",
-        "aired_episodes": 20
       }
     }
   ]
