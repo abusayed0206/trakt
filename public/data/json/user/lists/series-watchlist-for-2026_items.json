@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-26T07:56:13.259801+00:00",
+    "fetched_at": "2026-07-27T08:56:28.489568+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -371,30 +371,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt7660850",
-          "plex": {
-            "guid": "5d9c08ed46115600200ade5e",
-            "slug": "succession"
-          },
-          "slug": "succession",
-          "tmdb": 76331,
-          "tvdb": 338186,
-          "trakt": 125479
-        },
-        "year": 2018,
-        "title": "Succession",
-        "aired_episodes": 39
-      },
-      "rank": 51,
-      "id": 1275439151,
-      "listed_at": "2025-07-10T08:59:30.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt27497448",
           "plex": {
             "guid": "643cbf9ec1962a0897b7f6dd",
@@ -412,6 +388,30 @@
       "rank": 84,
       "id": 1400239921,
       "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt7660850",
+          "plex": {
+            "guid": "5d9c08ed46115600200ade5e",
+            "slug": "succession"
+          },
+          "slug": "succession",
+          "tmdb": 76331,
+          "tvdb": 338186,
+          "trakt": 125479
+        },
+        "year": 2018,
+        "title": "Succession",
+        "aired_episodes": 39
+      },
+      "rank": 51,
+      "id": 1275439151,
+      "listed_at": "2025-07-10T08:59:30.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1379,30 +1379,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt3514324",
-          "plex": {
-            "guid": "5d9c083c7b5c2e001e657655",
-            "slug": "scorpion"
-          },
-          "slug": "scorpion",
-          "tmdb": 60797,
-          "tvdb": 281630,
-          "trakt": 60356
-        },
-        "year": 2014,
-        "title": "Scorpion",
-        "aired_episodes": 93
-      },
-      "rank": 17,
-      "id": 1133528026,
-      "listed_at": "2024-12-04T17:14:17.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt11311302",
           "plex": {
             "guid": "5e26ebca8596ec003d4aac42",
@@ -1420,6 +1396,30 @@
       "rank": 11,
       "id": 1127241239,
       "listed_at": "2024-11-25T08:46:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt3514324",
+          "plex": {
+            "guid": "5d9c083c7b5c2e001e657655",
+            "slug": "scorpion"
+          },
+          "slug": "scorpion",
+          "tmdb": 60797,
+          "tvdb": 281630,
+          "trakt": 60356
+        },
+        "year": 2014,
+        "title": "Scorpion",
+        "aired_episodes": 93
+      },
+      "rank": 17,
+      "id": 1133528026,
+      "listed_at": "2024-12-04T17:14:17.000Z",
       "notes": null,
       "my_rating": null
     },
