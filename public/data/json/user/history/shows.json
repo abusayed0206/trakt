@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-27T08:56:27.576049+00:00",
+    "fetched_at": "2026-07-28T08:01:37.745237+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
@@ -8,219 +8,291 @@
   },
   "data": [
     {
-      "id": 14057891538,
-      "watched_at": "2026-07-25T21:30:00.000Z",
-      "action": "scrobble",
+      "id": 14081679492,
+      "watched_at": "2026-07-27T16:25:00.000Z",
+      "action": "watch",
       "type": "episode",
       "episode": {
         "ids": {
-          "imdb": "tt32792209",
+          "imdb": "tt15090516",
           "plex": {
-            "guid": "683a15be62719fbcfe0b45d0"
+            "guid": "62655026231f9b61bdd34385"
           },
-          "tmdb": 6273374,
-          "tvdb": 11167102,
-          "trakt": 13175057
+          "tmdb": 3510221,
+          "tvdb": 9010229,
+          "trakt": 5915040
         },
-        "title": "\"PAWNS & KINGS\"",
+        "title": "Reclamation",
+        "number": 8,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11743610",
+          "plex": {
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
+          },
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
+        },
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14081679491,
+      "watched_at": "2026-07-27T16:25:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt15073172",
+          "plex": {
+            "guid": "62655026231f9b61bdd34386"
+          },
+          "tmdb": 3510220,
+          "tvdb": 9010228,
+          "trakt": 5915034
+        },
+        "title": "Extinction",
+        "number": 7,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11743610",
+          "plex": {
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
+          },
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
+        },
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14081679490,
+      "watched_at": "2026-07-27T16:25:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt14940362",
+          "plex": {
+            "guid": "62655027231f9b61bdd34388"
+          },
+          "tmdb": 3510219,
+          "tvdb": 9010227,
+          "trakt": 5915028
+        },
+        "title": "Transience",
         "number": 6,
         "season": 1
       },
       "show": {
         "ids": {
-          "imdb": "tt26576161",
+          "imdb": "tt11743610",
           "plex": {
-            "guid": "63de97ef33e7813c6f545a68",
-            "slug": "the-terminal-list-dark-wolf"
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
           },
-          "slug": "the-terminal-list-dark-wolf",
-          "tmdb": 219760,
-          "tvdb": 464185,
-          "trakt": 202250
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
         },
-        "year": 2025,
-        "title": "The Terminal List: Dark Wolf",
-        "aired_episodes": 7
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 8
       }
     },
     {
-      "id": 14057470270,
-      "watched_at": "2026-07-25T20:56:00.000Z",
-      "action": "scrobble",
+      "id": 14081679489,
+      "watched_at": "2026-07-27T16:25:00.000Z",
+      "action": "watch",
       "type": "episode",
       "episode": {
         "ids": {
-          "imdb": "tt32792208",
+          "imdb": "tt14940354",
           "plex": {
-            "guid": "683a15be62719fbcfe0b45d5"
+            "guid": "62655027231f9b61bdd34389"
           },
-          "tmdb": 6273373,
-          "tvdb": 11167101,
-          "trakt": 13175056
+          "tmdb": 3510217,
+          "tvdb": 9010226,
+          "trakt": 5915019
         },
-        "title": "\"E & E\"",
+        "title": "Disruption",
         "number": 5,
         "season": 1
       },
       "show": {
         "ids": {
-          "imdb": "tt26576161",
+          "imdb": "tt11743610",
           "plex": {
-            "guid": "63de97ef33e7813c6f545a68",
-            "slug": "the-terminal-list-dark-wolf"
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
           },
-          "slug": "the-terminal-list-dark-wolf",
-          "tmdb": 219760,
-          "tvdb": 464185,
-          "trakt": 202250
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
         },
-        "year": 2025,
-        "title": "The Terminal List: Dark Wolf",
-        "aired_episodes": 7
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 8
       }
     },
     {
-      "id": 14056858608,
-      "watched_at": "2026-07-25T20:06:00.000Z",
-      "action": "scrobble",
+      "id": 14081679488,
+      "watched_at": "2026-07-27T16:25:00.000Z",
+      "action": "watch",
       "type": "episode",
       "episode": {
         "ids": {
-          "imdb": "tt32752422",
+          "imdb": "tt14735290",
           "plex": {
-            "guid": "683a15be62719fbcfe0b45da"
+            "guid": "62655028231f9b61bdd3438a"
           },
-          "tmdb": 6273372,
-          "tvdb": 11167100,
-          "trakt": 13175055
+          "tmdb": 3510216,
+          "tvdb": 9010225,
+          "trakt": 5914994
         },
-        "title": "\"THE SOUND OF GUNS\"",
+        "title": "Detachment",
         "number": 4,
         "season": 1
       },
       "show": {
         "ids": {
-          "imdb": "tt26576161",
+          "imdb": "tt11743610",
           "plex": {
-            "guid": "63de97ef33e7813c6f545a68",
-            "slug": "the-terminal-list-dark-wolf"
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
           },
-          "slug": "the-terminal-list-dark-wolf",
-          "tmdb": 219760,
-          "tvdb": 464185,
-          "trakt": 202250
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
         },
-        "year": 2025,
-        "title": "The Terminal List: Dark Wolf",
-        "aired_episodes": 7
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 8
       }
     },
     {
-      "id": 14056187445,
-      "watched_at": "2026-07-25T19:23:00.000Z",
-      "action": "scrobble",
+      "id": 14081679487,
+      "watched_at": "2026-07-27T16:25:00.000Z",
+      "action": "watch",
       "type": "episode",
       "episode": {
         "ids": {
-          "imdb": "tt32792207",
+          "imdb": "tt14654240",
           "plex": {
-            "guid": "683a15be62719fbcfe0b45df"
+            "guid": "62655028231f9b61bdd3438c"
           },
-          "tmdb": 6273371,
-          "tvdb": 11167099,
-          "trakt": 13175054
+          "tmdb": 3510215,
+          "tvdb": 9010224,
+          "trakt": 5914955
         },
-        "title": "\"WHAT'S PAST IS PROLOGUE\"",
+        "title": "Consolidation",
         "number": 3,
         "season": 1
       },
       "show": {
         "ids": {
-          "imdb": "tt26576161",
+          "imdb": "tt11743610",
           "plex": {
-            "guid": "63de97ef33e7813c6f545a68",
-            "slug": "the-terminal-list-dark-wolf"
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
           },
-          "slug": "the-terminal-list-dark-wolf",
-          "tmdb": 219760,
-          "tvdb": 464185,
-          "trakt": 202250
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
         },
-        "year": 2025,
-        "title": "The Terminal List: Dark Wolf",
-        "aired_episodes": 7
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 8
       }
     },
     {
-      "id": 14055726779,
-      "watched_at": "2026-07-25T18:40:00.000Z",
-      "action": "scrobble",
+      "id": 14081679486,
+      "watched_at": "2026-07-27T16:25:00.000Z",
+      "action": "watch",
       "type": "episode",
       "episode": {
         "ids": {
-          "imdb": "tt32792206",
+          "imdb": "tt14584082",
           "plex": {
-            "guid": "683a15be62719fbcfe0b45e4"
+            "guid": "62655029231f9b61bdd3438e"
           },
-          "tmdb": 6273370,
-          "tvdb": 11167098,
-          "trakt": 13175053
+          "tmdb": 3510214,
+          "tvdb": 9010223,
+          "trakt": 5914933
         },
-        "title": "\"THE AUDITION\"",
+        "title": "Encoding",
         "number": 2,
         "season": 1
       },
       "show": {
         "ids": {
-          "imdb": "tt26576161",
+          "imdb": "tt11743610",
           "plex": {
-            "guid": "63de97ef33e7813c6f545a68",
-            "slug": "the-terminal-list-dark-wolf"
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
           },
-          "slug": "the-terminal-list-dark-wolf",
-          "tmdb": 219760,
-          "tvdb": 464185,
-          "trakt": 202250
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
         },
-        "year": 2025,
-        "title": "The Terminal List: Dark Wolf",
-        "aired_episodes": 7
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 8
       }
     },
     {
-      "id": 14055239015,
-      "watched_at": "2026-07-25T18:00:00.000Z",
-      "action": "scrobble",
+      "id": 14081679485,
+      "watched_at": "2026-07-27T16:25:00.000Z",
+      "action": "watch",
       "type": "episode",
       "episode": {
         "ids": {
-          "imdb": "tt31171487",
+          "imdb": "tt14153670",
           "plex": {
-            "guid": "63de97f033e7813c6f545a86"
+            "guid": "6265502a231f9b61bdd34390"
           },
-          "tmdb": 4211757,
-          "tvdb": 11167097,
-          "trakt": 7307963
+          "tmdb": 2798118,
+          "tvdb": 9010222,
+          "trakt": 4615977
         },
-        "title": "\"INHERENT RESOLVE\"",
+        "title": "The Engram",
         "number": 1,
         "season": 1
       },
       "show": {
         "ids": {
-          "imdb": "tt26576161",
+          "imdb": "tt11743610",
           "plex": {
-            "guid": "63de97ef33e7813c6f545a68",
-            "slug": "the-terminal-list-dark-wolf"
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
           },
-          "slug": "the-terminal-list-dark-wolf",
-          "tmdb": 219760,
-          "tvdb": 464185,
-          "trakt": 202250
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
         },
-        "year": 2025,
-        "title": "The Terminal List: Dark Wolf",
-        "aired_episodes": 7
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 8
       }
     },
     {
@@ -3516,78 +3588,6 @@
         },
         "title": "Dressed to Kill",
         "number": 4,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12347204014,
-      "watched_at": "2026-06-09T09:40:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt8327758",
-          "plex": {
-            "guid": "5de90111473b6d001f3d40b9"
-          },
-          "tmdb": 1872207,
-          "tvdb": 7347099,
-          "trakt": 3697572
-        },
-        "title": "Orinoco",
-        "number": 3,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12347172526,
-      "watched_at": "2026-06-09T09:00:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt8327788",
-          "plex": {
-            "guid": "5de90110473b6d001f3d40b7"
-          },
-          "tmdb": 1872206,
-          "tvdb": 7347095,
-          "trakt": 3697551
-        },
-        "title": "Tertia Optio",
-        "number": 2,
         "season": 2
       },
       "show": {

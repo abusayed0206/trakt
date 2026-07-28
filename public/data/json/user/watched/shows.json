@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-27T08:56:27.859183+00:00",
+    "fetched_at": "2026-07-28T08:01:38.039678+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,25 +8,25 @@
   },
   "data": [
     {
-      "plays": 6,
-      "last_watched_at": "2026-07-25T21:30:00.000Z",
-      "last_updated_at": "2026-07-25T21:30:00.000Z",
+      "plays": 8,
+      "last_watched_at": "2026-07-27T16:25:00.000Z",
+      "last_updated_at": "2026-07-27T16:25:00.000Z",
       "reset_at": null,
       "show": {
         "ids": {
-          "imdb": "tt26576161",
+          "imdb": "tt11743610",
           "plex": {
-            "guid": "63de97ef33e7813c6f545a68",
-            "slug": "the-terminal-list-dark-wolf"
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
           },
-          "slug": "the-terminal-list-dark-wolf",
-          "tmdb": 219760,
-          "tvdb": 464185,
-          "trakt": 202250
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
         },
-        "year": 2025,
-        "title": "The Terminal List: Dark Wolf",
-        "aired_episodes": 7
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 8
       }
     },
     {

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-27T08:56:28.489568+00:00",
+    "fetched_at": "2026-07-28T08:01:38.533453+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -419,30 +419,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0436992",
-          "plex": {
-            "guid": "5d9c082bd4f2a9001f7fe962",
-            "slug": "doctor-who-2005"
-          },
-          "slug": "doctor-who-2005",
-          "tmdb": 57243,
-          "tvdb": 78804,
-          "trakt": 56872
-        },
-        "year": 2005,
-        "title": "Doctor Who",
-        "aired_episodes": 153
-      },
-      "rank": 45,
-      "id": 1153031516,
-      "listed_at": "2025-01-08T18:23:05.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt31938062",
           "plex": {
             "guid": "66047594f2781fe94954a721",
@@ -460,6 +436,30 @@
       "rank": 47,
       "id": 1273910724,
       "listed_at": "2025-07-08T19:03:09.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0436992",
+          "plex": {
+            "guid": "5d9c082bd4f2a9001f7fe962",
+            "slug": "doctor-who-2005"
+          },
+          "slug": "doctor-who-2005",
+          "tmdb": 57243,
+          "tvdb": 78804,
+          "trakt": 56872
+        },
+        "year": 2005,
+        "title": "Doctor Who",
+        "aired_episodes": 153
+      },
+      "rank": 45,
+      "id": 1153031516,
+      "listed_at": "2025-01-08T18:23:05.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -755,30 +755,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt31510819",
-          "plex": {
-            "guid": "65e04d051f43644ac5a79a99",
-            "slug": "mobland"
-          },
-          "slug": "mobland",
-          "tmdb": 247718,
-          "tvdb": 446831,
-          "trakt": 228595
-        },
-        "year": 2025,
-        "title": "MobLand",
-        "aired_episodes": 10
-      },
-      "rank": 55,
-      "id": 1285066962,
-      "listed_at": "2025-07-22T20:09:52.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt7587890",
           "plex": {
             "guid": "5d9c08ffe264b7001fc4d397",
@@ -796,6 +772,30 @@
       "rank": 29,
       "id": 1153031255,
       "listed_at": "2025-01-08T18:17:39.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt31510819",
+          "plex": {
+            "guid": "65e04d051f43644ac5a79a99",
+            "slug": "mobland"
+          },
+          "slug": "mobland",
+          "tmdb": 247718,
+          "tvdb": 446831,
+          "trakt": 228595
+        },
+        "year": 2025,
+        "title": "MobLand",
+        "aired_episodes": 10
+      },
+      "rank": 55,
+      "id": 1285066962,
+      "listed_at": "2025-07-22T20:09:52.000Z",
       "notes": null,
       "my_rating": null
     },
