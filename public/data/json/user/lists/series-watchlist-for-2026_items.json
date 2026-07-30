@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-29T08:07:10.456000+00:00",
+    "fetched_at": "2026-07-30T07:55:49.925685+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -731,30 +731,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      },
-      "rank": 49,
-      "id": 1170422123,
-      "listed_at": "2025-02-07T11:01:15.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt7587890",
           "plex": {
             "guid": "5d9c08ffe264b7001fc4d397",
@@ -772,6 +748,30 @@
       "rank": 29,
       "id": 1153031255,
       "listed_at": "2025-01-08T18:17:39.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      },
+      "rank": 49,
+      "id": 1170422123,
+      "listed_at": "2025-02-07T11:01:15.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1019,30 +1019,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5114356",
-          "plex": {
-            "guid": "5d9c08057d06d9001ffcef28",
-            "slug": "legion"
-          },
-          "slug": "legion",
-          "tmdb": 67195,
-          "tvdb": 320724,
-          "trakt": 113656
-        },
-        "year": 2017,
-        "title": "Legion",
-        "aired_episodes": 27
-      },
-      "rank": 50,
-      "id": 1176247212,
-      "listed_at": "2025-02-21T07:31:25.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt8421350",
           "plex": {
             "guid": "5d9c0900ffd9ef001e99dd20",
@@ -1060,6 +1036,30 @@
       "rank": 83,
       "id": 1400239794,
       "listed_at": "2026-01-01T22:05:43.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5114356",
+          "plex": {
+            "guid": "5d9c08057d06d9001ffcef28",
+            "slug": "legion"
+          },
+          "slug": "legion",
+          "tmdb": 67195,
+          "tvdb": 320724,
+          "trakt": 113656
+        },
+        "year": 2017,
+        "title": "Legion",
+        "aired_episodes": 27
+      },
+      "rank": 50,
+      "id": 1176247212,
+      "listed_at": "2025-02-21T07:31:25.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1619,30 +1619,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1103987",
-          "plex": {
-            "guid": "5d9c07f1ba6eb9001fb9789b",
-            "slug": "leverage"
-          },
-          "slug": "leverage",
-          "tmdb": 7482,
-          "tvdb": 82339,
-          "trakt": 7438
-        },
-        "year": 2008,
-        "title": "Leverage",
-        "aired_episodes": 77
-      },
-      "rank": 72,
-      "id": 1286151594,
-      "listed_at": "2025-07-23T21:00:44.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt1441135",
           "plex": {
             "guid": "5d9c0836ba6eb9001fb9eb12",
@@ -1660,6 +1636,30 @@
       "rank": 64,
       "id": 1286151019,
       "listed_at": "2025-07-23T20:59:54.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1103987",
+          "plex": {
+            "guid": "5d9c07f1ba6eb9001fb9789b",
+            "slug": "leverage"
+          },
+          "slug": "leverage",
+          "tmdb": 7482,
+          "tvdb": 82339,
+          "trakt": 7438
+        },
+        "year": 2008,
+        "title": "Leverage",
+        "aired_episodes": 77
+      },
+      "rank": 72,
+      "id": 1286151594,
+      "listed_at": "2025-07-23T21:00:44.000Z",
       "notes": null,
       "my_rating": null
     },
