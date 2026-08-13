@@ -63,7 +63,11 @@ export default function WatchedShowsGrid() {
 
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
         {displayedShows.map((item) => {
-          const totalEpisodes = item.seasons.reduce((acc, season) => acc + season.episodes.length, 0);
+          const seasons = Array.isArray(item.seasons) ? item.seasons : [];
+          const totalEpisodes = seasons.reduce(
+            (acc, season) => acc + (Array.isArray(season.episodes) ? season.episodes.length : 0),
+            0
+          );
           
           return (
             <div key={item.show.ids.trakt} className="group">
@@ -122,7 +126,7 @@ export default function WatchedShowsGrid() {
                   Last watched {formatRelativeTime(item.last_watched_at)}
                 </p>
                 <p className="text-gray-600 text-xs mb-1">
-                  {item.seasons.length} {item.seasons.length === 1 ? 'season' : 'seasons'}
+                  {seasons.length} {seasons.length === 1 ? 'season' : 'seasons'}
                 </p>
                 <p className="text-gray-600 text-xs">
                   {totalEpisodes} {totalEpisodes === 1 ? 'episode' : 'episodes'} watched
