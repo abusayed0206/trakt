@@ -25,7 +25,7 @@ jobs:
           repository: abusayed0206/cdn
           path: cdn-repo
           token: ${{ secrets.PAT_TOKEN }}
-          fetch-depth: 0
+          fetch-depth: 1  # only the current files are needed to skip what's already downloaded
 
       - name: Set up Python
         uses: actions/setup-python@v4

@@ -115,11 +115,9 @@ class ImageIndexManager {
   }
 
   findImages(type: 'movies' | 'shows', category: 'posters' | 'backdrops', tmdbId: string, season?: string): { files: string[], basePath: string } {
-    const index = this.loadImageIndex();
-    
-    // Auto-reload if index is older than 24 hours
-    this.checkForDailyReload();
-    
+    // media_index.json only changes with a redeploy, so the loaded index stays valid for the process lifetime
+    const index = this.imageIndex ?? this.loadImageIndex();
+
     if (type === 'shows' && category === 'posters' && season) {
       // Season posters
       const seasonData = index.shows.season_posters[tmdbId]?.[season];
@@ -141,19 +139,6 @@ class ImageIndexManager {
     return { files: [], basePath: '' };
   }
 
-  private checkForDailyReload(): void {
-    if (!this.lastUpdated) return;
-    
-    const lastUpdate = new Date(this.lastUpdated);
-    const now = new Date();
-    const hoursSinceUpdate = (now.getTime() - lastUpdate.getTime()) / (1000 * 60 * 60);
-    
-    // Reload if more than 24 hours old
-    if (hoursSinceUpdate > 24) {
-      console.log('🔄 Image index is older than 24 hours, reloading...');
-      this.reloadIndex();
-    }
-  }
 }
 
 export default ImageIndexManager;

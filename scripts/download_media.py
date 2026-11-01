@@ -145,206 +145,99 @@ class MediaDownloader:
             'backdrops': images_data.get('backdrops', [])
         }
     
-    def get_show_details(self, tmdb_id):
-        """Get TV show details including season information"""
-        show_data = self.make_tmdb_request(f'/tv/{tmdb_id}')
-        if not show_data:
-            return None
-        
-        return {
-            'seasons': show_data.get('seasons', []),
-            'number_of_seasons': show_data.get('number_of_seasons', 0)
-        }
-    
-    def get_season_images(self, tmdb_id, season_number):
-        """Get season images from TMDB"""
-        images_data = self.make_tmdb_request(f'/tv/{tmdb_id}/season/{season_number}/images')
-        if not images_data:
-            return None
-        
-        return {
-            'posters': images_data.get('posters', [])
-        }
-    
-    def download_movie_images(self, movie_data):
-        """Download images for a movie"""
-        tmdb_id = None
-        
-        # Extract TMDB ID from different possible structures
-        if isinstance(movie_data, dict):
-            if 'ids' in movie_data:
-                tmdb_id = movie_data['ids'].get('tmdb')
-            elif 'movie' in movie_data and 'ids' in movie_data['movie']:
-                tmdb_id = movie_data['movie']['ids'].get('tmdb')
-            elif 'tmdb' in movie_data:
-                tmdb_id = movie_data['tmdb']
-        
-        if not tmdb_id:
-            logger.warning(f"No TMDB ID found for movie: {movie_data}")
+    def download_first(self, images, size_key, filepath):
+        """Download the first image of a TMDB image list to filepath"""
+        if images and images[0].get('file_path'):
+            self.download_image(f"{self.tmdb_image_base_url}/{self.image_sizes[size_key]}{images[0]['file_path']}", filepath)
+
+    def download_movie_images(self, tmdb_id):
+        """Download poster and backdrop for a movie, skipping TMDB entirely when both exist"""
+        poster = self.images_dir / 'movies' / 'posters' / f"{tmdb_id}_poster.jpg"
+        backdrop = self.images_dir / 'movies' / 'backdrops' / f"{tmdb_id}_backdrop.jpg"
+        if poster.exists() and backdrop.exists():
             return
-        
+
         logger.info(f"Downloading images for movie TMDB ID: {tmdb_id}")
-        
         images = self.get_movie_images(tmdb_id)
-        if not images:
-            return
-        
-        # Download posters
-        for i, poster in enumerate(images['posters'][:1]):  # Limit to 1 poster
-            if poster.get('file_path'):
-                image_url = f"{self.tmdb_image_base_url}/{self.image_sizes['poster']}{poster['file_path']}"
-                filename = f"{tmdb_id}_poster.jpg"
-                filepath = self.images_dir / 'movies' / 'posters' / filename
-                self.download_image(image_url, filepath)
-        
-        # Download backdrops
-        for i, backdrop in enumerate(images['backdrops'][:1]):  # Limit to 1 backdrop
-            if backdrop.get('file_path'):
-                image_url = f"{self.tmdb_image_base_url}/{self.image_sizes['backdrop']}{backdrop['file_path']}"
-                filename = f"{tmdb_id}_backdrop.jpg"
-                filepath = self.images_dir / 'movies' / 'backdrops' / filename
-                self.download_image(image_url, filepath)
-    
-    def download_show_images(self, show_data):
-        """Download images for a TV show including season posters"""
-        tmdb_id = None
-        
-        # Extract TMDB ID from different possible structures
-        if isinstance(show_data, dict):
-            if 'ids' in show_data:
-                tmdb_id = show_data['ids'].get('tmdb')
-            elif 'show' in show_data and 'ids' in show_data['show']:
-                tmdb_id = show_data['show']['ids'].get('tmdb')
-            elif 'tmdb' in show_data:
-                tmdb_id = show_data['tmdb']
-        
-        if not tmdb_id:
-            logger.warning(f"No TMDB ID found for show: {show_data}")
-            return
-        
-        logger.info(f"Downloading images for show TMDB ID: {tmdb_id}")
-        
-        # Download main show images
-        images = self.get_show_images(tmdb_id)
         if images:
-            # Download main show poster
-            for i, poster in enumerate(images['posters'][:1]):  # Limit to 1 poster
-                if poster.get('file_path'):
-                    image_url = f"{self.tmdb_image_base_url}/{self.image_sizes['poster']}{poster['file_path']}"
-                    filename = f"{tmdb_id}_poster.jpg"
-                    filepath = self.images_dir / 'shows' / 'posters' / filename
-                    self.download_image(image_url, filepath)
-            
-            # Download backdrops
-            for i, backdrop in enumerate(images['backdrops'][:1]):  # Limit to 1 backdrop
-                if backdrop.get('file_path'):
-                    image_url = f"{self.tmdb_image_base_url}/{self.image_sizes['backdrop']}{backdrop['file_path']}"
-                    filename = f"{tmdb_id}_backdrop.jpg"
-                    filepath = self.images_dir / 'shows' / 'backdrops' / filename
-                    self.download_image(image_url, filepath)
-        
-        # Get show details to find seasons
-        show_details = self.get_show_details(tmdb_id)
-        if show_details and show_details['seasons']:
-            logger.info(f"Found {len(show_details['seasons'])} seasons for show {tmdb_id}")
-            
-            for season in show_details['seasons']:
-                season_number = season.get('season_number')
-                if season_number is None:
+            self.download_first(images['posters'], 'poster', poster)
+            self.download_first(images['backdrops'], 'backdrop', backdrop)
+
+    def download_show_images(self, tmdb_id):
+        """Download poster, backdrop and any season posters not on disk yet"""
+        poster = self.images_dir / 'shows' / 'posters' / f"{tmdb_id}_poster.jpg"
+        backdrop = self.images_dir / 'shows' / 'backdrops' / f"{tmdb_id}_backdrop.jpg"
+        if not (poster.exists() and backdrop.exists()):
+            logger.info(f"Downloading images for show TMDB ID: {tmdb_id}")
+            images = self.get_show_images(tmdb_id)
+            if images:
+                self.download_first(images['posters'], 'poster', poster)
+                self.download_first(images['backdrops'], 'backdrop', backdrop)
+
+        # One details call per show: it lists every season's poster, so new seasons are picked up
+        # without a /season/{n}/images call per season
+        show_details = self.make_tmdb_request(f'/tv/{tmdb_id}')
+        for season in (show_details or {}).get('seasons', []):
+            season_number = season.get('season_number')
+            if season_number is None or not season.get('poster_path'):
+                continue
+            filepath = (self.images_dir / 'shows' / 'posters' / str(tmdb_id) / str(season_number)
+                        / f"season_{season_number}_poster.jpg")
+            if not filepath.exists():
+                self.download_image(f"{self.tmdb_image_base_url}/{self.image_sizes['poster']}{season['poster_path']}", filepath)
+
+    def collect_tmdb_ids(self, json_paths):
+        """Unique TMDB ids of the movies and shows referenced by the given Trakt JSON files"""
+        movies, shows = set(), set()
+        for json_path in json_paths:
+            if not json_path.exists():
+                logger.warning(f"JSON file not found: {json_path}")
+                continue
+            try:
+                data = json.loads(json_path.read_text(encoding='utf-8'))
+            except Exception as e:
+                logger.error(f"Error processing {json_path}: {e}")
+                continue
+            items = data['data'] if isinstance(data, dict) and 'data' in data else data
+            for item in items if isinstance(items, list) else [items]:
+                if not isinstance(item, dict):
                     continue
-                
-                # Create dynamic folder structure: shows/posters/[id]/[season]/
-                season_dir = self.images_dir / 'shows' / 'posters' / str(tmdb_id) / str(season_number)
-                season_dir.mkdir(parents=True, exist_ok=True)
-                
-                # Download season poster
-                season_images = self.get_season_images(tmdb_id, season_number)
-                if season_images and season_images['posters']:
-                    for i, poster in enumerate(season_images['posters'][:1]):  # Limit to 1 poster per season
-                        if poster.get('file_path'):
-                            image_url = f"{self.tmdb_image_base_url}/{self.image_sizes['poster']}{poster['file_path']}"
-                            filename = f"season_{season_number}_poster.jpg"
-                            filepath = season_dir / filename
-                            
-                            # Check if file already exists to avoid duplicates
-                            if not filepath.exists():
-                                self.download_image(image_url, filepath)
-                            else:
-                                logger.debug(f"Season poster already exists: {filepath}")
-                else:
-                    logger.debug(f"No season poster found for show {tmdb_id}, season {season_number}")
-    
-    def process_json_file(self, json_file_path):
-        """Process a JSON file and download images for items in it"""
-        try:
-            with open(json_file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            
-            # Extract actual data (handle metadata wrapper)
-            if isinstance(data, dict) and 'data' in data:
-                items = data['data']
-            else:
-                items = data
-            
-            if not isinstance(items, list):
-                items = [items]
-            
-            for item in items:
-                if isinstance(item, dict):
-                    # Check if it's a movie
-                    if 'movie' in item or (item.get('type') == 'movie'):
-                        self.download_movie_images(item)
-                    # Check if it's a show
-                    elif 'show' in item or (item.get('type') == 'show'):
-                        self.download_show_images(item)
-                    # Check if it has direct movie/show data
-                    elif 'ids' in item:
-                        # Try to determine type from context or filename
-                        if 'movie' in str(json_file_path).lower():
-                            self.download_movie_images(item)
-                        elif 'show' in str(json_file_path).lower():
-                            self.download_show_images(item)
-        
-        except Exception as e:
-            logger.error(f"Error processing {json_file_path}: {e}")
-    
+                # Episode and season list items carry their show under 'show'
+                for key, ids in (('movie', movies), ('show', shows)):
+                    tmdb_id = (item.get(key) or {}).get('ids', {}).get('tmdb')
+                    if tmdb_id:
+                        ids.add(tmdb_id)
+                        break
+        return sorted(movies), sorted(shows)
+
     def download_all_media(self):
-        """Download all media files based on JSON data"""
+        """Download media files that aren't on disk yet for every item in the JSON data"""
         logger.info("Starting media download process...")
-        
+
         # Check if JSON data exists
         if not self.data_dir.exists():
             logger.error(f"JSON data directory not found: {self.data_dir}")
             return
-        
-        # Process different types of JSON files
-        json_files_to_process = [
+
+        json_paths = [self.data_dir / f for f in (
             'user/watchlist/movies.json',
             'user/watchlist/all.json',
             'user/history/movies.json',
             'user/history/shows.json',
             'user/watched/movies.json',
             'user/watched/shows.json'
-        ]
-        
-        for json_file in json_files_to_process:
-            json_path = self.data_dir / json_file
-            if json_path.exists():
-                logger.info(f"Processing: {json_file}")
-                self.process_json_file(json_path)
-            else:
-                logger.warning(f"JSON file not found: {json_path}")
-        
-        # Process list items
-        lists_dir = self.data_dir / 'user' / 'lists'
-        if lists_dir.exists():
-            for list_file in lists_dir.glob('*_items.json'):
-                logger.info(f"Processing list: {list_file.name}")
-                self.process_json_file(list_file)
-        
+        )] + sorted((self.data_dir / 'user' / 'lists').glob('*_items.json'))
+
+        movies, shows = self.collect_tmdb_ids(json_paths)
+        logger.info(f"Checking {len(movies)} movies and {len(shows)} shows")
+        for tmdb_id in movies:
+            self.download_movie_images(tmdb_id)
+        for tmdb_id in shows:
+            self.download_show_images(tmdb_id)
+
         # Create media index
         self.create_media_index()
-        
+
         logger.info("Media download process completed!")
     
     def create_media_index(self):
@@ -389,7 +282,7 @@ class MediaDownloader:
                             if season_dir.is_dir():
                                 season_number = season_dir.name
                                 season_posters = []
-                                for poster in season_dir.glob('*.jpg'):
+                                for poster in sorted(season_dir.glob('*.jpg')):
                                     season_posters.append(poster.name)
                                 
                                 if season_posters:
@@ -399,10 +292,25 @@ class MediaDownloader:
             for backdrop in (shows_dir / 'backdrops').glob('*.jpg'):
                 media_index['shows']['backdrops'].append(backdrop.name)
         
+        for group in (media_index['movies'], media_index['shows']):
+            for key in ('posters', 'backdrops'):
+                group[key].sort()
+
+        # Keep the old file (and its last_updated) when nothing changed, so no commit or redeploy happens
+        if self.media_index_path.exists():
+            try:
+                previous = json.loads(self.media_index_path.read_text(encoding='utf-8'))
+                previous.pop('last_updated', None)
+                if previous == {k: v for k, v in media_index.items() if k != 'last_updated'}:
+                    logger.info("Media index unchanged")
+                    return
+            except ValueError:
+                pass
+
         # Save index
         # Ensure the directory exists for media_index.json
         self.media_index_path.parent.mkdir(parents=True, exist_ok=True)
-        
+
         with open(self.media_index_path, 'w', encoding='utf-8') as f:
             json.dump(media_index, f, indent=2)
         

@@ -1,4 +1,4 @@
-"""Offline check of TraktUserDataClient.make_request pagination (no network, no real API key)."""
+"""Offline checks of the sync scripts: pagination, rebuilt stats, skipping unchanged data and images (no network, no real API keys)."""
 import os
 from unittest import mock
 
@@ -48,4 +48,43 @@ assert stats['shows'] == {'watched': 2}
 assert stats['episodes'] == {'plays': 4, 'watched': 2, 'minutes': 120}
 assert stats['network'] == {'friends': 1} and previous['movies']['watched'] == 1  # kept, not mutated
 
-print('pagination ok')
+import json
+import tempfile
+from pathlib import Path
+
+os.environ.setdefault('TMDB_API_KEY', 'test_key')
+import download_media
+
+with tempfile.TemporaryDirectory() as tmp:
+    tmp = Path(tmp)
+
+    # save_json leaves a file with unchanged data (and its fetched_at) alone
+    client.data_dir, client.changed = tmp, False
+    client.save_json([1], 'a.json')
+    assert client.changed
+    client.changed = False
+    before = (tmp / 'a.json').read_text()
+    client.save_json([1], 'a.json')
+    assert not client.changed and (tmp / 'a.json').read_text() == before
+
+    # The downloader only asks TMDB about images that aren't on disk
+    downloader = download_media.MediaDownloader(cdn_repo_path=str(tmp / 'cdn'))
+    downloader.media_index_path = tmp / 'media_index.json'
+    for f in ('movies/posters/1_poster.jpg', 'movies/backdrops/1_backdrop.jpg'):
+        (downloader.images_dir / f).touch()
+    with mock.patch.object(downloader, 'make_tmdb_request', return_value=None) as tmdb:
+        downloader.download_movie_images(1)
+        assert tmdb.call_count == 0
+        downloader.download_movie_images(2)
+        assert tmdb.call_count == 1
+
+    # The media index (and its last_updated) is only rewritten when the file set changes
+    downloader.create_media_index()
+    first = downloader.media_index_path.read_text()
+    downloader.create_media_index()
+    assert downloader.media_index_path.read_text() == first
+    (downloader.images_dir / 'movies/posters/2_poster.jpg').touch()
+    downloader.create_media_index()
+    assert json.loads(downloader.media_index_path.read_text())['movies']['posters'] == ['1_poster.jpg', '2_poster.jpg']
+
+print('sync tests ok')

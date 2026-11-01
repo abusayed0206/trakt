@@ -67,6 +67,8 @@ class TraktUserDataClient:
             'trakt-api-key': self.api_key
         }
         
+        self.changed = False  # set by save_json when any file's data changed
+
         # Create output directories
         self.data_dir = Path('public/data/json')
         self.create_directory_structure()
@@ -144,7 +146,17 @@ class TraktUserDataClient:
         """Save data to JSON file with metadata"""
         full_path = self.data_dir / filepath
         full_path.parent.mkdir(parents=True, exist_ok=True)
-        
+
+        # Leave unchanged files alone so the daily sync only commits (and redeploys) real changes
+        if full_path.exists():
+            try:
+                if json.loads(full_path.read_text(encoding='utf-8')).get('data') == data:
+                    logger.info(f"Unchanged: {full_path}")
+                    return
+            except ValueError:
+                pass
+        self.changed = True
+
         # Add metadata
         output = {
             'metadata': {
@@ -344,7 +356,9 @@ class TraktUserDataClient:
                 }
             }
             
-            self.save_json(index, 'index.json')
+            # last_updated = last time any data changed
+            if self.changed or not (self.data_dir / 'index.json').exists():
+                self.save_json(index, 'index.json')
             logger.info(f"Personal Trakt data fetch completed successfully for user: {self.username}!")
             
         except Exception as e:

@@ -45,10 +45,10 @@ jobs:
           python -c "import download_media; print('✅ download_media imports successfully')"
           python -c "import manage_data; print('✅ manage_data imports successfully')"
 
-      - name: Test pagination
+      - name: Test sync scripts
         run: |
           cd scripts
-          python test_fetch_pagination.py
+          python test_sync.py
 
       - name: Ensure required directories exist
         run: |

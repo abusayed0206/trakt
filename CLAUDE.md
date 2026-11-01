@@ -15,7 +15,7 @@ npm run lint         # next lint (eslint.config.mjs, next/core-web-vitals + type
 npm run type-check   # tsc --noEmit
 ```
 
-There is no JS test suite. The only CI check (`.github/workflows/test-scripts.yml`, on PRs touching `scripts/**`) is `py_compile` + import of the Python scripts, `python manage_data.py --help`, and the offline pagination test (`cd scripts && python test_fetch_pagination.py`).
+There is no JS test suite. The only CI check (`.github/workflows/test-scripts.yml`, on PRs touching `scripts/**`) is `py_compile` + import of the Python scripts, `python manage_data.py --help`, and the offline sync tests (`cd scripts && python test_sync.py`).
 
 Python data scripts (Python 3.11, `pip install -r scripts/requirements.txt`), run from the repo root:
 
@@ -34,6 +34,8 @@ Env vars (in `.env.local`, loaded by both Next and the scripts via python-dotenv
 `daily-trakt-sync.yml` (daily + every push to `main`):
 1. `fetch_trakt_data.py` pulls the user's profile, stats, history, watched, watchlist, lists, comments from the Trakt API and writes them to `public/data/json/user/**` plus `public/data/json/index.json`. Committed as "🎬 Update Trakt data".
 2. `download_media.py` walks those JSON files, downloads TMDB posters/backdrops/season posters into a **separate repo** (`abusayed0206/cdn`, checked out to `cdn-repo/`, folder `watch/`), and writes `public/data/media_index.json` listing every available filename. Committed as "📊 Update media index".
+
+Both steps are incremental, and that's deliberate: `save_json` skips files whose `data` is unchanged, `index.json` is only rewritten when something else changed, the downloader only calls TMDB for images missing from the CDN checkout (plus one `/tv/{id}` call per show to catch new seasons), and `media_index.json` keeps its old `last_updated` when the file set is unchanged. A day with no Trakt activity therefore produces no commit and no redeploy. Don't add per-run timestamps to generated files.
 
 `generate-cover.yml` builds `public/cover.webp` (896×272) + `public/cover.json` from watched data.
 
