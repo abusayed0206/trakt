@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-30T07:55:49.797651+00:00",
+    "fetched_at": "2026-11-01T21:33:10.546999+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/user_lists.json",
@@ -18,8 +18,8 @@
       "sort_by": "popularity",
       "sort_how": "desc",
       "created_at": "2024-01-18T16:02:04.000Z",
-      "updated_at": "2026-06-24T09:53:26.000Z",
-      "item_count": 91,
+      "updated_at": "2026-10-29T20:19:07.000Z",
+      "item_count": 88,
       "comment_count": 0,
       "likes": 0,
       "ids": {
@@ -47,12 +47,18 @@
         "about": "Movies and shows are my escape from life.",
         "name": "SAYED | সাঈদ",
         "gender": "male",
-        "age": 26,
+        "age": null,
         "vip": false,
         "vip_ep": false,
+        "vip_veteran_since": null,
+        "vip_veteran_years": null,
+        "vip_veteran_tier": null,
+        "vip_veteran_title": null,
         "vip_cover_image": null,
         "director": false
       },
+      "stale_origin": null,
+      "converted_to": null,
       "total_count": 4
     },
     {
@@ -95,17 +101,23 @@
         "about": "Movies and shows are my escape from life.",
         "name": "SAYED | সাঈদ",
         "gender": "male",
-        "age": 26,
+        "age": null,
         "vip": false,
         "vip_ep": false,
+        "vip_veteran_since": null,
+        "vip_veteran_years": null,
+        "vip_veteran_tier": null,
+        "vip_veteran_title": null,
         "vip_cover_image": null,
         "director": false
       },
+      "stale_origin": null,
+      "converted_to": null,
       "total_count": 4
     },
     {
       "name": "MDBLIST",
-      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/mdblist\r\nUpdated at 2026-07-29 07:59:25",
+      "description": "This list is maintained by mdblist.com\r\nCreate your own: https://mdblist.com/lists/lrs/mdblist\r\nUpdated at 2026-07-30 16:08:37",
       "privacy": "public",
       "share_link": "https://app.trakt.tv/users/lrs/lists/mdblist",
       "type": "personal",
@@ -114,7 +126,7 @@
       "sort_by": "rank",
       "sort_how": "asc",
       "created_at": "2026-01-01T22:03:25.000Z",
-      "updated_at": "2026-07-29T04:59:25.000Z",
+      "updated_at": "2026-07-30T13:08:37.000Z",
       "item_count": 3846,
       "comment_count": 0,
       "likes": 1,
@@ -143,12 +155,18 @@
         "about": "Movies and shows are my escape from life.",
         "name": "SAYED | সাঈদ",
         "gender": "male",
-        "age": 26,
+        "age": null,
         "vip": false,
         "vip_ep": false,
+        "vip_veteran_since": null,
+        "vip_veteran_years": null,
+        "vip_veteran_tier": null,
+        "vip_veteran_title": null,
         "vip_cover_image": null,
         "director": false
       },
+      "stale_origin": null,
+      "converted_to": null,
       "total_count": 4
     },
     {
@@ -191,12 +209,18 @@
         "about": "Movies and shows are my escape from life.",
         "name": "SAYED | সাঈদ",
         "gender": "male",
-        "age": 26,
+        "age": null,
         "vip": false,
         "vip_ep": false,
+        "vip_veteran_since": null,
+        "vip_veteran_years": null,
+        "vip_veteran_tier": null,
+        "vip_veteran_title": null,
         "vip_cover_image": null,
         "director": false
       },
+      "stale_origin": null,
+      "converted_to": null,
       "total_count": 4
     }
   ]

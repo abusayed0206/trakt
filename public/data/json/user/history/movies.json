@@ -1,12 +1,192 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-30T07:55:48.975082+00:00",
+    "fetched_at": "2026-11-01T21:33:08.971466+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14582626958,
+      "watched_at": "2026-10-29T02:18:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt22084616",
+          "plex": {
+            "guid": "5ed8a6246e2d7200411126cf",
+            "slug": "spider-man-brand-new-day"
+          },
+          "slug": "spider-man-brand-new-day-2026",
+          "tmdb": 969681,
+          "trakt": 905132
+        },
+        "year": 2026,
+        "title": "Spider-Man: Brand New Day"
+      }
+    },
+    {
+      "id": 14559168996,
+      "watched_at": "2026-10-21T20:55:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt38672588",
+          "plex": {
+            "guid": "68f9e4180618472430635080",
+            "slug": "masterplan-2026"
+          },
+          "slug": "masterplan-2026",
+          "tmdb": 1561726,
+          "trakt": 1289096
+        },
+        "year": 2026,
+        "title": "Masterplan"
+      }
+    },
+    {
+      "id": 14556333957,
+      "watched_at": "2026-10-20T21:43:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt31349844",
+          "plex": {
+            "guid": "69c44f4bb85f1bd2734c7298",
+            "slug": "runner-72"
+          },
+          "slug": "runner-2026",
+          "tmdb": 1377237,
+          "trakt": 1125169
+        },
+        "year": 2026,
+        "title": "Runner"
+      }
+    },
+    {
+      "id": 14385389130,
+      "watched_at": "2026-09-06T05:48:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt11561116",
+          "plex": {
+            "guid": "5f40987e1ae710004115f516",
+            "slug": "the-whisper-man"
+          },
+          "slug": "the-whisper-man-2026",
+          "tmdb": 860508,
+          "trakt": 688185
+        },
+        "year": 2026,
+        "title": "The Whisper Man"
+      }
+    },
+    {
+      "id": 14370614137,
+      "watched_at": "2026-09-02T17:25:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt32338669",
+          "plex": {
+            "guid": "66405eced4e4bace15d4a05a",
+            "slug": "mutiny-2026"
+          },
+          "slug": "mutiny-2026",
+          "tmdb": 1288445,
+          "trakt": 1048396
+        },
+        "year": 2026,
+        "title": "Mutiny"
+      }
+    },
+    {
+      "id": 14350905293,
+      "watched_at": "2026-08-29T16:09:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt5362988",
+          "plex": {
+            "guid": "5d776c3b7a53e9001e73d82d",
+            "slug": "wind-river-2017"
+          },
+          "slug": "wind-river-2017",
+          "tmdb": 395834,
+          "trakt": 238651
+        },
+        "year": 2017,
+        "title": "Wind River"
+      }
+    },
+    {
+      "id": 14316448551,
+      "watched_at": "2026-08-22T16:55:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt4139588",
+          "plex": {
+            "guid": "5d776efc51dd69001fe51059",
+            "slug": "polar-2019"
+          },
+          "slug": "polar-2019",
+          "tmdb": 483906,
+          "trakt": 331027
+        },
+        "year": 2019,
+        "title": "Polar"
+      }
+    },
+    {
+      "id": 14295832041,
+      "watched_at": "2026-08-18T18:14:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt0166924",
+          "plex": {
+            "guid": "5d776828961905001eb919e0",
+            "slug": "mulholland-drive-2001"
+          },
+          "slug": "mulholland-drive-2001",
+          "tmdb": 1018,
+          "trakt": 827
+        },
+        "year": 2001,
+        "title": "Mulholland Drive"
+      }
+    },
+    {
+      "id": 14286299310,
+      "watched_at": "2026-08-16T21:57:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt33296751",
+          "plex": {
+            "guid": "66d3f92a96f3a722ecbd8f01",
+            "slug": "tuner-2025"
+          },
+          "slug": "tuner-2026",
+          "tmdb": 1340206,
+          "trakt": 1096313
+        },
+        "year": 2026,
+        "title": "Tuner"
+      }
+    },
     {
       "id": 13062230456,
       "watched_at": "2026-07-05T15:14:00.000Z",
@@ -1825,186 +2005,6 @@
         },
         "year": 2012,
         "title": "Prometheus"
-      }
-    },
-    {
-      "id": 11233912176,
-      "watched_at": "2025-09-04T13:34:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt7923220",
-          "plex": {
-            "guid": "5d7770de7a53e9001e7ad056",
-            "slug": "inheritance-2020"
-          },
-          "slug": "inheritance-2020",
-          "tmdb": 602147,
-          "trakt": 454984
-        },
-        "year": 2020,
-        "title": "Inheritance"
-      }
-    },
-    {
-      "id": 11230058275,
-      "watched_at": "2025-09-03T06:29:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt28996126",
-          "plex": {
-            "guid": "64fdc3a5732dc8989ba96acb",
-            "slug": "nobody-2-2025"
-          },
-          "slug": "nobody-2-2025",
-          "tmdb": 1007734,
-          "trakt": 810123
-        },
-        "year": 2025,
-        "title": "Nobody 2"
-      }
-    },
-    {
-      "id": 11219825835,
-      "watched_at": "2025-08-31T12:36:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt3316948",
-          "plex": {
-            "guid": "5d776ab8fb0d55001f54ef45",
-            "slug": "american-ultra"
-          },
-          "slug": "american-ultra-2015",
-          "tmdb": 261392,
-          "trakt": 160399
-        },
-        "year": 2015,
-        "title": "American Ultra"
-      }
-    },
-    {
-      "id": 11208293375,
-      "watched_at": "2025-08-28T08:49:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt16311594",
-          "plex": {
-            "guid": "61b0a23cc2629c42c5fe61cd",
-            "slug": "f1"
-          },
-          "slug": "f1-2025",
-          "tmdb": 911430,
-          "trakt": 729817
-        },
-        "year": 2025,
-        "title": "F1"
-      }
-    },
-    {
-      "id": 11203039648,
-      "watched_at": "2025-08-26T16:44:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt8269856",
-          "plex": {
-            "guid": "5e161922d68b4a003e34ec62",
-            "slug": "foxter-and-max"
-          },
-          "slug": "foxter-and-max-2019",
-          "tmdb": 611014,
-          "trakt": 455087
-        },
-        "year": 2019,
-        "title": "Foxter and Max"
-      }
-    },
-    {
-      "id": 11176215982,
-      "watched_at": "2025-08-18T19:52:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt9603208",
-          "plex": {
-            "guid": "5d7770b4b2739400200e98ce",
-            "slug": "mission-impossible-the-final-reckoning"
-          },
-          "slug": "mission-impossible-the-final-reckoning-2025",
-          "tmdb": 575265,
-          "trakt": 426078
-        },
-        "year": 2025,
-        "title": "Mission: Impossible - The Final Reckoning"
-      }
-    },
-    {
-      "id": 11173136295,
-      "watched_at": "2025-08-17T19:14:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt0499556",
-          "plex": {
-            "guid": "5d9f34faadeb7a0021ce07c2",
-            "slug": "war-2007"
-          },
-          "slug": "war-2007",
-          "tmdb": 10431,
-          "trakt": 5623
-        },
-        "year": 2007,
-        "title": "War"
-      }
-    },
-    {
-      "id": 11171914256,
-      "watched_at": "2025-08-17T09:55:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt5950044",
-          "plex": {
-            "guid": "5d776c73ad5437001f7be813",
-            "slug": "superman-2025"
-          },
-          "slug": "superman-2025",
-          "tmdb": 1061474,
-          "trakt": 853702
-        },
-        "year": 2025,
-        "title": "Superman"
-      }
-    },
-    {
-      "id": 11166077020,
-      "watched_at": "2025-08-15T13:57:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt1308729",
-          "plex": {
-            "guid": "5d7768afad5437001f74d0a0",
-            "slug": "bullet-to-the-head"
-          },
-          "slug": "bullet-to-the-head-2012",
-          "tmdb": 70074,
-          "trakt": 51263
-        },
-        "year": 2012,
-        "title": "Bullet to the Head"
       }
     }
   ]

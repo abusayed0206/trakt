@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-30T07:55:49.710781+00:00",
+    "fetched_at": "2026-11-01T21:33:10.445364+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/shows.json",
@@ -143,7 +143,7 @@
         },
         "year": 2018,
         "title": "9-1-1",
-        "aired_episodes": 142
+        "aired_episodes": 145
       },
       "rank": 29,
       "id": 1484764184,
@@ -167,7 +167,7 @@
         },
         "year": 2014,
         "title": "Chicago P.D.",
-        "aired_episodes": 264
+        "aired_episodes": 268
       },
       "rank": 30,
       "id": 1484764186,

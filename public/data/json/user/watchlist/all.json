@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-30T07:55:49.541839+00:00",
+    "fetched_at": "2026-11-01T21:33:10.154083+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
-    "count": 29
+    "count": 26
   },
   "data": [
     {
@@ -253,28 +253,6 @@
       "type": "movie",
       "movie": {
         "ids": {
-          "imdb": "tt4139588",
-          "plex": {
-            "guid": "5d776efc51dd69001fe51059",
-            "slug": "polar-2019"
-          },
-          "slug": "polar-2019",
-          "tmdb": 483906,
-          "trakt": 331027
-        },
-        "year": 2019,
-        "title": "Polar"
-      },
-      "rank": 20,
-      "id": 1406249110,
-      "listed_at": "2026-01-11T05:07:53.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
           "imdb": "tt0480249",
           "plex": {
             "guid": "5d7768302ec6b5001f6bb366",
@@ -378,28 +356,6 @@
       "rank": 23,
       "id": 1285064215,
       "listed_at": "2025-07-22T20:04:33.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt22084616",
-          "plex": {
-            "guid": "5ed8a6246e2d7200411126cf",
-            "slug": "spider-man-brand-new-day"
-          },
-          "slug": "spider-man-brand-new-day-2026",
-          "tmdb": 969681,
-          "trakt": 905132
-        },
-        "year": 2026,
-        "title": "Spider-Man: Brand New Day"
-      },
-      "rank": 23,
-      "id": 1480028623,
-      "listed_at": "2026-06-15T04:25:39.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -605,33 +561,11 @@
         },
         "year": 2018,
         "title": "9-1-1",
-        "aired_episodes": 142
+        "aired_episodes": 145
       },
       "rank": 29,
       "id": 1484764184,
       "listed_at": "2026-06-24T09:27:48.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt33296751",
-          "plex": {
-            "guid": "66d3f92a96f3a722ecbd8f01",
-            "slug": "tuner-2025"
-          },
-          "slug": "tuner-2026",
-          "tmdb": 1340206,
-          "trakt": 1096313
-        },
-        "year": 2026,
-        "title": "Tuner"
-      },
-      "rank": 29,
-      "id": 1484795126,
-      "listed_at": "2026-06-24T11:05:23.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -651,7 +585,7 @@
         },
         "year": 2014,
         "title": "Chicago P.D.",
-        "aired_episodes": 264
+        "aired_episodes": 268
       },
       "rank": 30,
       "id": 1484764186,

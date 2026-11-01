@@ -1,12 +1,2136 @@
 {
   "metadata": {
-    "fetched_at": "2026-07-30T07:55:49.160586+00:00",
+    "fetched_at": "2026-11-01T21:33:09.057547+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14584697656,
+      "watched_at": "2026-10-29T19:30:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt3959996",
+          "plex": {
+            "guid": "5d9c0e1e2192ba001f34a579"
+          },
+          "tmdb": 1199553,
+          "tvdb": 5657625,
+          "trakt": 6542024
+        },
+        "title": "Part 8: The Call of the Wild",
+        "number": 8,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2401256",
+          "plex": {
+            "guid": "5d9c0818ffd9ef001e98cd31",
+            "slug": "the-night-of"
+          },
+          "slug": "the-night-of",
+          "tmdb": 66276,
+          "tvdb": 310516,
+          "trakt": 196851
+        },
+        "year": 2016,
+        "title": "The Night Of",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14584697655,
+      "watched_at": "2026-10-29T19:30:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4541832",
+          "plex": {
+            "guid": "5d9c0e1e2192ba001f34a576"
+          },
+          "tmdb": 1199554,
+          "tvdb": 5657624,
+          "trakt": 6542023
+        },
+        "title": "Part 7: Ordinary Death",
+        "number": 7,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2401256",
+          "plex": {
+            "guid": "5d9c0818ffd9ef001e98cd31",
+            "slug": "the-night-of"
+          },
+          "slug": "the-night-of",
+          "tmdb": 66276,
+          "tvdb": 310516,
+          "trakt": 196851
+        },
+        "year": 2016,
+        "title": "The Night Of",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14584697654,
+      "watched_at": "2026-10-29T19:30:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4541830",
+          "plex": {
+            "guid": "5d9c0e1e2192ba001f34a573"
+          },
+          "tmdb": 1199555,
+          "tvdb": 5657623,
+          "trakt": 6542022
+        },
+        "title": "Part 6: Samson and Delilah",
+        "number": 6,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2401256",
+          "plex": {
+            "guid": "5d9c0818ffd9ef001e98cd31",
+            "slug": "the-night-of"
+          },
+          "slug": "the-night-of",
+          "tmdb": 66276,
+          "tvdb": 310516,
+          "trakt": 196851
+        },
+        "year": 2016,
+        "title": "The Night Of",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14584697653,
+      "watched_at": "2026-10-29T19:30:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4194636",
+          "plex": {
+            "guid": "5d9c0e1e2192ba001f34a564"
+          },
+          "tmdb": 1199556,
+          "tvdb": 5657622,
+          "trakt": 6542021
+        },
+        "title": "Part 5: The Season of the Witch",
+        "number": 5,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2401256",
+          "plex": {
+            "guid": "5d9c0818ffd9ef001e98cd31",
+            "slug": "the-night-of"
+          },
+          "slug": "the-night-of",
+          "tmdb": 66276,
+          "tvdb": 310516,
+          "trakt": 196851
+        },
+        "year": 2016,
+        "title": "The Night Of",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14584697652,
+      "watched_at": "2026-10-29T19:30:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4136788",
+          "plex": {
+            "guid": "5d9c0e1e2192ba001f34a570"
+          },
+          "tmdb": 1199557,
+          "tvdb": 5648844,
+          "trakt": 6542020
+        },
+        "title": "Part 4: The Art of War",
+        "number": 4,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2401256",
+          "plex": {
+            "guid": "5d9c0818ffd9ef001e98cd31",
+            "slug": "the-night-of"
+          },
+          "slug": "the-night-of",
+          "tmdb": 66276,
+          "tvdb": 310516,
+          "trakt": 196851
+        },
+        "year": 2016,
+        "title": "The Night Of",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14584697651,
+      "watched_at": "2026-10-29T19:30:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4088556",
+          "plex": {
+            "guid": "5d9c0e1d2192ba001f34a561"
+          },
+          "tmdb": 1199558,
+          "tvdb": 5648843,
+          "trakt": 6542019
+        },
+        "title": "Part 3: A Dark Crate",
+        "number": 3,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2401256",
+          "plex": {
+            "guid": "5d9c0818ffd9ef001e98cd31",
+            "slug": "the-night-of"
+          },
+          "slug": "the-night-of",
+          "tmdb": 66276,
+          "tvdb": 310516,
+          "trakt": 196851
+        },
+        "year": 2016,
+        "title": "The Night Of",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14584697650,
+      "watched_at": "2026-10-29T19:30:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4071596",
+          "plex": {
+            "guid": "5d9c0e1ee9d5a1001f4ef102"
+          },
+          "tmdb": 1199559,
+          "tvdb": 5648842,
+          "trakt": 6542018
+        },
+        "title": "Part 2: Subtle Beast",
+        "number": 2,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2401256",
+          "plex": {
+            "guid": "5d9c0818ffd9ef001e98cd31",
+            "slug": "the-night-of"
+          },
+          "slug": "the-night-of",
+          "tmdb": 66276,
+          "tvdb": 310516,
+          "trakt": 196851
+        },
+        "year": 2016,
+        "title": "The Night Of",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14584697649,
+      "watched_at": "2026-10-29T19:30:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt3221734",
+          "plex": {
+            "guid": "5d9c0e1ee9d5a1001f4ef10e"
+          },
+          "tmdb": 1199552,
+          "tvdb": 5586358,
+          "trakt": 6542017
+        },
+        "title": "Part 1: The Beach",
+        "number": 1,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2401256",
+          "plex": {
+            "guid": "5d9c0818ffd9ef001e98cd31",
+            "slug": "the-night-of"
+          },
+          "slug": "the-night-of",
+          "tmdb": 66276,
+          "tvdb": 310516,
+          "trakt": 196851
+        },
+        "year": 2016,
+        "title": "The Night Of",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14541382301,
+      "watched_at": "2026-10-16T19:25:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752615",
+          "plex": {
+            "guid": "673ffc678ed664b364de7b0a"
+          },
+          "tmdb": 7179889,
+          "tvdb": 11908194,
+          "trakt": 14132655
+        },
+        "title": "Dirt and Stars",
+        "number": 8,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14541382300,
+      "watched_at": "2026-10-16T19:25:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752614",
+          "plex": {
+            "guid": "667bd2c40df781bc3d30d434"
+          },
+          "tmdb": 7179888,
+          "tvdb": 11908193,
+          "trakt": 14132654
+        },
+        "title": "The Jordan Boys' Legacy",
+        "number": 7,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14541382299,
+      "watched_at": "2026-10-16T19:25:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752609",
+          "plex": {
+            "guid": "673ffc678ed664b364de7ae3"
+          },
+          "tmdb": 7179887,
+          "tvdb": 11908192,
+          "trakt": 14132653
+        },
+        "title": "Bad Optics",
+        "number": 6,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14541382298,
+      "watched_at": "2026-10-16T19:25:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752611",
+          "plex": {
+            "guid": "673ffc678ed664b364de7ac4"
+          },
+          "tmdb": 7179886,
+          "tvdb": 11908191,
+          "trakt": 14132652
+        },
+        "title": "Lights Out",
+        "number": 5,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14541382297,
+      "watched_at": "2026-10-16T19:25:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752610",
+          "plex": {
+            "guid": "673ffc668ed664b364de7aba"
+          },
+          "tmdb": 7179885,
+          "tvdb": 11908190,
+          "trakt": 14132651
+        },
+        "title": "The Weenie",
+        "number": 4,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14541382296,
+      "watched_at": "2026-10-16T19:25:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752612",
+          "plex": {
+            "guid": "673ffc668ed664b364de7a9f"
+          },
+          "tmdb": 7179884,
+          "tvdb": 11908189,
+          "trakt": 14132650
+        },
+        "title": "OutKast",
+        "number": 3,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14541382295,
+      "watched_at": "2026-10-16T19:25:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752613",
+          "plex": {
+            "guid": "69a995b6a9aa9ffc876ff07a"
+          },
+          "tmdb": 7007714,
+          "tvdb": 11908188,
+          "trakt": 14039162
+        },
+        "title": "Trust Fall",
+        "number": 2,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14541382294,
+      "watched_at": "2026-10-16T19:25:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt26546824",
+          "plex": {
+            "guid": "657769695115da2c50193074"
+          },
+          "tmdb": 4988115,
+          "tvdb": 9216985,
+          "trakt": 11664405
+        },
+        "title": "Pilot",
+        "number": 1,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14454888037,
+      "watched_at": "2026-09-23T18:51:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752609",
+          "plex": {
+            "guid": "673ffc678ed664b364de7ae3"
+          },
+          "tmdb": 7179887,
+          "tvdb": 11908192,
+          "trakt": 14132653
+        },
+        "title": "Bad Optics",
+        "number": 6,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14449774417,
+      "watched_at": "2026-09-22T09:43:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752611",
+          "plex": {
+            "guid": "673ffc678ed664b364de7ac4"
+          },
+          "tmdb": 7179886,
+          "tvdb": 11908191,
+          "trakt": 14132652
+        },
+        "title": "Lights Out",
+        "number": 5,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14442793008,
+      "watched_at": "2026-09-20T17:44:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752610",
+          "plex": {
+            "guid": "673ffc668ed664b364de7aba"
+          },
+          "tmdb": 7179885,
+          "tvdb": 11908190,
+          "trakt": 14132651
+        },
+        "title": "The Weenie",
+        "number": 4,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14414066527,
+      "watched_at": "2026-09-13T08:38:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt26546824",
+          "plex": {
+            "guid": "657769695115da2c50193074"
+          },
+          "tmdb": 4988115,
+          "tvdb": 9216985,
+          "trakt": 11664405
+        },
+        "title": "Pilot",
+        "number": 1,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14375244641,
+      "watched_at": "2026-09-03T19:27:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt38082628",
+          "plex": {
+            "guid": "68b79b83dcba097051e634cf"
+          },
+          "tmdb": 7438866,
+          "tvdb": 11868081,
+          "trakt": 14272174
+        },
+        "title": "Plum Out of Luck",
+        "number": 6,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt9288030",
+          "plex": {
+            "guid": "5d9c09190aaccd001f8f42f0",
+            "slug": "reacher"
+          },
+          "slug": "reacher",
+          "tmdb": 108978,
+          "tvdb": 366924,
+          "trakt": 155536
+        },
+        "year": 2022,
+        "title": "Reacher",
+        "aired_episodes": 32
+      }
+    },
+    {
+      "id": 14442646944,
+      "watched_at": "2026-08-31T01:54:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752612",
+          "plex": {
+            "guid": "673ffc668ed664b364de7a9f"
+          },
+          "tmdb": 7179884,
+          "tvdb": 11908189,
+          "trakt": 14132650
+        },
+        "title": "OutKast",
+        "number": 3,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14343368446,
+      "watched_at": "2026-08-27T20:27:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt38082627",
+          "plex": {
+            "guid": "68b79b83dcba097051e634ce"
+          },
+          "tmdb": 7438865,
+          "tvdb": 11868080,
+          "trakt": 14272173
+        },
+        "title": "Bridge",
+        "number": 5,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt9288030",
+          "plex": {
+            "guid": "5d9c09190aaccd001f8f42f0",
+            "slug": "reacher"
+          },
+          "slug": "reacher",
+          "tmdb": 108978,
+          "tvdb": 366924,
+          "trakt": 155536
+        },
+        "year": 2022,
+        "title": "Reacher",
+        "aired_episodes": 32
+      }
+    },
+    {
+      "id": 14343368027,
+      "watched_at": "2026-08-27T20:27:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt38082625",
+          "plex": {
+            "guid": "68b79b83dcba097051e634cd"
+          },
+          "tmdb": 7438864,
+          "tvdb": 11867799,
+          "trakt": 14272172
+        },
+        "title": "Karambits and Pieces",
+        "number": 4,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt9288030",
+          "plex": {
+            "guid": "5d9c09190aaccd001f8f42f0",
+            "slug": "reacher"
+          },
+          "slug": "reacher",
+          "tmdb": 108978,
+          "tvdb": 366924,
+          "trakt": 155536
+        },
+        "year": 2022,
+        "title": "Reacher",
+        "aired_episodes": 32
+      }
+    },
+    {
+      "id": 14331376095,
+      "watched_at": "2026-08-25T10:21:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt36591971",
+          "plex": {
+            "guid": "69ef88797bdcd1269f9911ae"
+          },
+          "tmdb": 7196571,
+          "tvdb": 11763809,
+          "trakt": 13904820
+        },
+        "title": "The Treasons at Tumbleton",
+        "number": 8,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11198330",
+          "plex": {
+            "guid": "5e160ed3e68804001e87a7b5",
+            "slug": "house-of-the-dragon"
+          },
+          "slug": "house-of-the-dragon",
+          "tmdb": 94997,
+          "tvdb": 371572,
+          "trakt": 154574
+        },
+        "year": 2022,
+        "title": "House of the Dragon",
+        "aired_episodes": 26
+      }
+    },
+    {
+      "id": 14331376094,
+      "watched_at": "2026-08-25T10:21:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt36591969",
+          "plex": {
+            "guid": "69ef88797bdcd1269f9911ad"
+          },
+          "tmdb": 7196570,
+          "tvdb": 11763808,
+          "trakt": 13904819
+        },
+        "title": "The Dragon in Winter",
+        "number": 7,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11198330",
+          "plex": {
+            "guid": "5e160ed3e68804001e87a7b5",
+            "slug": "house-of-the-dragon"
+          },
+          "slug": "house-of-the-dragon",
+          "tmdb": 94997,
+          "tvdb": 371572,
+          "trakt": 154574
+        },
+        "year": 2022,
+        "title": "House of the Dragon",
+        "aired_episodes": 26
+      }
+    },
+    {
+      "id": 14331376093,
+      "watched_at": "2026-08-25T10:21:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt36591964",
+          "plex": {
+            "guid": "69ef88797bdcd1269f9911ac"
+          },
+          "tmdb": 7196569,
+          "tvdb": 11763807,
+          "trakt": 13904818
+        },
+        "title": "Faceless Men",
+        "number": 6,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11198330",
+          "plex": {
+            "guid": "5e160ed3e68804001e87a7b5",
+            "slug": "house-of-the-dragon"
+          },
+          "slug": "house-of-the-dragon",
+          "tmdb": 94997,
+          "tvdb": 371572,
+          "trakt": 154574
+        },
+        "year": 2022,
+        "title": "House of the Dragon",
+        "aired_episodes": 26
+      }
+    },
+    {
+      "id": 14331376092,
+      "watched_at": "2026-08-25T10:21:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt36591961",
+          "plex": {
+            "guid": "69ef88797bdcd1269f9911ab"
+          },
+          "tmdb": 7196568,
+          "tvdb": 11763806,
+          "trakt": 13904817
+        },
+        "title": "Unbowed and Unbent",
+        "number": 5,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11198330",
+          "plex": {
+            "guid": "5e160ed3e68804001e87a7b5",
+            "slug": "house-of-the-dragon"
+          },
+          "slug": "house-of-the-dragon",
+          "tmdb": 94997,
+          "tvdb": 371572,
+          "trakt": 154574
+        },
+        "year": 2022,
+        "title": "House of the Dragon",
+        "aired_episodes": 26
+      }
+    },
+    {
+      "id": 14331376091,
+      "watched_at": "2026-08-25T10:21:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt36591958",
+          "plex": {
+            "guid": "69ef88797bdcd1269f9911aa"
+          },
+          "tmdb": 7196567,
+          "tvdb": 11763805,
+          "trakt": 13904816
+        },
+        "title": "Tumbleton",
+        "number": 4,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11198330",
+          "plex": {
+            "guid": "5e160ed3e68804001e87a7b5",
+            "slug": "house-of-the-dragon"
+          },
+          "slug": "house-of-the-dragon",
+          "tmdb": 94997,
+          "tvdb": 371572,
+          "trakt": 154574
+        },
+        "year": 2022,
+        "title": "House of the Dragon",
+        "aired_episodes": 26
+      }
+    },
+    {
+      "id": 14331376090,
+      "watched_at": "2026-08-25T10:21:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt33076347",
+          "plex": {
+            "guid": "69ef88797bdcd1269f9911a9"
+          },
+          "tmdb": 7196566,
+          "tvdb": 11763804,
+          "trakt": 13904815
+        },
+        "title": "Rhaenyra Triumphant",
+        "number": 3,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11198330",
+          "plex": {
+            "guid": "5e160ed3e68804001e87a7b5",
+            "slug": "house-of-the-dragon"
+          },
+          "slug": "house-of-the-dragon",
+          "tmdb": 94997,
+          "tvdb": 371572,
+          "trakt": 154574
+        },
+        "year": 2022,
+        "title": "House of the Dragon",
+        "aired_episodes": 26
+      }
+    },
+    {
+      "id": 14331376089,
+      "watched_at": "2026-08-25T10:21:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt27156829",
+          "plex": {
+            "guid": "69ef88797bdcd1269f9911a8"
+          },
+          "tmdb": 7196565,
+          "tvdb": 11763803,
+          "trakt": 13904814
+        },
+        "title": "Queen's Landing",
+        "number": 2,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11198330",
+          "plex": {
+            "guid": "5e160ed3e68804001e87a7b5",
+            "slug": "house-of-the-dragon"
+          },
+          "slug": "house-of-the-dragon",
+          "tmdb": 94997,
+          "tvdb": 371572,
+          "trakt": 154574
+        },
+        "year": 2022,
+        "title": "House of the Dragon",
+        "aired_episodes": 26
+      }
+    },
+    {
+      "id": 14331376088,
+      "watched_at": "2026-08-25T10:21:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt27147010",
+          "plex": {
+            "guid": "69ef88797bdcd1269f9911a7"
+          },
+          "tmdb": 7196563,
+          "tvdb": 11763802,
+          "trakt": 12956702
+        },
+        "title": "Salt and Sea, Fire and Blood",
+        "number": 1,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11198330",
+          "plex": {
+            "guid": "5e160ed3e68804001e87a7b5",
+            "slug": "house-of-the-dragon"
+          },
+          "slug": "house-of-the-dragon",
+          "tmdb": 94997,
+          "tvdb": 371572,
+          "trakt": 154574
+        },
+        "year": 2022,
+        "title": "House of the Dragon",
+        "aired_episodes": 26
+      }
+    },
+    {
+      "id": 14442646372,
+      "watched_at": "2026-08-24T01:52:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt32752613",
+          "plex": {
+            "guid": "69a995b6a9aa9ffc876ff07a"
+          },
+          "tmdb": 7007714,
+          "tvdb": 11908188,
+          "trakt": 14039162
+        },
+        "title": "Trust Fall",
+        "number": 2,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt26545992",
+          "plex": {
+            "guid": "6475f4e274668225adb2c0e0",
+            "slug": "lanterns-1"
+          },
+          "slug": "lanterns",
+          "tmdb": 95350,
+          "tvdb": 376098,
+          "trakt": 157599
+        },
+        "year": 2026,
+        "title": "Lanterns",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14291490448,
+      "watched_at": "2026-08-17T20:44:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt38082624",
+          "plex": {
+            "guid": "68b79b82dcba097051e634cc"
+          },
+          "tmdb": 7438863,
+          "tvdb": 11867798,
+          "trakt": 14272171
+        },
+        "title": "One Small Step",
+        "number": 3,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt9288030",
+          "plex": {
+            "guid": "5d9c09190aaccd001f8f42f0",
+            "slug": "reacher"
+          },
+          "slug": "reacher",
+          "tmdb": 108978,
+          "tvdb": 366924,
+          "trakt": 155536
+        },
+        "year": 2022,
+        "title": "Reacher",
+        "aired_episodes": 32
+      }
+    },
+    {
+      "id": 14291490080,
+      "watched_at": "2026-08-17T20:44:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt38082623",
+          "plex": {
+            "guid": "68b79b82dcba097051e634cb"
+          },
+          "tmdb": 7438862,
+          "tvdb": 11867797,
+          "trakt": 14272170
+        },
+        "title": "Cage Fight",
+        "number": 2,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt9288030",
+          "plex": {
+            "guid": "5d9c09190aaccd001f8f42f0",
+            "slug": "reacher"
+          },
+          "slug": "reacher",
+          "tmdb": 108978,
+          "tvdb": 366924,
+          "trakt": 155536
+        },
+        "year": 2022,
+        "title": "Reacher",
+        "aired_episodes": 32
+      }
+    },
+    {
+      "id": 14291490007,
+      "watched_at": "2026-08-17T20:44:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt33782685",
+          "plex": {
+            "guid": "673f5252fd931eacca0a2db7"
+          },
+          "tmdb": 7438861,
+          "tvdb": 11867331,
+          "trakt": 14272169
+        },
+        "title": "City of Brotherly Love",
+        "number": 1,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt9288030",
+          "plex": {
+            "guid": "5d9c09190aaccd001f8f42f0",
+            "slug": "reacher"
+          },
+          "slug": "reacher",
+          "tmdb": 108978,
+          "tvdb": 366924,
+          "trakt": 155536
+        },
+        "year": 2022,
+        "title": "Reacher",
+        "aired_episodes": 32
+      }
+    },
+    {
+      "id": 14243574152,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt2922128",
+          "plex": {
+            "guid": "5d9c0b944eefaa001f5fad71"
+          },
+          "tmdb": 65211,
+          "tvdb": 4430315,
+          "trakt": 76074
+        },
+        "title": "Episode 4",
+        "number": 4,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574151,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt2740968",
+          "plex": {
+            "guid": "5d9c0b944eefaa001f5fad56"
+          },
+          "tmdb": 65210,
+          "tvdb": 4430314,
+          "trakt": 76073
+        },
+        "title": "Episode 3",
+        "number": 3,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574150,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt2808666",
+          "plex": {
+            "guid": "5d9c0b944eefaa001f5fad61"
+          },
+          "tmdb": 65209,
+          "tvdb": 4430313,
+          "trakt": 76072
+        },
+        "title": "Episode 2",
+        "number": 2,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574149,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt2546388",
+          "plex": {
+            "guid": "5d9c0b944eefaa001f5fad65"
+          },
+          "tmdb": 65208,
+          "tvdb": 4427694,
+          "trakt": 76071
+        },
+        "title": "Episode 1",
+        "number": 1,
+        "season": 3
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574148,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1837286",
+          "plex": {
+            "guid": "5d9c0b944eefaa001f5fad75"
+          },
+          "tmdb": 65207,
+          "tvdb": 4116125,
+          "trakt": 76070
+        },
+        "title": "Episode 4",
+        "number": 4,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574147,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1837285",
+          "plex": {
+            "guid": "5d9c0b94ba2e21001f19bfef"
+          },
+          "tmdb": 65206,
+          "tvdb": 4116124,
+          "trakt": 76069
+        },
+        "title": "Episode 3",
+        "number": 3,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574146,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1837284",
+          "plex": {
+            "guid": "5d9c0b94ba2e21001f19bfe7"
+          },
+          "tmdb": 65205,
+          "tvdb": 4116123,
+          "trakt": 76068
+        },
+        "title": "Episode 2",
+        "number": 2,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574145,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1837283",
+          "plex": {
+            "guid": "5d9c0b94ba2e21001f19bfeb"
+          },
+          "tmdb": 65204,
+          "tvdb": 4111398,
+          "trakt": 76067
+        },
+        "title": "Episode 1",
+        "number": 1,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574144,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1623896",
+          "plex": {
+            "guid": "5d9c0b942192ba001f32fecb"
+          },
+          "tmdb": 65203,
+          "tvdb": 2236881,
+          "trakt": 76066
+        },
+        "title": "Episode 6",
+        "number": 6,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574143,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1623895",
+          "plex": {
+            "guid": "5d9c0b942192ba001f32fec0"
+          },
+          "tmdb": 65198,
+          "tvdb": 2236871,
+          "trakt": 76065
+        },
+        "title": "Episode 5",
+        "number": 5,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574142,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1607149",
+          "plex": {
+            "guid": "5d9c0b944eefaa001f5fad69"
+          },
+          "tmdb": 65199,
+          "tvdb": 2236861,
+          "trakt": 76064
+        },
+        "title": "Episode 4",
+        "number": 4,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574141,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1607148",
+          "plex": {
+            "guid": "5d9c0b944eefaa001f5fad6d"
+          },
+          "tmdb": 65202,
+          "tvdb": 2229571,
+          "trakt": 76063
+        },
+        "title": "Episode 3",
+        "number": 3,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574140,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1622886",
+          "plex": {
+            "guid": "5d9c0b942192ba001f32fed5"
+          },
+          "tmdb": 65201,
+          "tvdb": 2177951,
+          "trakt": 76062
+        },
+        "title": "Episode 2",
+        "number": 2,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574139,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1622278",
+          "plex": {
+            "guid": "5d9c0b942192ba001f32fec4"
+          },
+          "tmdb": 65200,
+          "tvdb": 2140041,
+          "trakt": 76061
+        },
+        "title": "Episode 1",
+        "number": 1,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574138,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt7009008",
+          "plex": {
+            "guid": "5d9c0b9408fddd001f2c1df3"
+          },
+          "tmdb": 1657780,
+          "tvdb": 6928084,
+          "trakt": 3264001
+        },
+        "title": "Episode 4",
+        "number": 4,
+        "season": 5
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574137,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt7009010",
+          "plex": {
+            "guid": "5d9c0b9408fddd001f2c1ded"
+          },
+          "tmdb": 1657778,
+          "tvdb": 6928083,
+          "trakt": 3263998
+        },
+        "title": "Episode 3",
+        "number": 3,
+        "season": 5
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574136,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt7009012",
+          "plex": {
+            "guid": "5d9c0b9408fddd001f2c1dff"
+          },
+          "tmdb": 1657776,
+          "tvdb": 6928082,
+          "trakt": 3263994
+        },
+        "title": "Episode 2",
+        "number": 2,
+        "season": 5
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574135,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt7011166",
+          "plex": {
+            "guid": "5d9c0b9408fddd001f2c1df6"
+          },
+          "tmdb": 1626346,
+          "tvdb": 6927364,
+          "trakt": 3263991
+        },
+        "title": "Episode 1",
+        "number": 1,
+        "season": 5
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574134,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4235464",
+          "plex": {
+            "guid": "5d9c0b9408fddd001f2c1de7"
+          },
+          "tmdb": 1146617,
+          "tvdb": 5420733,
+          "trakt": 1722245
+        },
+        "title": "Episode 2",
+        "number": 2,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14243574133,
+      "watched_at": "2026-08-11T19:22:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4213674",
+          "plex": {
+            "guid": "5d9c0b944eefaa001f5fad5d"
+          },
+          "tmdb": 1143289,
+          "tvdb": 5420732,
+          "trakt": 1722244
+        },
+        "title": "Episode 1",
+        "number": 1,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14233622631,
+      "watched_at": "2026-08-10T12:18:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1607148",
+          "plex": {
+            "guid": "5d9c0b944eefaa001f5fad6d"
+          },
+          "tmdb": 65202,
+          "tvdb": 2229571,
+          "trakt": 76063
+        },
+        "title": "Episode 3",
+        "number": 3,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14233609013,
+      "watched_at": "2026-08-10T12:18:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1622886",
+          "plex": {
+            "guid": "5d9c0b942192ba001f32fed5"
+          },
+          "tmdb": 65201,
+          "tvdb": 2177951,
+          "trakt": 76062
+        },
+        "title": "Episode 2",
+        "number": 2,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
+    {
+      "id": 14233584373,
+      "watched_at": "2026-08-10T12:18:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt1622278",
+          "plex": {
+            "guid": "5d9c0b942192ba001f32fec4"
+          },
+          "tmdb": 65200,
+          "tvdb": 2140041,
+          "trakt": 76061
+        },
+        "title": "Episode 1",
+        "number": 1,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt1474684",
+          "plex": {
+            "guid": "5d9c07f846115600200a611b",
+            "slug": "luther"
+          },
+          "slug": "luther",
+          "tmdb": 1426,
+          "tvdb": 159591,
+          "trakt": 1417
+        },
+        "year": 2010,
+        "title": "Luther",
+        "aired_episodes": 20
+      }
+    },
     {
       "id": 14081679492,
       "watched_at": "2026-07-27T16:25:00.000Z",
@@ -40,7 +2164,7 @@
         },
         "year": 2022,
         "title": "The Terminal List",
-        "aired_episodes": 8
+        "aired_episodes": 16
       }
     },
     {
@@ -76,7 +2200,7 @@
         },
         "year": 2022,
         "title": "The Terminal List",
-        "aired_episodes": 8
+        "aired_episodes": 16
       }
     },
     {
@@ -112,7 +2236,7 @@
         },
         "year": 2022,
         "title": "The Terminal List",
-        "aired_episodes": 8
+        "aired_episodes": 16
       }
     },
     {
@@ -148,7 +2272,7 @@
         },
         "year": 2022,
         "title": "The Terminal List",
-        "aired_episodes": 8
+        "aired_episodes": 16
       }
     },
     {
@@ -184,7 +2308,7 @@
         },
         "year": 2022,
         "title": "The Terminal List",
-        "aired_episodes": 8
+        "aired_episodes": 16
       }
     },
     {
@@ -220,7 +2344,7 @@
         },
         "year": 2022,
         "title": "The Terminal List",
-        "aired_episodes": 8
+        "aired_episodes": 16
       }
     },
     {
@@ -256,7 +2380,7 @@
         },
         "year": 2022,
         "title": "The Terminal List",
-        "aired_episodes": 8
+        "aired_episodes": 16
       }
     },
     {
@@ -292,7 +2416,7 @@
         },
         "year": 2022,
         "title": "The Terminal List",
-        "aired_episodes": 8
+        "aired_episodes": 16
       }
     },
     {
@@ -1481,2130 +3605,6 @@
         "year": 2014,
         "title": "Fargo",
         "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12397740240,
-      "watched_at": "2026-06-30T08:18:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3468290",
-          "plex": {
-            "guid": "5d9c10013c3f87001f3a2337"
-          },
-          "tmdb": 976004,
-          "tvdb": 4808535,
-          "trakt": 961279
-        },
-        "title": "The Heap",
-        "number": 8,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12393594504,
-      "watched_at": "2026-06-29T16:03:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3578728",
-          "plex": {
-            "guid": "5d9c10013c3f87001f3a233b"
-          },
-          "tmdb": 975584,
-          "tvdb": 4808534,
-          "trakt": 961278
-        },
-        "title": "Who Shaves the Barber?",
-        "number": 7,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12393546397,
-      "watched_at": "2026-06-29T15:25:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3551076",
-          "plex": {
-            "guid": "5d9c10013c3f87001f3a2343"
-          },
-          "tmdb": 975375,
-          "tvdb": 4808533,
-          "trakt": 961277
-        },
-        "title": "Buridan's Ass",
-        "number": 6,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12393517419,
-      "watched_at": "2026-06-29T14:57:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3514096",
-          "plex": {
-            "guid": "5d9c10013c3f87001f3a2333"
-          },
-          "tmdb": 974720,
-          "tvdb": 4808531,
-          "trakt": 961276
-        },
-        "title": "The Six Ungraspables",
-        "number": 5,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12393296266,
-      "watched_at": "2026-06-29T13:26:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3578722",
-          "plex": {
-            "guid": "5d9c10013c3f87001f3a2323"
-          },
-          "tmdb": 974417,
-          "tvdb": 4808530,
-          "trakt": 961275
-        },
-        "title": "Eating the Blame",
-        "number": 4,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12393249562,
-      "watched_at": "2026-06-29T13:02:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3519062",
-          "plex": {
-            "guid": "5d9c10013c3f87001f3a2327"
-          },
-          "tmdb": 974158,
-          "tvdb": 4808529,
-          "trakt": 961274
-        },
-        "title": "A Muddy Road",
-        "number": 3,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12393200991,
-      "watched_at": "2026-06-29T12:22:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3296848",
-          "plex": {
-            "guid": "5d9c1001e98e47001eb64665"
-          },
-          "tmdb": 973953,
-          "tvdb": 4808528,
-          "trakt": 961273
-        },
-        "title": "The Rooster Prince",
-        "number": 2,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12392992702,
-      "watched_at": "2026-06-29T09:05:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3097534",
-          "plex": {
-            "guid": "5d9c1001e98e47001eb64669"
-          },
-          "tmdb": 973327,
-          "tvdb": 4626050,
-          "trakt": 961272
-        },
-        "title": "The Crocodile's Dilemma",
-        "number": 1,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12383076790,
-      "watched_at": "2026-06-25T09:15:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt11610562",
-          "plex": {
-            "guid": "607f07a6a7d1c200352f50f9"
-          },
-          "tmdb": 2888599,
-          "tvdb": 8371186,
-          "trakt": 5127983
-        },
-        "title": "Sacrament",
-        "number": 7,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt10155688",
-          "plex": {
-            "guid": "5e21a3bafa5376004190dccc",
-            "slug": "mare-of-easttown"
-          },
-          "slug": "mare-of-easttown",
-          "tmdb": 115004,
-          "tvdb": 370112,
-          "trakt": 153275
-        },
-        "year": 2021,
-        "title": "Mare of Easttown",
-        "aired_episodes": 7
-      }
-    },
-    {
-      "id": 12383025884,
-      "watched_at": "2026-06-25T08:31:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt11610558",
-          "plex": {
-            "guid": "60464d82e9974a002c2c7b71"
-          },
-          "tmdb": 2778345,
-          "tvdb": 8355786,
-          "trakt": 4946918
-        },
-        "title": "Sore Must Be the Storm",
-        "number": 6,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt10155688",
-          "plex": {
-            "guid": "5e21a3bafa5376004190dccc",
-            "slug": "mare-of-easttown"
-          },
-          "slug": "mare-of-easttown",
-          "tmdb": 115004,
-          "tvdb": 370112,
-          "trakt": 153275
-        },
-        "year": 2021,
-        "title": "Mare of Easttown",
-        "aired_episodes": 7
-      }
-    },
-    {
-      "id": 12382968784,
-      "watched_at": "2026-06-25T08:06:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt11610556",
-          "plex": {
-            "guid": "60464d82e9974a002c2c7b64"
-          },
-          "tmdb": 2778344,
-          "tvdb": 8324652,
-          "trakt": 4946914
-        },
-        "title": "Illusions",
-        "number": 5,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt10155688",
-          "plex": {
-            "guid": "5e21a3bafa5376004190dccc",
-            "slug": "mare-of-easttown"
-          },
-          "slug": "mare-of-easttown",
-          "tmdb": 115004,
-          "tvdb": 370112,
-          "trakt": 153275
-        },
-        "year": 2021,
-        "title": "Mare of Easttown",
-        "aired_episodes": 7
-      }
-    },
-    {
-      "id": 12382938376,
-      "watched_at": "2026-06-25T07:30:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt11610552",
-          "plex": {
-            "guid": "60464d81e9974a002c2c7b5b"
-          },
-          "tmdb": 2778343,
-          "tvdb": 8324651,
-          "trakt": 4946910
-        },
-        "title": "Poor Sisyphus",
-        "number": 4,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt10155688",
-          "plex": {
-            "guid": "5e21a3bafa5376004190dccc",
-            "slug": "mare-of-easttown"
-          },
-          "slug": "mare-of-easttown",
-          "tmdb": 115004,
-          "tvdb": 370112,
-          "trakt": 153275
-        },
-        "year": 2021,
-        "title": "Mare of Easttown",
-        "aired_episodes": 7
-      }
-    },
-    {
-      "id": 12381365153,
-      "watched_at": "2026-06-24T16:25:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt11610550",
-          "plex": {
-            "guid": "60464d81e9974a002c2c7b51"
-          },
-          "tmdb": 2778342,
-          "tvdb": 8324650,
-          "trakt": 4946904
-        },
-        "title": "Enter Number Two",
-        "number": 3,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt10155688",
-          "plex": {
-            "guid": "5e21a3bafa5376004190dccc",
-            "slug": "mare-of-easttown"
-          },
-          "slug": "mare-of-easttown",
-          "tmdb": 115004,
-          "tvdb": 370112,
-          "trakt": 153275
-        },
-        "year": 2021,
-        "title": "Mare of Easttown",
-        "aired_episodes": 7
-      }
-    },
-    {
-      "id": 12380896374,
-      "watched_at": "2026-06-24T10:03:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt11610548",
-          "plex": {
-            "guid": "60464d80e9974a002c2c7b50"
-          },
-          "tmdb": 2778310,
-          "tvdb": 8197624,
-          "trakt": 4806227
-        },
-        "title": "Fathers",
-        "number": 2,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt10155688",
-          "plex": {
-            "guid": "5e21a3bafa5376004190dccc",
-            "slug": "mare-of-easttown"
-          },
-          "slug": "mare-of-easttown",
-          "tmdb": 115004,
-          "tvdb": 370112,
-          "trakt": 153275
-        },
-        "year": 2021,
-        "title": "Mare of Easttown",
-        "aired_episodes": 7
-      }
-    },
-    {
-      "id": 12380804304,
-      "watched_at": "2026-06-24T09:09:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt11033898",
-          "plex": {
-            "guid": "6024f2058a8f5b002d621adf"
-          },
-          "tmdb": 2722173,
-          "tvdb": 8197081,
-          "trakt": 4806226
-        },
-        "title": "Miss Lady Hawk Herself",
-        "number": 1,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt10155688",
-          "plex": {
-            "guid": "5e21a3bafa5376004190dccc",
-            "slug": "mare-of-easttown"
-          },
-          "slug": "mare-of-easttown",
-          "tmdb": 115004,
-          "tvdb": 370112,
-          "trakt": 153275
-        },
-        "year": 2021,
-        "title": "Mare of Easttown",
-        "aired_episodes": 7
-      }
-    },
-    {
-      "id": 12380796057,
-      "watched_at": "2026-06-24T09:02:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "",
-          "plex": {
-            "guid": "5d9c0df308fddd001f2ddbd4"
-          },
-          "tmdb": 1160230,
-          "tvdb": 5507056,
-          "trakt": 2145510
-        },
-        "title": "If You Don't Give Up",
-        "number": 16,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5332206",
-          "plex": {
-            "guid": "5d9c0816cb3ffa001f1b1e4c",
-            "slug": "signal"
-          },
-          "slug": "signal",
-          "tmdb": 64840,
-          "tvdb": 305167,
-          "trakt": 104413
-        },
-        "year": 2016,
-        "title": "Signal",
-        "aired_episodes": 16
-      }
-    },
-    {
-      "id": 12380796043,
-      "watched_at": "2026-06-24T09:02:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "",
-          "plex": {
-            "guid": "5d9c0df308fddd001f2ddbda"
-          },
-          "tmdb": 1160229,
-          "tvdb": 5507055,
-          "trakt": 2145508
-        },
-        "title": "Is It Really You?",
-        "number": 15,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5332206",
-          "plex": {
-            "guid": "5d9c0816cb3ffa001f1b1e4c",
-            "slug": "signal"
-          },
-          "slug": "signal",
-          "tmdb": 64840,
-          "tvdb": 305167,
-          "trakt": 104413
-        },
-        "year": 2016,
-        "title": "Signal",
-        "aired_episodes": 16
-      }
-    },
-    {
-      "id": 12379068412,
-      "watched_at": "2026-06-23T13:19:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt11033898",
-          "plex": {
-            "guid": "6024f2058a8f5b002d621adf"
-          },
-          "tmdb": 2722173,
-          "tvdb": 8197081,
-          "trakt": 4806226
-        },
-        "title": "Miss Lady Hawk Herself",
-        "number": 1,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt10155688",
-          "plex": {
-            "guid": "5e21a3bafa5376004190dccc",
-            "slug": "mare-of-easttown"
-          },
-          "slug": "mare-of-easttown",
-          "tmdb": 115004,
-          "tvdb": 370112,
-          "trakt": 153275
-        },
-        "year": 2021,
-        "title": "Mare of Easttown",
-        "aired_episodes": 7
-      }
-    },
-    {
-      "id": 12368482546,
-      "watched_at": "2026-06-18T21:51:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt38028385",
-          "plex": {
-            "guid": "68adaf6ee294671cff74be6b"
-          },
-          "tmdb": 6665611,
-          "tvdb": 11534299,
-          "trakt": 13700792
-        },
-        "title": "Episode 6",
-        "number": 6,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt1399664",
-          "plex": {
-            "guid": "5d9c084fd4f2a9001f7ffb64",
-            "slug": "the-night-manager"
-          },
-          "slug": "the-night-manager",
-          "tmdb": 61859,
-          "tvdb": 290508,
-          "trakt": 94686
-        },
-        "year": 2016,
-        "title": "The Night Manager",
-        "aired_episodes": 12
-      }
-    },
-    {
-      "id": 12368482545,
-      "watched_at": "2026-06-18T21:51:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt38028383",
-          "plex": {
-            "guid": "68adaf6ee294671cff74be6a"
-          },
-          "tmdb": 6665610,
-          "tvdb": 11534298,
-          "trakt": 13700790
-        },
-        "title": "Episode 5",
-        "number": 5,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt1399664",
-          "plex": {
-            "guid": "5d9c084fd4f2a9001f7ffb64",
-            "slug": "the-night-manager"
-          },
-          "slug": "the-night-manager",
-          "tmdb": 61859,
-          "tvdb": 290508,
-          "trakt": 94686
-        },
-        "year": 2016,
-        "title": "The Night Manager",
-        "aired_episodes": 12
-      }
-    },
-    {
-      "id": 12368482544,
-      "watched_at": "2026-06-18T21:51:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt38028382",
-          "plex": {
-            "guid": "68adaf6ee294671cff74be69"
-          },
-          "tmdb": 6665609,
-          "tvdb": 11534297,
-          "trakt": 13700788
-        },
-        "title": "Episode 4",
-        "number": 4,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt1399664",
-          "plex": {
-            "guid": "5d9c084fd4f2a9001f7ffb64",
-            "slug": "the-night-manager"
-          },
-          "slug": "the-night-manager",
-          "tmdb": 61859,
-          "tvdb": 290508,
-          "trakt": 94686
-        },
-        "year": 2016,
-        "title": "The Night Manager",
-        "aired_episodes": 12
-      }
-    },
-    {
-      "id": 12368482543,
-      "watched_at": "2026-06-18T21:51:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt38028381",
-          "plex": {
-            "guid": "68adaf6ee294671cff74be68"
-          },
-          "tmdb": 6665608,
-          "tvdb": 11534296,
-          "trakt": 13700785
-        },
-        "title": "Episode 3",
-        "number": 3,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt1399664",
-          "plex": {
-            "guid": "5d9c084fd4f2a9001f7ffb64",
-            "slug": "the-night-manager"
-          },
-          "slug": "the-night-manager",
-          "tmdb": 61859,
-          "tvdb": 290508,
-          "trakt": 94686
-        },
-        "year": 2016,
-        "title": "The Night Manager",
-        "aired_episodes": 12
-      }
-    },
-    {
-      "id": 12368482542,
-      "watched_at": "2026-06-18T21:51:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt38028379",
-          "plex": {
-            "guid": "68adaf6ee294671cff74be67"
-          },
-          "tmdb": 6665607,
-          "tvdb": 11534295,
-          "trakt": 13700784
-        },
-        "title": "Episode 2",
-        "number": 2,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt1399664",
-          "plex": {
-            "guid": "5d9c084fd4f2a9001f7ffb64",
-            "slug": "the-night-manager"
-          },
-          "slug": "the-night-manager",
-          "tmdb": 61859,
-          "tvdb": 290508,
-          "trakt": 94686
-        },
-        "year": 2016,
-        "title": "The Night Manager",
-        "aired_episodes": 12
-      }
-    },
-    {
-      "id": 12368482541,
-      "watched_at": "2026-06-18T21:51:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt32117798",
-          "plex": {
-            "guid": "673f8265cbfe7a135e90dbde"
-          },
-          "tmdb": 6665606,
-          "tvdb": 11441612,
-          "trakt": 13700782
-        },
-        "title": "Episode 1",
-        "number": 1,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt1399664",
-          "plex": {
-            "guid": "5d9c084fd4f2a9001f7ffb64",
-            "slug": "the-night-manager"
-          },
-          "slug": "the-night-manager",
-          "tmdb": 61859,
-          "tvdb": 290508,
-          "trakt": 94686
-        },
-        "year": 2016,
-        "title": "The Night Manager",
-        "aired_episodes": 12
-      }
-    },
-    {
-      "id": 12359092533,
-      "watched_at": "2026-06-14T18:36:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1692557",
-          "plex": {
-            "guid": "5d9c0d02ffd9ef001e9be226"
-          },
-          "tmdb": 283290,
-          "tvdb": 2583901,
-          "trakt": 291517
-        },
-        "title": "The Longest Night",
-        "number": 1,
-        "season": 6
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12358957227,
-      "watched_at": "2026-06-14T17:14:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1647025",
-          "plex": {
-            "guid": "5d9c0d02ffd9ef001e9be22a"
-          },
-          "tmdb": 283277,
-          "tvdb": 2105961,
-          "trakt": 291516
-        },
-        "title": "Our Darkest Hour",
-        "number": 23,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12358715168,
-      "watched_at": "2026-06-14T15:25:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1647502",
-          "plex": {
-            "guid": "5d9c0d02ffd9ef001e9be222"
-          },
-          "tmdb": 283276,
-          "tvdb": 2101231,
-          "trakt": 291515
-        },
-        "title": "The Internet Is Forever",
-        "number": 22,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12358656039,
-      "watched_at": "2026-06-14T14:58:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1583441",
-          "plex": {
-            "guid": "5d9c0d027b5c2e001e684db8"
-          },
-          "tmdb": 283257,
-          "tvdb": 1542441,
-          "trakt": 291507
-        },
-        "title": "Parasite",
-        "number": 14,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12358650058,
-      "watched_at": "2026-06-14T14:53:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1624256",
-          "plex": {
-            "guid": "5d9c0d02ffd9ef001e9be21e"
-          },
-          "tmdb": 283274,
-          "tvdb": 1962441,
-          "trakt": 291514
-        },
-        "title": "Exit Wounds",
-        "number": 21,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12358585100,
-      "watched_at": "2026-06-14T14:14:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1624560",
-          "plex": {
-            "guid": "5d9c0d02ffd9ef001e9be21a"
-          },
-          "tmdb": 955074,
-          "tvdb": 2067351,
-          "trakt": 291513
-        },
-        "title": "...A Thousand Words",
-        "number": 20,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12358536246,
-      "watched_at": "2026-06-14T13:42:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1624257",
-          "plex": {
-            "guid": "5d9c0d02ffd9ef001e9be234"
-          },
-          "tmdb": 283267,
-          "tvdb": 1901971,
-          "trakt": 291512
-        },
-        "title": "Rite of Passage",
-        "number": 19,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12358390834,
-      "watched_at": "2026-06-14T12:23:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1619514",
-          "plex": {
-            "guid": "5d9c0d02ffd9ef001e9be238"
-          },
-          "tmdb": 283262,
-          "tvdb": 1849621,
-          "trakt": 291511
-        },
-        "title": "The Fight",
-        "number": 18,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12358346317,
-      "watched_at": "2026-06-14T11:41:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1591778",
-          "plex": {
-            "guid": "5d9c0d02ffd9ef001e9be216"
-          },
-          "tmdb": 283284,
-          "tvdb": 1641471,
-          "trakt": 291510
-        },
-        "title": "Solitary Man",
-        "number": 17,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12358299551,
-      "watched_at": "2026-06-14T11:02:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1592610",
-          "plex": {
-            "guid": "5d9c0d027b5c2e001e684da0"
-          },
-          "tmdb": 283279,
-          "tvdb": 1641461,
-          "trakt": 291509
-        },
-        "title": "Mosley Lane",
-        "number": 16,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12358251476,
-      "watched_at": "2026-06-14T10:24:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1591777",
-          "plex": {
-            "guid": "5d9c0d027b5c2e001e684db4"
-          },
-          "tmdb": 283283,
-          "tvdb": 1635581,
-          "trakt": 291508
-        },
-        "title": "Public Enemy",
-        "number": 15,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12358173638,
-      "watched_at": "2026-06-14T09:35:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1583441",
-          "plex": {
-            "guid": "5d9c0d027b5c2e001e684db8"
-          },
-          "tmdb": 283257,
-          "tvdb": 1542441,
-          "trakt": 291507
-        },
-        "title": "Parasite",
-        "number": 14,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12356992050,
-      "watched_at": "2026-06-13T20:50:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1560564",
-          "plex": {
-            "guid": "5d9c0d027b5c2e001e684dac"
-          },
-          "tmdb": 283251,
-          "tvdb": 1309641,
-          "trakt": 291506
-        },
-        "title": "Risky Business",
-        "number": 13,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12356905610,
-      "watched_at": "2026-06-13T20:00:00.000Z",
-      "action": "watch",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1539650",
-          "plex": {
-            "guid": "5d9c0d027b5c2e001e684db0"
-          },
-          "tmdb": 283245,
-          "tvdb": 1269651,
-          "trakt": 291502
-        },
-        "title": "100",
-        "number": 9,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12356902252,
-      "watched_at": "2026-06-13T19:59:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1532433",
-          "plex": {
-            "guid": "5d9c0d027b5c2e001e684d9c"
-          },
-          "tmdb": 283237,
-          "tvdb": 1247171,
-          "trakt": 291501
-        },
-        "title": "Outfoxed",
-        "number": 8,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12356888804,
-      "watched_at": "2026-06-13T19:54:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt1533210",
-          "plex": {
-            "guid": "5d9c0d027b5c2e001e684d98"
-          },
-          "tmdb": 283242,
-          "tvdb": 1206471,
-          "trakt": 291500
-        },
-        "title": "The Performer",
-        "number": 7,
-        "season": 5
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      }
-    },
-    {
-      "id": 12351843494,
-      "watched_at": "2026-06-11T13:41:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt27666400",
-          "plex": {
-            "guid": "645bfb436c24c538c85fad7a"
-          },
-          "tmdb": 4424838,
-          "tvdb": 9782580,
-          "trakt": 7547006
-        },
-        "title": "Proof of Concept",
-        "number": 6,
-        "season": 4
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12351673914,
-      "watched_at": "2026-06-11T11:38:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt27666395",
-          "plex": {
-            "guid": "645bfb446c24c538c85fad7b"
-          },
-          "tmdb": 4424837,
-          "tvdb": 9782579,
-          "trakt": 7547005
-        },
-        "title": "Wukong",
-        "number": 5,
-        "season": 4
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12351620024,
-      "watched_at": "2026-06-11T10:59:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt27666396",
-          "plex": {
-            "guid": "645bfb446c24c538c85fad7c"
-          },
-          "tmdb": 4424835,
-          "tvdb": 9782578,
-          "trakt": 7547004
-        },
-        "title": "Bethesda",
-        "number": 4,
-        "season": 4
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12351579347,
-      "watched_at": "2026-06-11T10:09:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt27666393",
-          "plex": {
-            "guid": "645bfb456c24c538c85fad7d"
-          },
-          "tmdb": 4424832,
-          "tvdb": 9782577,
-          "trakt": 7547003
-        },
-        "title": "Sacrifices",
-        "number": 3,
-        "season": 4
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12351510752,
-      "watched_at": "2026-06-11T09:08:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt27666392",
-          "plex": {
-            "guid": "645bfb456c24c538c85fad7e"
-          },
-          "tmdb": 4424830,
-          "tvdb": 9782576,
-          "trakt": 7547002
-        },
-        "title": "Convergence",
-        "number": 2,
-        "season": 4
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12351449878,
-      "watched_at": "2026-06-11T08:22:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt15683364",
-          "plex": {
-            "guid": "645bfb466c24c538c85fad7f"
-          },
-          "tmdb": 4424826,
-          "tvdb": 9782575,
-          "trakt": 7547001
-        },
-        "title": "Triage",
-        "number": 1,
-        "season": 4
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12350059849,
-      "watched_at": "2026-06-10T17:19:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt10944986",
-          "plex": {
-            "guid": "6335d482c2826cde1172351f"
-          },
-          "tmdb": 3978065,
-          "tvdb": 9374325,
-          "trakt": 6744141
-        },
-        "title": "Star on the Wall",
-        "number": 8,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12350001364,
-      "watched_at": "2026-06-10T16:34:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt14179768",
-          "plex": {
-            "guid": "6335d482c2826cde11723520"
-          },
-          "tmdb": 3978064,
-          "tvdb": 9374324,
-          "trakt": 6744140
-        },
-        "title": "Moscow Rules",
-        "number": 7,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12349956747,
-      "watched_at": "2026-06-10T16:02:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt15108854",
-          "plex": {
-            "guid": "6335d482c2826cde11723521"
-          },
-          "tmdb": 3978063,
-          "tvdb": 9374323,
-          "trakt": 6744139
-        },
-        "title": "Ghosts",
-        "number": 6,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12349855547,
-      "watched_at": "2026-06-10T15:05:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt15088996",
-          "plex": {
-            "guid": "6335d482c2826cde11723522"
-          },
-          "tmdb": 3978062,
-          "tvdb": 9374322,
-          "trakt": 6744138
-        },
-        "title": "Druz'ya I Vragi",
-        "number": 5,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12349824186,
-      "watched_at": "2026-06-10T14:43:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt13498252",
-          "plex": {
-            "guid": "6335d482c2826cde11723523"
-          },
-          "tmdb": 3978061,
-          "tvdb": 9374321,
-          "trakt": 6744137
-        },
-        "title": "Our Death's Keeper",
-        "number": 4,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12349377469,
-      "watched_at": "2026-06-10T09:51:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt13498250",
-          "plex": {
-            "guid": "6335d482c2826cde11723524"
-          },
-          "tmdb": 3978060,
-          "tvdb": 9374320,
-          "trakt": 6744136
-        },
-        "title": "Running with Wolves",
-        "number": 3,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12349350182,
-      "watched_at": "2026-06-10T09:31:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt13498242",
-          "plex": {
-            "guid": "6335d482c2826cde11723525"
-          },
-          "tmdb": 3978059,
-          "tvdb": 9374319,
-          "trakt": 6744135
-        },
-        "title": "Old Haunts",
-        "number": 2,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12348373691,
-      "watched_at": "2026-06-09T20:48:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt9826514",
-          "plex": {
-            "guid": "6335d483c2826cde11723526"
-          },
-          "tmdb": 3978058,
-          "tvdb": 9371178,
-          "trakt": 6744134
-        },
-        "title": "Falcon",
-        "number": 1,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12347861531,
-      "watched_at": "2026-06-09T16:46:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt8327808",
-          "plex": {
-            "guid": "5de90119473b6d001f3d419a"
-          },
-          "tmdb": 1872212,
-          "tvdb": 7347129,
-          "trakt": 3697682
-        },
-        "title": "Strongman",
-        "number": 8,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12347836437,
-      "watched_at": "2026-06-09T16:31:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt8327804",
-          "plex": {
-            "guid": "5de90118473b6d001f3d4198"
-          },
-          "tmdb": 1872211,
-          "tvdb": 7347125,
-          "trakt": 3697649
-        },
-        "title": "Dios y Federación",
-        "number": 7,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12347788341,
-      "watched_at": "2026-06-09T16:00:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt8327810",
-          "plex": {
-            "guid": "5de90118473b6d001f3d4196"
-          },
-          "tmdb": 1872210,
-          "tvdb": 7347120,
-          "trakt": 3697648
-        },
-        "title": "Persona Non Grata",
-        "number": 6,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12347738533,
-      "watched_at": "2026-06-09T15:36:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt8327794",
-          "plex": {
-            "guid": "5de90117473b6d001f3d4194"
-          },
-          "tmdb": 1872209,
-          "tvdb": 7347108,
-          "trakt": 3697609
-        },
-        "title": "Blue Gold",
-        "number": 5,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
-      }
-    },
-    {
-      "id": 12347546725,
-      "watched_at": "2026-06-09T13:30:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt8327792",
-          "plex": {
-            "guid": "5de90117473b6d001f3d4192"
-          },
-          "tmdb": 1872208,
-          "tvdb": 7347103,
-          "trakt": 3697579
-        },
-        "title": "Dressed to Kill",
-        "number": 4,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt5057054",
-          "plex": {
-            "guid": "5d9c08dcffd9ef001e99bb8c",
-            "slug": "tom-clancys-jack-ryan"
-          },
-          "slug": "tom-clancy-s-jack-ryan",
-          "tmdb": 73375,
-          "tvdb": 336261,
-          "trakt": 124381
-        },
-        "year": 2018,
-        "title": "Tom Clancy's Jack Ryan",
-        "aired_episodes": 30
       }
     }
   ]
