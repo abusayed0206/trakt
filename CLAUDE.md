@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A personal Trakt.tv watch dashboard: a Next.js 15 (App Router, React 19, Tailwind 4) site that serves **pre-fetched JSON snapshots** of one Trakt user's data, plus Python scripts (run by GitHub Actions) that produce those snapshots and the poster/backdrop images. Deployed to Cloudflare Pages.
+A personal Trakt.tv watch dashboard: a Next.js 15 (App Router, React 19, Tailwind 4) site that serves **pre-fetched JSON snapshots** of one Trakt user's data, plus Python scripts (run by GitHub Actions) that produce those snapshots and the poster/backdrop images. Deployed on Vercel, where every push to `main` redeploys; the README's Cloudflare Pages instructions are stale.
 
 ## Commands
 
