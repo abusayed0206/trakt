@@ -26,6 +26,30 @@ load_dotenv('../.env.local')  # Look in project root folder
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
+def build_stats(previous, watched_movies, watched_shows):
+    """Rebuild the watched/plays/minutes stats from watched data, since /users/{id}/stats is VIP-only.
+
+    Fields watched data can't provide (ratings, network, collected, comments) are kept from `previous`.
+    """
+    stats = json.loads(json.dumps(previous))  # deep copy
+    # shortcut: episode minutes use the show's average episode runtime, not each episode's own
+    episodes = [(show['show'].get('runtime') or 0, episode['plays'])
+                for show in watched_shows
+                for season in show.get('seasons', [])
+                for episode in season['episodes']]
+    stats.setdefault('movies', {}).update(
+        plays=sum(m['plays'] for m in watched_movies),
+        watched=len(watched_movies),
+        minutes=sum(m['plays'] * (m['movie'].get('runtime') or 0) for m in watched_movies),
+    )
+    stats.setdefault('shows', {})['watched'] = len(watched_shows)
+    stats.setdefault('episodes', {}).update(
+        plays=sum(plays for _, plays in episodes),
+        watched=len(episodes),
+        minutes=sum(runtime * plays for runtime, plays in episodes),
+    )
+    return stats
+
 class TraktUserDataClient:
     def __init__(self):
         self.api_key = os.getenv('TRAKT_API_KEY')
@@ -70,26 +94,51 @@ class TraktUserDataClient:
         logger.info(f"Created directory structure in {self.data_dir}")
         logger.info(f"Created imgs directory in {imgs_dir}")
     
-    def make_request(self, endpoint, params=None):
-        """Make request to Trakt API with rate limiting"""
+    def _get(self, endpoint, params=None):
+        """GET from Trakt API with rate limiting; returns the response or None"""
         url = f"{self.base_url}{endpoint}"
-        
+
         try:
             response = requests.get(url, headers=self.headers, params=params)
-            
+
             # Handle rate limiting
             if response.status_code == 429:
                 retry_after = int(response.headers.get('Retry-After', 60))
                 logger.warning(f"Rate limited. Waiting {retry_after} seconds...")
                 time.sleep(retry_after)
-                return self.make_request(endpoint, params)
-            
+                return self._get(endpoint, params)
+
             response.raise_for_status()
-            return response.json()
-            
+            # e.g. /users/{id}/stats is VIP-only and returns 204 for non-VIP users
+            if response.status_code == 204:
+                logger.warning(f"No content returned for {endpoint}")
+                return None
+            return response
+
         except requests.exceptions.RequestException as e:
             logger.error(f"Error fetching {endpoint}: {e}")
             return None
+
+    def make_request(self, endpoint, params=None, paginate=False):
+        """Make request to Trakt API; paginate=True fetches every page.
+
+        Trakt returns only the first 100 items when page/limit are omitted (watched endpoints since July 2026).
+        """
+        if not paginate:
+            response = self._get(endpoint, params)
+            return response.json() if response is not None else None
+
+        items, page = [], 1
+        while True:
+            # Trakt lowers limit to the endpoint's max (e.g. 100 for extended=progress) and reports it in the headers
+            response = self._get(endpoint, {**(params or {}), 'page': page, 'limit': 250})
+            if response is None:
+                return None  # don't save a partial list over good data
+            items.extend(response.json())
+            # Stop on Page-Count: out-of-range pages can repeat data instead of returning []
+            if page >= int(response.headers.get('X-Pagination-Page-Count', 1)):
+                return items
+            page += 1
     
     def save_json(self, data, filepath):
         """Save data to JSON file with metadata"""
@@ -171,10 +220,10 @@ class TraktUserDataClient:
             # Download profile picture if available
             self.download_profile_picture(profile)
         
-        # User stats (public)
-        stats = self.make_request(f'/users/{self.username}/stats')
-        if stats:
-            self.save_json(stats, 'user/stats/overview.json')
+        # User stats (VIP-only; for other users fetch_user_watched rebuilds them from watched data)
+        self.stats = self.make_request(f'/users/{self.username}/stats')
+        if self.stats:
+            self.save_json(self.stats, 'user/stats/overview.json')
     
     def fetch_user_history(self):
         """Fetch user's watch history (public if user has public profile)"""
@@ -194,27 +243,40 @@ class TraktUserDataClient:
         """Fetch user's watched movies and shows (public if user has public profile)"""
         logger.info(f"Fetching watched content for user: {self.username}")
         
-        # Watched movies
-        watched_movies = self.make_request(f'/users/{self.username}/watched/movies')
+        # Watched movies (extended=full adds runtime, used for rebuilt stats)
+        watched_movies = self.make_request(f'/users/{self.username}/watched/movies',
+                                           {'extended': 'full'}, paginate=True)
+        # Keep only the pre-July-2026 default fields + runtime, so the daily-committed file stays small
+        for item in watched_movies or []:
+            item['movie'] = {k: item['movie'].get(k) for k in ('title', 'year', 'ids', 'runtime')}
         if watched_movies:
             self.save_json(watched_movies, 'user/watched/movies.json')
-        
-        # Watched shows
-        watched_shows = self.make_request(f'/users/{self.username}/watched/shows')
+
+        # Watched shows (progress restores the per-season episode data the app reads; full adds runtime)
+        watched_shows = self.make_request(f'/users/{self.username}/watched/shows',
+                                          {'extended': 'full,progress'}, paginate=True)
+        for item in watched_shows or []:
+            item['show'] = {k: item['show'].get(k) for k in ('title', 'year', 'ids', 'aired_episodes', 'runtime')}
         if watched_shows:
             self.save_json(watched_shows, 'user/watched/shows.json')
+
+        if not getattr(self, 'stats', None) and watched_movies and watched_shows:
+            stats_path = self.data_dir / 'user/stats/overview.json'
+            previous = json.loads(stats_path.read_text(encoding='utf-8'))['data'] if stats_path.exists() else {}
+            logger.info("Stats endpoint unavailable; rebuilding stats from watched data")
+            self.save_json(build_stats(previous, watched_movies, watched_shows), 'user/stats/overview.json')
     
     def fetch_user_watchlist(self):
         """Fetch user's watchlist (public if user has public profile)"""
         logger.info(f"Fetching watchlist for user: {self.username}")
         
-        watchlist = self.make_request(f'/users/{self.username}/watchlist')
+        watchlist = self.make_request(f'/users/{self.username}/watchlist', paginate=True)
         if watchlist:
             self.save_json(watchlist, 'user/watchlist/all.json')
-        
+
         # Watchlist by type
         for content_type in ['movies', 'shows']:
-            type_watchlist = self.make_request(f'/users/{self.username}/watchlist/{content_type}')
+            type_watchlist = self.make_request(f'/users/{self.username}/watchlist/{content_type}', paginate=True)
             if type_watchlist:
                 self.save_json(type_watchlist, f'user/watchlist/{content_type}.json')
     
@@ -231,7 +293,7 @@ class TraktUserDataClient:
             for list_item in lists:
                 list_slug = list_item.get('ids', {}).get('slug')
                 if list_slug:
-                    list_items = self.make_request(f'/users/{self.username}/lists/{list_slug}/items')
+                    list_items = self.make_request(f'/users/{self.username}/lists/{list_slug}/items', paginate=True)
                     if list_items:
                         self.save_json(list_items, f'user/lists/{list_slug}_items.json')
     
@@ -239,7 +301,7 @@ class TraktUserDataClient:
         """Fetch user's comments"""
         logger.info(f"Fetching comments for user: {self.username}")
         
-        comments = self.make_request(f'/users/{self.username}/comments')
+        comments = self.make_request(f'/users/{self.username}/comments', paginate=True)
         if comments:
             self.save_json(comments, 'user/comments/all.json')
     

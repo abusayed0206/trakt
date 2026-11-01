@@ -49,7 +49,7 @@ export default async function TVPage({ params }: TVPageProps) {
   const isWatched = !!watchedShow;
 
   // Calculate total episodes watched
-  const totalEpisodesWatched = watchedShow?.seasons.reduce(
+  const totalEpisodesWatched = watchedShow?.seasons?.reduce(
     (acc, season) => acc + season.episodes.length,
     0
   ) || 0;

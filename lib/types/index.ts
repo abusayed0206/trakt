@@ -138,7 +138,7 @@ export interface WatchedShow {
   last_updated_at: string;
   reset_at?: string | null;
   show: Show;
-  seasons: WatchedShowSeason[];
+  seasons?: WatchedShowSeason[]; // only returned with extended=progress
 }
 
 // Watchlist Types

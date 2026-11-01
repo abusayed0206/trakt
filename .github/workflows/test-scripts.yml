@@ -45,6 +45,11 @@ jobs:
           python -c "import download_media; print('✅ download_media imports successfully')"
           python -c "import manage_data; print('✅ manage_data imports successfully')"
 
+      - name: Test pagination
+        run: |
+          cd scripts
+          python test_fetch_pagination.py
+
       - name: Ensure required directories exist
         run: |
           mkdir -p public/data/json
