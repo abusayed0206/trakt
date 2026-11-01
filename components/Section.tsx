@@ -12,8 +12,8 @@ interface SectionProps {
 export default function Section({ id, title, icon, count, action, children }: SectionProps) {
   return (
     <section id={id} className="scroll-mt-16 border-t border-white/5 py-10 first:border-t-0">
-      <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
-        <h2 className="flex items-center gap-2.5 text-xl font-semibold tracking-tight text-white">
+      <div className="mb-6 flex flex-col items-center gap-3 text-center">
+        <h2 className="flex items-center justify-center gap-2.5 text-xl font-semibold tracking-tight text-white">
           <span className="text-red-500">{icon}</span>
           {title}
           {count !== undefined && (

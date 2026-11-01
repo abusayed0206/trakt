@@ -20,7 +20,7 @@ export interface MediaCard {
   badge?: string;
 }
 
-const linkClass = 'opacity-60 transition hover:opacity-100';
+const linkClass = 'opacity-60 hover:opacity-100';
 
 export default function PosterCard({ card }: { card: MediaCard }) {
   const [broken, setBroken] = useState(false);
@@ -28,10 +28,10 @@ export default function PosterCard({ card }: { card: MediaCard }) {
   const label = card.year ? `${card.title} (${card.year})` : card.title;
 
   return (
-    <div className="group min-w-0">
+    <div className="min-w-0 text-center">
       <Link
         href={href}
-        className="relative block aspect-[2/3] overflow-hidden rounded-lg bg-zinc-800/60 ring-1 ring-white/10 transition group-hover:ring-white/30"
+        className="relative block aspect-[2/3] overflow-hidden rounded-lg bg-zinc-800/60 ring-1 ring-white/10 hover:ring-white/30"
       >
         {card.poster && !broken ? (
           <img
@@ -40,15 +40,13 @@ export default function PosterCard({ card }: { card: MediaCard }) {
             loading="lazy"
             decoding="async"
             onError={() => setBroken(true)}
-            className="h-full w-full object-cover transition duration-300 group-hover:scale-105"
+            className="h-full w-full object-cover"
           />
         ) : (
-          <span className="flex h-full items-center justify-center p-3 text-center text-sm text-zinc-400">
-            {label}
-          </span>
+          <span className="flex h-full items-center justify-center p-3 text-sm text-zinc-400">{label}</span>
         )}
         {card.badge && (
-          <span className="absolute left-1.5 top-1.5 rounded-md bg-black/75 px-1.5 py-0.5 text-[11px] font-semibold text-white backdrop-blur-sm">
+          <span className="absolute left-1.5 top-1.5 rounded-md bg-black/75 px-1.5 py-0.5 text-xs font-semibold text-white">
             {card.badge}
           </span>
         )}
@@ -59,7 +57,7 @@ export default function PosterCard({ card }: { card: MediaCard }) {
       </h3>
       {card.subtitle && <p className="truncate text-xs text-zinc-400">{card.subtitle}</p>}
 
-      <div className="mt-1.5 hidden items-center gap-2 sm:flex">
+      <div className="mt-1.5 hidden items-center justify-center gap-2 sm:flex">
         {card.type === 'movie' && card.imdb && (
           <a href={getLetterboxdUrl(card.imdb)} target="_blank" rel="noopener noreferrer" title="Letterboxd" className={linkClass}>
             <Icons.Letterboxd className="h-5 w-5 rounded" alt="Letterboxd" />

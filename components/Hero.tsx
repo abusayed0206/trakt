@@ -28,9 +28,9 @@ export default function Hero({ profile, stats, backdrops }: HeroProps) {
       <HeroBackdrop urls={backdrops} />
       <div className="absolute inset-0 -z-10 bg-gradient-to-b from-zinc-950/40 via-zinc-950/75 to-zinc-950" />
 
-      <div className="mx-auto max-w-6xl px-4 pb-10 pt-20 sm:pt-28">
+      <div className="mx-auto max-w-6xl px-4 pb-10 pt-14 sm:pt-24">
         {profile && (
-          <div className="flex flex-col items-center gap-5 text-center sm:flex-row sm:items-end sm:text-left">
+          <div className="flex flex-col items-center gap-5 text-center">
             <a
               href={`https://trakt.tv/users/${profile.username}`}
               target="_blank"
@@ -49,7 +49,7 @@ export default function Hero({ profile, stats, backdrops }: HeroProps) {
             </a>
             <div className="min-w-0">
               <h1 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">{profile.name}</h1>
-              <div className="mt-2 flex flex-wrap justify-center gap-x-4 gap-y-1 text-sm text-zinc-300 sm:justify-start">
+              <div className="mt-2 flex flex-wrap justify-center gap-x-4 gap-y-1 text-sm text-zinc-300">
                 {profile.location && (
                   <span className="flex items-center gap-1.5">
                     <FaMapMarkerAlt className="text-zinc-400" aria-hidden />
@@ -61,17 +61,17 @@ export default function Hero({ profile, stats, backdrops }: HeroProps) {
                   Joined {new Date(profile.joined_at).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}
                 </span>
               </div>
-              {profile.about && <p className="mt-3 max-w-2xl text-zinc-300 italic">{profile.about}</p>}
+              {profile.about && <p className="mx-auto mt-3 max-w-2xl text-zinc-300 italic">{profile.about}</p>}
             </div>
           </div>
         )}
 
         {statItems.length > 0 && (
-          <dl className="mt-10 grid grid-cols-2 gap-px overflow-hidden rounded-xl bg-white/10 ring-1 ring-white/10 sm:grid-cols-3 lg:grid-cols-6">
+          <dl className="mx-auto mt-10 grid max-w-5xl grid-cols-2 gap-px overflow-hidden rounded-xl bg-white/10 text-center ring-1 ring-white/10 sm:grid-cols-3 lg:grid-cols-6">
             {statItems.map((s) => (
-              <div key={s.label} className="bg-zinc-950/70 px-4 py-4 backdrop-blur">
+              <div key={s.label} className="bg-zinc-950/70 px-3 py-4 backdrop-blur">
                 <dt className="text-xs font-medium uppercase tracking-wider text-zinc-400">{s.label}</dt>
-                <dd className="mt-1 text-2xl font-semibold tabular-nums text-white">{s.value}</dd>
+                <dd className="mt-1 text-xl font-semibold tabular-nums text-white sm:text-2xl">{s.value}</dd>
               </div>
             ))}
           </dl>

@@ -130,16 +130,19 @@ export default function HomePage() {
       <Hero profile={profile} stats={stats} backdrops={backdrops} />
 
       <nav className="sticky top-0 z-30 border-y border-white/5 bg-zinc-950/85 backdrop-blur-md" aria-label="Sections">
-        <div className="no-scrollbar mx-auto flex max-w-6xl gap-1 overflow-x-auto px-4 py-2">
-          {nav.map(([href, label]) => (
-            <a
-              key={href}
-              href={href}
-              className="shrink-0 rounded-full px-3 py-1.5 text-sm font-medium text-zinc-400 transition hover:bg-white/5 hover:text-white"
-            >
-              {label}
-            </a>
-          ))}
+        {/* w-max + mx-auto: centered when it fits, horizontally scrollable when it doesn't */}
+        <div className="no-scrollbar overflow-x-auto px-4">
+          <div className="mx-auto flex w-max gap-1 py-2">
+            {nav.map(([href, label]) => (
+              <a
+                key={href}
+                href={href}
+                className="shrink-0 rounded-full px-3.5 py-2 text-sm font-medium text-zinc-400 hover:bg-white/5 hover:text-white"
+              >
+                {label}
+              </a>
+            ))}
+          </div>
         </div>
       </nav>
 

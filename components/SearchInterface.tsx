@@ -51,7 +51,7 @@ export default function SearchInterface() {
 
   return (
     <div>
-      <form onSubmit={search} className="flex flex-col gap-3 sm:flex-row">
+      <form onSubmit={search} className="mx-auto flex max-w-3xl flex-col gap-3 sm:flex-row">
         <label className="relative flex-1">
           <span className="sr-only">Search watched movies and shows</span>
           <FaSearch className="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-zinc-500" aria-hidden />
@@ -60,16 +60,16 @@ export default function SearchInterface() {
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search my movies and shows…"
-            className="w-full rounded-full bg-white/5 py-3 pl-11 pr-10 text-zinc-100 placeholder-zinc-500 ring-1 ring-white/10 outline-none transition focus:bg-white/10 focus:ring-red-500/60"
+            className="w-full rounded-full bg-white/5 py-3 pl-11 pr-10 text-base text-zinc-100 placeholder-zinc-500 ring-1 ring-white/10 outline-none focus:bg-white/10 focus:ring-red-500/60"
           />
           {results && (
-            <button type="button" onClick={clear} className="absolute right-4 top-1/2 -translate-y-1/2 text-zinc-500 hover:text-zinc-200" aria-label="Clear search">
+            <button type="button" onClick={clear} className="absolute right-2 top-1/2 -translate-y-1/2 p-2 text-zinc-500 hover:text-zinc-200" aria-label="Clear search">
               <FaTimes />
             </button>
           )}
         </label>
-        <div className="flex gap-2">
-          <div className="flex rounded-full bg-white/5 p-1 ring-1 ring-white/10" role="radiogroup" aria-label="Search type">
+        <div className="flex justify-center gap-2">
+          <div className="flex flex-1 rounded-full bg-white/5 p-1 ring-1 ring-white/10 sm:flex-none" role="radiogroup" aria-label="Search type">
             {(['all', 'movies', 'shows'] as const).map((t) => (
               <button
                 key={t}
@@ -77,7 +77,7 @@ export default function SearchInterface() {
                 role="radio"
                 aria-checked={type === t}
                 onClick={() => setType(t)}
-                className={`rounded-full px-3.5 py-1.5 text-sm font-medium capitalize transition ${type === t ? 'bg-white text-zinc-900' : 'text-zinc-300 hover:text-white'}`}
+                className={`flex-1 rounded-full px-3.5 py-2 text-sm font-medium capitalize ${type === t ? 'bg-white text-zinc-900' : 'text-zinc-300 hover:text-white'}`}
               >
                 {t === 'shows' ? 'TV' : t}
               </button>
@@ -86,7 +86,7 @@ export default function SearchInterface() {
           <button
             type="submit"
             disabled={loading || !query.trim()}
-            className="rounded-full bg-red-600 px-5 py-2 text-sm font-semibold text-white transition hover:bg-red-500 disabled:cursor-not-allowed disabled:opacity-40"
+            className="rounded-full bg-red-600 px-6 py-2.5 text-sm font-semibold text-white hover:bg-red-500 disabled:cursor-not-allowed disabled:opacity-40"
           >
             {loading ? 'Searching…' : 'Search'}
           </button>
@@ -95,7 +95,7 @@ export default function SearchInterface() {
 
       {results && (
         <div className="mt-6">
-          <p className="mb-4 text-sm text-zinc-400">
+          <p className="mb-5 text-center text-sm text-zinc-400">
             {results.cards.length.toLocaleString()} result{results.cards.length === 1 ? '' : 's'} for “{results.query}”
           </p>
           <PosterGrid key={results.query + type} cards={results.cards} emptyText="No matches in my library." />
