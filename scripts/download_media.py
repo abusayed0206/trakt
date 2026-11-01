@@ -146,9 +146,10 @@ class MediaDownloader:
         }
     
     def download_first(self, images, size_key, filepath):
-        """Download the first image of a TMDB image list to filepath"""
-        if images and images[0].get('file_path'):
-            self.download_image(f"{self.tmdb_image_base_url}/{self.image_sizes[size_key]}{images[0]['file_path']}", filepath)
+        """Download the best image of a TMDB image list: English or text-free first, else whatever is listed first"""
+        best = next((i for i in images if i.get('iso_639_1') in ('en', None)), images[0] if images else None)
+        if best and best.get('file_path'):
+            self.download_image(f"{self.tmdb_image_base_url}/{self.image_sizes[size_key]}{best['file_path']}", filepath)
 
     def download_movie_images(self, tmdb_id):
         """Download poster and backdrop for a movie, skipping TMDB entirely when both exist"""

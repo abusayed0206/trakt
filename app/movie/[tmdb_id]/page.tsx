@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { FaFilm, FaCalendar, FaStar, FaPlay, FaCheckCircle, FaBookmark } from 'react-icons/fa';
 import { fetchTMDBMovie } from '@/lib/services/tmdb';
-import { fetchWatchedMovies, fetchMovieWatchlist, fetchMovieHistory } from '@/lib/services/api';
+import { TraktDataService } from '@/lib/services/trakt-data';
 import { getBackdropUrl, getPosterUrl, getProfileUrl, getLogoUrl } from '@/lib/utils/image-proxy';
 import { Icons } from '@/lib/utils/icons';
 import { getImdbUrl, getTmdbUrl, getLetterboxdUrl } from '@/lib/utils/media';
@@ -39,11 +39,10 @@ export default async function MoviePage({ params }: MoviePageProps) {
   }
 
   // Fetch user data to determine watch status
-  const [watchedMovies, watchlist, history] = await Promise.all([
-    fetchWatchedMovies().catch(() => []),
-    fetchMovieWatchlist().catch(() => []),
-    fetchMovieHistory().catch(() => []),
-  ]);
+  const data = TraktDataService.getInstance();
+  const watchedMovies = data.getUserWatchedMovies()?.data ?? [];
+  const watchlist = data.getUserWatchlistMovies()?.data ?? [];
+  const history = data.getUserHistoryMovies()?.data ?? [];
 
   // Check if movie is watched
   const watchedMovie = watchedMovies.find(m => m.movie.ids.tmdb === parseInt(tmdb_id));

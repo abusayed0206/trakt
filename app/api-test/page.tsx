@@ -14,9 +14,6 @@ const API_ENDPOINTS: ApiEndpoint[] = [
   { name: 'User Profile', url: '/api/trakt/user/profile', description: 'User profile information', method: 'GET' },
   { name: 'User Stats', url: '/api/trakt/user/stats', description: 'User statistics overview', method: 'GET' },
   
-  // Currently Watching
-  { name: 'Now Watching', url: '/api/watching', description: 'Currently watching (scrobble) data with TMDB images', method: 'GET' },
-  
   // History endpoints
   { name: 'All History', url: '/api/trakt/user/history', description: 'Complete watch history', method: 'GET' },
   { name: 'Movie History', url: '/api/trakt/user/history?type=movies', description: 'Movie watch history only', method: 'GET' },
@@ -105,45 +102,45 @@ export default function ApiTestPage() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50 py-8">
+    <div className="min-h-screen bg-zinc-950 py-8 text-zinc-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mb-8">
-          <h1 className="text-3xl font-bold text-gray-900 mb-4">Trakt API Test Interface</h1>
-          <p className="text-gray-600 mb-4">
+          <h1 className="text-3xl font-bold text-white mb-4">Trakt API Test Interface</h1>
+          <p className="text-zinc-400 mb-4">
             Test your personal Trakt data API endpoints. All data is served from local JSON files.
           </p>
           
           {/* Cache Control */}
-          <div className="mb-6 p-4 bg-blue-50 rounded-lg">
-            <h2 className="text-lg font-semibold text-blue-900 mb-2">Cache Control</h2>
-            <p className="text-blue-700 text-sm mb-3">
+          <div className="mb-6 p-4 bg-white/[0.03] rounded-xl ring-1 ring-white/10">
+            <h2 className="text-lg font-semibold text-white mb-2">Cache Control</h2>
+            <p className="text-zinc-400 text-sm mb-3">
               Clear the in-memory cache to refresh data from JSON files after GitHub Actions updates.
             </p>
             <button
               onClick={clearCache}
               disabled={loading}
-              className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 disabled:opacity-50"
+              className="bg-white/10 text-white px-4 py-2 rounded-full ring-1 ring-white/10 hover:bg-white/15 disabled:opacity-50"
             >
               {loading ? 'Clearing...' : 'Clear Cache'}
             </button>
           </div>
 
           {/* Search */}
-          <div className="mb-6 p-4 bg-green-50 rounded-lg">
-            <h2 className="text-lg font-semibold text-green-900 mb-2">Search</h2>
+          <div className="mb-6 p-4 bg-white/[0.03] rounded-xl ring-1 ring-white/10">
+            <h2 className="text-lg font-semibold text-white mb-2">Search</h2>
             <div className="flex gap-2">
               <input
                 type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="Search for movies or shows..."
-                className="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500"
+                className="flex-1 px-3 py-2 rounded-full bg-white/5 text-zinc-100 ring-1 ring-white/10 outline-none focus:ring-red-500/60"
                 onKeyPress={(e) => e.key === 'Enter' && handleSearch()}
               />
               <button
                 onClick={handleSearch}
                 disabled={loading || !searchQuery.trim()}
-                className="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700 disabled:opacity-50"
+                className="bg-red-600 text-white px-4 py-2 rounded-full hover:bg-red-500 disabled:opacity-50"
               >
                 Search
               </button>
@@ -153,8 +150,8 @@ export default function ApiTestPage() {
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           {/* Endpoints List */}
-          <div className="bg-white rounded-lg shadow-md p-6">
-            <h2 className="text-xl font-semibold text-gray-900 mb-4">API Endpoints</h2>
+          <div className="bg-white/[0.03] rounded-xl ring-1 ring-white/10 p-6">
+            <h2 className="text-xl font-semibold text-white mb-4">API Endpoints</h2>
             <div className="space-y-2 max-h-96 overflow-y-auto">
               {API_ENDPOINTS.map((endpoint, index) => (
                 <button
@@ -163,26 +160,26 @@ export default function ApiTestPage() {
                   disabled={loading}
                   className={`w-full text-left p-3 rounded border transition-colors ${
                     selectedEndpoint?.url === endpoint.url
-                      ? 'bg-blue-50 border-blue-200'
-                      : 'bg-gray-50 border-gray-200 hover:bg-gray-100'
+                      ? 'bg-red-500/10 border-red-500/40'
+                      : 'bg-white/[0.03] border-white/10 hover:bg-white/[0.06]'
                   } disabled:opacity-50`}
                 >
-                  <div className="font-medium text-gray-900">{endpoint.name}</div>
-                  <div className="text-sm text-gray-600">{endpoint.description}</div>
-                  <div className="text-xs text-blue-600 font-mono">{endpoint.method} {endpoint.url}</div>
+                  <div className="font-medium text-white">{endpoint.name}</div>
+                  <div className="text-sm text-zinc-400">{endpoint.description}</div>
+                  <div className="text-xs text-red-400 font-mono">{endpoint.method} {endpoint.url}</div>
                 </button>
               ))}
             </div>
           </div>
 
           {/* Response Display */}
-          <div className="bg-white rounded-lg shadow-md p-6">
-            <h2 className="text-xl font-semibold text-gray-900 mb-4">Response</h2>
+          <div className="bg-white/[0.03] rounded-xl ring-1 ring-white/10 p-6">
+            <h2 className="text-xl font-semibold text-white mb-4">Response</h2>
             
             {selectedEndpoint && (
-              <div className="mb-4 p-3 bg-gray-100 rounded">
+              <div className="mb-4 p-3 bg-black/40 rounded ring-1 ring-white/10">
                 <div className="font-medium">{selectedEndpoint.name}</div>
-                <div className="text-sm text-gray-600 font-mono">
+                <div className="text-sm text-zinc-400 font-mono">
                   {selectedEndpoint.method} {selectedEndpoint.url}
                 </div>
               </div>
@@ -190,21 +187,21 @@ export default function ApiTestPage() {
 
             {loading && (
               <div className="flex items-center justify-center py-8">
-                <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
-                <span className="ml-2 text-gray-600">Loading...</span>
+                <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-red-500"></div>
+                <span className="ml-2 text-zinc-400">Loading...</span>
               </div>
             )}
 
             {error && (
-              <div className="bg-red-50 border border-red-200 rounded p-4 mb-4">
-                <div className="font-medium text-red-800">Error</div>
-                <div className="text-red-700">{error}</div>
+              <div className="bg-red-500/10 border border-red-500/30 rounded p-4 mb-4">
+                <div className="font-medium text-red-300">Error</div>
+                <div className="text-red-300">{error}</div>
               </div>
             )}
 
             {response !== null && !loading && (
-              <div className="bg-gray-100 rounded p-4 max-h-96 overflow-auto">
-                <pre className="text-sm text-gray-800 whitespace-pre-wrap">
+              <div className="bg-black/40 rounded ring-1 ring-white/10 p-4 max-h-96 overflow-auto">
+                <pre className="text-sm text-zinc-200 whitespace-pre-wrap">
                   {typeof response === 'string'
                     ? response
                     : JSON.stringify(response, null, 2)}
@@ -213,7 +210,7 @@ export default function ApiTestPage() {
             )}
 
             {!selectedEndpoint && !loading && (
-              <div className="text-center py-8 text-gray-500">
+              <div className="text-center py-8 text-zinc-500">
                 Select an endpoint to see the response
               </div>
             )}
@@ -221,12 +218,12 @@ export default function ApiTestPage() {
         </div>
 
         {/* API Info */}
-        <div className="mt-8 bg-white rounded-lg shadow-md p-6">
-          <h2 className="text-xl font-semibold text-gray-900 mb-4">API Information</h2>
+        <div className="mt-8 bg-white/[0.03] rounded-xl ring-1 ring-white/10 p-6">
+          <h2 className="text-xl font-semibold text-white mb-4">API Information</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
-              <h3 className="font-medium text-gray-900 mb-2">Available Data</h3>
-              <ul className="text-sm text-gray-600 space-y-1">
+              <h3 className="font-medium text-white mb-2">Available Data</h3>
+              <ul className="text-sm text-zinc-400 space-y-1">
                 <li>• User profile and statistics</li>
                 <li>• Complete watch history</li>
                 <li>• Watched movies and shows with play counts</li>
@@ -236,8 +233,8 @@ export default function ApiTestPage() {
               </ul>
             </div>
             <div>
-              <h3 className="font-medium text-gray-900 mb-2">Features</h3>
-              <ul className="text-sm text-gray-600 space-y-1">
+              <h3 className="font-medium text-white mb-2">Features</h3>
+              <ul className="text-sm text-zinc-400 space-y-1">
                 <li>• In-memory caching for performance</li>
                 <li>• Type filtering (movies/shows/all)</li>
                 <li>• Search functionality</li>
@@ -247,8 +244,8 @@ export default function ApiTestPage() {
               </ul>
             </div>
           </div>
-          <div className="mt-4 p-3 bg-yellow-50 border border-yellow-200 rounded">
-            <p className="text-sm text-yellow-800">
+          <div className="mt-4 p-3 bg-amber-500/10 border border-amber-500/30 rounded">
+            <p className="text-sm text-amber-200">
               <strong>Note:</strong> This API serves your personal Trakt data from local JSON files. 
               Data is automatically updated daily via GitHub Actions. Use the &quot;Clear Cache&quot; button 
               to refresh data after updates.

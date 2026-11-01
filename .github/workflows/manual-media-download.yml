@@ -25,8 +25,8 @@ jobs:
         with:
           repository: abusayed0206/cdn
           path: cdn-repo
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
+          token: ${{ secrets.PAT_TOKEN }}  # GITHUB_TOKEN can't read another private repo
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v4

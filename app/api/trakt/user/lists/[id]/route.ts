@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { TraktDataService } from '@/lib/services/trakt-data';
-
- 
+import { getImageUrl } from '@/lib/imageIndex';
+import type { ListItem } from '@/lib/types';
 
 const dataService = TraktDataService.getInstance();
 
@@ -28,7 +28,16 @@ export async function GET(
       );
     }
 
-    return NextResponse.json(listItems);
+    // Resolve poster URLs here so clients don't need one /api/images call per item
+    const data = (listItems.data as ListItem[]).map((item) => {
+      const media = item.movie ?? item.show;
+      return {
+        ...item,
+        poster: media ? getImageUrl(item.movie ? 'movies' : 'shows', 'posters', media.ids.tmdb) : null,
+      };
+    });
+
+    return NextResponse.json({ ...listItems, data });
   } catch (error) {
     console.error('Error fetching list items:', error);
     return NextResponse.json(

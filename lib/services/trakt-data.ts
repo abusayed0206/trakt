@@ -166,6 +166,10 @@ export class TraktDataService {
   }
 
   // Watchlist
+  public getUserWatchlist(): TraktUserWatchlist | null {
+    return this.loadJsonFile<TraktUserWatchlist>('user/watchlist/all.json');
+  }
+
   public getUserWatchlistMovies(): TraktUserWatchlist | null {
     return this.loadJsonFile<TraktUserWatchlist>('user/watchlist/movies.json');
   }

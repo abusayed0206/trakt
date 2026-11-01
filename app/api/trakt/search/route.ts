@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { TraktDataService, MovieSearchResult, ShowSearchResult } from '@/lib/services/trakt-data';
+import { getImageUrl } from '@/lib/imageIndex';
 
 const dataService = TraktDataService.getInstance();
 
@@ -22,11 +23,13 @@ export async function GET(request: NextRequest) {
     } = {};
 
     if (type === 'movies' || type === 'all' || !type) {
-      results.movies = dataService.searchMoviesByTitle(query);
+      results.movies = dataService.searchMoviesByTitle(query)
+        .map((r) => ({ ...r, poster: getImageUrl('movies', 'posters', r.movie.ids.tmdb) }));
     }
 
     if (type === 'shows' || type === 'all' || !type) {
-      results.shows = dataService.searchShowsByTitle(query);
+      results.shows = dataService.searchShowsByTitle(query)
+        .map((r) => ({ ...r, poster: getImageUrl('shows', 'posters', r.show.ids.tmdb) }));
     }
 
     return NextResponse.json({

@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { FaTv, FaCalendar, FaStar, FaPlay, FaCheckCircle } from 'react-icons/fa';
 import { fetchTMDBShow } from '@/lib/services/tmdb';
-import { fetchWatchedShows, fetchShowHistory } from '@/lib/services/api';
+import { TraktDataService } from '@/lib/services/trakt-data';
 import { getBackdropUrl, getPosterUrl, getProfileUrl } from '@/lib/utils/image-proxy';
 import { Icons } from '@/lib/utils/icons';
 import { getImdbUrl, getTmdbUrl } from '@/lib/utils/media';
@@ -39,10 +39,9 @@ export default async function TVPage({ params }: TVPageProps) {
   }
 
   // Fetch user data to determine watch status
-  const [watchedShows, history] = await Promise.all([
-    fetchWatchedShows().catch(() => []),
-    fetchShowHistory().catch(() => []),
-  ]);
+  const data = TraktDataService.getInstance();
+  const watchedShows = data.getUserWatchedShows()?.data ?? [];
+  const history = data.getUserHistoryShows()?.data ?? [];
 
   // Check if show is watched
   const watchedShow = watchedShows.find(s => s.show.ids.tmdb === parseInt(tmdb_id));

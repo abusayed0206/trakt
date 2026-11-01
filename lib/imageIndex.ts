@@ -142,3 +142,20 @@ class ImageIndexManager {
 }
 
 export default ImageIndexManager;
+
+const CDN_BASE_URL = 'https://cfcdn.sayed.app/watch/';
+
+/** wsrv.nl-optimized CDN URL for an indexed image, or null when the CDN doesn't have it */
+export function getImageUrl(
+  type: 'movies' | 'shows',
+  category: 'posters' | 'backdrops',
+  tmdbId: number | string,
+  { season, width = 400 }: { season?: number | string; width?: number } = {}
+): string | null {
+  const { files, basePath } = ImageIndexManager.getInstance().findImages(
+    type, category, String(tmdbId), season === undefined ? undefined : String(season)
+  );
+  if (files.length === 0) return null;
+  const cdnUrl = `${CDN_BASE_URL}${basePath}/${files[0]}`;
+  return `https://wsrv.nl/?url=${encodeURIComponent(cdnUrl)}&w=${width}&output=webp&q=90&maxage=31d`;
+}

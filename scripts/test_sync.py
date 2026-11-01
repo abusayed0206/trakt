@@ -78,6 +78,12 @@ with tempfile.TemporaryDirectory() as tmp:
         downloader.download_movie_images(2)
         assert tmdb.call_count == 1
 
+    # English / text-free images win over a foreign-language one listed first
+    with mock.patch.object(downloader, 'download_image') as dl:
+        downloader.download_first([{'file_path': '/pt.jpg', 'iso_639_1': 'pt'}, {'file_path': '/en.jpg', 'iso_639_1': 'en'}], 'poster', tmp / 'x.jpg')
+        downloader.download_first([{'file_path': '/pt.jpg', 'iso_639_1': 'pt'}], 'poster', tmp / 'y.jpg')
+        assert [c.args[0].rsplit('/', 1)[1] for c in dl.call_args_list] == ['en.jpg', 'pt.jpg']
+
     # The media index (and its last_updated) is only rewritten when the file set changes
     downloader.create_media_index()
     first = downloader.media_index_path.read_text()

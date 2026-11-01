@@ -184,6 +184,7 @@ export interface ListItem {
   type: 'movie' | 'show' | string;
   movie?: Movie;
   show?: Show;
+  poster?: string | null; // added by /api/trakt/user/lists/[id]
 }
 
 // Comment Types
@@ -225,12 +226,14 @@ export interface SearchResult {
       plays?: number;
       last_watched_at?: string;
       source: string;
+      poster?: string | null;
     }>;
     shows?: Array<{
       show: Show;
       plays?: number;
       last_watched_at?: string;
       source: string;
+      poster?: string | null;
     }>;
   };
 }
@@ -282,38 +285,8 @@ export type TraktUserHistory = ApiResponse<HistoryItem[]>;
 export type TraktUserWatchedMovies = ApiResponse<WatchedMovie[]>;
 export type TraktUserWatchedShows = ApiResponse<WatchedShow[]>;
 export type TraktUserWatchlist = ApiResponse<WatchlistItem[]>;
-export type TraktUserComments = ApiResponse<Comment[]>;
+export type TraktUserComments = ApiResponse<CommentItem[]>;
 export type TraktUserLists = ApiResponse<UserList[]>;
 
 // For backwards compatibility
 export type MovieWatchHistoryItem = HistoryItem;
-
-// Watching/Scrobble Types
-export interface WatchingProgress {
-  started_at: string;
-  expires_at: string;
-  percentage?: number;
-}
-
-export interface WatchingContent {
-  type: 'movie' | 'episode';
-  title: string;
-  subtitle?: string;
-  year: number;
-  progress?: WatchingProgress;
-  images: {
-    backdrop?: string;
-    backdrop_medium?: string;
-    backdrop_small?: string;
-  };
-  ids: {
-    trakt: number;
-    tmdb: number;
-    imdb: string;
-  };
-}
-
-export interface WatchingData {
-  isWatching: boolean;
-  content?: WatchingContent;
-}

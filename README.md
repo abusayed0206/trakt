@@ -1,178 +1,121 @@
 # Trakt Watch Dashboard
 
-A modern, high-performance Next.js application that provides a beautiful dashboard for your Trakt.tv watch history, watchlists, and personal statistics. Features optimized image loading with lazy loading and a responsive design.
+A personal dashboard for my [Trakt.tv](https://trakt.tv/users/lrs) history, live at **[trakt.sayed.app](https://trakt.sayed.app)**.
 
-## ✨ Features
+It shows watch stats, recently watched movies and shows, my watchlist and lists, reviews, and a searchable library of everything I've watched. Each title has its own page with TMDB details. A small read-only JSON API serves the same data.
 
-- **📊 Comprehensive Dashboard**: View your movie/show history, watchlists, and detailed statistics
-- **🖼️ Optimized Images**: Smart lazy loading with wsrv.nl optimization
-- **🔍 Advanced Search**: Search through your watched content with real-time filtering
-- **📱 Responsive Design**: Perfect experience on desktop, tablet, and mobile
-- **⚡ High Performance**: Pre-loaded image index and optimized API responses
-- **🎯 External Links**: Quick access to Letterboxd, IMDb, TMDB, and Trakt pages
-- **📈 Statistics**: Detailed viewing statistics and trends
+![Cover](public/cover.webp)
 
-## 🚀 Technology Stack
+## How it works
 
-- **Frontend**: Next.js 15.4.1 with App Router
-- **Styling**: Tailwind CSS with custom components
-- **Images**: Custom lazy loading with wsrv.nl optimization
-- **API**: RESTful endpoints serving pre-processed JSON data
-- **Data Source**: Trakt.tv API with daily data synchronization
-- **Hosting**: Optimized for Cloudflare Pages deployment
+There's no database, and the site doesn't call Trakt when someone visits. Instead:
 
-````
+1. **Once a day**, a GitHub Action (`daily-trakt-sync.yml`) fetches my Trakt data into `public/data/json/` and downloads any new posters and backdrops from TMDB. The images go into a separate CDN repo, served from `cfcdn.sayed.app/watch/`.
+2. The sync is **incremental**. It only rewrites JSON whose data changed and only asks TMDB about images the CDN doesn't have yet. A day without new activity makes no commit at all, so there's nothing to redeploy.
+3. When something did change, the commit makes **Vercel** redeploy. The homepage is pre-rendered at build time from those JSON files, so it loads as a single static page. Images are served through [wsrv.nl](https://wsrv.nl) as resized WebP.
 
-## 🛠️ Setup & Installation
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/abusayed0206/watch
-   cd watch
-````
-
-2. **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables**
-
-   ```bash
-   cp .env.example .env.local
-   ```
-
-   Add your Trakt.tv API credentials and configuration.
-
-4. **Fetch initial data**
-
-   ```bash
-   cd scripts
-   python fetch_trakt_data.py
-   ```
-
-5. **Start development server**
-   ```bash
-   npm run dev
-   ```
-
-## 📊 Data Management
-
-The application uses pre-processed JSON files for optimal performance:
-
-- **Daily Updates**: Data is synchronized once daily from Trakt.tv
-- **Smart Caching**: Image index pre-loaded at startup with 24-hour auto-refresh
-- **Optimized Storage**: Efficient data structures for fast lookups
-
-### Data Files Structure
+The movie and TV detail pages (`/movie/[tmdb_id]`, `/tv/[tmdb_id]`) are the only parts that fetch live data, from TMDB.
 
 ```
-public/data/
-├── media_index.json          # Image lookup index
-└── json/
-    ├── index.json           # Main data structure
-    └── user/
-        ├── profile/         # User profile data
-        ├── history/         # Watch history
-        ├── watchlist/       # Watchlists
-        ├── watched/         # Watched content
-        ├── stats/          # Statistics
-        ├── lists/          # Custom lists
-        └── comments/       # User comments
+Trakt API ──┐                             ┌─► public/data/json/*.json ──► Vercel build ──► static site
+            ├─► GitHub Action (daily) ────┤
+TMDB API  ──┘                             └─► cdn repo (watch/*.jpg) ──► wsrv.nl ──► images
 ```
 
-## 🖼️ Image Optimization
+## Stack
 
-Advanced image loading system for optimal performance:
+- Next.js 15 (App Router), React 19, Tailwind CSS 4, TypeScript
+- Python 3.11 scripts for the data sync (`scripts/`)
+- Vercel for hosting, a GitHub repo as the image CDN, wsrv.nl for image resizing
 
-- **Lazy Loading**: Full images load when entering viewport
-- **CDN Integration**: wsrv.nl for WebP conversion and optimization
-- **Smart Caching**: 7-day browser cache with quality optimization
-
-## 🔧 API Endpoints
-
-The application provides a comprehensive REST API:
-
-### Trakt Data API
-
-- `GET /api/trakt` - Main index and overview
-- `GET /api/trakt/user/profile` - User profile information
-- `GET /api/trakt/user/history` - Watch history
-- `GET /api/trakt/user/watchlist` - Watchlist items
-- `GET /api/trakt/search?q=query` - Search functionality
-
-### Image API
-
-- `GET /api/images?type=movies&category=posters&tmdb_id=123` - Full images
-
-## 📱 Components
-
-- **LazyImage**: Advanced image component with lazy loading
-- **MovieHistory/ShowHistory**: Recent viewing activity
-- **MovieWatchlist**: Prioritized watchlist with rankings
-- **SearchInterface**: Real-time content search
-- **UserProfileStats**: Comprehensive viewing statistics
-- **CustomLists**: Personal curated lists
-
-## 🚀 Deployment
-
-Optimized for Cloudflare Pages:
-
-1. **Build the application**
-
-   ```bash
-   npm run build
-   ```
-
-2. **Deploy to Cloudflare Pages**
-   - Connect your GitHub repository
-   - Set build command: `npm run build`
-   - Set output directory: `.next`
-
-## 🔐 Environment Variables
+## Running locally
 
 ```bash
-# Trakt.tv API Configuration
-TRAKT_CLIENT_ID=your_client_id
-TMDB_API_KEY=your_client_secret
-
-
-# Image CDN Configuration
-CDN_BASE_URL=https://your-cdn.com
-WSRV_BASE_URL=https://wsrv.nl
-
+npm install
+npm run dev
 ```
 
-## 📈 Performance Features
+The repo already contains the latest data snapshot, so the dashboard works without any keys. The movie and TV detail pages need a TMDB key in `.env.local`:
 
-- **Pre-loaded Data**: Image index loaded at server startup
-- **Optimized Images**: WebP format with quality optimization
-- **Smart Caching**: Multiple cache layers for optimal performance
-- **Lazy Loading**: Content loads as needed with intersection observer
-- **Responsive Design**: Optimized for all device sizes
+```bash
+TMDB_API_KEY=your_tmdb_v3_key
+```
 
-## 🤝 Contributing
+Other commands:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+```bash
+npm run build        # production build (pre-renders the homepage)
+npm run lint
+npm run type-check
+```
 
-## 📄 License
+## Refreshing the data yourself
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```bash
+pip install -r scripts/requirements.txt
+python scripts/manage_data.py fetch                                   # Trakt → public/data/json
+python scripts/download_media.py --cdn-repo-path ../cdn               # new images → ../cdn/watch
+cd scripts && python test_sync.py                                      # offline tests for the sync scripts
+```
 
-## 🙏 Acknowledgments
+`.env.local` for the scripts:
 
-- [Trakt.tv](https://trakt.tv) for the comprehensive API
-- [wsrv.nl](https://wsrv.nl) for image optimization services
-- [Next.js](https://nextjs.org) for the amazing framework
-- [Tailwind CSS](https://tailwindcss.com) for the utility-first CSS framework
-- [TMDB](https://themoviedb.org) for movie/show metadata
+```bash
+TRAKT_API_KEY=your_trakt_client_id
+TRAKT_USERNAME=your_trakt_username
+TMDB_API_KEY=your_tmdb_v3_key
+```
 
-## Notes
+A few Trakt API details these scripts handle:
 
-This projects code is heavily written by Claude Sonnet 4. ALso, the documentation is not up to date. Please refer to the code for the latest features and updates.
+- Since mid-2026, list endpoints only return the first 100 items unless you page through them. The fetcher always pages.
+- Watched shows are fetched with `extended=full,progress`, which adds season progress and runtime.
+- `/users/{id}/stats` is now VIP-only. For other accounts the fetcher rebuilds watch counts and watch time from the watched data.
+
+## GitHub Actions
+
+| Workflow | When | What it does |
+| --- | --- | --- |
+| `daily-trakt-sync.yml` | daily 05:34 UTC, on push to `main`, manually | Fetches Trakt data, downloads missing images to the CDN repo, commits only what changed |
+| `generate-cover.yml` | daily 06:00 UTC, when watched data changes, manually | Builds `public/cover.webp` from recently watched posters |
+| `manual-media-download.yml` | manually | Re-runs the image download; optionally wipes the CDN folder first to re-download everything |
+| `test-scripts.yml` | PRs touching `scripts/` | Compiles the scripts and runs the offline sync tests |
+
+Repository secrets:
+
+| Secret | Used for |
+| --- | --- |
+| `TRAKT_API_KEY` | Trakt app Client ID ([developer.trakt.tv](https://developer.trakt.tv/apps)). From January 1, 2027, the Trakt developer account must have a linked GitHub account. |
+| `TRAKT_USERNAME` | Whose data to fetch |
+| `TMDB_API_KEY` | TMDB v3 API key |
+| `PAT_TOKEN` | A personal access token with `repo` scope, so the workflows can push to the private CDN repo |
+
+## API
+
+All endpoints are read-only `GET`s with CORS enabled. You can try them at [/api-test](https://trakt.sayed.app/api-test). The full reference is in [API_DOCUMENTATION.md](API_DOCUMENTATION.md).
+
+| Endpoint | Returns |
+| --- | --- |
+| `/api/trakt` | Index of the snapshot |
+| `/api/trakt/user/profile` · `/stats` · `/comments` · `/lists` | Profile, stats, comments, lists |
+| `/api/trakt/user/history?type=movies\|shows` | Last 100 plays |
+| `/api/trakt/user/watched?type=movies\|shows` | Everything watched |
+| `/api/trakt/user/watchlist?type=movies\|shows` | Watchlist |
+| `/api/trakt/user/lists/{slug}` | List items, with poster URLs |
+| `/api/trakt/search?q=…&type=all\|movies\|shows` | Title search |
+| `/api/images?type=movies\|shows&category=posters\|backdrops&tmdb_id=…` | Redirects to the image |
+
+## Project layout
+
+```
+app/                 pages (homepage, /movie, /tv, /docs, /api-test) and API routes
+components/          homepage sections (Hero, PosterGrid, ListsBrowser, Reviews, …)
+lib/services/        trakt-data.ts reads the JSON snapshot; tmdb.ts calls TMDB for detail pages
+lib/imageIndex.ts    maps TMDB ids to CDN image files using public/data/media_index.json
+scripts/             Python sync: fetch_trakt_data.py, download_media.py, generate_cover.py
+public/data/         generated by the sync; don't edit by hand
+```
+
+## Credits
+
+Data from [Trakt](https://trakt.tv) and [TMDB](https://www.themoviedb.org). This product uses the TMDB API but is not endorsed or certified by TMDB.
