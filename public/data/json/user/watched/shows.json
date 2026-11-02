@@ -1,12 +1,92 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-01T21:33:09.878057+00:00",
+    "fetched_at": "2026-11-02T13:49:33.510272+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
     "count": 147
   },
   "data": [
+    {
+      "plays": 9,
+      "last_watched_at": "2026-11-02T13:42:00.000Z",
+      "last_updated_at": "2026-11-02T13:42:00.000Z",
+      "reset_at": null,
+      "show": {
+        "title": "The Terminal List",
+        "year": 2022,
+        "ids": {
+          "imdb": "tt11743610",
+          "plex": {
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
+          },
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
+        },
+        "aired_episodes": 16,
+        "runtime": 60
+      },
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2026-07-27T16:25:00.000Z"
+            },
+            {
+              "number": 2,
+              "plays": 1,
+              "last_watched_at": "2026-07-27T16:25:00.000Z"
+            },
+            {
+              "number": 3,
+              "plays": 1,
+              "last_watched_at": "2026-07-27T16:25:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2026-07-27T16:25:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2026-07-27T16:25:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2026-07-27T16:25:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2026-07-27T16:25:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2026-07-27T16:25:00.000Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "plays": 1,
+              "last_watched_at": "2026-11-02T13:42:00.000Z"
+            }
+          ]
+        }
+      ]
+    },
     {
       "plays": 8,
       "last_watched_at": "2026-10-29T19:30:00.000Z",
@@ -657,76 +737,6 @@
               "number": 4,
               "plays": 1,
               "last_watched_at": "2026-08-11T19:22:00.000Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "plays": 8,
-      "last_watched_at": "2026-07-27T16:25:00.000Z",
-      "last_updated_at": "2026-07-27T16:25:00.000Z",
-      "reset_at": null,
-      "show": {
-        "title": "The Terminal List",
-        "year": 2022,
-        "ids": {
-          "imdb": "tt11743610",
-          "plex": {
-            "guid": "6050e8434e71c2002c6d9ab6",
-            "slug": "the-terminal-list"
-          },
-          "slug": "the-terminal-list",
-          "tmdb": 120911,
-          "tvdb": 399917,
-          "trakt": 170081
-        },
-        "aired_episodes": 16,
-        "runtime": 60
-      },
-      "seasons": [
-        {
-          "number": 1,
-          "episodes": [
-            {
-              "number": 1,
-              "plays": 1,
-              "last_watched_at": "2026-07-27T16:25:00.000Z"
-            },
-            {
-              "number": 2,
-              "plays": 1,
-              "last_watched_at": "2026-07-27T16:25:00.000Z"
-            },
-            {
-              "number": 3,
-              "plays": 1,
-              "last_watched_at": "2026-07-27T16:25:00.000Z"
-            },
-            {
-              "number": 4,
-              "plays": 1,
-              "last_watched_at": "2026-07-27T16:25:00.000Z"
-            },
-            {
-              "number": 5,
-              "plays": 1,
-              "last_watched_at": "2026-07-27T16:25:00.000Z"
-            },
-            {
-              "number": 6,
-              "plays": 1,
-              "last_watched_at": "2026-07-27T16:25:00.000Z"
-            },
-            {
-              "number": 7,
-              "plays": 1,
-              "last_watched_at": "2026-07-27T16:25:00.000Z"
-            },
-            {
-              "number": 8,
-              "plays": 1,
-              "last_watched_at": "2026-07-27T16:25:00.000Z"
             }
           ]
         }
@@ -7051,7 +7061,7 @@
           "tvdb": 428433,
           "trakt": 198575
         },
-        "aired_episodes": 59,
+        "aired_episodes": 60,
         "runtime": 40
       },
       "seasons": [
@@ -8774,8 +8784,8 @@
     },
     {
       "plays": 62,
-      "last_watched_at": "2024-11-29T10:33:17.000Z",
-      "last_updated_at": "2024-11-29T10:33:17.000Z",
+      "last_watched_at": "2024-11-29T10:33:00.000Z",
+      "last_updated_at": "2024-11-29T10:33:00.000Z",
       "reset_at": null,
       "show": {
         "title": "Breaking Bad",

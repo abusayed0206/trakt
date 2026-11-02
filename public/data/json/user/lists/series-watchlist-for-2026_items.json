@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-01T21:33:10.838469+00:00",
+    "fetched_at": "2026-11-02T13:49:34.573579+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -155,30 +155,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2467372",
-          "plex": {
-            "guid": "5d9c086e08fddd001f29a991",
-            "slug": "brooklyn-nine-nine"
-          },
-          "slug": "brooklyn-nine-nine",
-          "tmdb": 48891,
-          "tvdb": 269586,
-          "trakt": 48587
-        },
-        "year": 2013,
-        "title": "Brooklyn Nine-Nine",
-        "aired_episodes": 152
-      },
-      "rank": 6,
-      "id": 1118270166,
-      "listed_at": "2024-11-11T17:12:57.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt5180504",
           "plex": {
             "guid": "5d9c08e6ba6eb9001fbac2b1",
@@ -196,6 +172,30 @@
       "rank": 35,
       "id": 1153031279,
       "listed_at": "2025-01-08T18:20:42.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2467372",
+          "plex": {
+            "guid": "5d9c086e08fddd001f29a991",
+            "slug": "brooklyn-nine-nine"
+          },
+          "slug": "brooklyn-nine-nine",
+          "tmdb": 48891,
+          "tvdb": 269586,
+          "trakt": 48587
+        },
+        "year": 2013,
+        "title": "Brooklyn Nine-Nine",
+        "aired_episodes": 152
+      },
+      "rank": 6,
+      "id": 1118270166,
+      "listed_at": "2024-11-11T17:12:57.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -491,30 +491,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0436992",
-          "plex": {
-            "guid": "5d9c082bd4f2a9001f7fe962",
-            "slug": "doctor-who-2005"
-          },
-          "slug": "doctor-who-2005",
-          "tmdb": 57243,
-          "tvdb": 78804,
-          "trakt": 56872
-        },
-        "year": 2005,
-        "title": "Doctor Who",
-        "aired_episodes": 153
-      },
-      "rank": 45,
-      "id": 1153031516,
-      "listed_at": "2025-01-08T18:23:05.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0413573",
           "plex": {
             "guid": "5d9c086c02391c001f5891bb",
@@ -532,6 +508,30 @@
       "rank": 47,
       "id": 1153031527,
       "listed_at": "2025-01-08T18:23:08.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0436992",
+          "plex": {
+            "guid": "5d9c082bd4f2a9001f7fe962",
+            "slug": "doctor-who-2005"
+          },
+          "slug": "doctor-who-2005",
+          "tmdb": 57243,
+          "tvdb": 78804,
+          "trakt": 56872
+        },
+        "year": 2005,
+        "title": "Doctor Who",
+        "aired_episodes": 153
+      },
+      "rank": 45,
+      "id": 1153031516,
+      "listed_at": "2025-01-08T18:23:05.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -923,30 +923,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2375692",
-          "plex": {
-            "guid": "5d9c08562df347001e3affeb",
-            "slug": "black-sails"
-          },
-          "slug": "black-sails",
-          "tmdb": 47665,
-          "tvdb": 262407,
-          "trakt": 47374
-        },
-        "year": 2014,
-        "title": "Black Sails",
-        "aired_episodes": 38
-      },
-      "rank": 53,
-      "id": 1283744103,
-      "listed_at": "2025-07-21T12:16:06.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt19231492",
           "plex": {
             "guid": "5fd2a1b82de5fd002dd4c7b1",
@@ -964,6 +940,30 @@
       "rank": 39,
       "id": 1153031296,
       "listed_at": "2025-01-08T18:22:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2375692",
+          "plex": {
+            "guid": "5d9c08562df347001e3affeb",
+            "slug": "black-sails"
+          },
+          "slug": "black-sails",
+          "tmdb": 47665,
+          "tvdb": 262407,
+          "trakt": 47374
+        },
+        "year": 2014,
+        "title": "Black Sails",
+        "aired_episodes": 38
+      },
+      "rank": 53,
+      "id": 1283744103,
+      "listed_at": "2025-07-21T12:16:06.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1463,7 +1463,7 @@
         },
         "year": 2024,
         "title": "Tracker",
-        "aired_episodes": 59
+        "aired_episodes": 60
       },
       "rank": 13,
       "id": 1129591871,

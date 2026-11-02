@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-01T21:33:10.154083+00:00",
+    "fetched_at": "2026-11-02T13:49:33.795648+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/all.json",
-    "count": 26
+    "count": 25
   },
   "data": [
     {
@@ -268,28 +268,6 @@
       "rank": 21,
       "id": 1326973797,
       "listed_at": "2025-09-29T14:54:12.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt0119177",
-          "plex": {
-            "guid": "5d7768275af944001f1f6dcc",
-            "slug": "gattaca"
-          },
-          "slug": "gattaca-1997",
-          "tmdb": 782,
-          "trakt": 625
-        },
-        "year": 1997,
-        "title": "Gattaca"
-      },
-      "rank": 21,
-      "id": 1414288918,
-      "listed_at": "2026-01-23T07:13:22.000Z",
       "notes": null,
       "my_rating": null
     },

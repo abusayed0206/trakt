@@ -1,12 +1,48 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-01T21:33:09.057547+00:00",
+    "fetched_at": "2026-11-02T13:49:31.329352+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14596933915,
+      "watched_at": "2026-11-02T13:42:00.000Z",
+      "action": "checkin",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt38866211",
+          "plex": {
+            "guid": "690d6e82db49c51fa1e96ccc"
+          },
+          "tmdb": 7264112,
+          "tvdb": 11795692,
+          "trakt": 14047204
+        },
+        "title": "ROMULUS S.V.",
+        "number": 1,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11743610",
+          "plex": {
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
+          },
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
+        },
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 16
+      }
+    },
     {
       "id": 14584697656,
       "watched_at": "2026-10-29T19:30:00.000Z",
@@ -3552,42 +3588,6 @@
         },
         "title": "Morton's Fork",
         "number": 10,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12397763877,
-      "watched_at": "2026-06-30T08:53:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3599898",
-          "plex": {
-            "guid": "5d9c10013c3f87001f3a233f"
-          },
-          "tmdb": 976756,
-          "tvdb": 4808536,
-          "trakt": 961280
-        },
-        "title": "A Fox, a Rabbit, and a Cabbage",
-        "number": 9,
         "season": 1
       },
       "show": {
