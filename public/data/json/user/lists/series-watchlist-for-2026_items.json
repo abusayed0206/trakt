@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-02T13:49:34.573579+00:00",
+    "fetched_at": "2026-11-03T13:00:05.504574+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
-    "count": 88
+    "count": 87
   },
   "data": [
     {
@@ -155,30 +155,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5180504",
-          "plex": {
-            "guid": "5d9c08e6ba6eb9001fbac2b1",
-            "slug": "the-witcher"
-          },
-          "slug": "the-witcher-2019",
-          "tmdb": 71912,
-          "tvdb": 362696,
-          "trakt": 138163
-        },
-        "year": 2019,
-        "title": "The Witcher",
-        "aired_episodes": 32
-      },
-      "rank": 35,
-      "id": 1153031279,
-      "listed_at": "2025-01-08T18:20:42.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt2467372",
           "plex": {
             "guid": "5d9c086e08fddd001f29a991",
@@ -196,6 +172,30 @@
       "rank": 6,
       "id": 1118270166,
       "listed_at": "2024-11-11T17:12:57.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5180504",
+          "plex": {
+            "guid": "5d9c08e6ba6eb9001fbac2b1",
+            "slug": "the-witcher"
+          },
+          "slug": "the-witcher-2019",
+          "tmdb": 71912,
+          "tvdb": 362696,
+          "trakt": 138163
+        },
+        "year": 2019,
+        "title": "The Witcher",
+        "aired_episodes": 32
+      },
+      "rank": 35,
+      "id": 1153031279,
+      "listed_at": "2025-01-08T18:20:42.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -443,30 +443,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1405406",
-          "plex": {
-            "guid": "5d9c082ae98e47001eb0946f",
-            "slug": "the-vampire-diaries"
-          },
-          "slug": "the-vampire-diaries",
-          "tmdb": 18165,
-          "tvdb": 95491,
-          "trakt": 18083
-        },
-        "year": 2009,
-        "title": "The Vampire Diaries",
-        "aired_episodes": 171
-      },
-      "rank": 27,
-      "id": 1153031251,
-      "listed_at": "2025-01-08T18:17:15.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt5875444",
           "plex": {
             "guid": "5e1622a54f2292003e912fcf",
@@ -484,6 +460,30 @@
       "rank": 85,
       "id": 1479836841,
       "listed_at": "2026-06-14T18:26:36.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1405406",
+          "plex": {
+            "guid": "5d9c082ae98e47001eb0946f",
+            "slug": "the-vampire-diaries"
+          },
+          "slug": "the-vampire-diaries",
+          "tmdb": 18165,
+          "tvdb": 95491,
+          "trakt": 18083
+        },
+        "year": 2009,
+        "title": "The Vampire Diaries",
+        "aired_episodes": 171
+      },
+      "rank": 27,
+      "id": 1153031251,
+      "listed_at": "2025-01-08T18:17:15.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -748,30 +748,6 @@
       "rank": 87,
       "id": 1484747959,
       "listed_at": "2026-06-24T08:46:05.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt2401256",
-          "plex": {
-            "guid": "5d9c0818ffd9ef001e98cd31",
-            "slug": "the-night-of"
-          },
-          "slug": "the-night-of",
-          "tmdb": 66276,
-          "tvdb": 310516,
-          "trakt": 196851
-        },
-        "year": 2016,
-        "title": "The Night Of",
-        "aired_episodes": 8
-      },
-      "rank": 88,
-      "id": 1484756718,
-      "listed_at": "2026-06-24T09:12:14.000Z",
       "notes": null,
       "my_rating": null
     },
