@@ -21,6 +21,8 @@ export async function generateMetadata({ params }: MoviePageProps): Promise<Meta
     return {
       title: `${movie.title} (${new Date(movie.release_date).getFullYear()}) - Movie Details`,
       description: movie.overview || `Details about ${movie.title}`,
+      // Personal watch log: keep these pages out of search results for my name
+      robots: { index: false, follow: true },
     };
   } catch {
     return {

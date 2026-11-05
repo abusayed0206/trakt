@@ -21,6 +21,8 @@ export async function generateMetadata({ params }: TVPageProps): Promise<Metadat
     return {
       title: `${show.name} (${new Date(show.first_air_date).getFullYear()}) - TV Show Details`,
       description: show.overview || `Details about ${show.name}`,
+      // Personal watch log: keep these pages out of search results for my name
+      robots: { index: false, follow: true },
     };
   } catch {
     return {
