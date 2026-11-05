@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-03T13:00:05.504574+00:00",
+    "fetched_at": "2026-11-05T13:29:00.709694+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -827,30 +827,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1219024",
-          "plex": {
-            "guid": "5d9c086c3c3f87001f34f644",
-            "slug": "castle-2009"
-          },
-          "slug": "castle",
-          "tmdb": 1419,
-          "tvdb": 83462,
-          "trakt": 1410
-        },
-        "year": 2009,
-        "title": "Castle",
-        "aired_episodes": 173
-      },
-      "rank": 33,
-      "id": 1153031271,
-      "listed_at": "2025-01-08T18:19:46.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4179452",
           "plex": {
             "guid": "5d9c08030aaccd001f8ec836",
@@ -868,6 +844,30 @@
       "rank": 42,
       "id": 1153031323,
       "listed_at": "2025-01-08T18:22:51.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1219024",
+          "plex": {
+            "guid": "5d9c086c3c3f87001f34f644",
+            "slug": "castle-2009"
+          },
+          "slug": "castle",
+          "tmdb": 1419,
+          "tvdb": 83462,
+          "trakt": 1410
+        },
+        "year": 2009,
+        "title": "Castle",
+        "aired_episodes": 173
+      },
+      "rank": 33,
+      "id": 1153031271,
+      "listed_at": "2025-01-08T18:19:46.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1415,7 +1415,7 @@
         },
         "year": 2014,
         "title": "Chicago P.D.",
-        "aired_episodes": 268
+        "aired_episodes": 269
       },
       "rank": 41,
       "id": 1153031321,
@@ -1775,7 +1775,7 @@
         },
         "year": 2015,
         "title": "Chicago Med",
-        "aired_episodes": 223
+        "aired_episodes": 224
       },
       "rank": 54,
       "id": 1283748591,

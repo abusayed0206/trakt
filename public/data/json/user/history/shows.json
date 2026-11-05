@@ -1,12 +1,192 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-03T13:00:01.239731+00:00",
+    "fetched_at": "2026-11-05T13:28:56.623670+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14604710490,
+      "watched_at": "2026-11-05T01:05:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt42592183",
+          "plex": {
+            "guid": "6a03174acf27db31fb0be899"
+          },
+          "tmdb": 7264122,
+          "tvdb": 11935190,
+          "trakt": 14047211
+        },
+        "title": "FATHERS AND SONS",
+        "number": 8,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11743610",
+          "plex": {
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
+          },
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
+        },
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 16
+      }
+    },
+    {
+      "id": 14604571400,
+      "watched_at": "2026-11-05T00:08:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt42592180",
+          "plex": {
+            "guid": "6a03174acf27db31fb0be89b"
+          },
+          "tmdb": 7264120,
+          "tvdb": 11935189,
+          "trakt": 14047210
+        },
+        "title": "EVERY BULLET HAS ITS DESTINY",
+        "number": 7,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11743610",
+          "plex": {
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
+          },
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
+        },
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 16
+      }
+    },
+    {
+      "id": 14604520250,
+      "watched_at": "2026-11-04T23:43:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt42592181",
+          "plex": {
+            "guid": "6a03174acf27db31fb0be89d"
+          },
+          "tmdb": 7264119,
+          "tvdb": 11935188,
+          "trakt": 14047209
+        },
+        "title": "RATS IN A MAZE",
+        "number": 6,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11743610",
+          "plex": {
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
+          },
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
+        },
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 16
+      }
+    },
+    {
+      "id": 14603816812,
+      "watched_at": "2026-11-04T19:41:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt42592179",
+          "plex": {
+            "guid": "6a03174acf27db31fb0be89f"
+          },
+          "tmdb": 7264117,
+          "tvdb": 11935187,
+          "trakt": 14047208
+        },
+        "title": "FROGMAN SH$T",
+        "number": 5,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11743610",
+          "plex": {
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
+          },
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
+        },
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 16
+      }
+    },
+    {
+      "id": 14603749317,
+      "watched_at": "2026-11-04T19:17:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt42592177",
+          "plex": {
+            "guid": "6a03174acf27db31fb0be8a1"
+          },
+          "tmdb": 7264115,
+          "tvdb": 11935186,
+          "trakt": 14047207
+        },
+        "title": "INTO THE LABYRINTH",
+        "number": 4,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt11743610",
+          "plex": {
+            "guid": "6050e8434e71c2002c6d9ab6",
+            "slug": "the-terminal-list"
+          },
+          "slug": "the-terminal-list",
+          "tmdb": 120911,
+          "tvdb": 399917,
+          "trakt": 170081
+        },
+        "year": 2022,
+        "title": "The Terminal List",
+        "aired_episodes": 16
+      }
+    },
     {
       "id": 14600087142,
       "watched_at": "2026-11-03T11:29:00.000Z",
@@ -3408,186 +3588,6 @@
         },
         "title": "The Castle",
         "number": 9,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12398950012,
-      "watched_at": "2026-06-30T20:50:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4001088",
-          "plex": {
-            "guid": "5d9c1001e98e47001eb6465d"
-          },
-          "tmdb": 1131245,
-          "tvdb": 5369447,
-          "trakt": 1744928
-        },
-        "title": "Loplop",
-        "number": 8,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12398860266,
-      "watched_at": "2026-06-30T20:19:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4001092",
-          "plex": {
-            "guid": "5d9c1001e98e47001eb64661"
-          },
-          "tmdb": 1131244,
-          "tvdb": 5360676,
-          "trakt": 1744925
-        },
-        "title": "Did You Do This? No, You Did It!",
-        "number": 7,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12398552630,
-      "watched_at": "2026-06-30T19:25:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4001082",
-          "plex": {
-            "guid": "5d9c1001e98e47001eb64651"
-          },
-          "tmdb": 1131243,
-          "tvdb": 5360675,
-          "trakt": 1744922
-        },
-        "title": "Rhinoceros",
-        "number": 6,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12398505291,
-      "watched_at": "2026-06-30T18:53:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4001084",
-          "plex": {
-            "guid": "5d9c1001e98e47001eb64655"
-          },
-          "tmdb": 1131242,
-          "tvdb": 5360674,
-          "trakt": 1744919
-        },
-        "title": "The Gift of the Magi",
-        "number": 5,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      }
-    },
-    {
-      "id": 12398425454,
-      "watched_at": "2026-06-30T18:12:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4001070",
-          "plex": {
-            "guid": "5d9c1001e98e47001eb64659"
-          },
-          "tmdb": 1110336,
-          "tvdb": 5359705,
-          "trakt": 1744917
-        },
-        "title": "Fear and Trembling",
-        "number": 4,
         "season": 2
       },
       "show": {

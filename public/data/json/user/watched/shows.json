@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-03T13:00:04.315108+00:00",
+    "fetched_at": "2026-11-05T13:28:59.494743+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -8,9 +8,9 @@
   },
   "data": [
     {
-      "plays": 11,
-      "last_watched_at": "2026-11-03T11:29:00.000Z",
-      "last_updated_at": "2026-11-03T11:29:00.000Z",
+      "plays": 16,
+      "last_watched_at": "2026-11-05T01:05:00.000Z",
+      "last_updated_at": "2026-11-05T01:05:00.000Z",
       "reset_at": null,
       "show": {
         "title": "The Terminal List",
@@ -92,6 +92,31 @@
               "number": 3,
               "plays": 1,
               "last_watched_at": "2026-11-03T11:29:00.000Z"
+            },
+            {
+              "number": 4,
+              "plays": 1,
+              "last_watched_at": "2026-11-04T19:17:00.000Z"
+            },
+            {
+              "number": 5,
+              "plays": 1,
+              "last_watched_at": "2026-11-04T19:41:00.000Z"
+            },
+            {
+              "number": 6,
+              "plays": 1,
+              "last_watched_at": "2026-11-04T23:43:00.000Z"
+            },
+            {
+              "number": 7,
+              "plays": 1,
+              "last_watched_at": "2026-11-05T00:08:00.000Z"
+            },
+            {
+              "number": 8,
+              "plays": 1,
+              "last_watched_at": "2026-11-05T01:05:00.000Z"
             }
           ]
         }
