@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-05T13:29:08.268674+00:00",
+    "fetched_at": "2026-11-06T13:12:51.080868+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/action-movies-archive_items.json",
@@ -35101,6 +35101,28 @@
       "type": "movie",
       "movie": {
         "ids": {
+          "imdb": "tt14957578",
+          "plex": {
+            "guid": "60e027fef36a76002cd12943",
+            "slug": "california-king-2025"
+          },
+          "slug": "california-king-2025",
+          "tmdb": 889962,
+          "trakt": 713633
+        },
+        "year": 2025,
+        "title": "California King"
+      },
+      "rank": 263,
+      "id": 1286140816,
+      "listed_at": "2025-07-23T20:44:27.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "movie",
+      "movie": {
+        "ids": {
           "imdb": "tt0287978",
           "plex": {
             "guid": "5d7768333c3c2a001fbcd979",
@@ -35754,28 +35776,6 @@
       "rank": 69,
       "id": 1286140609,
       "listed_at": "2025-07-23T20:44:23.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt14957578",
-          "plex": {
-            "guid": "60e027fef36a76002cd12943",
-            "slug": "california-king-2025"
-          },
-          "slug": "california-king-2025",
-          "tmdb": 889962,
-          "trakt": 713633
-        },
-        "year": 2025,
-        "title": "California King"
-      },
-      "rank": 263,
-      "id": 1286140816,
-      "listed_at": "2025-07-23T20:44:27.000Z",
       "notes": null,
       "my_rating": null
     },
