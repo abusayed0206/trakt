@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-06T13:12:42.682104+00:00",
+    "fetched_at": "2026-11-07T11:55:17.178415+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -875,30 +875,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0452046",
-          "plex": {
-            "guid": "5d9c080446115600200a6bbb",
-            "slug": "criminal-minds"
-          },
-          "slug": "criminal-minds",
-          "tmdb": 4057,
-          "tvdb": 75710,
-          "trakt": 4033
-        },
-        "year": 2005,
-        "title": "Criminal Minds",
-        "aired_episodes": 364
-      },
-      "rank": 8,
-      "id": 1127241236,
-      "listed_at": "2024-11-25T08:46:20.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt19231492",
           "plex": {
             "guid": "5fd2a1b82de5fd002dd4c7b1",
@@ -916,6 +892,30 @@
       "rank": 39,
       "id": 1153031296,
       "listed_at": "2025-01-08T18:22:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0452046",
+          "plex": {
+            "guid": "5d9c080446115600200a6bbb",
+            "slug": "criminal-minds"
+          },
+          "slug": "criminal-minds",
+          "tmdb": 4057,
+          "tvdb": 75710,
+          "trakt": 4033
+        },
+        "year": 2005,
+        "title": "Criminal Minds",
+        "aired_episodes": 364
+      },
+      "rank": 8,
+      "id": 1127241236,
+      "listed_at": "2024-11-25T08:46:20.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1739,30 +1739,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0108757",
-          "plex": {
-            "guid": "5d9c086e3c3f87001f34fcfa",
-            "slug": "er"
-          },
-          "slug": "er",
-          "tmdb": 4588,
-          "tvdb": 70761,
-          "trakt": 4564
-        },
-        "year": 1994,
-        "title": "ER",
-        "aired_episodes": 331
-      },
-      "rank": 48,
-      "id": 1273919887,
-      "listed_at": "2025-07-08T19:13:08.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4655480",
           "plex": {
             "guid": "5d9c08683c3f87001f34eb20",
@@ -1780,6 +1756,30 @@
       "rank": 54,
       "id": 1283748591,
       "listed_at": "2025-07-21T12:19:19.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0108757",
+          "plex": {
+            "guid": "5d9c086e3c3f87001f34fcfa",
+            "slug": "er"
+          },
+          "slug": "er",
+          "tmdb": 4588,
+          "tvdb": 70761,
+          "trakt": 4564
+        },
+        "year": 1994,
+        "title": "ER",
+        "aired_episodes": 331
+      },
+      "rank": 48,
+      "id": 1273919887,
+      "listed_at": "2025-07-08T19:13:08.000Z",
       "notes": null,
       "my_rating": null
     },

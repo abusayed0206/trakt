@@ -1,12 +1,32 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-04T13:15:37.998339+00:00",
+    "fetched_at": "2026-11-07T11:55:13.461936+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14608969928,
+      "watched_at": "2026-11-06T16:43:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt1893256",
+          "plex": {
+            "guid": "5d7769a0fb0d55001f52b4e5",
+            "slug": "redemption-2013-1"
+          },
+          "slug": "hummingbird-2013",
+          "tmdb": 136418,
+          "trakt": 91866
+        },
+        "year": 2013,
+        "title": "Hummingbird"
+      }
+    },
     {
       "id": 14582626958,
       "watched_at": "2026-10-29T02:18:00.000Z",
@@ -1985,26 +2005,6 @@
         },
         "year": 2017,
         "title": "Alien: Covenant"
-      }
-    },
-    {
-      "id": 11244774515,
-      "watched_at": "2025-09-06T20:34:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt1446714",
-          "plex": {
-            "guid": "5d7768b16f6af7001ee5af25",
-            "slug": "prometheus"
-          },
-          "slug": "prometheus-2012",
-          "tmdb": 70981,
-          "trakt": 52036
-        },
-        "year": 2012,
-        "title": "Prometheus"
       }
     }
   ]

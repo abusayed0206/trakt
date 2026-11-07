@@ -1,12 +1,48 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-06T13:12:38.854301+00:00",
+    "fetched_at": "2026-11-07T11:55:13.716364+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14609928872,
+      "watched_at": "2026-11-06T22:55:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt40729208",
+          "plex": {
+            "guid": "6aa2ad2cbef2d87c6692df81"
+          },
+          "tmdb": 7784659,
+          "tvdb": 11872316,
+          "trakt": 13610798
+        },
+        "title": "Fallen",
+        "number": 2,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33043892",
+          "plex": {
+            "guid": "66aaeee739a7f8cce575083a",
+            "slug": "dexter-resurrection-1"
+          },
+          "slug": "dexter-resurrection",
+          "tmdb": 259909,
+          "tvdb": 452595,
+          "trakt": 249647
+        },
+        "year": 2025,
+        "title": "Dexter: Resurrection",
+        "aired_episodes": 12
+      }
+    },
     {
       "id": 14608321792,
       "watched_at": "2026-11-06T11:00:00.000Z",
@@ -3569,42 +3605,6 @@
         "year": 2026,
         "title": "I Will Find You",
         "aired_episodes": 8
-      }
-    },
-    {
-      "id": 12399313113,
-      "watched_at": "2026-06-30T21:39:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3886622",
-          "plex": {
-            "guid": "5d9c1001e98e47001eb6464d"
-          },
-          "tmdb": 1131247,
-          "tvdb": 5370812,
-          "trakt": 1744932
-        },
-        "title": "Palindrome",
-        "number": 10,
-        "season": 2
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
       }
     }
   ]

@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-02T13:49:33.967432+00:00",
+    "fetched_at": "2026-11-07T11:55:16.531471+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/movies.json",
-    "count": 18
+    "count": 17
   },
   "data": [
     {
@@ -334,28 +334,6 @@
       "rank": 23,
       "id": 1285064215,
       "listed_at": "2025-07-22T20:04:33.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt1893256",
-          "plex": {
-            "guid": "5d7769a0fb0d55001f52b4e5",
-            "slug": "redemption-2013-1"
-          },
-          "slug": "hummingbird-2013",
-          "tmdb": 136418,
-          "trakt": 91866
-        },
-        "year": 2013,
-        "title": "Hummingbird"
-      },
-      "rank": 25,
-      "id": 1290228070,
-      "listed_at": "2025-07-28T13:19:02.000Z",
       "notes": null,
       "my_rating": null
     },
