@@ -1,12 +1,48 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-07T11:55:13.716364+00:00",
+    "fetched_at": "2026-11-08T12:10:19.195152+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14612716173,
+      "watched_at": "2026-11-07T21:04:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4345922",
+          "plex": {
+            "guid": "5d9c12786c3e37001ecfec9a"
+          },
+          "tmdb": 1087220,
+          "tvdb": 5260568,
+          "trakt": 1866097
+        },
+        "title": "Green Arrow",
+        "number": 1,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2193021",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891cf",
+            "slug": "arrow"
+          },
+          "slug": "arrow",
+          "tmdb": 1412,
+          "tvdb": 257655,
+          "trakt": 1403
+        },
+        "year": 2012,
+        "title": "Arrow",
+        "aired_episodes": 170
+      }
+    },
     {
       "id": 14609928872,
       "watched_at": "2026-11-06T22:55:00.000Z",
@@ -3552,42 +3588,6 @@
         },
         "title": "Episode 2",
         "number": 2,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt34771210",
-          "plex": {
-            "guid": "6749125e8148e744286155b2",
-            "slug": "i-will-find-you"
-          },
-          "slug": "i-will-find-you",
-          "tmdb": 278178,
-          "tvdb": 457173,
-          "trakt": 265319
-        },
-        "year": 2026,
-        "title": "I Will Find You",
-        "aired_episodes": 8
-      }
-    },
-    {
-      "id": 12921877306,
-      "watched_at": "2026-07-04T17:22:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt34821881",
-          "plex": {
-            "guid": "6861c706290ff5b5a861296c"
-          },
-          "tmdb": 6343846,
-          "tvdb": 10827238,
-          "trakt": 13262990
-        },
-        "title": "Episode 1",
-        "number": 1,
         "season": 1
       },
       "show": {
