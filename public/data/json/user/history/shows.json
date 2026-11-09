@@ -1,12 +1,120 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-08T12:10:19.195152+00:00",
+    "fetched_at": "2026-11-09T14:17:53.049565+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14616586615,
+      "watched_at": "2026-11-08T22:02:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4854000",
+          "plex": {
+            "guid": "5d9c1278d4f2a9001f825fa6"
+          },
+          "tmdb": 1096644,
+          "tvdb": 5302612,
+          "trakt": 1955359
+        },
+        "title": "Beyond Redemption",
+        "number": 4,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2193021",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891cf",
+            "slug": "arrow"
+          },
+          "slug": "arrow",
+          "tmdb": 1412,
+          "tvdb": 257655,
+          "trakt": 1403
+        },
+        "year": 2012,
+        "title": "Arrow",
+        "aired_episodes": 170
+      }
+    },
+    {
+      "id": 14616457290,
+      "watched_at": "2026-11-08T21:32:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4846212",
+          "plex": {
+            "guid": "5d9c12786c3e37001ecfec90"
+          },
+          "tmdb": 1095197,
+          "tvdb": 5298851,
+          "trakt": 1950497
+        },
+        "title": "Restoration",
+        "number": 3,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2193021",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891cf",
+            "slug": "arrow"
+          },
+          "slug": "arrow",
+          "tmdb": 1412,
+          "tvdb": 257655,
+          "trakt": 1403
+        },
+        "year": 2012,
+        "title": "Arrow",
+        "aired_episodes": 170
+      }
+    },
+    {
+      "id": 14616190528,
+      "watched_at": "2026-11-08T20:54:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4765782",
+          "plex": {
+            "guid": "5d9c12786c3e37001ecfec8c"
+          },
+          "tmdb": 1090739,
+          "tvdb": 5286674,
+          "trakt": 1941007
+        },
+        "title": "The Candidate",
+        "number": 2,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2193021",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891cf",
+            "slug": "arrow"
+          },
+          "slug": "arrow",
+          "tmdb": 1412,
+          "tvdb": 257655,
+          "trakt": 1403
+        },
+        "year": 2012,
+        "title": "Arrow",
+        "aired_episodes": 170
+      }
+    },
     {
       "id": 14612716173,
       "watched_at": "2026-11-07T21:04:00.000Z",
@@ -3480,114 +3588,6 @@
         },
         "title": "Episode 5",
         "number": 5,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt34771210",
-          "plex": {
-            "guid": "6749125e8148e744286155b2",
-            "slug": "i-will-find-you"
-          },
-          "slug": "i-will-find-you",
-          "tmdb": 278178,
-          "tvdb": 457173,
-          "trakt": 265319
-        },
-        "year": 2026,
-        "title": "I Will Find You",
-        "aired_episodes": 8
-      }
-    },
-    {
-      "id": 12939215901,
-      "watched_at": "2026-07-04T19:12:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt34821884",
-          "plex": {
-            "guid": "69fdf000f3c2fd9028343799"
-          },
-          "tmdb": 6829098,
-          "tvdb": 11781973,
-          "trakt": 13262994
-        },
-        "title": "Episode 4",
-        "number": 4,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt34771210",
-          "plex": {
-            "guid": "6749125e8148e744286155b2",
-            "slug": "i-will-find-you"
-          },
-          "slug": "i-will-find-you",
-          "tmdb": 278178,
-          "tvdb": 457173,
-          "trakt": 265319
-        },
-        "year": 2026,
-        "title": "I Will Find You",
-        "aired_episodes": 8
-      }
-    },
-    {
-      "id": 12931975368,
-      "watched_at": "2026-07-04T18:24:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt34821883",
-          "plex": {
-            "guid": "69fdf000f3c2fd9028343798"
-          },
-          "tmdb": 6829097,
-          "tvdb": 11781972,
-          "trakt": 13262993
-        },
-        "title": "Episode 3",
-        "number": 3,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt34771210",
-          "plex": {
-            "guid": "6749125e8148e744286155b2",
-            "slug": "i-will-find-you"
-          },
-          "slug": "i-will-find-you",
-          "tmdb": 278178,
-          "tvdb": 457173,
-          "trakt": 265319
-        },
-        "year": 2026,
-        "title": "I Will Find You",
-        "aired_episodes": 8
-      }
-    },
-    {
-      "id": 12927702798,
-      "watched_at": "2026-07-04T17:57:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt34821882",
-          "plex": {
-            "guid": "69fdeffff3c2fd9028343796"
-          },
-          "tmdb": 6829096,
-          "tvdb": 11781971,
-          "trakt": 13262992
-        },
-        "title": "Episode 2",
-        "number": 2,
         "season": 1
       },
       "show": {
