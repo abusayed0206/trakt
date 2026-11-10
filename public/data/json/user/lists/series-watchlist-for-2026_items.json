@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-09T14:17:57.512534+00:00",
+    "fetched_at": "2026-11-10T13:45:10.120766+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -779,6 +779,30 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt19231492",
+          "plex": {
+            "guid": "5fd2a1b82de5fd002dd4c7b1",
+            "slug": "dark-matter-2024"
+          },
+          "slug": "dark-matter-2024",
+          "tmdb": 196322,
+          "tvdb": 393159,
+          "trakt": 170597
+        },
+        "year": 2024,
+        "title": "Dark Matter",
+        "aired_episodes": 19
+      },
+      "rank": 39,
+      "id": 1153031296,
+      "listed_at": "2025-01-08T18:22:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt5348176",
           "plex": {
             "guid": "5d9c08da4eefaa001f5e44af",
@@ -844,30 +868,6 @@
       "rank": 42,
       "id": 1153031323,
       "listed_at": "2025-01-08T18:22:51.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt19231492",
-          "plex": {
-            "guid": "5fd2a1b82de5fd002dd4c7b1",
-            "slug": "dark-matter-2024"
-          },
-          "slug": "dark-matter-2024",
-          "tmdb": 196322,
-          "tvdb": 393159,
-          "trakt": 170597
-        },
-        "year": 2024,
-        "title": "Dark Matter",
-        "aired_episodes": 19
-      },
-      "rank": 39,
-      "id": 1153031296,
-      "listed_at": "2025-01-08T18:22:20.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -971,30 +971,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0979432",
-          "plex": {
-            "guid": "5d9c086dcb3ffa001f1b4ca3",
-            "slug": "boardwalk-empire"
-          },
-          "slug": "boardwalk-empire",
-          "tmdb": 1621,
-          "tvdb": 84947,
-          "trakt": 1610
-        },
-        "year": 2010,
-        "title": "Boardwalk Empire",
-        "aired_episodes": 56
-      },
-      "rank": 31,
-      "id": 1153031261,
-      "listed_at": "2025-01-08T18:18:20.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt15571732",
           "plex": {
             "guid": "618fc471f4da835fbeee158d",
@@ -1012,6 +988,30 @@
       "rank": 34,
       "id": 1153031275,
       "listed_at": "2025-01-08T18:20:08.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0979432",
+          "plex": {
+            "guid": "5d9c086dcb3ffa001f1b4ca3",
+            "slug": "boardwalk-empire"
+          },
+          "slug": "boardwalk-empire",
+          "tmdb": 1621,
+          "tvdb": 84947,
+          "trakt": 1610
+        },
+        "year": 2010,
+        "title": "Boardwalk Empire",
+        "aired_episodes": 56
+      },
+      "rank": 31,
+      "id": 1153031261,
+      "listed_at": "2025-01-08T18:18:20.000Z",
       "notes": null,
       "my_rating": null
     },
