@@ -1,12 +1,120 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-10T13:45:06.808671+00:00",
+    "fetched_at": "2026-11-11T12:56:39.454921+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14622956594,
+      "watched_at": "2026-11-11T00:09:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4859296",
+          "plex": {
+            "guid": "5d9c1278d4f2a9001f825f9a"
+          },
+          "tmdb": 1109035,
+          "tvdb": 5343120,
+          "trakt": 2000574
+        },
+        "title": "Brotherhood",
+        "number": 7,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2193021",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891cf",
+            "slug": "arrow"
+          },
+          "slug": "arrow",
+          "tmdb": 1412,
+          "tvdb": 257655,
+          "trakt": 1403
+        },
+        "year": 2012,
+        "title": "Arrow",
+        "aired_episodes": 170
+      }
+    },
+    {
+      "id": 14622557579,
+      "watched_at": "2026-11-10T21:37:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt38162679",
+          "plex": {
+            "guid": "68bcaddec308cbbf0af59ee5"
+          },
+          "tmdb": 7781685,
+          "tvdb": 11872315,
+          "trakt": 13610797
+        },
+        "title": "Risky Business",
+        "number": 1,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33043892",
+          "plex": {
+            "guid": "66aaeee739a7f8cce575083a",
+            "slug": "dexter-resurrection-1"
+          },
+          "slug": "dexter-resurrection",
+          "tmdb": 259909,
+          "tvdb": 452595,
+          "trakt": 249647
+        },
+        "year": 2025,
+        "title": "Dexter: Resurrection",
+        "aired_episodes": 12
+      }
+    },
+    {
+      "id": 14622556078,
+      "watched_at": "2026-11-10T21:36:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt4859298",
+          "plex": {
+            "guid": "5d9c1278d4f2a9001f825faa"
+          },
+          "tmdb": 1105608,
+          "tvdb": 5330511,
+          "trakt": 1986583
+        },
+        "title": "Lost Souls",
+        "number": 6,
+        "season": 4
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt2193021",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891cf",
+            "slug": "arrow"
+          },
+          "slug": "arrow",
+          "tmdb": 1412,
+          "tvdb": 257655,
+          "trakt": 1403
+        },
+        "year": 2012,
+        "title": "Arrow",
+        "aired_episodes": 170
+      }
+    },
     {
       "id": 14619620783,
       "watched_at": "2026-11-09T22:25:00.000Z",
@@ -3497,114 +3605,6 @@
         "year": 2012,
         "title": "Elementary",
         "aired_episodes": 154
-      }
-    },
-    {
-      "id": 12956298358,
-      "watched_at": "2026-07-04T20:59:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt34821890",
-          "plex": {
-            "guid": "696109e13be68a7ba3213fe7"
-          },
-          "tmdb": 6829102,
-          "tvdb": 11781977,
-          "trakt": 13262999
-        },
-        "title": "Episode 8",
-        "number": 8,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt34771210",
-          "plex": {
-            "guid": "6749125e8148e744286155b2",
-            "slug": "i-will-find-you"
-          },
-          "slug": "i-will-find-you",
-          "tmdb": 278178,
-          "tvdb": 457173,
-          "trakt": 265319
-        },
-        "year": 2026,
-        "title": "I Will Find You",
-        "aired_episodes": 8
-      }
-    },
-    {
-      "id": 12952548667,
-      "watched_at": "2026-07-04T20:35:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt34821889",
-          "plex": {
-            "guid": "69fdf001f3c2fd902834379d"
-          },
-          "tmdb": 6829101,
-          "tvdb": 11781976,
-          "trakt": 13262998
-        },
-        "title": "Episode 7",
-        "number": 7,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt34771210",
-          "plex": {
-            "guid": "6749125e8148e744286155b2",
-            "slug": "i-will-find-you"
-          },
-          "slug": "i-will-find-you",
-          "tmdb": 278178,
-          "tvdb": 457173,
-          "trakt": 265319
-        },
-        "year": 2026,
-        "title": "I Will Find You",
-        "aired_episodes": 8
-      }
-    },
-    {
-      "id": 12949232885,
-      "watched_at": "2026-07-04T20:13:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt34821888",
-          "plex": {
-            "guid": "696109e23be68a7ba3213ff7"
-          },
-          "tmdb": 6829100,
-          "tvdb": 11781975,
-          "trakt": 13262997
-        },
-        "title": "Episode 6",
-        "number": 6,
-        "season": 1
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt34771210",
-          "plex": {
-            "guid": "6749125e8148e744286155b2",
-            "slug": "i-will-find-you"
-          },
-          "slug": "i-will-find-you",
-          "tmdb": 278178,
-          "tvdb": 457173,
-          "trakt": 265319
-        },
-        "year": 2026,
-        "title": "I Will Find You",
-        "aired_episodes": 8
       }
     }
   ]
