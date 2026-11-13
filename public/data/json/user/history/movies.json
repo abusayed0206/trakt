@@ -1,12 +1,32 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-08T12:10:18.737126+00:00",
+    "fetched_at": "2026-11-13T13:24:51.677941+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14628290648,
+      "watched_at": "2026-11-12T20:32:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt13611778",
+          "plex": {
+            "guid": "5fd1db12f51cd8002e793df9",
+            "slug": "the-mongoose-2026"
+          },
+          "slug": "the-mongoose-2026",
+          "tmdb": 1294189,
+          "trakt": 1054539
+        },
+        "year": 2026,
+        "title": "The Mongoose"
+      }
+    },
     {
       "id": 14611857906,
       "watched_at": "2026-11-07T15:46:00.000Z",
@@ -1985,26 +2005,6 @@
         },
         "year": 2018,
         "title": "Solo: A Star Wars Story"
-      }
-    },
-    {
-      "id": 11266674547,
-      "watched_at": "2025-09-12T02:24:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt3748528",
-          "plex": {
-            "guid": "5d776b85594b2b001e6dc647",
-            "slug": "rogue-one-a-star-wars-story"
-          },
-          "slug": "rogue-one-a-star-wars-story-2016",
-          "tmdb": 330459,
-          "trakt": 211396
-        },
-        "year": 2016,
-        "title": "Rogue One: A Star Wars Story"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-12T13:58:16.415240+00:00",
+    "fetched_at": "2026-11-13T13:24:54.647579+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -503,7 +503,7 @@
         },
         "year": 2005,
         "title": "Grey's Anatomy",
-        "aired_episodes": 469
+        "aired_episodes": 470
       },
       "rank": 47,
       "id": 1153031527,
@@ -599,7 +599,7 @@
         },
         "year": 2025,
         "title": "MobLand",
-        "aired_episodes": 18
+        "aired_episodes": 19
       },
       "rank": 55,
       "id": 1285066962,
@@ -1319,7 +1319,7 @@
         },
         "year": 1999,
         "title": "Law & Order: Special Victims Unit",
-        "aired_episodes": 599
+        "aired_episodes": 600
       },
       "rank": 18,
       "id": 1133528027,
