@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-13T13:24:54.647579+00:00",
+    "fetched_at": "2026-11-14T12:28:31.551975+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -347,30 +347,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2802850",
-          "plex": {
-            "guid": "5d9c0838ffd9ef001e98fd77",
-            "slug": "fargo"
-          },
-          "slug": "fargo",
-          "tmdb": 60622,
-          "tvdb": 269613,
-          "trakt": 60203
-        },
-        "year": 2014,
-        "title": "Fargo",
-        "aired_episodes": 51
-      },
-      "rank": 52,
-      "id": 1237230371,
-      "listed_at": "2025-05-26T15:50:16.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt31938062",
           "plex": {
             "guid": "66047594f2781fe94954a721",
@@ -388,6 +364,30 @@
       "rank": 47,
       "id": 1273910724,
       "listed_at": "2025-07-08T19:03:09.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2802850",
+          "plex": {
+            "guid": "5d9c0838ffd9ef001e98fd77",
+            "slug": "fargo"
+          },
+          "slug": "fargo",
+          "tmdb": 60622,
+          "tvdb": 269613,
+          "trakt": 60203
+        },
+        "year": 2014,
+        "title": "Fargo",
+        "aired_episodes": 51
+      },
+      "rank": 52,
+      "id": 1237230371,
+      "listed_at": "2025-05-26T15:50:16.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -755,30 +755,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      },
-      "rank": 49,
-      "id": 1170422123,
-      "listed_at": "2025-02-07T11:01:15.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt19231492",
           "plex": {
             "guid": "5fd2a1b82de5fd002dd4c7b1",
@@ -796,6 +772,30 @@
       "rank": 39,
       "id": 1153031296,
       "listed_at": "2025-01-08T18:22:20.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt2191671",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bf",
+            "slug": "elementary"
+          },
+          "slug": "elementary",
+          "tmdb": 1415,
+          "tvdb": 255316,
+          "trakt": 1406
+        },
+        "year": 2012,
+        "title": "Elementary",
+        "aired_episodes": 154
+      },
+      "rank": 49,
+      "id": 1170422123,
+      "listed_at": "2025-02-07T11:01:15.000Z",
       "notes": null,
       "my_rating": null
     },
