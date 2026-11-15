@@ -1,12 +1,300 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-14T12:28:29.875820+00:00",
+    "fetched_at": "2026-11-15T12:18:37.818094+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14635006882,
+      "watched_at": "2026-11-15T01:11:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt38126985",
+          "plex": {
+            "guid": "6a450230d2a6e9ffe46a3544"
+          },
+          "tmdb": 7182638,
+          "tvdb": 11866692,
+          "trakt": 14133122
+        },
+        "title": "Lebron's No Jordan",
+        "number": 7,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33539520",
+          "plex": {
+            "guid": "6995dd6b96c7221de9313980",
+            "slug": "neagley"
+          },
+          "slug": "neagley",
+          "tmdb": 273207,
+          "tvdb": 455064,
+          "trakt": 258222
+        },
+        "year": 2026,
+        "title": "Neagley",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14635006486,
+      "watched_at": "2026-11-15T01:11:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt38126984",
+          "plex": {
+            "guid": "69eb7d433a0e4ddc20229cbf"
+          },
+          "tmdb": 7182637,
+          "tvdb": 11866691,
+          "trakt": 14133121
+        },
+        "title": "Rocked",
+        "number": 6,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33539520",
+          "plex": {
+            "guid": "6995dd6b96c7221de9313980",
+            "slug": "neagley"
+          },
+          "slug": "neagley",
+          "tmdb": 273207,
+          "tvdb": 455064,
+          "trakt": 258222
+        },
+        "year": 2026,
+        "title": "Neagley",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14635006048,
+      "watched_at": "2026-11-15T01:11:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt38126981",
+          "plex": {
+            "guid": "6a450230d2a6e9ffe46a3542"
+          },
+          "tmdb": 7182635,
+          "tvdb": 11866690,
+          "trakt": 14133120
+        },
+        "title": "Trip",
+        "number": 5,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33539520",
+          "plex": {
+            "guid": "6995dd6b96c7221de9313980",
+            "slug": "neagley"
+          },
+          "slug": "neagley",
+          "tmdb": 273207,
+          "tvdb": 455064,
+          "trakt": 258222
+        },
+        "year": 2026,
+        "title": "Neagley",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14635005317,
+      "watched_at": "2026-11-15T01:10:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt38127017",
+          "plex": {
+            "guid": "6a450230d2a6e9ffe46a3545"
+          },
+          "tmdb": 7182639,
+          "tvdb": 11866693,
+          "trakt": 14133123
+        },
+        "title": "Touched",
+        "number": 8,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33539520",
+          "plex": {
+            "guid": "6995dd6b96c7221de9313980",
+            "slug": "neagley"
+          },
+          "slug": "neagley",
+          "tmdb": 273207,
+          "tvdb": 455064,
+          "trakt": 258222
+        },
+        "year": 2026,
+        "title": "Neagley",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14634757446,
+      "watched_at": "2026-11-14T23:52:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt37022280",
+          "plex": {
+            "guid": "6a450230d2a6e9ffe46a3541"
+          },
+          "tmdb": 7182634,
+          "tvdb": 11866689,
+          "trakt": 14133119
+        },
+        "title": "Breaking & Entering",
+        "number": 4,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33539520",
+          "plex": {
+            "guid": "6995dd6b96c7221de9313980",
+            "slug": "neagley"
+          },
+          "slug": "neagley",
+          "tmdb": 273207,
+          "tvdb": 455064,
+          "trakt": 258222
+        },
+        "year": 2026,
+        "title": "Neagley",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14634750359,
+      "watched_at": "2026-11-14T23:48:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt37022271",
+          "plex": {
+            "guid": "6a450230d2a6e9ffe46a3540"
+          },
+          "tmdb": 7182633,
+          "tvdb": 11866688,
+          "trakt": 14133118
+        },
+        "title": "Hammer Time",
+        "number": 3,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33539520",
+          "plex": {
+            "guid": "6995dd6b96c7221de9313980",
+            "slug": "neagley"
+          },
+          "slug": "neagley",
+          "tmdb": 273207,
+          "tvdb": 455064,
+          "trakt": 258222
+        },
+        "year": 2026,
+        "title": "Neagley",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14634750259,
+      "watched_at": "2026-11-14T23:48:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt37577603",
+          "plex": {
+            "guid": "6a450230d2a6e9ffe46a353f"
+          },
+          "tmdb": 7182632,
+          "tvdb": 11866687,
+          "trakt": 14133117
+        },
+        "title": "Team Building Exercises",
+        "number": 2,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33539520",
+          "plex": {
+            "guid": "6995dd6b96c7221de9313980",
+            "slug": "neagley"
+          },
+          "slug": "neagley",
+          "tmdb": 273207,
+          "tvdb": 455064,
+          "trakt": 258222
+        },
+        "year": 2026,
+        "title": "Neagley",
+        "aired_episodes": 8
+      }
+    },
+    {
+      "id": 14634750148,
+      "watched_at": "2026-11-14T23:48:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt33544618",
+          "plex": {
+            "guid": "6995dd6d96c7221de93139c5"
+          },
+          "tmdb": 7182631,
+          "tvdb": 11619755,
+          "trakt": 14133116
+        },
+        "title": "L Train",
+        "number": 1,
+        "season": 1
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33539520",
+          "plex": {
+            "guid": "6995dd6b96c7221de9313980",
+            "slug": "neagley"
+          },
+          "slug": "neagley",
+          "tmdb": 273207,
+          "tvdb": 455064,
+          "trakt": 258222
+        },
+        "year": 2026,
+        "title": "Neagley",
+        "aired_episodes": 8
+      }
+    },
     {
       "id": 14622956594,
       "watched_at": "2026-11-11T00:09:00.000Z",
@@ -3300,294 +3588,6 @@
         },
         "title": "End of Watch",
         "number": 8,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      }
-    },
-    {
-      "id": 13979964914,
-      "watched_at": "2026-07-20T18:04:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4132718",
-          "plex": {
-            "guid": "5d9c1278ec357c001f9d0796"
-          },
-          "tmdb": 1019261,
-          "tvdb": 5044927,
-          "trakt": 998941
-        },
-        "title": "The Adventure of the Nutmeg Concoction",
-        "number": 7,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      }
-    },
-    {
-      "id": 13955229773,
-      "watched_at": "2026-07-19T11:33:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4193778",
-          "plex": {
-            "guid": "5d9c12782df347001e41c488"
-          },
-          "tmdb": 1019260,
-          "tvdb": 5044926,
-          "trakt": 998940
-        },
-        "title": "Terra Pericolosa",
-        "number": 6,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      }
-    },
-    {
-      "id": 13945782827,
-      "watched_at": "2026-07-18T21:38:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4188090",
-          "plex": {
-            "guid": "5d9c12782df347001e41c4ac"
-          },
-          "tmdb": 1012012,
-          "tvdb": 5039332,
-          "trakt": 998939
-        },
-        "title": "Rip Off",
-        "number": 5,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      }
-    },
-    {
-      "id": 13944776704,
-      "watched_at": "2026-07-18T20:53:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4109322",
-          "plex": {
-            "guid": "5d9c12782df347001e41c498"
-          },
-          "tmdb": 1012011,
-          "tvdb": 5032910,
-          "trakt": 998938
-        },
-        "title": "Bella",
-        "number": 4,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      }
-    },
-    {
-      "id": 13943559253,
-      "watched_at": "2026-07-18T19:53:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4166616",
-          "plex": {
-            "guid": "5d9c1278ec357c001f9d077a"
-          },
-          "tmdb": 1012010,
-          "tvdb": 5024397,
-          "trakt": 998937
-        },
-        "title": "Just a Regular Irregular",
-        "number": 3,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      }
-    },
-    {
-      "id": 13677991549,
-      "watched_at": "2026-07-12T18:16:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4038658",
-          "plex": {
-            "guid": "5d9c1278ec357c001f9d078e"
-          },
-          "tmdb": 1012009,
-          "tvdb": 4989524,
-          "trakt": 998936
-        },
-        "title": "The Five Orange Pipz",
-        "number": 2,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      }
-    },
-    {
-      "id": 13674674421,
-      "watched_at": "2026-07-12T17:31:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3596108",
-          "plex": {
-            "guid": "5d9c1278ec357c001f9d078a"
-          },
-          "tmdb": 1001512,
-          "tvdb": 4912563,
-          "trakt": 75010
-        },
-        "title": "Enough Nemesis to Go Around",
-        "number": 1,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      }
-    },
-    {
-      "id": 13562298512,
-      "watched_at": "2026-07-10T21:01:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt3596108",
-          "plex": {
-            "guid": "5d9c1278ec357c001f9d078a"
-          },
-          "tmdb": 1001512,
-          "tvdb": 4912563,
-          "trakt": 75010
-        },
-        "title": "Enough Nemesis to Go Around",
-        "number": 1,
         "season": 3
       },
       "show": {

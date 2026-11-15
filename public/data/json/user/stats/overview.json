@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-14T12:28:29.605954+00:00",
+    "fetched_at": "2026-11-15T12:18:43.753579+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/stats/overview.json",
@@ -8,59 +8,54 @@
   },
   "data": {
     "movies": {
-      "plays": 0,
-      "watched": 0,
-      "minutes": 0,
+      "plays": 881,
+      "watched": 860,
+      "minutes": 109005,
       "collected": 0,
-      "ratings": 0,
-      "comments": 0
+      "ratings": 16,
+      "comments": 7
     },
     "shows": {
-      "watched": 0,
+      "watched": 148,
       "collected": 0,
-      "ratings": 0,
-      "comments": 0
+      "ratings": 4,
+      "comments": 1
     },
     "seasons": {
       "ratings": 0,
       "comments": 0
     },
     "episodes": {
-      "plays": 0,
-      "watched": 0,
-      "minutes": 0,
+      "plays": 5034,
+      "watched": 4490,
+      "minutes": 241510,
       "collected": 0,
-      "ratings": 0,
-      "comments": 0
+      "ratings": 1,
+      "comments": 7
     },
     "network": {
-      "friends": 0,
-      "followers": 0,
-      "following": 0
+      "friends": 1,
+      "followers": 8,
+      "following": 12
     },
     "ratings": {
-      "total": 0,
+      "total": 21,
       "distribution": {
-        "1": 0,
+        "1": 1,
         "2": 0,
         "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
+        "4": 1,
+        "5": 2,
+        "6": 1,
+        "7": 2,
+        "8": 6,
+        "9": 3,
+        "10": 5
       }
     },
-    "progress": {
-      "started": 0,
-      "finished": 0,
-      "dropped": 0
-    },
-    "lists": 0,
+    "lists": 4,
     "list_comments": 0,
-    "total_minutes": 0,
-    "total_plays": 0
+    "total_minutes": 350515,
+    "total_plays": 5915
   }
 }
