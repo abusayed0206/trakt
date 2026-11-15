@@ -14,6 +14,7 @@ import os
 import json
 import requests
 import time
+from collections import Counter
 from datetime import datetime, timezone
 from dotenv import load_dotenv
 from pathlib import Path
@@ -26,29 +27,50 @@ load_dotenv('../.env.local')  # Look in project root folder
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-def build_stats(previous, watched_movies, watched_shows):
-    """Rebuild the watched/plays/minutes stats from watched data, since /users/{id}/stats is VIP-only.
+def build_stats(watched_movies, watched_shows, ratings, collected_movies, collected_shows,
+                comments, lists, friends, followers, following):
+    """Build the /users/{id}/stats shape from public endpoints.
 
-    Fields watched data can't provide (ratings, network, collected, comments) are kept from `previous`.
+    /stats is VIP-only since Sep 2026; Trakt's advice is to compute it client-side (trakt/trakt-api#929).
+    `progress` (started/finished/dropped) has no public source, so it is left out.
     """
-    stats = json.loads(json.dumps(previous))  # deep copy
     # shortcut: episode minutes use the show's average episode runtime, not each episode's own
     episodes = [(show['show'].get('runtime') or 0, episode['plays'])
                 for show in watched_shows
                 for season in show.get('seasons', [])
                 for episode in season['episodes']]
-    stats.setdefault('movies', {}).update(
-        plays=sum(m['plays'] for m in watched_movies),
-        watched=len(watched_movies),
-        minutes=sum(m['plays'] * (m['movie'].get('runtime') or 0) for m in watched_movies),
-    )
-    stats.setdefault('shows', {})['watched'] = len(watched_shows)
-    stats.setdefault('episodes', {}).update(
-        plays=sum(plays for _, plays in episodes),
-        watched=len(episodes),
-        minutes=sum(runtime * plays for runtime, plays in episodes),
-    )
-    return stats
+    rated = Counter(r['type'] for r in ratings)
+    commented = Counter(c.get('type') for c in comments)
+    movies = {
+        'plays': sum(m['plays'] for m in watched_movies),
+        'watched': len(watched_movies),
+        'minutes': sum(m['plays'] * (m['movie'].get('runtime') or 0) for m in watched_movies),
+        'collected': len(collected_movies),
+        'ratings': rated['movie'],
+        'comments': commented['movie'],
+    }
+    episode_stats = {
+        'plays': sum(plays for _, plays in episodes),
+        'watched': len(episodes),
+        'minutes': sum(runtime * plays for runtime, plays in episodes),
+        'collected': sum(len(s.get('episodes', [])) for show in collected_shows for s in show.get('seasons', [])),
+        'ratings': rated['episode'],
+        'comments': commented['episode'],
+    }
+    distribution = Counter(r['rating'] for r in ratings)
+    return {
+        'movies': movies,
+        'shows': {'watched': len(watched_shows), 'collected': len(collected_shows),
+                  'ratings': rated['show'], 'comments': commented['show']},
+        'seasons': {'ratings': rated['season'], 'comments': commented['season']},
+        'episodes': episode_stats,
+        'network': {'friends': len(friends), 'followers': len(followers), 'following': len(following)},
+        'ratings': {'total': len(ratings), 'distribution': {str(n): distribution[n] for n in range(1, 11)}},
+        'lists': len(lists),
+        'list_comments': commented['list'],
+        'total_minutes': movies['minutes'] + episode_stats['minutes'],
+        'total_plays': movies['plays'] + episode_stats['plays'],
+    }
 
 class TraktUserDataClient:
     def __init__(self):
@@ -234,6 +256,9 @@ class TraktUserDataClient:
         
         # User stats (VIP-only; for other users fetch_user_watched rebuilds them from watched data)
         self.stats = self.make_request(f'/users/{self.username}/stats')
+        # Since Nov 2026 non-VIP users get 200 with all-zero stats instead of 204; treat that as unavailable
+        if self.stats and not (self.stats.get('movies', {}).get('watched') or self.stats.get('episodes', {}).get('watched')):
+            self.stats = None
         if self.stats:
             self.save_json(self.stats, 'user/stats/overview.json')
     
@@ -271,12 +296,7 @@ class TraktUserDataClient:
             item['show'] = {k: item['show'].get(k) for k in ('title', 'year', 'ids', 'aired_episodes', 'runtime')}
         if watched_shows:
             self.save_json(watched_shows, 'user/watched/shows.json')
-
-        if not getattr(self, 'stats', None) and watched_movies and watched_shows:
-            stats_path = self.data_dir / 'user/stats/overview.json'
-            previous = json.loads(stats_path.read_text(encoding='utf-8'))['data'] if stats_path.exists() else {}
-            logger.info("Stats endpoint unavailable; rebuilding stats from watched data")
-            self.save_json(build_stats(previous, watched_movies, watched_shows), 'user/stats/overview.json')
+        self.watched_movies, self.watched_shows = watched_movies, watched_shows
     
     def fetch_user_watchlist(self):
         """Fetch user's watchlist (public if user has public profile)"""
@@ -297,7 +317,7 @@ class TraktUserDataClient:
         logger.info(f"Fetching lists for user: {self.username}")
         
         # User's lists
-        lists = self.make_request(f'/users/{self.username}/lists')
+        lists = self.lists = self.make_request(f'/users/{self.username}/lists')
         if lists:
             self.save_json(lists, 'user/lists/user_lists.json')
             
@@ -313,9 +333,33 @@ class TraktUserDataClient:
         """Fetch user's comments"""
         logger.info(f"Fetching comments for user: {self.username}")
         
-        comments = self.make_request(f'/users/{self.username}/comments', paginate=True)
+        comments = self.comments = self.make_request(f'/users/{self.username}/comments', paginate=True)
         if comments:
             self.save_json(comments, 'user/comments/all.json')
+
+    def fetch_user_stats(self):
+        """Rebuild stats from public endpoints when /stats (VIP-only) gave nothing usable"""
+        if self.stats:
+            return  # VIP: precomputed stats already saved by fetch_user_profile
+        user = f'/users/{self.username}'
+        parts = {
+            'watched_movies': self.watched_movies,
+            'watched_shows': self.watched_shows,
+            'ratings': self.make_request(f'{user}/ratings', paginate=True),
+            'collected_movies': self.make_request(f'{user}/collection/movies', paginate=True),
+            'collected_shows': self.make_request(f'{user}/collection/shows', paginate=True),
+            'comments': self.comments,
+            'lists': self.lists,
+            'friends': self.make_request(f'{user}/friends', paginate=True),
+            'followers': self.make_request(f'{user}/followers', paginate=True),
+            'following': self.make_request(f'{user}/following', paginate=True),
+        }
+        failed = [name for name, value in parts.items() if value is None]
+        if failed:
+            logger.warning(f"Not rebuilding stats; failed to fetch: {', '.join(failed)}")
+            return  # keep the last full stats rather than save partial numbers
+        logger.info("Stats endpoint is VIP-only; rebuilding stats from public endpoints")
+        self.save_json(build_stats(**parts), 'user/stats/overview.json')
     
     def fetch_metadata(self):
         """Fetch basic metadata needed for media downloads"""
@@ -333,7 +377,8 @@ class TraktUserDataClient:
             self.fetch_user_watchlist()
             self.fetch_user_lists()
             self.fetch_user_comments()
-            
+            self.fetch_user_stats()
+
             # Basic metadata only (needed for media downloads)
             self.fetch_metadata()
             

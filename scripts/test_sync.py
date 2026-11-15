@@ -36,17 +36,24 @@ with mock.patch('requests.get') as get:
     get.return_value = mock.Mock(status_code=204, headers={}, content=b'')
     assert client.make_request('/x') is None  # 204 No Content (VIP-only stats)
 
-previous = {'movies': {'watched': 1, 'ratings': 16}, 'network': {'friends': 1}}
 stats = fetch_trakt_data.build_stats(
-    previous,
-    [{'plays': 2, 'movie': {'runtime': 100}}, {'plays': 1, 'movie': {'runtime': None}}],
-    [{'show': {'runtime': 30}, 'seasons': [{'episodes': [{'plays': 1}, {'plays': 3}]}]},
-     {'show': {}}],  # no seasons, no runtime
+    watched_movies=[{'plays': 2, 'movie': {'runtime': 100}}, {'plays': 1, 'movie': {'runtime': None}}],
+    watched_shows=[{'show': {'runtime': 30}, 'seasons': [{'episodes': [{'plays': 1}, {'plays': 3}]}]},
+                   {'show': {}}],  # no seasons, no runtime
+    ratings=[{'type': 'movie', 'rating': 8}, {'type': 'episode', 'rating': 8}, {'type': 'season', 'rating': 10}],
+    collected_movies=[{}],
+    collected_shows=[{'seasons': [{'episodes': [{}, {}]}, {'episodes': [{}]}]}],
+    comments=[{'type': 'movie'}, {'type': 'list'}],
+    lists=[{}, {}],
+    friends=[{}], followers=[{}, {}, {}], following=[],
 )
-assert stats['movies'] == {'watched': 2, 'plays': 3, 'minutes': 200, 'ratings': 16}
-assert stats['shows'] == {'watched': 2}
-assert stats['episodes'] == {'plays': 4, 'watched': 2, 'minutes': 120}
-assert stats['network'] == {'friends': 1} and previous['movies']['watched'] == 1  # kept, not mutated
+assert stats['movies'] == {'watched': 2, 'plays': 3, 'minutes': 200, 'collected': 1, 'ratings': 1, 'comments': 1}
+assert stats['shows'] == {'watched': 2, 'collected': 1, 'ratings': 0, 'comments': 0}
+assert stats['seasons'] == {'ratings': 1, 'comments': 0}
+assert stats['episodes'] == {'plays': 4, 'watched': 2, 'minutes': 120, 'collected': 3, 'ratings': 1, 'comments': 0}
+assert stats['network'] == {'friends': 1, 'followers': 3, 'following': 0}
+assert stats['ratings']['total'] == 3 and stats['ratings']['distribution']['8'] == 2
+assert (stats['lists'], stats['list_comments'], stats['total_minutes'], stats['total_plays']) == (2, 1, 320, 7)
 
 import json
 import tempfile
@@ -92,5 +99,12 @@ with tempfile.TemporaryDirectory() as tmp:
     (downloader.images_dir / 'movies/posters/2_poster.jpg').touch()
     downloader.create_media_index()
     assert json.loads(downloader.media_index_path.read_text())['movies']['posters'] == ['1_poster.jpg', '2_poster.jpg']
+
+# Non-VIP stats now come back as 200 with all zeros: don't save them, leave rebuilding to fetch_user_watched
+zero_stats = {'movies': {'watched': 0}, 'shows': {'watched': 0}, 'episodes': {'watched': 0}}
+with mock.patch.object(client, 'make_request', side_effect=[None, zero_stats]), \
+        mock.patch.object(client, 'save_json') as save:
+    client.fetch_user_profile()
+    assert client.stats is None and not save.called
 
 print('sync tests ok')
