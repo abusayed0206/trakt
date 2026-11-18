@@ -1,12 +1,48 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-15T12:18:37.818094+00:00",
+    "fetched_at": "2026-11-18T14:30:55.427327+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14644803324,
+      "watched_at": "2026-11-18T09:58:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt40729209",
+          "plex": {
+            "guid": "6aa2ad2cbef2d87c6692df74"
+          },
+          "tmdb": 7784661,
+          "tvdb": 11872317,
+          "trakt": 13610799
+        },
+        "title": "Live Free and Die",
+        "number": 3,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33043892",
+          "plex": {
+            "guid": "66aaeee739a7f8cce575083a",
+            "slug": "dexter-resurrection-1"
+          },
+          "slug": "dexter-resurrection",
+          "tmdb": 259909,
+          "tvdb": 452595,
+          "trakt": 249647
+        },
+        "year": 2025,
+        "title": "Dexter: Resurrection",
+        "aired_episodes": 13
+      }
+    },
     {
       "id": 14635006882,
       "watched_at": "2026-11-15T01:11:00.000Z",
@@ -3552,42 +3588,6 @@
         },
         "title": "The Eternity Injection",
         "number": 9,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      }
-    },
-    {
-      "id": 14012896195,
-      "watched_at": "2026-07-22T15:49:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4259236",
-          "plex": {
-            "guid": "5d9c12782df347001e41c494"
-          },
-          "tmdb": 1019262,
-          "tvdb": 5044928,
-          "trakt": 998942
-        },
-        "title": "End of Watch",
-        "number": 8,
         "season": 3
       },
       "show": {

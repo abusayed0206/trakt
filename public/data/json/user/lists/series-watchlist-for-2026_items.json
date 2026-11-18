@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-16T13:58:07.381128+00:00",
+    "fetched_at": "2026-11-18T14:30:57.520645+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -947,30 +947,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt8421350",
-          "plex": {
-            "guid": "5d9c0900ffd9ef001e99dd20",
-            "slug": "manifest"
-          },
-          "slug": "manifest",
-          "tmdb": 79696,
-          "tvdb": 349271,
-          "trakt": 133259
-        },
-        "year": 2018,
-        "title": "Manifest",
-        "aired_episodes": 62
-      },
-      "rank": 83,
-      "id": 1400239794,
-      "listed_at": "2026-01-01T22:05:43.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt15571732",
           "plex": {
             "guid": "618fc471f4da835fbeee158d",
@@ -988,6 +964,30 @@
       "rank": 34,
       "id": 1153031275,
       "listed_at": "2025-01-08T18:20:08.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt8421350",
+          "plex": {
+            "guid": "5d9c0900ffd9ef001e99dd20",
+            "slug": "manifest"
+          },
+          "slug": "manifest",
+          "tmdb": 79696,
+          "tvdb": 349271,
+          "trakt": 133259
+        },
+        "year": 2018,
+        "title": "Manifest",
+        "aired_episodes": 62
+      },
+      "rank": 83,
+      "id": 1400239794,
+      "listed_at": "2026-01-01T22:05:43.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1103,7 +1103,7 @@
         },
         "year": 2003,
         "title": "NCIS",
-        "aired_episodes": 512
+        "aired_episodes": 513
       },
       "rank": 30,
       "id": 1153031256,
