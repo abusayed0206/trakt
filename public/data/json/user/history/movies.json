@@ -1,12 +1,52 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-17T14:52:21.026001+00:00",
+    "fetched_at": "2026-11-19T14:40:20.548838+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 1000000795860,
+      "watched_at": "2026-11-19T04:58:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt15438542",
+          "plex": {
+            "guid": "6145aa8f26b7313b474623e1",
+            "slug": "code-name-banshee"
+          },
+          "slug": "code-name-banshee-2022",
+          "tmdb": 916719,
+          "trakt": 734212
+        },
+        "year": 2022,
+        "title": "Code Name Banshee"
+      }
+    },
+    {
+      "id": 1000000760282,
+      "watched_at": "2026-11-18T23:39:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt0480249",
+          "plex": {
+            "guid": "5d7768302ec6b5001f6bb366",
+            "slug": "i-am-legend"
+          },
+          "slug": "i-am-legend-2007",
+          "tmdb": 6479,
+          "trakt": 3642
+        },
+        "year": 2007,
+        "title": "I Am Legend"
+      }
+    },
     {
       "id": 1000000311181,
       "watched_at": "2026-11-16T22:14:00.000Z",
@@ -1965,46 +2005,6 @@
         },
         "year": 2012,
         "title": "Flight"
-      }
-    },
-    {
-      "id": 11274982398,
-      "watched_at": "2025-09-13T10:32:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt2544734",
-          "plex": {
-            "guid": "5d7769e6fb0d55001f533b90",
-            "slug": "bullet-2014"
-          },
-          "slug": "bullet-2014",
-          "tmdb": 169298,
-          "trakt": 108050
-        },
-        "year": 2014,
-        "title": "Bullet"
-      }
-    },
-    {
-      "id": 11274352956,
-      "watched_at": "2025-09-13T08:08:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt1186367",
-          "plex": {
-            "guid": "5d77684a7228e5001f1e152e",
-            "slug": "ninja-assassin"
-          },
-          "slug": "ninja-assassin-2009",
-          "tmdb": 22832,
-          "trakt": 13874
-        },
-        "year": 2009,
-        "title": "Ninja Assassin"
       }
     }
   ]

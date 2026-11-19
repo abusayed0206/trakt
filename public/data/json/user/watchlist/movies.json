@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-17T14:52:25.569450+00:00",
+    "fetched_at": "2026-11-19T14:40:22.537414+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watchlist/movies.json",
-    "count": 16
+    "count": 15
   },
   "data": [
     {
@@ -246,28 +246,6 @@
       "rank": 20,
       "id": 1285064024,
       "listed_at": "2025-07-22T20:03:39.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt0480249",
-          "plex": {
-            "guid": "5d7768302ec6b5001f6bb366",
-            "slug": "i-am-legend"
-          },
-          "slug": "i-am-legend-2007",
-          "tmdb": 6479,
-          "trakt": 3642
-        },
-        "year": 2007,
-        "title": "I Am Legend"
-      },
-      "rank": 21,
-      "id": 1326973797,
-      "listed_at": "2025-09-29T14:54:12.000Z",
       "notes": null,
       "my_rating": null
     },

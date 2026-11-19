@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-18T14:30:57.520645+00:00",
+    "fetched_at": "2026-11-19T14:40:22.915525+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -251,30 +251,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0141842",
-          "plex": {
-            "guid": "5d9c086c46115600200aa302",
-            "slug": "the-sopranos"
-          },
-          "slug": "the-sopranos",
-          "tmdb": 1398,
-          "tvdb": 75299,
-          "trakt": 1389
-        },
-        "year": 1999,
-        "title": "The Sopranos",
-        "aired_episodes": 86
-      },
-      "rank": 37,
-      "id": 1153031282,
-      "listed_at": "2025-01-08T18:21:13.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt27497448",
           "plex": {
             "guid": "643cbf9ec1962a0897b7f6dd",
@@ -292,6 +268,30 @@
       "rank": 84,
       "id": 1400239921,
       "listed_at": "2026-01-01T22:05:50.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0141842",
+          "plex": {
+            "guid": "5d9c086c46115600200aa302",
+            "slug": "the-sopranos"
+          },
+          "slug": "the-sopranos",
+          "tmdb": 1398,
+          "tvdb": 75299,
+          "trakt": 1389
+        },
+        "year": 1999,
+        "title": "The Sopranos",
+        "aired_episodes": 86
+      },
+      "rank": 37,
+      "id": 1153031282,
+      "listed_at": "2025-01-08T18:21:13.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1415,7 +1415,7 @@
         },
         "year": 2014,
         "title": "Chicago P.D.",
-        "aired_episodes": 270
+        "aired_episodes": 271
       },
       "rank": 41,
       "id": 1153031321,
@@ -1751,7 +1751,7 @@
         },
         "year": 2015,
         "title": "Chicago Med",
-        "aired_episodes": 225
+        "aired_episodes": 226
       },
       "rank": 54,
       "id": 1283748591,
