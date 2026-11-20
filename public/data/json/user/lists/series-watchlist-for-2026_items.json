@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-19T14:40:22.915525+00:00",
+    "fetched_at": "2026-11-20T14:20:21.941225+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -503,7 +503,7 @@
         },
         "year": 2005,
         "title": "Grey's Anatomy",
-        "aired_episodes": 470
+        "aired_episodes": 471
       },
       "rank": 47,
       "id": 1153031527,
@@ -563,6 +563,30 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt31510819",
+          "plex": {
+            "guid": "65e04d051f43644ac5a79a99",
+            "slug": "mobland"
+          },
+          "slug": "mobland",
+          "tmdb": 247718,
+          "tvdb": 446831,
+          "trakt": 228595
+        },
+        "year": 2025,
+        "title": "MobLand",
+        "aired_episodes": 20
+      },
+      "rank": 55,
+      "id": 1285066962,
+      "listed_at": "2025-07-22T20:09:52.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt3749900",
           "plex": {
             "guid": "5d9c08390aaccd001f8ee512",
@@ -580,30 +604,6 @@
       "rank": 78,
       "id": 1287727091,
       "listed_at": "2025-07-25T11:10:24.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt31510819",
-          "plex": {
-            "guid": "65e04d051f43644ac5a79a99",
-            "slug": "mobland"
-          },
-          "slug": "mobland",
-          "tmdb": 247718,
-          "tvdb": 446831,
-          "trakt": 228595
-        },
-        "year": 2025,
-        "title": "MobLand",
-        "aired_episodes": 19
-      },
-      "rank": 55,
-      "id": 1285066962,
-      "listed_at": "2025-07-22T20:09:52.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1715,30 +1715,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt5164196",
-          "plex": {
-            "guid": "5d9c0804ba2e21001f18d35d",
-            "slug": "lethal-weapon"
-          },
-          "slug": "lethal-weapon",
-          "tmdb": 67116,
-          "tvdb": 311790,
-          "trakt": 107717
-        },
-        "year": 2016,
-        "title": "Lethal Weapon",
-        "aired_episodes": 55
-      },
-      "rank": 70,
-      "id": 1286151517,
-      "listed_at": "2025-07-23T21:00:31.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4655480",
           "plex": {
             "guid": "5d9c08683c3f87001f34eb20",
@@ -1756,6 +1732,30 @@
       "rank": 54,
       "id": 1283748591,
       "listed_at": "2025-07-21T12:19:19.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt5164196",
+          "plex": {
+            "guid": "5d9c0804ba2e21001f18d35d",
+            "slug": "lethal-weapon"
+          },
+          "slug": "lethal-weapon",
+          "tmdb": 67116,
+          "tvdb": 311790,
+          "trakt": 107717
+        },
+        "year": 2016,
+        "title": "Lethal Weapon",
+        "aired_episodes": 55
+      },
+      "rank": 70,
+      "id": 1286151517,
+      "listed_at": "2025-07-23T21:00:31.000Z",
       "notes": null,
       "my_rating": null
     },

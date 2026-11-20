@@ -1,12 +1,32 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-19T14:40:20.548838+00:00",
+    "fetched_at": "2026-11-20T14:20:14.889855+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 1000000941253,
+      "watched_at": "2026-11-19T23:22:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt0375912",
+          "plex": {
+            "guid": "5d77682ef59e580021897deb",
+            "slug": "layer-cake"
+          },
+          "slug": "layer-cake-2004",
+          "tmdb": 4836,
+          "trakt": 2819
+        },
+        "year": 2004,
+        "title": "Layer Cake"
+      }
+    },
     {
       "id": 1000000795860,
       "watched_at": "2026-11-19T04:58:00.000Z",
@@ -1985,26 +2005,6 @@
         },
         "year": 2023,
         "title": "57 Seconds"
-      }
-    },
-    {
-      "id": 11275496658,
-      "watched_at": "2025-09-13T12:31:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt1907668",
-          "plex": {
-            "guid": "5d7768e2fb0d55001f51bc9b",
-            "slug": "flight"
-          },
-          "slug": "flight-2012",
-          "tmdb": 87502,
-          "trakt": 65754
-        },
-        "year": 2012,
-        "title": "Flight"
       }
     }
   ]
