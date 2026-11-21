@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-20T14:20:21.941225+00:00",
+    "fetched_at": "2026-11-21T13:41:40.368673+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -1691,30 +1691,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1378167",
-          "plex": {
-            "guid": "5d9c07ec08fddd001f28e266",
-            "slug": "ncis-los-angeles"
-          },
-          "slug": "ncis-los-angeles",
-          "tmdb": 17610,
-          "tvdb": 95441,
-          "trakt": 17532
-        },
-        "year": 2009,
-        "title": "NCIS: Los Angeles",
-        "aired_episodes": 323
-      },
-      "rank": 73,
-      "id": 1286151708,
-      "listed_at": "2025-07-23T21:00:54.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4655480",
           "plex": {
             "guid": "5d9c08683c3f87001f34eb20",
@@ -1732,6 +1708,30 @@
       "rank": 54,
       "id": 1283748591,
       "listed_at": "2025-07-21T12:19:19.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1378167",
+          "plex": {
+            "guid": "5d9c07ec08fddd001f28e266",
+            "slug": "ncis-los-angeles"
+          },
+          "slug": "ncis-los-angeles",
+          "tmdb": 17610,
+          "tvdb": 95441,
+          "trakt": 17532
+        },
+        "year": 2009,
+        "title": "NCIS: Los Angeles",
+        "aired_episodes": 323
+      },
+      "rank": 73,
+      "id": 1286151708,
+      "listed_at": "2025-07-23T21:00:54.000Z",
       "notes": null,
       "my_rating": null
     },

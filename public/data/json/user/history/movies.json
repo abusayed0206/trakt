@@ -1,12 +1,32 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-20T14:20:14.889855+00:00",
+    "fetched_at": "2026-11-21T13:41:37.288856+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 1000001119074,
+      "watched_at": "2026-11-21T01:32:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt1634106",
+          "plex": {
+            "guid": "5d776b9ead5437001f7a504b",
+            "slug": "bloodshot"
+          },
+          "slug": "bloodshot-2020",
+          "tmdb": 338762,
+          "trakt": 218815
+        },
+        "year": 2020,
+        "title": "Bloodshot"
+      }
+    },
     {
       "id": 1000000941253,
       "watched_at": "2026-11-19T23:22:00.000Z",
@@ -1985,26 +2005,6 @@
         },
         "year": 1986,
         "title": "Aliens"
-      }
-    },
-    {
-      "id": 11275496924,
-      "watched_at": "2025-09-13T12:31:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt18083578",
-          "plex": {
-            "guid": "620e04d897619f65607a6cf7",
-            "slug": "57-seconds-2023"
-          },
-          "slug": "57-seconds-2023",
-          "tmdb": 937249,
-          "trakt": 751911
-        },
-        "year": 2023,
-        "title": "57 Seconds"
       }
     }
   ]
