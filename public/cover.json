@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "tmdb_id": 338762,
+      "title": "Bloodshot",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/338762_poster.jpg",
+      "last_watched_at": "2026-11-21T01:32:00.000Z"
+    },
+    {
       "tmdb_id": 4836,
       "title": "Layer Cake",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/4836_poster.jpg",
@@ -53,24 +59,18 @@
       "title": "Masterplan",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1561726_poster.jpg",
       "last_watched_at": "2026-10-21T20:55:00.000Z"
-    },
-    {
-      "tmdb_id": 1377237,
-      "title": "Runner",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/1377237_poster.jpg",
-      "last_watched_at": "2026-10-20T21:43:00.000Z"
     }
   ],
   "shows": [
     {
       "tmdb_id": 259909,
       "title": "Dexter: Resurrection",
-      "season": 1,
+      "season": 2,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/259909/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/259909/2/season_2_poster.jpg",
       "last_watched_at": "2026-11-18T09:58:00.000Z"
     },
     {
@@ -99,7 +99,7 @@
     {
       "tmdb_id": 4057,
       "title": "Criminal Minds",
-      "season": 2,
+      "season": 4,
       "available_seasons": [
         1,
         2,
@@ -108,18 +108,18 @@
         5,
         6
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/4057/4/season_4_poster.jpg",
       "last_watched_at": "2026-11-06T11:00:00.000Z"
     },
     {
       "tmdb_id": 120911,
       "title": "The Terminal List",
-      "season": 2,
+      "season": 1,
       "available_seasons": [
         1,
         2
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/120911/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/120911/1/season_1_poster.jpg",
       "last_watched_at": "2026-11-05T01:05:00.000Z"
     },
     {
@@ -145,32 +145,32 @@
     {
       "tmdb_id": 108978,
       "title": "Reacher",
-      "season": 4,
+      "season": 3,
       "available_seasons": [
         1,
         2,
         3,
         4
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/108978/4/season_4_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/108978/3/season_3_poster.jpg",
       "last_watched_at": "2026-09-16T07:56:00.000Z"
     },
     {
       "tmdb_id": 94997,
       "title": "House of the Dragon",
-      "season": 3,
+      "season": 2,
       "available_seasons": [
         1,
         2,
         3
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/94997/3/season_3_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/94997/2/season_2_poster.jpg",
       "last_watched_at": "2026-08-25T10:21:00.000Z"
     },
     {
       "tmdb_id": 1426,
       "title": "Luther",
-      "season": 2,
+      "season": 3,
       "available_seasons": [
         1,
         2,
@@ -178,7 +178,7 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1426/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1426/3/season_3_poster.jpg",
       "last_watched_at": "2026-08-11T19:22:00.000Z"
     }
   ]
