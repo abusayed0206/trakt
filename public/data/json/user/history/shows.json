@@ -1,12 +1,48 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-20T14:20:15.436821+00:00",
+    "fetched_at": "2026-11-22T13:34:44.064492+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14653790144,
+      "watched_at": "2026-11-21T22:18:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt40729210",
+          "plex": {
+            "guid": "6aa2ad2cbef2d87c6692df67"
+          },
+          "tmdb": 7784662,
+          "tvdb": 11872318,
+          "trakt": 13610800
+        },
+        "title": "Young Blood",
+        "number": 4,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33043892",
+          "plex": {
+            "guid": "66aaeee739a7f8cce575083a",
+            "slug": "dexter-resurrection-1"
+          },
+          "slug": "dexter-resurrection",
+          "tmdb": 259909,
+          "tvdb": 452595,
+          "trakt": 249647
+        },
+        "year": 2025,
+        "title": "Dexter: Resurrection",
+        "aired_episodes": 14
+      }
+    },
     {
       "id": 14644803324,
       "watched_at": "2026-11-18T09:58:00.000Z",
@@ -3552,42 +3588,6 @@
         },
         "title": "Seed Money",
         "number": 10,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      }
-    },
-    {
-      "id": 14013562718,
-      "watched_at": "2026-07-22T16:48:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4165846",
-          "plex": {
-            "guid": "5d9c12782df347001e41c4a8"
-          },
-          "tmdb": 1023708,
-          "tvdb": 5066311,
-          "trakt": 998943
-        },
-        "title": "The Eternity Injection",
-        "number": 9,
         "season": 3
       },
       "show": {

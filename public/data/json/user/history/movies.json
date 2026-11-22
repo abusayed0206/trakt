@@ -1,12 +1,32 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-21T13:41:37.288856+00:00",
+    "fetched_at": "2026-11-22T13:34:43.907986+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 1000001302737,
+      "watched_at": "2026-11-21T21:25:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt6475714",
+          "plex": {
+            "guid": "5d776d34fb0d55001f59a121",
+            "slug": "monster-hunter"
+          },
+          "slug": "monster-hunter-2020",
+          "tmdb": 458576,
+          "trakt": 305432
+        },
+        "year": 2020,
+        "title": "Monster Hunter"
+      }
+    },
     {
       "id": 1000001119074,
       "watched_at": "2026-11-21T01:32:00.000Z",
@@ -1985,26 +2005,6 @@
         },
         "year": 2014,
         "title": "Transcendence"
-      }
-    },
-    {
-      "id": 11275499134,
-      "watched_at": "2025-09-13T12:32:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt0090605",
-          "plex": {
-            "guid": "5d776827961905001eb91337",
-            "slug": "aliens"
-          },
-          "slug": "aliens-1986",
-          "tmdb": 679,
-          "trakt": 553
-        },
-        "year": 1986,
-        "title": "Aliens"
       }
     }
   ]

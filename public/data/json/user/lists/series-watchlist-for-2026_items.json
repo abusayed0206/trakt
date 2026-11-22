@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-21T13:41:40.368673+00:00",
+    "fetched_at": "2026-11-22T13:34:45.817915+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -515,6 +515,30 @@
       "type": "show",
       "show": {
         "ids": {
+          "imdb": "tt31510819",
+          "plex": {
+            "guid": "65e04d051f43644ac5a79a99",
+            "slug": "mobland"
+          },
+          "slug": "mobland",
+          "tmdb": 247718,
+          "tvdb": 446831,
+          "trakt": 228595
+        },
+        "year": 2025,
+        "title": "MobLand",
+        "aired_episodes": 20
+      },
+      "rank": 55,
+      "id": 1285066962,
+      "listed_at": "2025-07-22T20:09:52.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
           "imdb": "tt0436992",
           "plex": {
             "guid": "5d9c082bd4f2a9001f7fe962",
@@ -556,30 +580,6 @@
       "rank": 38,
       "id": 1153031292,
       "listed_at": "2025-01-08T18:22:11.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
-          "imdb": "tt31510819",
-          "plex": {
-            "guid": "65e04d051f43644ac5a79a99",
-            "slug": "mobland"
-          },
-          "slug": "mobland",
-          "tmdb": 247718,
-          "tvdb": 446831,
-          "trakt": 228595
-        },
-        "year": 2025,
-        "title": "MobLand",
-        "aired_episodes": 20
-      },
-      "rank": 55,
-      "id": 1285066962,
-      "listed_at": "2025-07-22T20:09:52.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1547,30 +1547,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt1441135",
-          "plex": {
-            "guid": "5d9c0836ba6eb9001fb9eb12",
-            "slug": "flashforward"
-          },
-          "slug": "flashforward",
-          "tmdb": 19092,
-          "tvdb": 84024,
-          "trakt": 19003
-        },
-        "year": 2009,
-        "title": "FlashForward",
-        "aired_episodes": 22
-      },
-      "rank": 64,
-      "id": 1286151019,
-      "listed_at": "2025-07-23T20:59:54.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt0118421",
           "plex": {
             "guid": "5d9c0871ffd9ef001e9955bc",
@@ -1588,6 +1564,30 @@
       "rank": 20,
       "id": 1133528029,
       "listed_at": "2024-12-04T17:14:17.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt1441135",
+          "plex": {
+            "guid": "5d9c0836ba6eb9001fb9eb12",
+            "slug": "flashforward"
+          },
+          "slug": "flashforward",
+          "tmdb": 19092,
+          "tvdb": 84024,
+          "trakt": 19003
+        },
+        "year": 2009,
+        "title": "FlashForward",
+        "aired_episodes": 22
+      },
+      "rank": 64,
+      "id": 1286151019,
+      "listed_at": "2025-07-23T20:59:54.000Z",
       "notes": null,
       "my_rating": null
     },
