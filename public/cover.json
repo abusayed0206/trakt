@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "tmdb_id": 347375,
+      "title": "Mile 22",
+      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/347375_poster.jpg",
+      "last_watched_at": "2026-11-23T01:52:00.000Z"
+    },
+    {
       "tmdb_id": 458576,
       "title": "Monster Hunter",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/458576_poster.jpg",
@@ -53,12 +59,6 @@
       "title": "Hummingbird",
       "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/136418_poster.jpg",
       "last_watched_at": "2026-11-06T16:43:00.000Z"
-    },
-    {
-      "tmdb_id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "poster_url": "https://cfcdn.sayed.app/watch/movies/posters/969681_poster.jpg",
-      "last_watched_at": "2026-10-29T02:18:00.000Z"
     }
   ],
   "shows": [
@@ -86,14 +86,14 @@
     {
       "tmdb_id": 1412,
       "title": "Arrow",
-      "season": 1,
+      "season": 3,
       "available_seasons": [
         1,
         2,
         3,
         4
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1412/3/season_3_poster.jpg",
       "last_watched_at": "2026-11-11T00:09:00.000Z"
     },
     {
@@ -145,14 +145,14 @@
     {
       "tmdb_id": 108978,
       "title": "Reacher",
-      "season": 2,
+      "season": 4,
       "available_seasons": [
         1,
         2,
         3,
         4
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/108978/2/season_2_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/108978/4/season_4_poster.jpg",
       "last_watched_at": "2026-09-16T07:56:00.000Z"
     },
     {
@@ -170,7 +170,7 @@
     {
       "tmdb_id": 1426,
       "title": "Luther",
-      "season": 1,
+      "season": 3,
       "available_seasons": [
         1,
         2,
@@ -178,7 +178,7 @@
         4,
         5
       ],
-      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1426/1/season_1_poster.jpg",
+      "poster_url": "https://cfcdn.sayed.app/watch/shows/posters/1426/3/season_3_poster.jpg",
       "last_watched_at": "2026-08-11T19:22:00.000Z"
     }
   ]
