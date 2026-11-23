@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-22T13:34:45.817915+00:00",
+    "fetched_at": "2026-11-23T16:26:28.995936+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -491,30 +491,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt0413573",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bb",
-            "slug": "greys-anatomy"
-          },
-          "slug": "grey-s-anatomy",
-          "tmdb": 1416,
-          "tvdb": 73762,
-          "trakt": 1407
-        },
-        "year": 2005,
-        "title": "Grey's Anatomy",
-        "aired_episodes": 471
-      },
-      "rank": 47,
-      "id": 1153031527,
-      "listed_at": "2025-01-08T18:23:08.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt31510819",
           "plex": {
             "guid": "65e04d051f43644ac5a79a99",
@@ -532,6 +508,30 @@
       "rank": 55,
       "id": 1285066962,
       "listed_at": "2025-07-22T20:09:52.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt0413573",
+          "plex": {
+            "guid": "5d9c086c02391c001f5891bb",
+            "slug": "greys-anatomy"
+          },
+          "slug": "grey-s-anatomy",
+          "tmdb": 1416,
+          "tvdb": 73762,
+          "trakt": 1407
+        },
+        "year": 2005,
+        "title": "Grey's Anatomy",
+        "aired_episodes": 471
+      },
+      "rank": 47,
+      "id": 1153031527,
+      "listed_at": "2025-01-08T18:23:08.000Z",
       "notes": null,
       "my_rating": null
     },
@@ -1439,7 +1439,7 @@
         },
         "year": 2024,
         "title": "Tracker",
-        "aired_episodes": 61
+        "aired_episodes": 62
       },
       "rank": 13,
       "id": 1129591871,

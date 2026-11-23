@@ -1,12 +1,32 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-22T13:34:43.907986+00:00",
+    "fetched_at": "2026-11-23T16:26:24.358730+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 1000001605247,
+      "watched_at": "2026-11-23T01:52:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt4560436",
+          "plex": {
+            "guid": "5d776bb9ad5437001f7a820a",
+            "slug": "mile-22"
+          },
+          "slug": "mile-22-2018",
+          "tmdb": 347375,
+          "trakt": 225019
+        },
+        "year": 2018,
+        "title": "Mile 22"
+      }
+    },
     {
       "id": 1000001302737,
       "watched_at": "2026-11-21T21:25:00.000Z",
@@ -1985,26 +2005,6 @@
         },
         "year": 2013,
         "title": "Redemption"
-      }
-    },
-    {
-      "id": 11275728304,
-      "watched_at": "2025-09-13T13:35:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt2209764",
-          "plex": {
-            "guid": "5d7769ce594b2b001e6aa798",
-            "slug": "transcendence"
-          },
-          "slug": "transcendence-2014",
-          "tmdb": 157353,
-          "trakt": 102164
-        },
-        "year": 2014,
-        "title": "Transcendence"
       }
     }
   ]

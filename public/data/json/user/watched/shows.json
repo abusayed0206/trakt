@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-22T13:34:45.284883+00:00",
+    "fetched_at": "2026-11-23T16:26:27.842961+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/watched/shows.json",
@@ -7246,7 +7246,7 @@
           "tvdb": 428433,
           "trakt": 198575
         },
-        "aired_episodes": 61,
+        "aired_episodes": 62,
         "runtime": 40
       },
       "seasons": [
