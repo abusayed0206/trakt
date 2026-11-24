@@ -1,12 +1,32 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-23T16:26:24.358730+00:00",
+    "fetched_at": "2026-11-24T16:19:43.572755+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 1000001788100,
+      "watched_at": "2026-11-23T23:50:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt31049299",
+          "plex": {
+            "guid": "65b5cde0cd8d301f1e81e07b",
+            "slug": "animals-1"
+          },
+          "slug": "animals-2026",
+          "tmdb": 1236045,
+          "trakt": 999910
+        },
+        "year": 2026,
+        "title": "Animals"
+      }
+    },
     {
       "id": 1000001605247,
       "watched_at": "2026-11-23T01:52:00.000Z",
@@ -1985,26 +2005,6 @@
         },
         "year": 2004,
         "title": "The Punisher"
-      }
-    },
-    {
-      "id": 11299276411,
-      "watched_at": "2025-09-17T20:24:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt2201886",
-          "plex": {
-            "guid": "5d776db67a53e9001e760ab7",
-            "slug": "redemption-2013-12"
-          },
-          "slug": "redemption-2013-04-05",
-          "tmdb": 158394,
-          "trakt": 102705
-        },
-        "year": 2013,
-        "title": "Redemption"
       }
     }
   ]
