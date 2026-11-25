@@ -1,12 +1,32 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-24T16:19:43.572755+00:00",
+    "fetched_at": "2026-11-25T16:00:16.490122+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 1000001981565,
+      "watched_at": "2026-11-25T00:36:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt8836988",
+          "plex": {
+            "guid": "5d7770657a53e9001e7a1b04",
+            "slug": "avengement"
+          },
+          "slug": "avengement-2019",
+          "tmdb": 534490,
+          "trakt": 386259
+        },
+        "year": 2019,
+        "title": "Avengement"
+      }
+    },
     {
       "id": 1000001788100,
       "watched_at": "2026-11-23T23:50:00.000Z",
@@ -1985,26 +2005,6 @@
         },
         "year": 2004,
         "title": "Cellular"
-      }
-    },
-    {
-      "id": 11304432602,
-      "watched_at": "2025-09-18T15:06:00.000Z",
-      "action": "watch",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt0330793",
-          "plex": {
-            "guid": "5d7768316f4521001ea9b4ba",
-            "slug": "the-punisher"
-          },
-          "slug": "the-punisher-2004",
-          "tmdb": 7220,
-          "trakt": 3843
-        },
-        "year": 2004,
-        "title": "The Punisher"
       }
     }
   ]
