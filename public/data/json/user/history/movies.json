@@ -1,12 +1,32 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-25T16:00:16.490122+00:00",
+    "fetched_at": "2026-11-26T15:42:50.078360+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/movies.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 1000002179993,
+      "watched_at": "2026-11-25T22:45:00.000Z",
+      "action": "watch",
+      "type": "movie",
+      "movie": {
+        "ids": {
+          "imdb": "tt0082694",
+          "plex": {
+            "guid": "5d77683261141d001fb14e03",
+            "slug": "the-road-warrior-1981"
+          },
+          "slug": "mad-max-2-1981",
+          "tmdb": 8810,
+          "trakt": 4314
+        },
+        "year": 1981,
+        "title": "Mad Max 2"
+      }
+    },
     {
       "id": 1000001981565,
       "watched_at": "2026-11-25T00:36:00.000Z",
@@ -1985,26 +2005,6 @@
         },
         "year": 2008,
         "title": "Punisher: War Zone"
-      }
-    },
-    {
-      "id": 11311726580,
-      "watched_at": "2025-09-19T21:18:00.000Z",
-      "action": "scrobble",
-      "type": "movie",
-      "movie": {
-        "ids": {
-          "imdb": "tt0337921",
-          "plex": {
-            "guid": "5d77683385719b001f3a3535",
-            "slug": "cellular"
-          },
-          "slug": "cellular-2004",
-          "tmdb": 9759,
-          "trakt": 5020
-        },
-        "year": 2004,
-        "title": "Cellular"
       }
     }
   ]
