@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-27T15:32:57.071478+00:00",
+    "fetched_at": "2026-11-28T14:29:28.580860+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/lists/series-watchlist-for-2026_items.json",
@@ -1667,30 +1667,6 @@
       "type": "show",
       "show": {
         "ids": {
-          "imdb": "tt10323338",
-          "plex": {
-            "guid": "5d9c09242192ba001f31c845",
-            "slug": "9-1-1-lone-star"
-          },
-          "slug": "9-1-1-lone-star",
-          "tmdb": 89393,
-          "tvdb": 364080,
-          "trakt": 147906
-        },
-        "year": 2020,
-        "title": "9-1-1: Lone Star",
-        "aired_episodes": 72
-      },
-      "rank": 24,
-      "id": 1147927571,
-      "listed_at": "2024-12-31T02:39:56.000Z",
-      "notes": null,
-      "my_rating": null
-    },
-    {
-      "type": "show",
-      "show": {
-        "ids": {
           "imdb": "tt4655480",
           "plex": {
             "guid": "5d9c08683c3f87001f34eb20",
@@ -1708,6 +1684,30 @@
       "rank": 54,
       "id": 1283748591,
       "listed_at": "2025-07-21T12:19:19.000Z",
+      "notes": null,
+      "my_rating": null
+    },
+    {
+      "type": "show",
+      "show": {
+        "ids": {
+          "imdb": "tt10323338",
+          "plex": {
+            "guid": "5d9c09242192ba001f31c845",
+            "slug": "9-1-1-lone-star"
+          },
+          "slug": "9-1-1-lone-star",
+          "tmdb": 89393,
+          "tvdb": 364080,
+          "trakt": 147906
+        },
+        "year": 2020,
+        "title": "9-1-1: Lone Star",
+        "aired_episodes": 72
+      },
+      "rank": 24,
+      "id": 1147927571,
+      "listed_at": "2024-12-31T02:39:56.000Z",
       "notes": null,
       "my_rating": null
     },

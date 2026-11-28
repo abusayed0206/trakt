@@ -1,12 +1,48 @@
 {
   "metadata": {
-    "fetched_at": "2026-11-27T15:32:52.993101+00:00",
+    "fetched_at": "2026-11-28T14:29:26.755836+00:00",
     "source": "trakt_api_user_data",
     "username": "lrs",
     "endpoint": "user/history/shows.json",
     "count": 100
   },
   "data": [
+    {
+      "id": 14668109687,
+      "watched_at": "2026-11-27T19:04:00.000Z",
+      "action": "watch",
+      "type": "episode",
+      "episode": {
+        "ids": {
+          "imdb": "tt40729211",
+          "plex": {
+            "guid": "6aa2ad2cbef2d87c6692df5a"
+          },
+          "tmdb": 7784664,
+          "tvdb": 11893684,
+          "trakt": 13610801
+        },
+        "title": "Out Of The Past",
+        "number": 5,
+        "season": 2
+      },
+      "show": {
+        "ids": {
+          "imdb": "tt33043892",
+          "plex": {
+            "guid": "66aaeee739a7f8cce575083a",
+            "slug": "dexter-resurrection-1"
+          },
+          "slug": "dexter-resurrection",
+          "tmdb": 259909,
+          "tvdb": 452595,
+          "trakt": 249647
+        },
+        "year": 2025,
+        "title": "Dexter: Resurrection",
+        "aired_episodes": 15
+      }
+    },
     {
       "id": 14653790144,
       "watched_at": "2026-11-21T22:18:00.000Z",
@@ -3552,42 +3588,6 @@
         },
         "title": "The Illustrious Client (1)",
         "number": 11,
-        "season": 3
-      },
-      "show": {
-        "ids": {
-          "imdb": "tt2191671",
-          "plex": {
-            "guid": "5d9c086c02391c001f5891bf",
-            "slug": "elementary"
-          },
-          "slug": "elementary",
-          "tmdb": 1415,
-          "tvdb": 255316,
-          "trakt": 1406
-        },
-        "year": 2012,
-        "title": "Elementary",
-        "aired_episodes": 154
-      }
-    },
-    {
-      "id": 14016426187,
-      "watched_at": "2026-07-22T20:05:00.000Z",
-      "action": "scrobble",
-      "type": "episode",
-      "episode": {
-        "ids": {
-          "imdb": "tt4300564",
-          "plex": {
-            "guid": "5d9c12782df347001e41c49c"
-          },
-          "tmdb": 1033272,
-          "tvdb": 5071885,
-          "trakt": 1411116
-        },
-        "title": "Seed Money",
-        "number": 10,
         "season": 3
       },
       "show": {
